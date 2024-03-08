@@ -1,0 +1,332 @@
+Image source: The Motley Fool.
+US Bancorp (USB 0.07%)Q2 2019 Earnings CallJul 17, 2019, 9:30 a.m. ET
+Operator
+Welcome to U.S. Bancorp's Second Quarter 2019 Earnings Conference Call. Following a review of the results by Andy Cecere, Chairman, President and Chief Executive Officer; and Terry Dolan, U.S. Bancorp's Vice Chairman and Chief Financial Officer. There will be a formal question-and-answer session. [Operator Instructions] This call will be recorded and available for replay beginning today at approximately noon, Eastern daylight time, through Wednesday, July 24th at 12 midnight Eastern daylight time.
+I will now turn the conference over to Jen Thompson, Director of Investor Relations for U.S. Bancorp.
+Jennifer Thompson -- Director of Investor Relations
+Thank you, Jack, and good morning to everyone who has joined our call. Andy Cecere and Terry Dolan are here with me today to review U.S. Bancorp's second quarter results and to answer your questions. Andy and Terry will be referencing a slide presentation during their prepared remarks. A copy of the slide presentation as well as our earnings release and supplemental analyst schedules are available on our website at usbank.com.
+I'd like to remind you that any forward-looking statements made during today's call are subject to risk and uncertainty. Factors that could materially change our current forward-looking assumptions are described on Page 2 of today's presentation in our press release and in our Form 10-K and subsequent reports on file with the SEC.
+I'll now turn the call over to Andy.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Thanks, Jen, and good morning, everyone. Thank you for joining our call. Following our prepared remarks, Terry and I will take your questions.
+I'll begin on Slide 3. In the second quarter, we reported earnings per share of $1.9, despite our more challenging interest rate environment for the banking industry that has seen in some time, we delivered strong financial results supported by top line revenue growth and positive operating leverage of 1%. Loan and deposit trends improved compared with the first quarter, and we saw broad based momentum across our fee businesses, driven by account and volume growth. Credit quality remains stable and we continue to prudently manage operating expense, while appropriately investing for the future.
+Turning to capital management, our book value per share increased by 9.7% from a year ago. During the quarter, we returned 79% of our earnings to shareholders through dividends and share buybacks. In June, we received the results of our CCAR submission and the Federal Reserve did not object to our capital plan, which included a dividend increase of 13.5%.
+Slide 4 provides key performance metrics. In the second quarter, we delivered a return on average common equity of 15% and a return on average assets of 1.55%. Our return on tangible common equity was 19.2%. Our efficiency ratio improved both on a linked quarter and year-over-year basis.
+Now, let me turn the call over to Terry who will provide more detail on the quarter, as well as forward-looking guidance.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Thanks, Andy. If you turn to Slide 5, I'll start with the balance sheet review and follow-up with a discussion of the second quarter earnings trends. Average loans grew 1.1% on a linked quarter basis and increased 4.5% year-over-year excluding the fourth quarter 2018 sale of FDIC covered loans that had reached the end of the loss coverage period. Solid year-over-year growth in mortgages, credit cards and installment loans supported solid consumer loan trends, while commercial loan growth reflected strength in both large corporate and middle market lending, partly offset by paydowns related to active capital markets.
+New business pipelines remain healthy, although paydown activity is likely to remain elevated and choppy near-term. Commercial real estate loans decreased on a sequential and a year-over-year basis. This quarter, commercial real estate contributed a 20 basis point drag to linked quarter average loan growth and an 80 basis point drag to year-over-year average loan growth. Given what we consider to be unfavorable risk reward dynamics in certain areas of commercial real estate lending, we expect paydown pressure to continue to restrict growth in this portfolio.
+Turning to Slide 6, deposits increased 2.9% on a linked quarter basis of 3.1% year-over-year. Compared with the prior year period, growth in consumer, wealth management and corporate trust balances was offset by lower corporate and commercial customer balances. Balances continued to migrate to higher yielding savings and time deposits from non-interest bearing deposits. The decline in corporate and commercial banking balances were also affected in part, by migration related to the business merger of a large financial client. This migration has stabilized and will be less impactful in future quarters.
+Slide 7 indicates that credit quality is relatively stable in the second quarter. Non-performing assets decreased 5.2% versus the first quarter and were down 12.6% to the same period a year-ago. Commercial loan 90 day delinquencies were elevated this quarter, as a result of an administrative matter related to a single customer, and is expected to be resolved in the third quarter without a credit loss.
+Slide 8 highlights second quarter earnings results. We reported earnings of a $1.09 per share in the second quarter of 2019 compared with earnings per share of a $1.02 a year-ago.
+Turning to Slide 9, net interest income on a fully taxable equivalent basis grew by 1.4% compared with first quarter and increased by 3.3% year-over-year, which was in line with our expectations. Both linked quarter and year-over-year comparisons benefited from loan growth, offset by the impact of a flatter yield curve. Linked quarter growth also reflected an additional day in the quarter, and higher interest recoveries.
+Slide 10 highlights trends in non-interest income. On a year-over-year basis, we saw mid single-digit growth in credit and debit card revenue, corporate payments revenue and merchant processing revenue, driven by higher sales volume in each category. Trust and investment management fees grew 3.5% due to business growth and favorable market conditions, and 6.4% growth in commercial product revenue was driven by higher corporate bond fees and trading revenue, partly offset by lower syndication fees.
+Mortgage origination revenue decreased on a year-over-year basis. Strong origination and sales volumes were offset by an unfavorable change in the valuation of mortgage servicing rights, net of the hedging activity. The year-over-year decline in deposit service charges reflected the impact of the sale of our third-party ATM servicing business in the fourth quarter of 2018. The increase in other income was partly driven by the inclusion of the related transition services revenue from the sale, which will decline over time, as well as higher tax credit syndications and equity investment revenue.
+Turning to Slide 11, the year-over-year increase in non-interest expense reflected higher personnel costs and professional services and technology expense tied to business growth initiatives. This was partly offset by a decrease in other expense, primarily reflecting lower costs related to tax advantage projects and lower FDIC assessment costs.
+Slide 12 highlights our capital position. At June 30th, our common equity Tier 1 capital ratio estimated using the Basel III standardized approach was 9.5%. This compares to our target of 8.5%. I will now provide some forward-looking guidance. For the third quarter, we expect fully taxable equivalent net interest income to increase in the low single-digits on a year-over-year basis. We expect fee revenue to increase in the mid single-digits on a year-over-year basis. We expect to deliver positive operating leverage of 100 basis points to 150 basis points for the full-year 2019, in line with our previous guidance. We continue to expect our taxable equivalent, tax rate to be approximately 20% on a full-year basis. Credit quality in the third quarter is expected to remain relatively stable compared with the second quarter. Loan loss provision expense growth will continue to be reflective of loan growth.
+Now I'll handle it back to Andy for closing remarks.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Thanks, Terry. The U.S. economy remains healthy, the jobs market is robust and the business and consumer confidence remains supportive of favorable consumer spending, patterns, as well as related business investment. While the flattening yield curve has created a more challenging interest rate environment, our core deposit franchise, balanced deposit mix, and consistent risk management philosophy, puts us in a strong relative position, from which we will navigate. Fundamental trends –and needs for our major fee businesses are healthy and importantly are being fueled by growth in new accounts and expansion of existing relationships, which in turn is driving strong volume growth.
+Our loan growth came in a little better than we had anticipated in the second quarter, and we are confident in our ability to win market share across our consumer as well as commercial portfolios. We are investing into the future with digital initiatives, our key focus.
+As you can see on Slide 13, loan sales are being increasingly sourced through our digital channels. We expect this trend to continue with the expected outcome of better customer experience, higher account and volume growth and improved operational efficiency. The success of our digital mortgage platform continues to meet or exceed our expectations. Currently, over 80% of all mortgage loan applications are completed digitally. Small business lending is another area where meaningful digital migration is occurring. As a reminder, last fall we launched a portal that allows small business customers to apply for and fund a loan up to $250,000 entirely, digitally end-to-end. Consumer reaction has been extremely positive.
+In June, about 25% of our applications for loans of their size use our digital portal. And year-to-date booked loan volume in this category is up 7%, over the same period a year ago. To summarize, the second quarter came in as we expected, and we are well positioned as we head into the second half of the year. I'd like to thank our employees for their hard work and dedication which drove these results.
+That concludes our formal remarks, we will now open up the call for Q&A.
+Questions and Answers:
+Operator
+[Operator Instructions] Your first question comes from the line of Matt O'Connor with Deutsche Bank. Your line is open.
+Matthew O'Connor -- Deutsche Bank -- Analyst
+Good morning.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Good morning, Matt.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Hey, Matt.
+Matthew O'Connor -- Deutsche Bank -- Analyst
+I'm sorry if I missed this, we've just been jumping around here. But, the margin was a little more resilient this quarter than I would have thought given some of the growth in things like securities and other earning assets, with basically lower yielding asset buckets. So even though the NIM was in line with what you guys had said, it did seem a little more resilient, and I was wondering what drove that and then, if you gave any NIM outlook? Thank you.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I think -- this is Terry. So, I think part of that resiliency is just loan growth and where we end up seeing, so that kind of the mix of loan growth, I think that was one of the major drivers. We continue to have a little bit of accretion with respect to the investment portfolio and of course, the change in the yield curve came very late in the quarter. So I think there is a number of drivers like that. Then, if you think about net interest margin, our outlook, if you think about, for our third quarter, our current forecast assumes a two rate decline for the rest of 2019, one in the end of July, and one in September. And the long end of the curve staying essentially kind of where it is. And as a result of that, we're going to see some pressure with respect to net interest margin during the second half of the year.
+Okay. When we think about the margin, our expectation is going to decline in the high single-digits in the third quarter. And there are two reasons for that. The first one has really no impact on net interest income, and let me talk a little bit about that. So about half of the impact is due to a change in the regulatory -- European regulatory policy that has the effect of restricting our ability to include these balances in the LCR ratio. It is an industrywide policy change by the European regulatory agencies. But because LCR is a binding constraint for us, we will have to increase our liquidity position, by purchasing HQLA securities and funding this growth through borrowings, that will have similar sort of rates. So earning assets will grow and that will offset the impact of about half of the change in net interest margin. The other half of net interest margin will decline because directly related to our expectation of the decline in rates, as well as where the long-term yields are right now.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+So good summary, Terry, and just to reiterate, about half of that decline in net interest margin is not impactful at all to net interest income. It's just a little higher asset offset by a little lower rate, due to that regulatory change that we talked about. And I think we're all set and done that. We expect on a year-over-year basis net interest income to be up in that very low single-digit range, given the rate declines that we expect here and as Terry talked about the second half of the year.
+Matthew O'Connor -- Deutsche Bank -- Analyst
+Okay. And then, I mean, there is obviously some moving pieces on rates between here and the October call. But just as we think about, say, the fourth quarter NIM, the impact of building liquidity, is that going to be fully in the run rate in 3Q? Or is there going to be kind of a stop impact of that in the 4Q? And then, should we think about a similar kind of core decline in the NIM in the 4Q, if you get another rate cut in September?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yes. So let me answer the first question first. On the fourth quarter related to the build in liquidity that will be fully in the run rate, because it really becomes effective for us July 1. So we are already kind of executing against that that will be fully in the run rate. As we think about the fourth quarter, the fourth quarter, we will -- in the third quarter we will see -- we expect to see a rate cut at the end of July, and then in September. And so you know that obviously assets will start to price down immediately and deposit will -- deposit pricing will kind of come down over time. So, I would expect that in the fourth quarter you're going to continue to see more pressure with respect to net interest margin. And that's just kind of the dynamics of the balance sheet.
+Matthew O'Connor -- Deutsche Bank -- Analyst
+Okay. Just last one to squeeze in. Some banks are also giving guidance that if rates stay stable, if rates are stable, the NIM ex the liquidity, is that kind of flat to down just a little bit? Or if you want to comment on more of a stable rate environment as well? Thanks. And, I'm done.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Stable to hear. Yeah, I think, I mean, essentially, again, we think about net interest income being relatively stable, relative to where it is in the second quarter. Relatively flat.
+Matthew O'Connor -- Deutsche Bank -- Analyst
+Okay. Thank you.
+Operator
+John Pancari with Evercore. Your line is open.
+John Pancari -- Evercore ISI -- Analyst
+Good morning.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Good morning.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Good morning, John.
+John Pancari -- Evercore ISI -- Analyst
+Given your outlook for two cuts before the end of the year. How does that impact your expectation for expense growth at all? Does that impact how you're thinking about expenses? I know you had expected full year expenses to be flat to up 1% or so for the full year '19, and then also, I know you saw a little bit of pressure this quarter on expenses. So curious how that growth expectation has changed? And then separately about operating leverage, as you look for 2020, how are you thinking about that? Thanks.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So, John, again, this is Terry. When we think about the second half the year, clearly there is going to be pressure on net interest income. But, one of the things I think we're seeing is good momentum on the fee income side of the equation, which I think will help to offset -- some of that, at least a fair amount of that. So if you think about it, we are seeing acceleration or momentum growing in our payments businesses; the consumer spend issues that were occurring in the early half of the year, it really kind of normalized. You were seeing good momentum with respect to our mortgage banking revenue and while it was down about 1 percentage point year-over-year this quarter, we would expect that to have hit the inflection point and start to grow in the third quarter, I think that that will help. We're seeing good momentum, continuing momentum with respect to trust and investment securities. And I think with the decline in the rate environment, I think we'll see more fund formation, and I think in the third quarter with respect to corporate trust. So my point is that, when you look across all of our fee categories, we see some pretty nice strength in that. I think that's kind of one of the benefits of our business model and the diversification that we have on the revenue side of the equation is that fee income tends to help offset some of that pressure on the net interest margin side of the equation. Andy?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+And John, specifically to your question, we'll continue to manage expense reflective of the revenue environment, and we still continue to expect full year operating leverage in that 1% to 1.5%, as the revenues top rate [Phonetic] will be at the lower end of that range.
+John Pancari -- Evercore ISI -- Analyst
+Got it. Thanks and that's helpful. And just one other follow-up. How would you think about operating leverage for 2020? I'm assuming obviously that's still very much part of it, but again, we could get a tougher backdrop as we go from the top line. So, how do you think about -- what's attainable in 2020?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. Our goal, I think in 2020 continues to be that 100 basis points to 150 basis points. We will end up having to manage through the rate environment, of course, making decisions short-term versus long-term investments that we end up needing to make. But as we think about 2020, we will continue to have that as our goal that we expect to achieve. Where we might have saw more expansion in a -- based upon what conditions were at the beginning of this year, that may continue to stay more at the lower end of the range, but we'll have to just see how revenues develop.
+John Pancari -- Evercore ISI -- Analyst
+Got it. All right. Thanks, Terry.
+Operator 
+John McDonald with Autonomous Research. Your line is open.
+John McDonald -- Autonomous Research -- Analyst
+Hi. I wanted to follow-up on John's question, Terry. For the operating leverage for this year, you came in the first half of the year, towards the lower end at the 1%. Just kind of wondering, I think you mentioned some things that get better in the second half, what are the puts and takes towards maybe we’re getting to the middle of the range, in the second half of the year, maybe closer to the 1.5%?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. I think in order for us, I mean in the second half of the year, again, I think just given the revenue environment on the net interest income side of the equation that will be harder to achieve. But again, I think it depends upon how strong the fee income growth is -- as we go into the second half of the year. Again, we're seeing a nice acceleration with respect to our payments, our mortgage banking businesses, etc. So, that's going to be kind of the wild card there.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+And then, John, this is Andy, on the expense side of the equation, importantly, we continue to invest in a number of our technology and digital initiatives, as well as the same time optimizing the current business structure. And I think the put and take of those two things will drive the expense growth of the low side, so that we're managing consistent with the revenue environment.
+John McDonald -- Autonomous Research -- Analyst
+Okay. And then just to follow-up on some of the NII questions. Terry, is there a way to size how much 125 basis point cut hurts in terms of NII or NIM, everything else equal?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yes. So if you think of and again, you can kind of do the math based upon some of our asset liability disclosures. But, 25 basis point cut on the short end only probably has a $40 million to $45 million sort of impact to us. So that's kind of how we dimension them.
+John McDonald -- Autonomous Research -- Analyst
+Okay.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+And then, if you went up looking that kind of on a stock [Phonetic] basis, I guess, if you will, that would be, $80 million to $90 million. [Indecipherable]
+John McDonald -- Autonomous Research -- Analyst
+Okay, $80 million would be like a parallel?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah.
+John Pancari -- Evercore ISI -- Analyst
+Okay. And then just for the -- yeah. So I guess that's the other point of it, like right now, where the current reinvestment yields where the long end is, our current reinvestment yield is accretive, dilutive or kind of breakeven-ish?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So our expectation, what we think about the third quarter is that, it certainly has come down in terms of the amount of accretion that you have. We still think there is opportunity for 20 basis points to 25 basis points of accretion on the investment portfolio. I think in the short-term, though, we're going to see some pressure with respect to premium amortization that may offset that.
+John McDonald -- Autonomous Research -- Analyst
+Okay. Got it. But those securities that you plan to put on, in terms of the -- some of the pressure that you mentioned for the next quarter, are those kind of -- or you think of those as NII accretive?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+We're thinking of those as, in terms of the liquidity position, and the regulatory issue, specific.
+John McDonald -- Autonomous Research -- Analyst
+Yeah.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So we think that that is -- that's neutral from a net interest income perspective.
+John Pancari -- Evercore ISI -- Analyst
+Got it. Got it. And a little bit helpful to the NIM percent?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. It will hurt NIM, but it will be neutral with respect to net interest income.
+John McDonald -- Autonomous Research -- Analyst
+Got it. Okay, great. Thanks, guys.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Thanks, John.
+Operator
+Betsy Graseck with Morgan Stanley. Your line is open.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hey, good morning.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Hi, Betsy.
+Betsy Graseck -- Morgan Stanley -- Analyst
+So just to make sure I understand it's neutral for the coming quarter, but does it flip positive when premium amortization goes away?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+You mean, in terms of the investment portfolio?
+Betsy Graseck -- Morgan Stanley -- Analyst
+Yeah.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. Again, it kind of depends on what ends up happening with respect to the yield curve. So, if premium amortization starts to neutralize, it would have a little bit of a positive impact.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Right. Okay. And then, I wanted to just ask a little bit around the mortgage business, obviously strong quarter there. Can you give us a sense as to how you're thinking that plays out over the rest of the year as this quarter reflect significant pickup in applications. And when you close, there is only a tail, little tail left or do you feel like this will continue to ramp throughout the rest of the year?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I think it continues to be beneficial through the rest of the year. And then for a couple of different reasons, some of the benefit is because of the refinance activity, -- because of the change in the long-end of the curve. But refinancings continued to be only about 30% of our overall volume. So a lot of that volume pickup for us, I think is driven more by things like the investments we've made in our digital channel, the investments we've made in terms of the retail side of the channel versus the correspondence side of the equation. And the fact that, because of that investment on the retail side of the equation, we'd expected margins to start to improve. So, we're going to see the benefit of higher margins because of that mix of business, but also on the purchase side of the equation, volumes have been very strong. So we expect to see a pickup in the second half, and for it to continue.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Okay. And then, can you talk a little bit about consumer spending and how that impacted you in the quarter?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+So, Betsy, this is Andy. That's starting to come back, as we talked about late in 2018, into the first quarter of '19, that started to weaken a little bit. But we've seen sequential improvement in each month and now it's closer to that 5%, 5.5%, 6% range, which is still a little bit below early last year, but starting to get back to normal levels.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Okay.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+And if you think about our payments base, that 5% and 5.5%, which Andy talked about, but on the merchant side, that's closer to about 9%...
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Merchant acquiring volumes...
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Merchant acquiring volumes, and again I think that is tied to some of the investments that we've been making in the business for the integrated software solutions, etc. And then, the sales volumes on the corporate payment side of the equation continue to hold up, that's really more a kind of in the 6% range. So it's lower than it was a year ago, but it's still quite strong. Those types of things give us some confidence with respect to where the economy is as well.
+Betsy Graseck -- Morgan Stanley -- Analyst
+That's interesting. Just linking that to commercial loan growth, you had a nice pickup, Q-on-Q. I know you mentioned that the forward look will have some impact from paydowns, and I guess the question I have here is, have you seen paydowns accelerate at all in 2Q?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I would say that with respect to loan growth in the second quarter, not a lot of acceleration in terms of paydowns, we continue to see it in the commercial real estate side of the equation. And so, where we say that there is going to be pressure, I think it's really more on commercial real estate, and I guess based upon where we're at in the economic cycle, I think we're fine with that. And those paydowns will come because of increased capital market sort of activity based upon where commercial real estate developers can't refinance their projects. But when we think about kind of our outlook from a loan standpoint, again, I think consumer spending continues to be strong, GDP is holding up, okay; unemployment is just fine. We're seeing good growth in terms of the middle market space and really kind of across most regions in the country. So, we just think that there is a lot of sign that would suggest that, that loan growth is going to continue, M&A activity, pipelines, etc. So, we feel fairly confident about where we're at right now.
+Betsy Graseck -- Morgan Stanley -- Analyst
+And just one last question from me on the middle market side, most regions doing better. I'm wondering if you're seeing any particular industries accelerate, because as we look at the macro data, we've had some pull back in some of the manufacturing area, trade, Ag or transportation, I should say, agriculture. So one of the things that I've been getting from folks is, hey, you know, where is this strength in C&I coming from? I don't know if you have any things that you can share with us on that?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. Again, on the middle market side of the equation, if you think about just kind of core commercial C&I, our growth was on a linked quarter basis 2% plus. I think it did, there was a little bit of an offset or drag because of the agricultural lending that we have. And again, that's just kind of where the farming economy is at this particular point in time. We don't do a lot of land financing, ours is really tied more to farm operations. And the exporter to Ag for us is really not that significant. So, I think manufacturing continues to hold up reasonably well, it may be a little bit lower than what it's been in the past. But, for us, our middle market business is pretty diversified across many different industries and across our entire footprint. So, based upon what we're seeing right now, we would expect that to continue to hold.
+Betsy Graseck -- Morgan Stanley -- Analyst
+All right. Thank you.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Thanks, Bet.
+Operator
+Erika Najarian with Bank of America. Your line is open.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Hi, Erika.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Hi. Good morning. Good morning. Thank you so much for the detail on net interest margin sensitivity to rate cuts. I'm wondering, if you could give us some insight on how you're thinking about deposit repricing in terms of both lag and a magnitude of repricing relative to each 25 basis points?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. So again, just to kind of give a reminder, if you think about our deposit base, about half of it is retail and about half of it is corporate and trust. And the retail deposit betas in the movement is up, was fairly inelastic, so you didn't see a lot of movement with respect to deposit pricing there. But, our corporate trust in our wholesale deposits tended to be much more sensitive, as you can imagine. So when we think about a declining rate environment, we believe that, deposit betas are going to come down in the corporate trust world, reasonably fast as rate cuts are occurring. But you're just not going to see as much with respect to retail.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+So perfectly fair. But the betas in corporate and trust –were I think higher than expected. So as I think about full-year 2020, it seems like there is an opportunity for actually net interest margin, either stability or accretion relative to 4Q'19, even in the phase of rate cuts. If we assume repricing on just 50% of that book and assuming the curve stays where it is. Is that too optimistic of a conclusion?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I think if you end up looking out to 2020 and you're assuming the rate cuts are occurring. I think that because of our mix of corporate trust and wholesale, that -- we on a comparative basis are going to perform pretty well. So, that's going to be more sensitive and deposit pricing is going to come down more quickly in the [Speech Overlap].
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+I think, Terry, what you said was the betas for corporate trust in wholesale, will continue to be high…
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+…as they come down.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Absolutely, absolutely.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Got it. And I noticed that comp expenses rose only 2% year-over-year. It had been trending in the 8% to 9% range annually, previously. And I'm wondering if this is really an -- the opportunity that always existed, even despite the change in the rate environment. And I'm wondering as we think about those comp levels or the rate of growth of comp, is it between 2% to 8%, how should we think about the slowdown of that pace of growth?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So if you think about compensation of that 8% range and that really was a period of time when we were building our risk and compliance and different areas with respect to investments in the business. So, that was unusually high and as we said, that kind of started to moderate in late 2017, certainly 2018. 2019, I think is kind of all of that has normalized. When I think about a 2% to 3% sort of compensation range, we certainly think that we can manage within that level for an extended period of time. And I think that will help us. Some of that compensation obviously is tied to revenue. For example, in the capital market space or some of the wealth management areas. So it will be somewhat dependent upon what sort of revenue streams we see on the fee side of the equation but that would be a good thing.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Got it. Thank you.
+Operator
+Ken Usdin with Jefferies. Your line is open.
+Kenneth Usdin -- Jefferies -- Analyst
+Hey, good morning, guys, I'm just going to ask a couple of quick cleanup ones. Can you help us understand the magnitude of the interest recoveries that came through the NIM, this quarter relative to last?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I mean, Ken we always have -- we always have interest recoveries that are occurring. I think the reason why we want to highlight that a bit is simply because we're at the late end of the business cycle. And, just given where credit has been for an extended period of time, we just don't know whether or not that will continue. So it's more of just trying to highlight that a little bit because of where are at the business cycle.
+Kenneth Usdin -- Jefferies -- Analyst
+Okay. So it wasn't above normal or I mean, that you always do have them, but was it above normal even?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+I would say it was kind of normalized, but maybe a little bit high given where we're at in the business cycle.
+Kenneth Usdin -- Jefferies -- Analyst
+Got it. Okay. On the -- you've mentioned in other, you had some elevated -- you've been successfully harvesting some gains, and do you see a lot of opportunities on that front, especially where we are in the equity cycle? Should that continue to also be relatively strong, as far as the other income -- other fee income line is concerned?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah, I mean, other income includes a lot of different things and includes tax syndication revenues, that includes some of the transition revenue related to our ATM sales -- the sale of our ATM business. And that will continue through 2020, but it will start to dissipate as we go through that conversion. On the equity investment side of the equation, we still think there is opportunity there.
+Kenneth Usdin -- Jefferies -- Analyst
+Okay. And then last one, just as we get hopefully closer to the feds, you know, making some of the rules finalize at some point on the tailoring front. Can you just talk through where you're seeing or anticipating to be the potential biggest opportunity sets? And can you get ahead of any of those at all or do you have to wait till they get formalized? Thanks, Terry.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. Certainly from a capital management standpoint, there is going to be a benefit because of the AOCI. And then on the liquidity side, that will help us as well. We really -- we really will have to wait until or we're going to wait until we have clarity with respect to the adoption of that. And then, kind of make decisions both with respect to capital management and LCR. We've talked about in the past that we think that there is the opportunity to bring down HQLA by the $10 billion to $15 billion range, and either redeploy it or think about the investment security portfolio. On a capital management side, we're at 9.5% today. And once we have clarity around CECL and the tailoring rules, we would expect to start managing that back down closer to the 8.5% target.
+Kenneth Usdin -- Jefferies -- Analyst
+Got it. Thanks, Terry.
+Operator
+Marty Mosby with Vining Sparks. Your line is open.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Thanks, Marty.
+Marty Mosby -- Vining Sparks -- Analyst
+I had one big strategic question, and a very specific accounting question. We'll start with the accounting side. When you talked about premium amortization, you talked about maybe a headwind, you kind of said well, there is some headwind coming. What I was curious about is most of the other calls, we've actually heard, management was talking about how, they had accelerated. So I know you can from an accounting standpoint, estimate amortization, and so when rates move, you get kind of whipsawed around or you can kind of pay as you go. I was just curious in a sense of how you're amortizing that premium? Are you really more kind of the pay as you go or are you estimating what you think the rates are going to do to you?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Well, we're certainly taking into consideration what we expect rates to do to premium amortization. I think the -- for us anyway, there is just a little bit of a lag. Most of the -- most of the more significant changes are occuring very late in June. And so, I know the way that we end up accounting for that, it'll end up coming really more so through the third quarter than what it did in the second quarter, just the way we end up accounting for it.
+Marty Mosby -- Vining Sparks -- Analyst
+So it's just a quarter lag more than anything else, in that sense?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. And again, that's assuming that the rate curve kind of stays where it is, in terms of what the impacts will be going forward.
+Marty Mosby -- Vining Sparks -- Analyst
+Exactly. And that happens in the third quarter and then if rates stay where they're at, that's kind of behind you and you go into the fourth quarter's end, with no impact in the sense that rates don't change anymore?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+That's what we’re hoping.
+Marty Mosby -- Vining Sparks -- Analyst
+All right. And then the other thing I was trying to get at was merchant processing, you were talking about growth in the 8% or 9% when revenues are kind of growing in the 4% to 6%. How is the competitive environment for merchant processing? It seems like you've been picking some momentum back up there. But do you feel like you're going to be growing with, kind of the same-store sales and maybe a little bit of market share gain? How do you envision that merchant processing as you're looking at the competitive environment, right now?
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So certainly the difference between the two is, the churn that you have in the book of business. Our growth rates, I do think that will, from 4.5% or so will continue to accelerate as that new business comes on board. The other thing is that, you have effects of foreign exchange and other things that are dampening the growth rate on the revenue side of the equation. So there is just a number of kind of dynamics. But when we think about the underlying business, we think it's accelerating, we think it's strong.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+And I'd add there. I think the team has done a terrific job of accelerating our integrated software vendor capabilities well, as well as our omni-channel capabilities and importantly, integrating with the other banking component so that we have a full set of products and capabilities that we can offer our middle market and small business customers. So, those activities are, I think, also driving the growth in a very positive way.
+Marty Mosby -- Vining Sparks -- Analyst
+Great. Thanks.
+Operator
+Antonio Chapa with UBS. Your line is open.
+Saul Martinez -- UBS -- Analyst
+Hey, guys. This is Saul Martinez at UBS.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Hey, Saul.
+Saul Martinez -- UBS -- Analyst
+Hey, how is it going?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+[Speech Overlap]
+Saul Martinez -- UBS -- Analyst
+So, a couple of questions. First of all, wanted to follow-up on Erika's question on the trajectory of deposit costs and fully get the difference between retail and corporate and trust deposits. But if I bring all of that together, how do we think about just the overall trajectory of your cost of interest bearing deposits? Because historically, there is typically a sort of a one to two quarter lag between when cost of deposits start to decline and when the fed starts to cut. So as we think about 3Q, 4Q, should you see an immediate benefit from, say, a July hike or I'm sorry, July cut, or does it take a couple of quarters for that to start to filter in the 1.12% cost or interest bearing cost of deposits starts to come down later in 2019 or 1Q or should we start to see that all in 3Q?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yes. So let's take corporate trust or the wholesale side of the equation. That will be fairly quick in terms of July rate cut. Some of it is the timing of, the fact that the July rate cut would probably happen at the end of the month. There is just opportunities for us to be able to incorporate that into our process. But so in the corporate trust side the equation, it will be pretty quick. But there is a -- there is always a little bit of a lag in terms of it kind of getting incorporated into the process. So the benefit will be stronger in the fourth quarter, certainly than in the third.
+Saul Martinez -- UBS -- Analyst
+Right. In your guidance, are we assuming – are you assuming that the overall cost of deposit come in from 2Q levels?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah.
+Saul Martinez -- UBS -- Analyst
+Okay. All right, in 3Q? All right. Change gears a little bit, on your branch strategy, you've highlighted 10% to 15% branch reductions now, over, I guess, a couple of years. On the surface, you did 3,000 branches, that doesn't seem like a huge number, but it's about 300 to 450, if that's -- if I'm thinking about it right on 3,000 branches. And I think what you said in the past is, your community bank branches which are like, a little over a 1,000 and in-store branches, which would take you cumulatively on those -- about 2,000, aren't really subject to being rationalized. So effectively, your metro market, you're cutting a huge amount of your existing branches in urban markets. If my logic is right, something like 30% to 45% of your metro markets. First, so I guess my question is, is first, am I thinking about that, right? Are the cuts going to be exclusively or almost exclusively in the metro markets, which are like a 1,000 branches? And what's driving this? Because it seems like a pretty substantial repositioning of your branch network.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Yeah. So, Saul, you're right. We have three sort of segments of branches, 1,000 in a community -- just under a 1,000 in-store and outside and just over a 1,000 in metro. What we said is, we're not going to exit communities, so we are not going to exit and have no branch standing in the community market that we're currently in. But we do have some opportunity in community markets to rationalize or consolidate branches, particularly those that are close together. And that's also true of an in-store, so it is not only focused in metro. The other thing I'd mentioned to you is that that 10% to 15% is a net number that includes optimization, moving two branches to a better location, entering new markets like we've announced in Charlotte, so far. So that's a net number across all categories.
+Saul Martinez -- UBS -- Analyst
+Okay. But should we assume that the vast majority of the branch rationalization occurs in metro markets? Because even if there is some rationalization in community bank -- the community banking and in-store branches, it seems like a -- especially considering that's a net number of branches you will open in Charlotte, Atlanta, Dallas, whatever, it seems like a pretty big proportion of your existing branch network gets rationalized in urban markets?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah, well, when we're looking at optimization of our branch network, it's really across all three categories. We do believe that there is opportunity with respect to all categories. I mean, think about community as an example, it includes some sizable markets like at the Moline and Omaha or Boise etc., where we do have fairly significant branch networks. So it'll be across all of them -- it will tilt toward the metro markets, but it will include all markets, right.
+Saul Martinez -- UBS -- Analyst
+Okay. So it's not as black and white as those maybe thinking about it. Okay. All right. Thanks a lot.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Thanks, Saul.
+Operator
+[Operator Instructions] David Long with Raymond James. Your line is open.
+David Long -- Raymond James -- Analyst
+Good morning, everyone.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Hey, David.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Hey, David.
+David Long -- Raymond James -- Analyst
+You guys, I guess, as a follow-up to that last question, but talking about some of that areas where you're looking to add branches, and just curious how the rate backdrop plays into how aggressive you are in pursuing that strategy?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+I don't think the rate backdrop is directly impactful to it. I think what we're trying to do is enter new markets where we already have a large employee base, a customer base that have one or two or three other products that U.S. Bank and their wallet, but don't have a full banking relationship and trying to extend that relationship using the data and things that would be valuable to that customer, regardless of the rate environment.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+So it's about building the overall relationship with the customer, and then you think about it, I mean, this is really a long-term strategy. So, the current rate environment is, only one consideration on data point.
+David Long -- Raymond James -- Analyst
+Got it. And then, second question I had is related to CECL and the impact that may have. Are you guys at a point where you can talk about what the impact may be on your overall reserve level and also your appetite to make loans in the certain categories?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. So I think what we have talked about in the past is 20% to 40%, and in the third quarter it will be kind of going through a more substantive parallel run. And I think we'll have better insights with respect to the implications associated with that point in time. Well, we've said it's a range of probably 20% to 40% increase in the reserve. And I think we've even said it’s kind of closer to that 30% sort of range. So you kind of do the math. But we're probably going to wait until we get through that third quarter assessment. The other thing is I think we'll have better visibility with respect to what the economy will look like, and of course, that's certainly a driver in that process. As we thought about, the different products and what we will emphasize or deemphasize, we're really making decisions more based upon the economics of the product profitability, than we are allowing the accounting model to influence that sort of a decision. So at this particular point in time, we haven't really said we're going to change that approach.
+David Long -- Raymond James -- Analyst
+Got it. Thanks for taking my question.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. Thanks, David.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Thanks, David.
+Operator
+Gerard Cassidy with RBC Capital Markets. Your line is open.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Thank you. Good morning, guys.
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Hey, Gerard. How're you doing?
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Good. Can you guys give us some color, obviously, payments is a very important part of your business model. And we've seen the announcement on Libra and what they're going to try to do. Have you guys read the white paper? And can you give us your thoughts on what you think?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+We have read the white paper and we've got a number of discussions on it. I think it's in the early stages, Gerard. So I don't think there is a immediate impact, but we have a number of initiatives going on with our payments. We're trying to understand the impact of not only that, but really optimizing the new real-time reals that have been built and are being used, number of use case across the company. The migration and treasury management will be in the corporate payments activities, and the impact on the consumer side to all the real-time activity that's occurring. So it is one component of a more substantial change that's occurring in the environment, which is around payments overall, which is very impactful, and very much something we're focused on.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. And then coming back over the years, obviously you guys have been very successful in making depository acquisitions, as well as other non-depository acquisitions. Can you give us your view on what you're thinking over the next maybe 12 months, 24 months on depository transactions, as well as non-depository transactions? Are you interested or is that something that could happen if the right opportunities came up?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Yeah. So as you know, most of our recent transactions have been non-depository, they've been either current portfolios, payments capabilities, trust, things of that sort, technology capabilities. And I think that will continue to be a focus for us. As we talked about, we are working on entering new markets without an acquisition, but in this concept of a digital-first, branch-lite strategy. So I think that is a new way to enter a market, in my view, more efficiently and effectively without paying a big premium and having attrition that occurs after the fact [Phonetic]. So, if we were looking at anything larger and we'll look at all opportunities, it would have to be substantial, it’ll have to be meaningful. And we’d ought to also have to weigh that transaction against the great momentum that we have across the company right now, across many of the businesses and think about it from a long-term perspective. So we'll consider all those things, but I wouldn't expect us to enter a new market with a small depository acquisition, given our other opportunities to do that.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Just speaking of the other opportunities, Andy. Any early read [Indecipherable] on that digital strategy that you guys have launched into these markets? Or is it too early to tell or what are you guys seeing from the early results?
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+It’s just starting, Gerard. So, we are in fact, in the next month, we will have the first branch there and we’ll -- the others are -- will come after that. So it's too early in the game to tell.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Okay, I appreciate it. Thank you.
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+You bet. Thank you.
+Operator
+There are no further questions at this time, I would now like to turn the call back over to the presenters for final remarks.
+Jennifer Thompson -- Director of Investor Relations
+Thank you for listening to our earnings call this morning. Please contact the Investor Relations department if you have any follow-up questions.
+Operator
+[Operator Closing Remarks]
+Duration: 50 minutes
+Call participants:
+Jennifer Thompson -- Director of Investor Relations
+Andrew Cecere -- Chairman, President & Chief Executive Officer
+Terrance R. Dolan -- Vice Chairman and Chief Financial Officer
+Matthew O'Connor -- Deutsche Bank -- Analyst
+John Pancari -- Evercore ISI -- Analyst
+John McDonald -- Autonomous Research -- Analyst
+Betsy Graseck -- Morgan Stanley -- Analyst
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Kenneth Usdin -- Jefferies -- Analyst
+Marty Mosby -- Vining Sparks -- Analyst
+Saul Martinez -- UBS -- Analyst
+David Long -- Raymond James -- Analyst
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+More USB analysis
+All earnings call transcripts
+  
+

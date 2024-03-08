@@ -1,0 +1,303 @@
+Image source: The Motley Fool.
+Illinois Tool Works Inc (ITW 0.57%)Q3 2019 Earnings CallOct 25, 2019, 10:00 a.m. ET
+Operator
+Good morning. My name is Julianne, and I will be your conference operator today. At this time, I would like to welcome everyone to the conference call. [Operator Instructions] After the speakers' remarks, there will be a question and answer session. [Operator Instructions] Thank you. Karen Fletcher, Vice President of Investor Relations, you may begin your conference.
+Karen A. Fletcher -- Vice President of Investor Relations
+Okay. Thank you, Julianne. Good morning, and welcome to ITW's Third Quarter 2019 Conference Call. I'm joined by our Chairman and CEO, Scott Santi; and Senior Vice President and CFO, Michael Larsen. During today's call, we will discuss third quarter financial results and provide an update on our 2019 full-year outlook.
+Slide 2 is a reminder that this presentation contains our financial forecast for the remainder of 2019, as well as other forward-looking statements identified on this slide. We refer you to the company's 2018 Form 10-K for more detail about important risks that could cause actual results to differ materially from our expectations. Please note that this presentation uses certain non-GAAP measures and a reconciliation of those measures to the most comparable GAAP measures is contained in the press release.
+Please turn to Slide 3. Today we're announcing the date and location for ITW's next Investor Day. We hope you can join us on Friday, March 13, in Fort Worth, Texas, at which time we'll provide an update on our long-term strategy and offer a tour of our Charleston refrigeration plant site and the opportunity to see the ITW business model in action. Today's announcement is strictly a save the date alert and we'll provide more details on the event, including how to sign up for it, when the date gets closer.
+So now we'll move on to Slide 4 and it's my pleasure to turn the call over to our Chairman and CEO, Scott Santi.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Thank you, Karen, and good morning. While slowing CapEx investment and declines in auto production in North America and China impacted the demand environment across a broad cross-section of our portfolio, we delivered another solid quarter with excellent operational execution. Despite the macro challenges we delivered earnings-per-share growth, operating margin of 25% and a 12% increase in free cash flow. Despite lower volumes, we improved operating margin 40 basis points year-over-year with Enterprise Initiatives contributing 120 basis points and increased after-tax return on invested capital by 120 basis points to more than 20%.
+Looking ahead at the balance of the year based on demand rates in our margin performance exit in Q3, we are maintaining our full year 2019 EPS guidance range of 755 to 785, while acknowledging that the combination of near term macro uncertainties and the lingering strike at General Motors likely skews the probabilities of potential outcomes toward the lower end of the range.
+Moving forward, we continue to focus on executing at a high level on the things that are within our control in the context of the near-term macro uncertainties, while remaining fully invested and driving progress on our Finish the Job enterprise strategy agenda and are positioning the company to deliver on our 2023 enterprise performance goals.
+Our demonstrated ability to deliver strong results across a range of economic scenarios, while continuing to make consistent progress toward our long-term full potential performance is a direct result of the combination of the performance power and resilience of the ITW business model and the dedicated team of ITW professionals around the world who leverage it to serve our customers and execute our strategy with excellence day in and day out.
+With that, I'll now turn the call over to Michael for some more detail on our Q3 results. Michael?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Thanks, Scott. And good morning, everyone. In the third quarter, organic revenue declined 1.7% year-over-year, as demand slowed modestly across our portfolio. This quarter had one extra shipping day so on the same day basis, organic revenue was down 3.2% versus the 2.8% decline in Q2.
+Product Line Simplification was 60 basis points. By geography, North America was down 2% and international was down 1%. Europe declined 2% while Asia Pacific was up 2%. On a positive note, organic growth in China was plus 7%. Our execution on the elements within our control was strong, as we expanded operating margins by 40 basis points to 25% with strong contributions from enterprise initiatives and positive price cost.
+Our Q3 detrimental margin was 15%. GAAP EPS of 204 benefited from the fact that we filed our federal tax return and reduced our estimated tax liability for tax year 2018 by $21 million, which contributed $0.07 of EPS in the quarter. On a year-over-year basis, the 204 GAAP EPS number included $0.05 of unfavorable foreign currency translation impact, which was offset by a $0.05 benefit from our lower Q3 tax rate of 21.6% as compared to 23.7% in the prior year.
+As expected, free cash flow was strong at $830 million, an increase of 12% with a conversion of 126%. We've repurchased $375 million of our shares and raised our annual dividend by 7%. Overall, excellent operational execution and solid financial performance despite some external challenges.
+Let's move to Slide 5 and operating margin. As you can see from the chart, operating margin improved again this quarter with Enterprise Initiatives contributing 120 basis points, which was the highest level since 2017. It is worth noting that the Enterprise Initiative impact is broad based across all seven segments, ranging from 80 to 190 basis points, and we're seeing the benefits of the accelerated restructuring activities we initiated earlier in the year.
+Price remains solid and well ahead of raw material inflation on a dollar basis. In addition, raw material cost pressures eased again this quarter, and price cost margin impact was positive for the first time since 2016. Volume leverage was unfavorable 40 basis points and other was 60 basis points of headwind, about half of which was from normal annual inflation on wages and salaries coupled with some one-time items. Restructuring expense was equal to what we spent in the third quarter 2018. So in summary, strong operating margin performance again this quarter.
+Turning to Slide 6 for details on segment performance. The table on the left provides some color on organic growth. And as you can see on an equal day basis, we were down 3% in Q3, which is essentially the same decline as in Q2. By Q2 we experienced lower levels of demand and some of the CapEx related offerings. You can see the impact in Food Equipment, Test & Measurement and Electronics, both with growth rates 4 points lower than last quarter. However, in both cases underlying order rates were pretty good. Automotive OEM was down less than Q3 largely due to the benefit from an easier comparison year-over-year and Welding and the remaining three segments were all pretty stable.
+Now let's move to individual segment results, starting with Automotive OEM. Organic revenue was down 2% as the GM strike reduced revenues by approximately one percentage point. In addition, we had 100 basis points of PLS impact. North America was down 6%, Europe was essentially flat and China organic growth was 7% in a market where builds were down significantly. Margins of 22.1% increased 60 basis points year-over-year.
+Moving on to Slide 7. Food Equipment organic revenue was down 1% despite strong performance in our service business, which was up 3%. In North America, demand for equipment was a little slower in retail, restaurants were about flat and we continue to experience growth on the institutional side, despite a pretty difficult comparison. Operating margin expanded 90 basis points to 27% with Enterprise Initiatives the main contributor.
+Test & Measurement and Electronics was a little softer this quarter as organic revenue declined 3%. As the Measurement was down 4% excluding sales to semiconductor equipment manufacturers, organic growth would have been up 1%. Electronics was down 3%, mostly driven by softness in electronic assembly. Operating margin nevertheless expanded 90 basis points to 25.6% with Enterprise Initiatives also a main driver here.
+Turning to Slide 8. Welding organic revenue declined 2% against a tough comparison of 10% growth last year. In North America, the equipment side was down 4% but against the comp of more than 10% growth last year. North America consumables were up 4%, which continues to point to pretty good underlying Welding activity at our customers. International was down 3% and operating margin was 28.2%. Polymers & Fluids organic growth was up 3% with Polymers up 7% against the comparison of down 3% last year. Automotive aftermarket was up 2% and Fluids was down 1%. Operating margin was up 200 basis points, driven primarily by Enterprise Initiatives.
+Moving to Slide 9. Construction organic revenue was down 1% with continued softness in Australia and New Zealand, which was down 4%. Europe was up 1% and North America was essentially flat with residential remodel, however up 4% offset by lower demand in commercial construction. In Specialty, organic revenue was down 5% and similar to Q2, the main drivers were 100 basis points of PLS impact and the relative performance of the businesses we've identified as potential divestitures. These potential divestitures reduced organic growth for the segment by about a 1.5 points. In other words, core specialty was down 3.5%. By geography, international was down 5% and North America was down 4%.
+Let's talk about full-year guidance on Slide 10. Based on demand rates and our margin performance exiting Q3, we're maintaining our full-year 2019 EPS guidance range of 755 to 785, while acknowledging, as Scott said, that the combination of near term macro uncertainty and the lingering strike at General Motors likely skews the probabilities of potential outcomes toward the lower end of the range. While the Q3 discrete tax item that I described earlier lowers our full-year tax rate to approximately 24%, this benefit is essentially offset by incremental foreign currency headwind that has crept in since we updated our full-year guidance as of the end of Q2.
+We expect that operating margin for the full year will be approximately 24%, which is down slightly from our previous guidance as a result of higher accelerated restructuring expense and the impact of slightly lower volume. It is worth noting that given the environment, we now expect incremental accelerated restructuring expenses in Q4 that will represent a headwind of approximately $0.03 year-over-year.
+Our cash performance has been strong all year and we expect that our full-year conversion rate will be well ahead of net income. Our plan in terms of share repurchases remains unchanged and we are on track to repurchase approximately $1.5 billion of our own shares this year.
+Now for a quick update on our portfolio management activities. Overall, our various divestiture processes are on track. As a reminder, we are looking to divest certain businesses with revenues totaling up to $1 billion and are targeting to complete this effort by year-end 2020 with about half of the divestitures in 2019. The positive impact include about 50 basis points improvement in our organic growth rate and approximately 100 basis points of margin improvement. Net counting potential gains on sale any EPS dilution will be offset by incremental share repurchases and we will continue to provide you with updates on our regular earnings calls.
+Finally, as a result of moving our Annual Investor Day to March, we will now provide 2020 full-year guidance, part of our January 2020 Earnings Call. With that, Karen, I'll turn it back to you.
+Karen A. Fletcher -- Vice President of Investor Relations
+Okay. Thanks, Michael. Julianne, please open up the lines for questions.
+Operator
+Thank you. [Operator Instructions] Your first question comes from Ann Duignan from JPMorgan. Your line is open.
+Ann Duignan -- JP Morgan -- Analyst
+Hi, good morning everyone.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Good morning.
+Ann Duignan -- JP Morgan -- Analyst
+Morning. Maybe we could start out with more color on end markets and what you saw as you went through the quarter in terms of cadence of sales or cadence of orders by segment. If you don't mind, just some color as to what's going on beyond the General Motors strike. Appreciate it.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, sure, Ann. So I think there is really nothing unusual on a monthly basis as we went through the quarter. I think as we talked about in the script, we did see a modest slowdown, particularly on the capex side here in Q3, similar to what we saw in Q2 and you saw it show up to some extent in Food Equipment as well as in Test & Measurement where the growth rates were lower in Q3 relative to Q2 on a year-over-year basis. Now that said, I also think it was worth pointing out that when we look at the underlying activity in these businesses and the order rates, they're actually looking pretty good heading into Q4. So a little bit of a mixed bag here, I'd say, automotive looks like on a year-over-year basis, certainly the Q3 organic growth rate was better than Q2. Part of that is an easier comparison. And then obviously, we talked about the impact of the of the GM strike here in Q3. So, and the remaining segments pretty stable, Welding, Construction Specialty.
+Ann Duignan -- JP Morgan -- Analyst
+And just a follow-up -- maybe some color on the Welding side consumables versus equipment. I mean, I think you had flagged that in Q2 as the capex side slowing but the consumable side still strong and I think in your comments you reiterated that. Could you just update us on if those [indecipherable] in Q3?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, so talking about North America, which is really the 80% of our business, we did see some softness on the equipment side down 4%, but keep in mind the comp from last year equipment was up 11% in Q3 last year. Consumables up 4%. I think we were up 8% and consumables here in the second quarter. So a little bit of maybe a little bit of a slowdown on the consumable side but overall, North America down 1% and I think we'd say Welding pretty stable here in Q3, similar to what we saw maybe in the second quarter.
+Ann Duignan -- JP Morgan -- Analyst
+Okay. I'll leave it there in the interest of time. I appreciate the color. Thanks.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Thank you, Ann.
+Operator
+Your next question comes from John Inch from Gordon Haskett. Your line is open.
+John Inch -- Gordon Haskett -- Analyst
+Yes, thank you. Good morning, everybody.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Morning.
+John Inch -- Gordon Haskett -- Analyst
+Good morning. The GM strike: is that -- are you guys assuming that the GM strike does not get resolved in the fourth quarter as part of your guidance? It may not move the needle, perhaps, but -- and then when it actually ends, Michael, that 1% drag, does it flip to a 1% contribution or because there has to be inventory fill back at the company, right, in terms of working process, does that actually go up higher than the 1%? How are you thinking about it?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well I would say that all of these scenarios and all the potential scenarios from it gets settled I guess next week with the vote all the way through it never gets settled through the quarter are embedded in our guidance range. There is really -- we have really no purpose or advantage in trying to make a particular bet. We are obviously not involved in the process, but have incorporated all the -- sort of the most optimistic in the most pessimistic scenario in our guidance range for the balance of the year, and essentially that's how we're approaching it. And since you asked, Michael, I'll let him, give you a little color in terms of the potential impact on the organic growth of the company.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, I think in Q4, as Scott said, kind of best case at this point is we start back up next week. So we've already lost a month, which is almost a full point of organic growth at the ITW level, about 3 percentage points of impact in the auto segment alone. So that's essentially done at this point. And then if you kind of -- as Scott said, if things do not get resolved at all this quarter, which is maybe the worst-case scenario, we would lose another --
+E. Scott Santi -- Chairman and Chief Executive Officer
+Let me help you with that: that is the worst case scenario.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Which is the worst-case scenario we'd lose another 2 points of organic growth here. So those things are kind of all embedded in what we're talking about today. And I think it's part of the elements that skew our view in terms of the guidance range toward the lower end, as we talked about.
+John Inch -- Gordon Haskett -- Analyst
+Okay. So in other words, if the worst-case scenario GM doesn't get resolved until Jan. 1, the low end of your range for the year, the some 55 still captures that, that's what you're saying?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, I mean I think obviously we don't want to get into customer profitability, but in terms of EPS, we're talking about pennies of impact here.
+John Inch -- Gordon Haskett -- Analyst
+No, that's fine. Just for my follow-up, I remember historically how Enterprise Initiatives and PLS, you were fairly adamant this was going to lead to kind of a structural elevation in ITW's organic growth and you guys have been at this obviously for years and it's been very, very successful. And here we are in the third quarter and PLS is kind of sort of at the same cadence, right, 60 basis points, it was 70 last quarter. Enterprise Initiatives is actually accelerating. I'm just wondering, I mean presumably you would have gone after kind of the lower hanging PLS fruit. Is there a risk of that as we keep this PLS cadence up that the future for with respect to organic growth in what you had thought would be the benefits from this somehow gets impacted because this PLS just doesn't abate, if that makes any sense? And maybe growth has an impact down the road?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well, I think the --I don't see it as a risk. I think really what we're seeing play out is that the PLS rate has definitely come down over the period that we've been implementing it. If you remember back to the front end of the implementation of the strategy, it was running to 1 point to 1.5 points. We feel like on an ongoing basis just embedded in how we operate the business model normalized -- we even talked about this at the last Investor Day -- normalized PLS should be 30 to 40 bps, so at 60, I don't think we're too far from -- we're certainly demonstrating some movement through that process certainly. And as you suggested, the low-hanging fruit we dealt with a few years ago, but there is certainly some fine-tuning going on. A lot of that in those businesses that we're still working on getting positioned to grow will give you an update at the Investor Day in terms of how we're tracking on the ready to grow on growing versus not growing divisions. But I assure you we are making solid progress on that front and we'll, as I said, give you a fulsome update in March on Friday the 13.
+John Inch -- Gordon Haskett -- Analyst
+Yes, it's Friday the 13. So you're feeling good about the prospective core growth once -- as a result of I guess the PLS and EI, which I presume we're going to see more of once we get rid of these companies still slated for divestiture.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes. There's no question. I'm not -- the macro environment certainly right now would offset some of the underlined progress, but we are on it from the standpoint of the qualitative steps we need to take to accelerate organic growth that has continued unabated through this process. It's certainly a little more difficult to see in terms of growth rate, the yield on all that effort, given the environment right now, but we have -- I assure you we are making really solid progress and it remains the number one focus of everything we're doing.
+John Inch -- Gordon Haskett -- Analyst
+Many thanks.
+E. Scott Santi -- Chairman and Chief Executive Officer
+You bet.
+Operator
+Your next question comes from Jamie Cook from Credit Suisse. Your line is open.
+Jamie Cook -- Credit Suisse -- Analyst
+Hi, good morning. The margin performance I guess if we think about the second quarter and the third quarter, I guess even in the first quarter when you faced what's been more challenging organic growth has been fairly depressive, and then I just think about the margin performance in the fourth quarter results. Good, it's still implying sort of -- more of a step function down in the inability to I guess, keep the margins up year-over-year I guess, which is expected. But to some degree, can you just provide some context on the degradation in Q4 margins and just what that implies for 2020 in terms of how we think about decremental margins for Q2, Q3 elevated more so because of price cost? I'm just trying to understand the step function change there. And then just my second question -- I guess my second question is we all debate how this market plays out in terms of sort of mid-cycle slowdown versus more challenging concerns or assessment of how you guys are viewing or managing your business. Thank you.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Why don't I take the easy one, which is the first part and then maybe we'll take a stab together on the second piece. I mean I think we've tweaked our full-year margin guidance as you noticed, really to account for two things. One is that, just given the demand environment that we're in, we made a decision to further accelerate some restructuring projects and so we are going to be spending more on restructuring for the full year. And these are really projects that were in the pipeline for next year, and so we've pulled them forward into this year. So that's a portion of it and then the other piece is really we talked about GM impact and just kind of the macro environment and the potential impact on volume leverage. So really those two things combined. I will tell you though at the same time when I look at the -- we're giving you kind of a squiggle, 24% percent. I mean we're really talking about decimal points here, so I wouldn't read too much into -- certainly in terms of implications for next year, our ability to continue to expand margins. Nothing has changed from that perspective. So hopefully that makes you feel a bit better about the margin assumptions here. And then the second question I think was really in terms of how things play out from here from a macro standpoint. And --
+E. Scott Santi -- Chairman and Chief Executive Officer
+You're looking at me?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+I'm looking at Scott here for some wisdom.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well I guess I don't want this to be interpreted wrong, but I have none. I think our view fundamentally in terms of how we operate the Company is we're going to operate -- we're going to react and we're going to operate to the best of our ability in whatever the external environment throws our way. I think we've spent six or seven years now building a highly competitive, very effective company that now has the kind of margin cushion underneath that allows us to react to whatever the world throws at us. I think you're all well aware of maybe some of the issues right now and they relate largely to a lot of uncertainty that's out in the environment, and for reasons that I'm sure you're all well aware of. I think however that gets resolved this company is well positioned to operate at a very high level on an absolute and a relative basis in that environment, and given some of what we've talked about historically in terms of flexible cost structure and in terms of margin and profitability that we will continue to focus on operating the company in the most appropriate way for whatever the environment is that we find ourselves. Personally, I am optimistic but who knows.
+Jamie Cook -- Credit Suisse -- Analyst
+Okay, thanks. I'll let someone else get in.
+Operator
+Your next question comes from Andy Casey from Wells Fargo Securities. Your line is open.
+Andy Casey -- Wells Fargo Securities -- Analyst
+Thanks a lot. Good morning.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Good morning.
+Andy Casey -- Wells Fargo Securities -- Analyst
+Within Welding, could you provide a little bit more color in the U.S.? Did you see any significant differences in performance by main market?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+So not really, Andy. It was pretty similar in North America to what we saw in Q2, I think characterized really by some stability, is maybe a way to describe it. I think if you look at the industrial, business is down low-single digits, so that's more on the heavy equipment side. The commercial business, flat, maybe down 1 point or so. And underlying that, like I said, so on the equipment side down 4 offset by consumables up 4, so we ended up basically flat. Maybe I'll give you one more data point here. The oil and gas side was actually slightly positive. It's not a big part of the business in North America, but up mid single digits in Q3. But really a stable quarter in terms of Welding.
+Andy Casey -- Wells Fargo Securities -- Analyst
+Okay, thank you. And then when you look forward in the Q4, you called out that $0.03 of accelerated restructuring. Is that concentrated in any few segments or is that kind of similar to what we've been seeing the placement during the year?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, it's very similar. I mean if you look at the -- there is a schedule in the appendix of the press release that lays out kind of the -- this is pretty broad-based and as I said, I think it's important to point out these are projects that were planned all along for 2020 and we're going to try to accelerate some of those into the Q4, just as a result of the kind of the demand environment that we're seeing. But they're related much more directly to Enterprise Initiatives than --
+E. Scott Santi -- Chairman and Chief Executive Officer
+That is correct. I think if you want to make a distinction, I think the first half of this year, there was a focus certainly around acquisition integration on the automotive side. We accelerated some projects there, given the environment that made that in hindsight turned out to be a good decision and this time around it's more enterprise initiatives 80-20 related projects that were scheduled for 2020 that we're going to pull forward into 2019.
+Andy Casey -- Wells Fargo Securities -- Analyst
+Okay, great. Thank you very much.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Sure.
+Operator
+Your next question comes from David Raso from Evercore ISI. Your line is open.
+David Raso -- Evercore ISI -- Analyst
+Hi, good morning. Quick clarification on the fourth quarter, the margin. With the implied sales and the implied EPS, which is about $1.94 or so to hit your mid-point, it does seem to require the operating margin to be nearly 25% percent, call it 24.8%, not -- something like that. So are we saying there is a step down in the margins in the fourth quarter? And if so, is the fourth quarter helped by below the line items to hit the EPS? I'm just trying to level set the fourth-quarter view.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, so it's, this is a little tricky there because we don't give Q4 guidance we're giving you a full-year number. What I will tell you is, if you go back and look at historicals, margins typically take a step down here in Q4 relative to Q3. Like I said, we talked about restructuring, we talked about lower volume. You could model what the impact might be from that. And then there is no -- we're not counting on any one-time items one way or another in terms of the fourth quarter. So hopefully that's helpful without giving you specific guidance for the quarter.
+David Raso -- Evercore ISI -- Analyst
+I appreciate that. But obviously if you take the midpoints, you can't have a margin that's a 24% or 24.2% or 24.3%, or whatever it may be and still hit your EPS number, unless you do get help below the line. So there is a little bit of a mismatch in the numbers we can discuss offline. The inventory management I thought was pretty good during the quarter. That's the first time in a few years your inventory performed better year-over-year then your sales. I mean and they were down a lot more than sales were down. The incremental restructuring in the fourth quarter, the way you are handling the inventory, it does seem like at least you're doing the right thing, so to speak, for maybe a slower '20. Can you help us a bit with the inventory? How you view it in your channel? Obviously your own inventory, as just said, sort of did a pretty good job sequentially year-over-year. Can you help us with the channel inventory color?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well, I think from the standpoint of channel inventory, and we've talked about this before, but we are given the performance embedded in let's call it the operational elements of 80/20. We are -- for 90% plus of what we sell, you give us an order today we ship it tomorrow. So from the standpoint of channel inventory I think that's an advantage and from the standpoint of our channel partners in terms of minimizing their need to carry a lot of inventory. So I think it's one of the reasons why we tend to have these external market inflections one way or the other show up in our business quicker than maybe some others where there's more backlog involved. I think that's a real advantage. But I don't think we're going to talk to you about destocking or any of that stuff because I don't really think it's an issue from our standpoint given the relatively low level of inventory that are -- I mean there are some out there certainly, but it's not a material element given the way we're able to service our channel partners.
+David Raso -- Evercore ISI -- Analyst
+So that's interesting. You're saying the improvement in the inventory management 2Q to 3Q that we normally see, or again year-over-year, that was just normal course of business. You would say that was not any proactive --
+E. Scott Santi -- Chairman and Chief Executive Officer
+Correct. Without getting into a lot of detail, there is a self-correcting element to demands down where that all that stuff is -- we've talked about this before and we'll show to you in Fort Worth a little bit when we visit there, but essentially we are producing today what our customers bought yesterday, so there is no forward forecasting in our raw material replenishment. It's all basically replenishment from vendors. So it's essentially self-correcting to the demand environment, which is the reflection on what showed up or what you're looking at.
+David Raso -- Evercore ISI -- Analyst
+Lastly -- thank you. The portfolio management that half of the asset sales were still hoped to be done by the end of this year. Can you just give us an update on -- we're only a few months away. Is it a matter of the right partners? Is it still discussing the price? Just to make sure we're comfortable we still see some of those asset sales done by the end of this year. Thank you.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, it's a little bit of all of the above. I mean I think these processes are all in various stages in terms of negotiations and I think we've talked about our goal is to get half of these transactions completed this year and all of them completed by the end of next year. I would say in terms of overall financial impact, there may be some one-time gains on sale that I'm sure we're going to call those out and you can adjust our EPS numbers based on that. I think fundamentally from a financial standpoint as we look forward -- this is to 2020, the EBITDA that we are divesting here, that will essentially be offset by lower share count. So from an EPS standpoint, there really is no significant impact on the company. And then structurally when all of these are completed by 2020, which is certainly our goal, structurally, there is an element here of addition by subtraction as we've talked about, that's the 50 basis points of improvement in the organic growth rate at 100 basis points of improvement in our underlying operating margins.
+David Raso -- Evercore ISI -- Analyst
+Great, thank you.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Sure.
+Operator
+Your next question comes from Joseph Ritchie from Goldman Sachs. Your line is open.
+Joseph Ritchie -- Goldman Sachs -- Analyst
+Thanks. Good morning, everyone. So maybe asking David's question a little bit differently, and I know you don't want to give an explicit guide for 4Q, but if we think about the full-year guidance of 24% at the operating margin level, it implies that 4Q is going to be down year-over-year, call it roughly 50 to 60 basis points, and I'm trying to understand the moving pieces. So I recognize restructuring has now been increased for the fourth quarter, but there was also a $0.05 benefit from what I remember coming through in 4Q as well. And so maybe you can just kind of help me with the moving pieces year-over-year.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes. I mean, Joe, I'm not sure I can add much more to what I said previously, I mean with giving you the elements here, you're right. I mean higher restructuring we talked about. There's an assumption of lower volume, which includes -- we talked about extensively the GM impact. And then certainly we expect to see Enterprise Initiatives continue to contribute at a high level and price cost trends are positive. So I think those are kind of the pieces here. Again like I said, this is a -- things are in the round here. We're talking about decimal points of differences. And I wouldn't get too caught up in kind of this Q4 versus full-year margin number. I think for the full year, in a pretty challenging year, margins are essentially flat. If you take out the restructuring margins are improving year-over-year, specific Q3 40 basis points of margin improvement, decremental margins of 15%. And so I think the company is performing at a pretty high level. Just given the environment that we're in. So --
+E. Scott Santi -- Chairman and Chief Executive Officer
+And I'll just extend that. And nobody should in any way interpret any of this as saying we are not fully on track to taking our margins to where we think we can on a long-term basis by 2023.
+Joseph Ritchie -- Goldman Sachs -- Analyst
+Okay. And maybe I'm going to follow on that question then, Scott, as you kind of think about the moving pieces, I know you're going to give explicit guidance at the Analyst Day in March. But as you kind of think about the moving pieces, obviously commodities have become a little bit more of a tailwind for a lot of industrial companies. Your price cost finally turned positive, which is great. But there's also been additional investment spending that has been a bit more of a drag on the overall margin in recent years. And so maybe you can provide a little bit more of a bridge for next year and how we should be thinking about the different moving pieces as you guys see it.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well, I don't know that I can give you a lot in terms of specifics. We're going to give you our guidance, as Michael said, in January, we haven't even completed the planning process yet. We do that typically in November. So all I can tell you from the standpoint of moving pieces is for sure we have a backlog of enterprise initiatives projects, we expect continued margin improvement structurally from those, next year. I can't exactly dimension it for you yet because we haven't gone through the planning process. But I would say it would be in -- my sitting here today, my bet would be in line with what we did this year, which is a full point or so, give or take.
+And the other big question for next year is going to be, where does the volume go, in terms of the macro? This is a company that's really well set up in terms of leverage if we can get some volume growth going from the standpoint of end markets. But if we see further deceleration in 2020 then we'll react to it. I think we will operate well either way. And then these divestitures will because Michael said at a full point of margin performance as we worked through those and complete those by the end of next year.
+So I think from the standpoint of the overall margin profile of the company and our clarity of our path to the -- to where we said we were going to get 2023, I don't see anything that's often become a new obstacle to that, for sure.
+Operator
+Your next question comes from Stephen Volkmann from Jefferies.
+Stephen Volkmann -- Jefferies -- Analyst
+Just a couple of quick follow-ups. Michael, I think you sort of talked about this already, but you're not looking at any meaningful changes in things like PLS, enterprise initiatives, price cost etc. for the fourth quarter. That's not part of the equation here?
+Operator
+We are experiencing technical difficulties please stay on the line. [Technical Issues] And you're now reconnected.
+Stephen Volkmann -- Jefferies -- Analyst
+So I just had a couple of quick follow-ups. In the first one, Michael, I think you kind of touched on this stuff, but I just wanted to make sure you weren't forecasting any meaningful changes in the cadence of things like PLS, enterprise initiatives, price cost in the fourth quarter to kind of explain a little bit of that shift?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, that's correct. We're not -- that's what we're talking about.
+Stephen Volkmann -- Jefferies -- Analyst
+Okay, great. And then this is maybe a slightly annoying question but assuming you get 50% of your divestitures done by the end of this year, does that mean that 50% or 50 basis points of even-improvement flows into 2020 or are you potentially working on the bigger return projects first and it might be a little higher or perhaps lower even, I don't know.
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Yes, I mean, directionally, I'd say about half of the impact. If everything -- theoretically, if everything gets done by year-end 2019, so when I say everything, half of the projects that we're working on, they all get done by year-end, you will see approximately half of the benefit that I mentioned earlier in 2020. And then when everything is complete, as I say, we're targeting by the end of 2020. So 2021 will be the first year, where you would see a full 50 basis points of organic growth and 100 basis points of structural margin improvement. So hopefully that's clear. And then any EPS impact will be -- the goal is to complete the offset that. So you shouldn't see anything from an EPS standpoint. Yes, so one-time gain that will flow through, yes.
+Operator
+Your next question comes from [indecipherable] from Citi.
+Unidentified Participant
+So just going back to the segments here for a minute. You gave obviously some good color around the GM issues in North America, but if I look at auto OEM, they actually had a pretty nice rebound in organic there internationally. So can you give us more color on what's really going on in Europe and especially in China, where the out-performance versus builds really widened this quarter?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes. So I think in Europe, we talked about -- I think in the last call, things appeared to begin to stabilize in Europe and so we've gone from being down, kind of mid to high single digits to now flat as builds have recovered as well in Europe. So and then China was really the big out-performance. There is really -- as a result of continued penetration gains primarily with local Chinese OEMs. So even in a market where bills are down kind of in the mid-single digits here in Q3, we were able to outperform and grow our business 7%. So it's nothing new, it's really a continuation of the strategy that we've been pursuing there for many years so.
+Unidentified Participant
+Okay, that's helpful. And then maybe just stepping back bigger picture you -- at the last Analyst Day you categorized the divisions into three groups that you've talked about a bit. It's ready to grow and growing versus ready-to-grow, not-yet-growing versus long-term challenge. Now that we've had a bit of a hiccup in the macro, can you give us some more color on how each of those three groups of businesses have been performing for the current slowdown and whether you're seeing anything that changes how you might be thinking about the longer-term outlook for any of the particular businesses?
+E. Scott Santi -- Chairman and Chief Executive Officer
+We haven't seen anything that changes our view both the potential from the standpoint of the growth in any of those businesses and also in terms of the agenda and the things we need to do to get them to deliver growth to their full potential. We'll give you a really good update, I promise, when we meet in March, in terms of exactly how those different sets of businesses performed even through this period where there some macro pressure.
+Operator
+Your next question comes from Nigel Coe from Wolfe Research.
+Nigel Coe -- Wolfe Research -- Analyst
+I apologize. I'm going to go back to well in short of ground here. There is a lot of confusion about your -- what the messages on Q4 margins and if you take what you said, which is, point us toward the lower end of the range for obviously, what I understand, reasons. It does point to a 74% margin for 4Q. So we've got a higher structure as well, 30 basis points, based on the $0.03 impact, is it just simply lower volume and I'm asking, in the spirit of trying to clear up some confusion out there, is it simply lower volume in Q4 versus Q3 with some GM impact on top of that, but just -- if you just could clarify that point. That would be very helpful.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, so two things Nigel. So let me recap what I said earlier, maybe state it a little more clearly. So, one is typical seasonality if you go back and look our orders, our margin rates go down from Q3 to Q4, because the volume goes down. So that's one piece here. This -- the second piece is higher restructuring on a year-over-year basis. And then the third piece is lower volume. And so, including the potential GM impact that we quantified earlier. So it's really those three elements that are factored into the overall equation and our overall guidance. And even with those elements, we are within EPS, within organic growth guidance, and then we tweaked the margins for the full year, really to reflect everything I just talked about. And again we're talking about decimal points and rounding here.
+Nigel Coe -- Wolfe Research -- Analyst
+That's great, that's very helpful. And of course, another factor would be that you don't typically managed down inventory from Q3 to Q4. So therefore you could you got some production penalty there as well. And the shutdowns, especially in Europe. So I'm just curious, you did a great job of managing inventory mentioned that earlier in the call. Are you planning to take another, say, $50 million to $100 million inventory out in Q4, which is typically what you do?
+E. Scott Santi -- Chairman and Chief Executive Officer
+It would -- we don't have any forward plan to do that. As I said earlier, it's the system for us is essentially self-correcting to the level of demand that our businesses are experiencing week-to-week. And so in a way, I would say yes, because normally fourth quarter volumes dip from Q3 and therefore inventory naturally follows that path. And -- but it's more of a just with a -- in 20 operating system operates. It's not -- we're not have to tell people to do it.
+Operator
+Your next question comes from Mirc Dobre from Baird.
+Mirc Dobre -- Baird -- Analyst
+I will not ask about the margin in the fourth quarter, but I will ask for your revenue guidance. I'm not sure if I missed this, but you reduced revenue by $300 million versus the prior guidance, call it, a little over 2%. What were the moving pieces here in terms of FX, organic, if from GM, macro?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, I mean, the big difference is really the currency piece. So we have more headwind on the top line and on EPS relative to when we gave guidance in Q2. Really as a result of foreign exchange rates moving against us here since July, where we were on the last earnings call.
+Mirc Dobre -- Baird -- Analyst
+Okay. So that's -- it's all FX?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes.
+Mirc Dobre -- Baird -- Analyst
+And then my follow-up, going into segments again. I'm looking at the Welding business and to me, it's pretty remarkable that your volumes have grown in North America in the quarter. Certainly that's not what I'm hearing, when I'm talking to people in the industry and we all sort of see that, some big customers, especially on a heavy equipment side are cutting production. So I'm kind of wondering why that's happening and what you're hearing from your business operators there, are you taking share, are there some other dynamics or is it simply that the environment is not as dire as we're all thinking. And then maybe the flip side applies to Food Equipment, which has slowed. And I would think that, that market is not as macro sensitive maybe as Welding for instance.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, so let me start with the Welding. We characterize it as pretty stable. And just to be clear, our organic growth rates, we don't break out volume versus price. So that may be part of -- and I don't know what everybody else is saying at this point, but that may be part of the difference here on the Welding side. Food Equipment, we did continue to see solid growth on the institutional side, as we talk about restaurants flattish and then really the softness, if you want, in Food was on the retail side. And we can point to some specific orders that were pushed out to Q4. And so the underlying order rates on the Food Equipment side are pretty good. So that's why we -- how we try to characterize it earlier.
+Operator
+Your next question comes from Walter Liptak from Seaport Global.
+Walter Liptak -- Seaport Global -- Analyst
+I just -- just to follow on with the Food Equipment segment. The restaurants being flat. I think that was growing pretty rapidly for you guys in prior quarters. And you called out some CapEx things are slowing. I wonder if you can just provide some more color about what you're seeing in that restaurant segment?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Yes, I mean, I think, -- so we'll give you a lot more detail here in terms of the QSR side, fast casual actually showing -- continue to show really strong growth on a year-over-year basis. And it's really more of kind of the full service, I think like fine dining type, there was a little bit slower here in the quarter. But the rest and so net-net, we ended up at about flat on the restaurant side.
+Walter Liptak -- Seaport Global -- Analyst
+What gone -- that the flat, I think was down from prior quarters. I think you guys were up high single-digits in the first half. Was there something that slowed?
+E. Scott Santi -- Chairman and Chief Executive Officer
+I have to go back and look, I mean with and how comps played into that. I mean I think the best I can tell you is the description I just gave you. I think comps [Technical Issues] and are the main driver, but we can follow up on that.
+Walter Liptak -- Seaport Global -- Analyst
+Okay. Okay, all right, thank you guys.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Sure.
+Operator
+Your next question comes from Josh Pokrzywinski from Morgan Stanley. Your line is open.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Hi, good morning guys.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Good morning.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+First question, maybe to help level set on some of this price cost. Michael, I think if I look back historically, we're in the zip code of where price cost is normally topped out in deflationary environments in this 20 basis points, maybe 30 basis point range. Is there something that governs that system based on the mix of business from going higher? Or should we think about something in the zip code is being historically more of a high-end then, then something that can go higher?
+E. Scott Santi -- Chairman and Chief Executive Officer
+I think historically, our goal has always been to just offset any material cost inflation with price. And that's what we've done so far this year. If you're asking whether things are going to accelerate from here in terms of the 20 basis points of price cost, I wouldn't make that assumption if that's your question.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Got it, that's helpful. And then, just a follow-up. Thinking about the auto side, but maybe more in Europe where we have some changes coming down the road on emissions, and maybe some of the OEMs get a little pinched on mix next year. Have there been any discussions about any mix changes or folks getting more aggressive on pushing back on price than usual, just as a function of some of the margin challenges the OEMs will be going through next year? Thanks.
+E. Scott Santi -- Chairman and Chief Executive Officer
+We haven't gone through annual plans yet. But, I would be very surprised if we heard somebody describe the environment, the way you just did. So I think we --
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+I don't know how you can push back more.
+E. Scott Santi -- Chairman and Chief Executive Officer
+But, I think we -- this is a tough industry and in automotive, our positioning as a very niche value-added solutions provider, fueled by innovation and thousands of patents, that's how we generate price in automotive. But, the cost pressures will always remain and that hasn't changed. I'd be surprised if that would change on a go-forward basis.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Got it, thanks. I'll leave it there.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Sure.
+Operator
+Your next question comes from Steven Fisher from UBS. Your line is open.
+Steven Fisher -- UBS -- Analyst
+Thanks, good morning. I just wanted to clarify the non-residential construction versus the resi-comments you made there, where you said resi was up and non-resi down. Can you just clarify, was that specifically North America or more broadly? And then, can you give a little more color on what parts of the non-res market are driving that lower?
+E. Scott Santi -- Chairman and Chief Executive Officer
+Like I said, this was a North America comment. And the residential remodel side continues to be really solid, and that's where we experienced 4% growth here in the quarter. And that's really the, what we call the aid of the business, that's the bulk of the business in North America. The commercial side can be a little lumpier, there is a project business in there. One of the products that we provide as we pour concrete floors for warehouses and data centers and some of those projects can move in and out of the quarter and this quarter, that business was down in the low to mid-teens and kind of offset and so North America ended up basically flat. Let me just clarify. We make products that people use that for those floors. We don't pour, we make the concrete.
+Steven Fisher -- UBS -- Analyst
+Understood. And then, just related to the auto side of the business, how does your content per vehicle for 2020 look relative to 2019. I imagine, at this point, you had some view of that. Just curious what kind of growth you had in the bag already from a content perspective?
+E. Scott Santi -- Chairman and Chief Executive Officer
+The content, as we've talked about before, is locked in for the next two to three years. So, that content growth, obviously we don't know what the auto builds are going to be, but in terms of new product launches and content, new vehicles, the whole business is geared around 200 to 400 basis points of above market growth, as a result of continued penetration gains. Obviously, that number is higher in China, as you saw this quarter again and have seen for many years. But, on average it's in that 200 to 400 basis points range and that hasn't changed.
+Steven Fisher -- UBS -- Analyst
+Okay, thank you very much.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Sure.
+Operator
+Your last question comes from Nathan Jones from Stifel. Your line is open.
+Nathan Jones -- Stifel -- Analyst
+Good morning, everyone. Thanks for fitting me in.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Sure.
+Nathan Jones -- Stifel -- Analyst
+Michael, you made a comment that I don't think anybody's asked you about, that Test & Measurement and Electronics orders were actually pretty good. I think that's probably a bit surprising, given the soft CapEx environment. Can you maybe talk a little bit more about what was driving that, whether just some timing impacts there or it's more of an improving trend you're seeing?
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+If you look at the Test and Measurement business, down 4%, but up 1% excluding the semi business, we've seen actually a couple of good months here on the semi side from an order standpoint and then, Electronics business is down really primarily driven by electronic assembly. Here is similar to what we talked about earlier, we had some orders that were deferred from Q3 into Q4. But the MRO side inside of electronics are more, I think like, clean room technology is pretty stable. But again, the pressure is really more on the equipment side. But again, the order rates somewhat encouraging as we head into Q4. And, if you look at historical, Q4 is always the biggest quarter for the Test and Measurement business. That's probably as much color as I can give you.
+Nathan Jones -- Stifel -- Analyst
+Okay. And, my follow-up question on enterprise initiatives, you are looking for a full point this year, a full point next year. If I think back a couple of years to your Analyst Day in 2017, I think you said 2018 would be 100 basis points, 2019 would be half that. And then, you thought the margin tailwind from Enterprise Initiatives would be over. But clearly you're outperforming that. Maybe you could just talk a little bit about the kinds of things that you're found over time to continue to drive that and whether there is an expectation that you can continue to drive margin improvement out of AI past 2020.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Well, I think that's a great question and I think we'll be spending a bit of time on that at Investor Day. I think, part of what's going on here is, 80-20, the core element here is that of continuous improvement. And I think the more work we do in this area, the better we get at 80-20, the better the raw material in terms of the underlying businesses, the more opportunity we find. And so, if you recall, all the way back to when we launched the enterprise strategy, the goal was to get to 20% EBIT margins. Today we're sitting in the mid '20s with the clear path to 28% in the not too distant future. And it's not that we knew all along that's what we are going to end up. It's really that we keep getting better and better at 80-20, and 80-20 today as our operating system is more powerful than it's ever been in the history of the company and it continues to evolve. I can't give you specifics in terms of basis points for next year yet, but we expect to continue to make progress consistent with what we've done over the last six years. And I'll just point to one more data point, if you look at, this is not one or two segments driving this, this is really broad-based. I think we said between 80 and 190 basis points across the segments. That gives me, to give you, some confidence for sure that there is a lot more opportunity to come here from a margin standpoint.
+Nathan Jones -- Stifel -- Analyst
+Very helpful, thanks very much.
+E. Scott Santi -- Chairman and Chief Executive Officer
+Okay, great. Thank you.
+Operator
+We have no further questions. I turn the call back over to Karen Fletcher for closing remarks.
+Karen A. Fletcher -- Vice President of Investor Relations
+Okay, thanks. Julianne. Thanks for joining us on the call this morning. Feel free to reach out to me if you have any further questions. Thank you.
+Operator
+[Operator Closing Remarks]
+Duration: 64 minutes
+Karen A. Fletcher -- Vice President of Investor Relations
+E. Scott Santi -- Chairman and Chief Executive Officer
+Michael M. Larsen -- Senior Vice President and Chief Financial Officer
+Ann Duignan -- JP Morgan -- Analyst
+John Inch -- Gordon Haskett -- Analyst
+Jamie Cook -- Credit Suisse -- Analyst
+Andy Casey -- Wells Fargo Securities -- Analyst
+David Raso -- Evercore ISI -- Analyst
+Joseph Ritchie -- Goldman Sachs -- Analyst
+Stephen Volkmann -- Jefferies -- Analyst
+Unidentified Participant
+Nigel Coe -- Wolfe Research -- Analyst
+Mirc Dobre -- Baird -- Analyst
+Walter Liptak -- Seaport Global -- Analyst
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Steven Fisher -- UBS -- Analyst
+Nathan Jones -- Stifel -- Analyst
+
+More ITW analysis
+All earnings call transcripts
+
+
+
+
+

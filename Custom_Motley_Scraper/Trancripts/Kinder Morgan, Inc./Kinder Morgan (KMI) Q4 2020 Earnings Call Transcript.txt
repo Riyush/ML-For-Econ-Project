@@ -1,0 +1,369 @@
+Image source: The Motley Fool.
+Kinder Morgan (KMI -0.06%)Q4 2020 Earnings CallJan 20, 2021, 4:30 p.m. ET
+Operator
+Welcome to the quarterly earnings conference call. [Operator instructions] I would like to inform all parties that today's conference is being recorded. If you have any objections, you may disconnect at this time. I will now turn the call over to Mr.
+Richard Kinder, executive chairman of Kinder Morgan.
+Rich Kinder -- Co-Founder and Executive Chairman
+Thank you, Denise, and -- and good afternoon. Before we begin, as usual, I'd like to remind you that KMI's earnings release today and this call include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and the Securities and Exchange Act of 1934, as well as certain non-GAAP financial measures. Before making any investment decisions, we strongly encourage you to read our full disclosures on forward-looking statements and use of non-GAAP financial measures set forth at the end of our earnings release, as well as review our latest filings with the SEC for important material assumptions, expectations, and risk factors that may cause actual results to differ materially from those anticipated and described in such forward-looking statements. Before turning the call over to Steve and the rest of the team, I just make a short statement before because we now have actual results for the full-year 2020 and have released our preliminary outlook for 2021, this is a good time in my judgment to examine both our current results and future outlook at Kinder Morgan.
+It seems to me that the clear takeaway is the strength of the cash flow, which allows us in both years to fund our dividend and all discretionary capex and internally generated funds and still have significant cash left to pay down debt and buyback shares. This remains at the core of our financial strategy and should be comforting to our shareholder base as it demonstrates our ability to return value to our shareholders even under adverse conditions like we experienced in 2020. I would make two additional important points. Number one, there is a long runway for the products we moved through our pipelines, particularly natural gas.
+
+And as the world transitions to a future of lower emissions, my second point is that our assets are well-positioned to participate in that transition. We'll discuss all these subjects in detail in our upcoming virtual Investor Conference on January 27. And I look forward to your participation. Steve. 
+Steve Kean -- Chief Executive Officer
+Thanks, Rich. So I'll give you a brief look back on what we accomplished in 2020, a look ahead on 2021 and beyond, which is -- which that we'll cover in greater detail at our Annual Investor Day next week. Then I'll turn over to our president, Kim Dang, to cover the business updates. Our CFO, David Michels, as usual, will take you through the financials, and then we'll take your questions.
+2020 has shown us how important it is to have our priorities and principles straight. We kept our focus throughout the year on keeping our co-workers safe and on keeping our essential assets running for the people, businesses, and communities that depend on us. Like everyone in our sector, we didn't shut down. We kept running, adjusting our operating procedures on the fly to keep people safe while we helped utilities and factories and other businesses keep running and serving our communities during the pandemic.
+The pandemic and the downturn in U.S. energy markets impacted us for sure, but we were still able to maintain our financial principles, which remained the same. First, maintaining a strong balance sheet. We managed to reduce net debt by almost another $1 billion, taking our overall net debt reduction over the last five years to well over $10 billion, $10.8 billion, since Q1 of 2015.
+And achieving and maintaining our triple B flat credit rating. Second, we maintained our capital discipline through our return criteria, a good track record of execution, and by self-funding our investments. On that front, we evaluated all of our 2020 expansion capital projects and reduced capex by about $700 million from our 2020 budget, or about 30%, in response to the changing conditions in our markets while still completing our largest project, the Permian Highway Pipeline, in the face of substantial opposition and in the middle of the global pandemic. We're also maintaining our cost discipline.
+We achieved about $190 million of expense in sustaining capital savings for 2020. That includes deferrals. We view about $119 million or so as -- as permanent reductions for the year. The result of this work on our capital budget -- budget and our costs is that our DCF less discretionary capital spend has actually improved versus our plan, and when compared to 2019 as well.
+About $200 million better versus our plan and about $665 million better than 2019, notwithstanding what was going on in U.S. energy. So we more than offset the degradation to our DCF with spending and capital investment cuts in 2020. And the following is noteworthy, too, I think.
+Our DCF less discretionary capital was $2.2 billion in 2019. It grew to $2.9 billion in 2020, and is $3.65 billion in our budget for 2021. Finally, we're returning value to shareholders with the 5% year-over-year dividend increase to $1.05 annualized for 2020, providing an increase for well-covered dividend that the board plans to raise to $1.08 declared in 2021 and as contemplated in our approved 2021 budget. So a strong balance sheet, capital and cost discipline, returning value to our shareholders.
+Those are the principles we continue to operate by. So in addition to completing the Permian Highway Pipeline, we also achieved some other milestones which we believe are going to lead to long-term distinction. We're already an efficient operator, but we're getting more efficient and cost-effective as I mentioned. We believe that's one of the keys to success in our business for the long term.
+During 2020, we completed a full review of how we're organized and how we operate. We centralized certain functions in order to be more efficient and effective. And we made appropriate changes to how we manage and how we're staffed. And we are achieving, as a result, substantial savings as we described in our guidance release in December and which will also cover next week.
+We're also building what we believe is a more effective organization for the future. The centralization of certain functions will enable us to spre -- spread our best practices throughout the organization in project management and permitting, safety, pipeline integrity, ESG, and other core functions. We also published our third ESG report during the fourth quarter. We've incorporated ESG reporting and risk management into our existing management processes.
+Sustainalytics has ranked us No. 1 in our sector for how we manage ESG risk. And our updated MSCI rating also improved dramatically. These things are all important to our long-term success.
+Being a responsible, effective, and efficient operator, with the ability to complete large projects under extremely difficult circumstances. That we were able to do all of this during a pandemic and a difficult U.S. energy market backdrop is a testament to the strength and resilience of our people, our leaders, and our culture. All this positions us well for the future, and we'll be talking about this in more detail at the conference.
+But here are a few thoughts on what the opportunities look like. First, there are the things that we're already doing that are likely to grow as time goes on. First on that list is our largest business, natural gas, which will continue to be needed to serve domestic needs and export facilities for a long time to come. And it will continue to reduce GHG emissions as we expand its use around the country and the globe.
+Related to that is the enabling role that our natural gas assets play in supporting intermittent renewable resources in the generation stack. Most important to us is the value of what we do, which is less about providing the commodity and more about providing the transportation and storage capacity or deliverability. That value increases as more intermittent resources are relied on for power generation. Natural gas is clean, affordable, and reliable, and -- and pipelines deliver that commodity by the safest, most efficient, most environmentally sound means.
+Also, we're making our low methane emissions performance part of our marketing as responsibly produced and transported natural gas. That's a very good synergy between our ESG performance, which is in part about lowering methane emissions, and our commercial opportunities, distinguishing ourselves as an environmentally responsible provider. This is important, for example, not only to our domestic customers but to our customers serving international markets. Also, among the energy transition businesses that we participate in today is the storage, handling, and blending of liquid renewable transportation fuels in our products pipelines and terminals segments.
+We've handled ethanol and biodiesel for a long time. Today, we're handling about 240,000 barrels a day and a 900,000 barrel a day ethanol market for example. We also handle renewable diesel today. That's part of our business -- that is a part of our business that is ripe for expansion on attractive returns.
+Moving out, the next concentric circle of opportunities is a set of things that we can largely use our existing assets and expertise to accomplish. Those include things like blending hydrogen in our existing natural gas network and transporting and sequestering CO2. A further step out would be businesses that we might participate in if the returns are attractive such as hydrogen production, renewable diesel production, and carbon capture from industrial and power plant sources. As always, we will be disciplined, investing when returns are attractive in operations that we are confident we can build and manage safely, reliably, and efficiently.
+We will not be chasing press releases. Energy transitions for a variety of reasons take a very long time. We'll look hard as we leave. You'll hear more details from Kim and the business unit presidents about all this at next week's conference.
+We believe the winners in our sector will have strong balance sheets, low-cost operations that are safe and environmentally sound, and the ability to get things done in difficult circumstances. We're proud of our team and our culture, and as always, we'll evolve to meet the challenges and opportunities. And with that, I'll it turn over to Kim. 
+Kim Dang -- President
+Hey, thanks, Steve. I'm going to get through our business units today. First, starting with natural gas. Transport volumes were down 2%, or approximately 600,000 dekatherms per day, versus the fourth quarter of 2019, and that was driven primarily by declines in Rockies production and increases in transportation alternatives out of the Permian Basin.
+These declines were partially offset by higher volume, driven by increased demand for LNG exports and industrial customers. Our physical deliveries to LNG facilities off of our pipes averaged almost 5 million dekatherms per day. That's a 50% increase versus the fourth quarter of 2019. That's a big increase versus the third quarter of this year, and it's above Q1 2020, which was largely unaffected by the pandemic.
+For 2020, Kinder Morgan pipes moved well over 40% of the volume to LNG export facilities. Exports to Mexico were up about 4% when you compare it to the fourth-quarter 2019. For 2020, our share of Mexico deliveries ran over 55%. Overall, deliveries to power plants were down about 2%.
+Our natural gas gathering volumes were down about 20% in the quarter compared to the fourth quarter of 2019. For gathering volumes, I think the more informative comparison is first is the immediately prior quarter, so the third quarter of 2020. And compared to the third quarter of 2020, volumes were down about 3%. Kinderhaar, which serves the Haynesville, was down due to lack of drilling and declines in existing wells.
+However, we're still expecting based on our conversations with producers to see new drilling in that basin this year. Eagle Ford volumes were also down. The bright spot again this quarter was our Hiland system in the Bakken. Volumes there were up well over 20% versus the third quarter of this year.
+On the project side, as Steve said, we completed PHP. We placed that into service on January 1 of this year, which is a really amazing accomplishment by our team. We fought through multiple legal attempts to delay or stop the pipeline, including one request for a temporary restraining order and three preliminary injunction request. Permits took longer than they have historically, and therefore, we received the key permit approximately four and a half months later than what we anticipated.
+Yet, despite the legal department and the other challenges we faced, the pipe -- we put the pipeline in service just three months later than our original schedule. In our products pipeline segment, refined products volumes were down about 13% for the quarter versus the fourth quarter of 2019 as a result of the continued pandemic impact. The fourth -- the 13% very close to the fourth-quarter EIA number. Our gasoline volumes were off about 10%.
+Jet volumes remained weak of 47%. But diesel was up about 7%. Looking at the most recent data, volumes in December were down about 17% versus December of 2019. That's not surprising given the rise in COVID cases.
+And right now, projected January volumes are currently estimated to be down about 13% versus January of 2020. Next week in the Investors Conference, we'll take you through all of our 2020 budget assumptions in detail, including our refined product volume assumptions. Crude and condensate volumes were down about 26% on the quarter versus 2019, and down about 6% over the third quarter. The one bright spot similar to what we saw in natural gas gathering was in the Bakken where a gathering -- crude gathering volumes were up slightly.
+In terminals, refined product volume throughput continues to reflect reduced demand due to the pandemic. But they've recovered since the second half of this year. The impact of throughput volumes on the segment is mitigated by our fixed take-or-pay contracts per tank capacity. Our liquids utilization percentage, which reflects the percent of tanks we have under contract, remains high at 95%.
+If you exclude the tanks out of service for a required inspection, utilization is 98%. Given the pandemic, we did see some weakness on our Jones Act tanker business, but that was offset by incremental earnings from expansion projects. The bulk side of the business, which accounts for roughly 20% of the terminals' earnings, to a strong rebound in steel volumes. Industrywide, mill utilization improved to over 70%, from the lows of 50% in the second quarter.
+And CO2, oil part -- all production was down approximately 16% and CO2 sales volumes were down about 35%. Our team's done a tremendous job here of adjusting to the current environment, finding cost savings, and cutting noneconomic capex to more than offset the degradation in segment performance. As a result, full-year 2020 DCF less capex for this segment of $466 million was over $100 million better than 2019 and over $40 million better than budget. The last thing I'll point out for you is that for the full year, we were only off $10 million versus the DCF guidance that we gave you in April when the pandemic began.
+There were lots of puts and takes for sure and [Inaudible] was slightly weaker, but amazingly close overall. And with that, I'll turn it over to David Michels.
+David Michels -- Chief Financial Officer
+All right. Thank you, Kim. So for the fourth quarter of 2020, we're declaring a dividend of $0.2625 per share, or $1.05 annualized, which is flat with last quarter, and 5% up from the fourth quarter of 2019. Moving on to the fourth-quarter 2020 performance versus the fourth-quarter 2019.
+In the fourth quarter of 2019, there were a few items that were categorized as certain items. The certain items captured in gain-loss on divestitures and impairments, earnings loss from equity investments, and higher income expenses, all nearly offset within the fourth quarter of 2019. That leaves us with $237 million of lower revenues in the fourth-quarter 2020 versus the fourth-quarter of 2019, offset by lower [Inaudible] expenses, lower depreciation expense, and lower interest expense, which explains why net income attributable to KMI of $607 million is about flat with Q4 2019. Our adjusted earnings of 604 is three -- is -- is 3% is about flat with Q4 2019, and our adjusted earnings per share of $0.27 for the quarter is up $0.01 for -- from the prior year.
+Moving on to DCF. Natural gas was down $59 million for the quarter. Lower contributions were driven by the sale of our coaching pipeline, along with lower contributions from multiple gathering and processing assets, and those were partially offset by greater contributions from our Texas Intrastate systems, as well as expansion project contributions. The product segment was down $64 million, driven by lower refined product volumes and lower crude and condensate volumes, driven mainly due to the continued demand impacts from the pandemic.
+The terminals segment was down $32 million, which was driven by the sale of KML, lower refined product, and lower contributions from our Jones Act vessels. Contributions from expansion projects placed in service partially offset those items. Our CO2 segment was down $18 million and that's due to -- that was due to lower oil and CO2 sales volumes, partially offset by lower operating costs and improve year-over-year realized pricing. That brings us to adjusted EBITDA of $183 million, or 9% lower than Q4 2019.
+The low EBITDA interest expense was --was $63 million favorable, which was driven by lower floating rate -- exceeded by a lower floating rate, benefiting our interest rate swaps, as well as lower overall debt balance and lower rates on our -- our long-term debt. Sustaining capital was a favorable $30 million, driven largely by deferrals in the terminals segment. The other item includes increased ca -- pat -- cash pension contributions in -- in the Q4 2020 versus Q4 of last year of 2019. Total DCF of $1.25 billion is down $104 million or 8%.
+DCF per share of $0.55 is down $0.04 from last year. Moving onto the balance sheet. The end of the year with a 4.6 times debt to EBITDA level, which is the same as last quarter and up from 4.3 as of year-end 2019. We ended the year with $1.2 billion of cash on hand, which will allow us to easily manage our -- our maturing debt during the year this year.
+We've already used some of that cash to repay $750 million of debt maturing in the first quarter. So that leaves us with just $1.65 billion of debt maturing for the rest of the year. So we have very strong liquidity. We have an undrawn $4 billion credit facility, and we also expect to generate $1.2 billion of DCF aft -- after capex and dividends in 2021.
+Our net debt ended the quarter and ended the year at $32.0 billion, which is down 900 and almost 90 million from year-end, and down $556 million from last quarter. And as Steve mentioned, our net debt is now down $10.8 billion since the first quarter of 2015. To reconcile the quarterly change in -- in net debt, we had $1.25 billion of DCF. We paid dividends of $600 million.
+We contributed or -- or paid or contributed JV contributions to growth capital of $250 million. We received proceeds from our asset sales of $200 million. And we had a working capital use of $50 million in the quarter, which explains the majority of that $556 million change in net debt. From year-end 2019 to year-end 2020, we -- we generated DCF of $4.597 billion.
+We had the Permian share sale in Q -- Q1 of $900 million. We have a $200 million of asset sales. We paid dividends of $2.37 billion. We had growth capital on JV contributions of $1.65 billion.
+We had our taxes on -- on the Trans Mountain sale and Panama shares of $260 million. We repurchased $50 million of KMI shares. And we had a working capital use of $385 million for the year, which explains the majority of the $989 million dollar reduction in net debt for the -- for the year. And that completes the financial quarterly review.
+Back to you, Steve. 
+Steve Kean -- Chief Executive Officer
+OK. So, Denise, we'll open it up for questions now and I would ask, again, one question and a follow-up. And then if you have -- as a courtesy to our other callers, and if you have additional questions, get back in the queue and we will come back around to you. Well, let's open it up, Denise.
+Operator
+Thank you. [Operator instructions] Our first question does come from Jeremy Tonet with J.P. Morgan. Your line is open.
+Steve Kean -- Chief Executive Officer
+Hey, Jeremy.
+Unknown speaker
+Hi, good morning. 
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Hi, good afternoon. Thanks for taking my questions here. Just want to start off with the high-level questions here, and you've laid out some pieces for a kind of dividend growth expectations. But just wondering capital allocation philosophy overall.
+If you could refresh us on how you're thinking about that when it comes to dividend increases versus buybacks? And also seems like the markets continue looking for lower leverage here, so that the multiple can be attributed more to the equity side than the debt side. So just wondering how those different things work together and the industries still seems ripe for consolidation. So wondering if you could refresh us on that.
+Steve Kean -- Chief Executive Officer
+OK. Yeah, sure. I mean as I think we covered here. We've done a lot of work on the balance sheet, have ourselves in what we believe is a very good position with the triple B flat rating, with all the -- the net debt reduction that we've done over the years, in -- in -- including this year, and we feel like we're in a very good place there.
+And as we've examined that and -- and applying additional debt reduction to achieve an upgrade or whatever. We don't really see much of a cost of capital benefit for our equity investors resulting from that, so we do think we're in a very good place there, and so that -- that gives us the opportunity then think about expansion capital projects. We exhaust the good returning, high returning, nice margin above -- above our weighted average cost of capital on those returns. Those opportunities are less than they were in years past, and so we're funding the ones that makes sense to fund, and that leaves us with a substantial amount of cash available after that.
+And so we've increased the dividend from the value of $1.05 and now $1.08 expectation for 2021, and leaving room for as much as $450 million in share repurchases. So I think we've done the right things by the balance sheet. We're funding the things that add to the value of the firm in terms of additional projects where those makes sense. We're not stretching that.
+If they don't make sense, we're not doing them. And then we don't sit on the cash that we have, we look for ways to return that to our shareholders. And -- and as you know, I mean the -- the evaluation between those two, dividend versus share buybacks and dividend, there's -- there's a good reliable return of value to shareholders in that. There's not as much flexibility on it.
+So we've opted to have some flexibility to do share buybacks. And that's how we've laid it out. In terms of the consolidation opportunities, our answer is pretty much the same there. We continue to look at those opportunities.
+The industry has been ripe for consolidation for years one might say. Not sure what the catalyzing event turns out to be there. But it's something that we look at and evaluate. It's got to meet a number of criteria.
+It has to deliver real value to our investors, of course. Has to be in businesses that we're confident that we can run safely, reliably, and efficiently, of course. It has to be accretive and it also can't mess up our balance sheet, which as we've looked at it, we've got to at least be leverage neutral. And if anything, maybe leverage accretive.
+And so our -- our discipline there continues to be very robust.
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Got it. That's very helpful. And then maybe just one last one on ESG side if I could. Just wondering, in your conversations with the ESG raters, with ESG investors, do you think they see the role for natural gas and energy transition the same way that you guys have outlined it here? Did they -- did they buy into that? And do you guys have internal views I guess on Scope 3 emissions, how natural gas compares to renewables? And when you have these conversations with -- with those stakeholders, do they see things similar to you guys?
+Steve Kean -- Chief Executive Officer
+Yeah. So I -- I will -- there's a lot of diversity as you know, Jeremy, in how people are evaluating this. I think the -- the ratings show that we are doing an effective job of communicating our ESG measures and managing our ESG risk. Our rating is based on how we're managing ESG risk.
+It's not based on having a really great ESG report. It's about how we manage that risk. I think a lot of people recognized the need for natural gas and the value that natural gas has brought to the environment over the years. If you look back in 2017, we were six gigatons of annual emissions, CO2 equivalent emissions.
+We're now down to 5.1. And a big part of that in an -- in an -- an economy that's grown over that period, a big part of that has been the role that natural gas has played in power generation. And so yes, there are people who recognize the role of natural gas and also how we're doing with our ESG risk management, and we are in ESG funds as a result of that. Now, that's not a universally held view, but -- but it is -- it is something that we're proud of and that we continue to continue to elaborate on with investors and continue to respond to questions and concerns as there's -- as they are raised by the investment community.
+You make a very good -- you asked a very good question about Scope 3 emissions. One of the -- one of the real advantages, and it's an -- an extremely stubborn advantage of hydrocarbons, is that it's a very energy dense form of energy. And so that means that a relatively small footprint and a relatively small amount of capital. You can get an awful lot of energy for -- from a power plant, for example, a natural gas power plant, and it takes acres and acres and acres of solar panels and windmills to make that up.
+And because of the lack of energy density, an awful lot of manufacturing. A lot of mining, a lot of manufacturing, a lot of disposal costs associated with building that up. And so once we get to a point, a point that we're not at just yet. But once we get to a point, I think where the public discourse around ESG expands to include those measurements on renewables, it brings natural gas much closer in -- in terms of environmental impact.
+Look, we work with renewable companies. We work with the utilities who are increasing their renewable portfolios. We believe that our business plays an important enabling role there. But there is a lot more to it, I would say, the natural gas story, once you take everything into account. 
+Jeremy Tonet -- J.P. Morgan -- Analyst
+That's very helpful. I'll stop there. Thank you.
+Operator
+Thank you. And the next question comes from Shneur Gershuni from UBS. Your line is open.
+Shneur Gershuni -- UBS -- Analyst
+Happy New Year, everyone. Good to see you all or speak to you all. I guess to -- to start off, I was wondering if -- if we can sort of talk about sort of the trends that you're seeing, specifically for per volume trends I guess in the byproducts and so forth. Lo -- look pretty decent when you consider the fact that COVID cases were going up.
+'21, it's kind of started off well and so forth. When I think about the expectations that you've laid out in December, how -- how do you -- how would you say that Kinder Morgan is tracking thus far? And I -- I recognize it's early and you'll provide more depth on the guidance inputs next week. But just curious about sort of the trends at the end of December with early January. How are you -- how are you tracking thus far? Is it kind of in line with what you expected or cautiously optimistic? Just any commentary on that would be helpful. 
+Steve Kean -- Chief Executive Officer
+OK. Kim, you want to -- you want to start on that? 
+Kim Dang -- President
+Yeah. Hey, Shneur. I think we'll go through all the assumptions next week. I noted that the volumes in January are down 13% versus January of 2020.
+Picked up slightly weaker -- slightly weaker than what we -- what we planned. Our hope is that once you get the vaccine distributed, that some of those volumes will come back. When we look at how much volumes are off comparing one month versus the month in the prior year. You go back to October and November.
+We were down like I think in October, it's like 11% maybe. And so hopefully, once we get the vaccine distributed more widely, then we'll see some improvement in those numbers. But slightly weaker than -- than what we budgeted, but very early. On the other hand, I'd say -- on the other hand, there are some -- some branches, that would be on CO2, with the -- the stronger oil prices.
+There's a -- there's a little bit of upside on price if -- if those prices were to hold. Volumes with SACROC have -- have been pretty strong and stable over the last couple of months. We've seen a small amount of incremental CO2 sales volumes versus what we're expecting. So there are a number of puts and takes there and we can get through those next week.
+Shneur Gershuni -- UBS -- Analyst
+Fair enough. I appreciate that. And -- and maybe as a follow-up, I was just wondering if we return back to the -- the buyback question. You -- you've -- you've highlighted $450 million of opportunistic buyback capacity, and so I kind of -- I -- I guess a two-part question here.
+Should we -- as we sort of think about the word opportunistic, should we be thinking about or watching for a quicker return of volumes as that's what creates the opportunity versus the actual stock price? And then secondly, when we sort of think about that capacity, it sort of translates into roughly 50% of your free cash flow after dividends. I -- is that kind of the expectation now you're thinking about being tackled to get pay down half goes to buybacks if there's an opportunistic opportunity?
+Steve Kean -- Chief Executive Officer
+Yes. So I'll start and then ask David if you want to elaborate at all. So opportunistic is kind of purposely open, right? We -- we're not talking about a specific target price or -- or a particular interim target. So we have principles that we are adhering to, which is that we -- we want to maintain a strong balance sheet.
+And so that's -- that's always a consideration. And we want to -- we want to procure the -- the shares on what we believe is an attractive return. But beyond that, we're not saying much more than opportunistic, meaning we're not programmatic and we're not specifying a target for the market out there. But we've got the capacity.
+And I'll just say, it's good to be in a position to have this capacity in light of all of the -- the work that has been done on the balance sheet. We'll do it opportunistically and based on return expectations, and, again, not publishing a target. David, anything I missed there?
+David Michels -- Chief Financial Officer
+Just -- just to -- to follow up on Shneur's other piece there about, Shneur, you'd said about half of -- of our available cash -- if you take DCF after capital after dividends, it's about $1.2 billion, so the 450 is a little bit less than half. So 750 of that is kind of dedicated to the balance sheet. And so we're -- we are being pretty thoughtful about allocating the -- the -- the cash flow that we're generating in the year to the balance sheet. And then, as Steve covered, we'll be opportunistic on about some of buybacks. 
+Shneur Gershuni -- UBS -- Analyst
+Perfect. Thank you very much, guys, really appreciate the -- the color. I'm looking forward to chatting next week at the virtual Investor Day.
+Steve Kean -- Chief Executive Officer
+Thank you. 
+Operator
+Thank you. And the next question comes from Spiro Dounis. Your line -- from Credit Suisse. Your line is open.
+Spiro Dounis -- Credit Suisse -- Analyst
+ Hey, afternoon, everyone. Happy New Year. Wanted to follow up on -- on Shneur's first question. Just look at the macro outlook an improvement since you all guided to in December.
+So I'm just curious if producers have changed their tone or their attitude on growth a -- and at all since that time? I know, Kim, you mentioned ongoing discussions in the Haynesville. Curious if you're seeing positive momentum elsewhere since December. And then maybe how you think about the direction of capex next year if we do see increased activity? 
+Steve Kean -- Chief Executive Officer
+Kim. 
+Kim Dang -- President
+Sure. I think it's -- it's different based on -- on the basin. And so in -- in the Bakken, we've seen the year get off to -- to a good start. I think we've finished the fourth quarter a little bit better than we were thinking.
+The year is off to a good start. The Eagle Ford has still been weak. If you look at the Permian, the rig count there, that's where most of the rigs have been added since you came off the lows in -- in August. And by our calculations, you're getting close to a rig level in the Permian that can get you back to flat volumes to where we were pre-pandemic.
+That won't happen immediately. They'll take time. They'll take time to get there. And so I think with respect to -- to producers and -- and their guidance, I'd say a couple of things.
+One, I think they have to feel like that or based on our conversations, they -- they need to feel like that these -- the prices, and especially on the crude side, are going to stay strong for -- for a long period of time. And right now, you've got the --the Saudis and others holding a lot of barrels off the market. And so that creates price uncertainty. I also think the producers are very focused on free cash flow, and so it's not clear how much they would -- how much they would ramp up capex in response to -- in response to increasing prices.
+So I think a lot more to come there as we get into the year.
+Spiro Dounis -- Credit Suisse -- Analyst
+OK, fair enough. Second question on -- on ESG. Steve, I appreciate your comments there and -- and laying out some of those new items and initiatives. And just want to focus specifically on the ones that would require a bit of a step out on your part that a much, maybe higher return hurdle if -- if they're there.
+I'm just wondering on that ESG strategy. Do you contemplate M&A being a part of that specifically or do you feel like you have enough of the internal core competen -- competencies to execute that organically? And -- and then just quickly relate to this in terms of timing. How should we be thinking about the timing of when those initiatives start to materialize and actually start to really show up in the capex budget?
+Steve Kean -- Chief Executive Officer
+OK. Yeah. So distinguish between several different kinds of opportunities. When you think about responsibly sourced natural gas, that's something we're out there marketing today.
+When you think about blending hydrogen in, and to the extent that that becomes available, or moving renewable natural gas, which is something that we already do today. The quantities are very small. But when it comes to originating and doing that kind of business, we're already very well-fixed to do that within our existing business units. That -- that extends also to things like additional renewable liquid fuels like renewable diesel were both in our products group and in our terminals group.
+We are actively looking at and pursuing opportunities there today, and it's in businesses that we understand, that we know how to do, and that we can help our customers get where they're going. When it comes to the further step-outs, I think our approach is going to be, again, very conservative. We're -- we're going to look at the things that are adjacent to us that we think makes sense for us to do. And we think that we can do that with -- with folks in our organization and with us taking a continuing take a hard look at some of those opportunities.
+Wouldn't rule out M&A, but I think that's -- that's an area where you can move to more quickly than is prudent, and  we're going to be prudent in -- in how we approach it. And so I think it's -- it's more -- it's more organic. But M&A or acquisitions wouldn't be off the table for the right opportunity. But I'm -- I'm purposely emphasizing organic, using the tools, the assets, the people, and the opportunities that we have. 
+Spiro Dounis -- Credit Suisse -- Analyst
+Right. Thanks for the time, guys. Appreciate it.
+Operator
+Thank you. And your next question is from Jean Ann Salisbury with Bernstein. Your line is open.
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+Hey, everyone. I wanted to ask about Hiland being up 20% versus third quarter. I think that's quite a bit more than overall Bakken gas was up quarter on quarter, but maybe you were down more earlier in the year. Do you have a sense of if -- if it was your specific acreage that -- that really moved up and can you maybe just give a sense so I can calibrate of where Hiland volumes were in fourth quarter versus say first quarter before COVID?
+Steve Kean -- Chief Executive Officer
+Sure thing. Tom Martin, you want to address that? Tom, are you there or are you muted?
+Operator
+His line has disconnected.
+Steve Kean -- Chief Executive Officer
+OK. 
+David Michels -- Chief Financial Officer
+He's showing disconnected.
+Steve Kean -- Chief Executive Officer
+OK. Yeah. So we did have a nice uplift in -- in gas volumes on Hiland. So the -- the story on Hiland as you look through the year, there was a significant downturn in the second quarter as we had, and this was all talked about publicly, but we had a significant producer there go through a large amount of shut in on -- on their particular acreage.
+And then when things came back, they came back nicely, and some of that from shut ins, some of it from flush production. And -- and -- and those volumes have continued to be strong. But there's no question that some of that was aided by the turnaround in what our producer was doing out there, one of our large producers. Kim, any [Inaudible] 
+Kim Dang -- President
+Yeah, and I mean I was -- you're not quite back to first-quarter 2020 volumes in the fourth quarter of 2020. 
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+Sure. But you  -- you would kid that your -- your market share is, so to speak, is similar to where it was before?
+Steve Kean -- Chief Executive Officer
+Yeah, I don't have the specific [Inaudible] 
+Kim Dang -- President
+I mean, I don't -- I don't know what the -- yeah. I don't know on the market share how our producers performed relative -- how they brought back volumes relative to others.
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+Yeah, that's fine.
+Steve Kean -- Chief Executive Officer
+Yeah, and -- and I would say -- I mean we've -- we've -- as we've looked at our producer activity or stated producer activity, where we are now, what we're expecting versus what's being reported for Bakken production, it does seem that we and our customers are -- are doing better than just the overall reported numbers for Bakken.
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+Got it. OK, great. I think that's kind of what I was up -- what I was after. And then as a follow-up, you -- you mentioned weakness in the quarter in Jones Act tinkers.
+Can you expand on that a bit? I believe during the second quarter, Jones Act tanker rate -- rates went up quite a bit and then have since come back down. But what's the customer appetite for recontracting today in that market?
+Steve Kean -- Chief Executive Officer
+Yeah, and I'll -- I'll call on John Schlosser to add a little more detail. But what I'll say -- what I'll tell you is that we -- John and the team are really nicely positioned for what you were just talking about, meaning that we were going to have vessels rolling off charter right as charter rates were improving, which is where things were headed based on the overall supply and demand fundamentals there. And then the pandemic happened. And so as you saw in other refined products, volumes and demand for refined products movements, we saw that -- we saw that come off and -- and come off relatively hard.
+And so that -- that created kind of an unexpected debit in the overall picture. Now, over the longer term, there aren't new Jones Act vessels that would compete with our MROs any way that are being -- that are being built right now. We think that that market does come back into balance over time, but it has it -- has created some short-term weakness in -- in demand. Beginning to see some nice uptick in inquiries and calls for quotes as we've gotten into 2021.
+But we did take a reduction there. Now, I would say, overall, Jones Act vessels are running probably -- again, this is a pandemic number, Jean Ann, so not representative of call it normal refined products operations, but call it 25% off higher. We're about half of that, meaning about 12 -- 12.5%. So better, but we have some expirations coming up over the course of 2021.
+So what -- what would really drive this business is a post-pandemic recovery in refined products movements. John. 
+John Schlosser -- President, Terminals
+You're correct. The 25% number is for the entire industry. So we're seeing about 25% of the total tanker volume out. We maneuvered our way very well through the year and headed [Inaudible].
+For the year, we're up $2.3 million, but we did see an impact on two of our vessels for Lone Star and The Pelican in Q4, which amounted to a negative impact between that and some price compression of about $6.7 million negative in Q4. But we are seeing some green -- green shoots. We're seeing more inquiries here over the last couple of weeks. And we believe that that 25% overblown and should come back as the year goes on. 
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+Well, thank you very much. 
+Operator
+The next question comes from Colton Bean with Tudor, Pickering, Holt, and Company. Your line is open. 
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+Good afternoon. I think, historically, the team has highlighted that you'd not expect to pay corporate cash taxes until sometime after 2026. Can you just update us on the current thinking given that the lower capital spend? And if you have any preliminary thoughts on how that might change in the event that we see a corporate tax increase? I would appreciate those thoughts as well.
+Steve Kean -- Chief Executive Officer
+Yeah, that's still a good guidance and it doesn't really change with the corporate tax increase because what we're describing there is an allowance which for that period that we've talked about, which is beyond 2026, more than offsetting taxable income, so it's less driven by -- not driven by the rate. David, anything you want to add there? 
+David Michels -- Chief Financial Officer
+No, you -- you covered it, Steve. 
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+OK. And so with the -- with the lower capital spend, still no change there?
+Steve Kean -- Chief Executive Officer
+That's right. No change to that again.
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+Got it. OK. And then with Permian highway now online, and we'll have pricing much closer to Gulf Coast hubs, can you frame for us the impacts on the interruptible portion of the intrastate business there?
+Steve Kean -- Chief Executive Officer
+The interruptible -- say a little bit more.
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+As to -- so thinking the noncontracted portion of the intrastate, so to the extent that you're moving just on a fee for service and maybe in a month-to-month evergreen contract or you are moving actual basis spreads and take advantage of it than a marketing opportunity. Just trying to understand how we should think about that portion of the business now with where Waha is pricing? 
+Steve Kean -- Chief Executive Officer
+OK. Yeah. So let me -- let me try this. I mean what we -- we were moving kind of interim service.
+This may not be what you're getting at. We were moving on interim service on PHP as we were commissioning compressor stations and the like. So we were delivering in November and -- and December -- delivering volumes on PHP until we got it fully commissioned and put it in service and took nominations under the long-term firm contract. It's fully underpinned by long-term firm contracts starting on January 1.
+Now, we are -- we're also buying and selling gas. You -- you made mention of interruptible, I think I know what you mean there. I mean it is technically interruptible. A lot of that -- those bus -- that business is interruptible, but it's gen -- generally not interrupted.
+But we are buying, and selling, and optimizing on our Texas Intrastate network. Some of which -- this is a unique element of the Texas market. Some of which, of course, like the interstate market is on long-term transportation arrangements, including sometimes transportation arrangements that are PHP shippers, for example, hold downstream in order to get to an ultimate delivery point. And then other transportation arrangements that we make with producers and with end-users to connect production to power plants, industrial facilities, utilities, etc.
+And so what I would point to there is we now have an additional two Bcf a day, hitting our system a little less than that is not quite running 100%. So we've got two Bcf a day coming. From a couple of years ago, when we brought GCX on service, another two Bcf coming from Whistler. What that is going to mean for us I think, ultimately, is a -- a great amount of natural gas that we provide a lot of the last mile connectivity to on our system in Texas.
+So generally, I think that's a -- a bullish development. You're right, the Waha spread has come in as that fully contracted pipeline system is up and running, and I think it will take a while even with the development that Kim described, that additional ratings coming back out there. I think it was 20 -- 2022 prices were up fairly significantly from what we're currently seeing in -- in 2021. Eventually, we'd expect that system to fill back up, basis to widen back out, and call it in the middle of the decade, we would need some additional -- additional incremental transportation capacity.
+But overall, that -- the new facility coming in is under contract. What it does is bring a lot more to natural gas to our system, which is a good thing for our existing business on that system. Did I answer your question?
+Kim Dang -- President
+And I think Colton also has asked you about do we have significant business that is subject to that spread, and therefore because that spread came in, we're going to take a hit in EBITDA. And generally, Colton, the way that we contract is we're contracting on a back-to-back basis and so we are not generally taking spread risk. And so the -- the impact of that spread coming in is not going to have a material effect on us.
+Steve Kean -- Chief Executive Officer
+Good point. 
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+Understood. That's helpful.
+Operator
+And are you ready for the next question? 
+Steve Kean -- Chief Executive Officer
+Yes.
+Operator
+Thank you. That comes from Tristan Richardson with Truist. Your line is open.
+Tristan Richardson -- Truist Securities -- Analyst
+Hi, good afternoon, guys. Kim, I appreciate your comments on what you're seeing in January ac -- across products. Curious of that fourth-quarter commentary on diesel growth year over year. Can you talk about that strength, either regionally or -- or what you're seeing on the demand recovery side with respect to diesel? 
+Kim Dang -- President
+I mean we think -- we think that that is largely driven by all the -- the shipments that are moving as people are ordering things online and having things shipped to their homes. And so we think it's -- because when you compare it to gasoline volumes, the gasoline volumes are down. We did see -- we've seen that same phenomenon for a couple of quarters now. And so that's -- that's what we would attribute it to.
+Eighteen wheelers moving down the highway, hauling goods to -- to the various facilities and homes.
+Tristan Richardson -- Truist Securities -- Analyst
+Great. Yeah. I was just trying to make sure there wasn't some specific item or -- or one specific region. That's helpful.
+And then quick follow-up, just on the Hiland, on the crude side. Can you talk about generally just conversations with customers around capacity availability for egress, either working with you guys or on making contingency plans in the event the basin sees disruption to the major pipeline there or -- or taking on additional contracts with Kinder Morgan, etc.?
+Steve Kean -- Chief Executive Officer
+Dax, you want to comment on that?
+Dax Sanders -- President, Products Pipelines
+Yeah. Yeah. They're -- I -- I think, overall, they're positive and the volume trends we're seeing are -- are positive. We were fourth quarter on double H.
+We were about 64 day out of total capacity of -- of about 88. Right now, for January, we're looking to be pretty close to -- to -- to the full level. So conversations, I mean, look, we have absolutely no idea what's going to happen with Apple and -- and certainly wouldn't speculate on that. But the conversations, overall, are -- are constructive and we're seeing it in volumes.
+Tristan Richardson -- Truist Securities -- Analyst
+Thank you guys very much.
+Operator
+Thank you. And the next question comes from Michael Blum with Wells Fargo. Your line is open.
+Michael Blum -- Wells Fargo Securities -- Analyst
+Thanks. Good afternoon, everyone. I want to go back to the -- the Permian natural gas market. You guys commented that El Paso Natural Gas saw a reduction in volumes.
+I just want to understand that a little better. Is that a result of PHP coming on or is there weakening demand in California? Just want to better understand the dynamics there.
+Steve Kean -- Chief Executive Officer
+Yes, and so Tom Martin, who got kicked out the call before the earlier question, and he's back on, and so I'm going to ask him to respond. Tom.
+Tom Martin -- President, Natural Gas Pipelines
+Yeah, I -- I think the answer to that question is it's -- it's a combination of the both -- of both, really just weaker demand in California, as well as increased outlets for Permian supply locally, if you will, had so -- some impact on our -- our volumes on -- on the PNG. Again, I think once you think much of that was seasonal, related out west. So assuming we get good demand in 2021 out in California, we -- we think that likely recovers a bit. 
+Michael Blum -- Wells Fargo Securities -- Analyst
+OK, great. Just follow up on that point. Would -- what would you say that there -- that has long-term secular trend in terms of declining demand into California or you think it's going to just remain [Inaudible] embedded dependent?
+Steve Kean -- Chief Executive Officer
+Well, I think how we serve California is changing obviously with the renewable growth there. So volumes long term may not be as strong especially to Northern California. But I think the amount of capacity need into that market probably actually grows over time as more renewable penetration increases in that area.
+Michael Blum -- Wells Fargo Securities -- Analyst
+Great. Thank you very much. 
+Operator
+And the next question comes from Pearce Hammond with Simmons Energy. Your line is open.
+Pearce Hammond -- Simmons Energy -- Analyst
+Thank you for taking my questions. Just one question today for me. Steve, in your prepared remarks, you mentioned carbon capture as a potential business opportunity for Kinder Morgan, and it sounded like, in your prepared remarks, that the economics for carbon capture are not favorable at this time. So it's just curious what it would take to make this a more attractive business for Kinder Morgan? And the reason I ask is Kinder has a real expertise in CO2 and this seems like a natural outgrowth to your business and something that you would have a competitive advantage in.
+So I'd love to just get your overall thoughts on that carbon capture opportunity.
+Steve Kean -- Chief Executive Officer
+Yeah, sure. There's -- there's quite a hierarchy there. And so if -- the recent -- recently published regulations on 45Q do make certain parts of the carbon capture opportunity more economic when used in combination with enhanced oil recovery. And so the -- the -- the allowance, the tax credit allowance, for -- for EOR at the -- at the -- the rate now proved makes things like gas processing, ethanol facilities more economic and maybe economic.
+And -- and that's an opportunity for us. There's nothing -- nothing specific right now or deal specific to talk about there. But it's -- it's gotten a lot closer and -- and may actually be economic. And so as we look at it from our business standpoint, from our business perspective, we do have in our treating business today, which is just standard long-existing aiming technology to separate CO2 from whether it's a gas stream or -- or a process facility, separate it.
+Then also has to be captured. And the purer the stream, the better, right? So it's purer in things like processing facilities and -- and ethanol facilities. It's got to be captured. It's got to be powered up.
+It's got to be transported, which is where we come in. And it's got to be put in the ground and stay there, which is also where we come in. And better still, you get oil from it, and that helps make the whole thing work. And so we're -- we're beginning to see some of those applications creep into economic territory.
+And then marching up from there to things like capturing it from power plants and from other industrial uses, it gets more expensive. And then direct air cap -- capture is extremely expensive given the very low concentrations of CO2 in the atmosphere. About 0.04% versus from a fluid stream run from between 3% and 20%, so 75 to hundreds of times more economics from -- from a fluid stream. So we're just kind of on the edges of that now, starting to see some things that are getting interesting.
+Jesse Arenivas, anything you want to add?
+Jesse Arenivas -- President, Kinder Morgan CO2 Company L.P.
+I think you've covered it, Steve, thanks. 
+Steve Kean -- Chief Executive Officer
+OK.
+Pearce Hammond -- Simmons Energy -- Analyst
+Thank you, Steve. Appreciate it. 
+Operator
+Thank you. And the next question comes from Ujjwal Pradhan with Bank of America. Your line is open.
+Ujjwal Pradhan -- Bank of America Merrill Lynch -- Analyst
+Good afternoon. Thanks for taking my question. I just wanted to first follow up on the Permian gas takeaway item will likely need more takeaway in premium next year after the -- the -- with [Inaudible] and some other smaller projects come online. And I wanted to follow up on where the discussions on adding third gas pipe in the Permian stand, the Permian past, and what is the competitive environment like for that?
+Steve Kean -- Chief Executive Officer
+OK. I'll start, and then, Tom, you fill in. It's not any time soon, right? I mean it's not this year, it's not -- it's not next year. When we look at it, both third-party analysis, as well as our own internal house model of it, we see the need beginning to emerge in call 2025 and people will generally try to get in front of that given the amount of time that it takes even in Texas to get pipelines built.
+And so we'd expect to be talking to people ahead of that in order to be able to get something in service by call it the middle of this decade. We think that we -- the advantage that we bring there are several. For one is that we've got a great, I think the best Texas Gulf Coast pipeline network. You've got to get -- you've got to get the supply to market.
+And increasingly, that means getting it to LNG markets Mexico, getting it to the export markets, but also finding end uses in the growing petrochemical and industrial market along the Texas Gulf Coast. So we get people there. And then we've shown that in -- in far more difficult circumstances than what we would anticipate for a Permian pass, we've been able to get projects done. So we think we're in a -- a good position.
+That's not a guarantee of course. But we think it's -- it's a ways off. It's not that we're not having any conversations with people. There are some very long-term planners out there as you know in the producer community and so we continue to talk about it.
+But -- but it's a ways off. Tom. 
+Tom Martin -- President, Natural Gas Pipelines
+Yeah. Really nothing more to add there. I think just the trajectory of growth and the rig activity in the Permian will tell us a lot over the coming months and -- and a couple of years.
+Ujjwal Pradhan -- Bank of America Merrill Lynch -- Analyst
+Got it. Thank you. And just switching gears. My follow-up is regarding years on course with a decision to move forward with splitting the Nationwide Permit 12 and do two separate permits.
+One specifically for oil and gas pipelines. Steve, how do you think this changes the regulatory picture for the new pipeline projects from KMI's perspective?
+Steve Kean -- Chief Executive Officer
+Yes, the Nationwide 12 as you know is what we've relied on to do PHP. And it's a -- it's a -- it's a long-standing process that's been in place for -- for decade. It gets refreshed every five years. And you're right, there's some examination of splitting it, getting oil and gas would be treated differently from other -- other linear infrastructure that's typically used under Nationwide Rue 12.
+And -- and what I would say the impact of that is likely to be if it happens is that it takes us more time and more effort to -- to accomplish what we could have accomplished more quickly. But it doesn't prohibit it. So, for example, that's the permitting structure that allowed us to cross certain waterways with our construction activity, and that might -- that might become more individualized examinations of those crossing as what -- rather than having them grouped under a single permit umbrella, which adds time and cost, but it doesn't -- it doesn't eliminate our ability to demonstrate that we're making those crossings in an environmentally responsible way. So it's -- it's losing the advantage of a -- of -- of a permitting process where NEPA has been taking care of the environmental impact statements that are has been taken care of in one -- one fell swoop versus having to do it on an individual project basis.
+So it adds time. It doesn't eliminate the opportunity.
+Ujjwal Pradhan -- Bank of America Merrill Lynch -- Analyst
+Got it. That's helpful. Thank you, Steve.
+Operator
+The next question comes from Michael Lapides with Goldman Sachs. Your line is open. 
+Michael Lapides -- Goldman Sachs -- Analyst
+Yeah. Hey, guys. Thank you for taking my question. I -- I actually have two, and I'll ask them just back to back in the interest of time.
+First, you all did a good job on the income statement in terms of managing costs in 2020 G&A and -- and even probably some other areas as well. Can you talk -- first question is can you talk a little bit about what the expectation is for 2021? Do you expect some of that cost to come back or -- or to stay on kind of permanent cost reduction? That's point A. Point B is more of a policy one. We're starting to see some states take a bit of policy-driven action regarding the future of demand for their gas-regulated utilities and -- and trying to really restrict, cap, or limit demand or even shrink demand growth out of gas utilities.
+Just curious how you're thinking about how that would kind of --  what -- what the impact is on your business going forward if -- if that kind of plays out? And it's really -- looks like it's more some of the East Coast states and some of the West Coast states that are the ones looking at it.
+Steve Kean -- Chief Executive Officer
+OK. All right. Thank you, Michael. On the cost side, no, those -- those cost adjustments that we made as part of the organizational fashion efficiency and effectiveness projects.
+I think it's -- it's fair to think of those as permanent. Those -- those are costs we took out of -- out of the structure, labor costs, and other costs that -- that we took out. Every budget is a bottoms up review and cost requirements change, plus or minus, depending on what the emerging -- whether it's regulatory requirements or maintenance requirements or other things are. But we -- we did some permanent, long-lasting work there.
+So I think that's the right way to think about that. And we'll give you some more detail in the conference. Some of that came through, about 50/50 sort of split between the segments and between the corporate costs like G&A and the like. On the policy question, yeah, it's something that we -- we watch with some concern.
+It's not something that we are as directly involved in in terms of how states are thinking about their end-uses -- end-users of natural gas. I -- I -- I would point out though as you say -- as you pointed out that it is -- it is in limited areas where this has become an issue. It's a course prospective. And so dealing with new construction, new home building, etc.
+And that's -- that's a long turnover in that -- in that market as you know. But the other thing is I think on closer examination, people are going to be more concerned about it when you think about developers who would like to be showing houses that have natural gas water heaters and furnaces and natural gas ranges and the like, they're not going to like that. That's less about what Kinder Morgan thinks than it is about people who are building things and -- and producing jobs in the -- in the states at issue. We've seen in real life restaurant owners react in a very negative way to it.
+And -- and actually, in one community pushed back an attempt to eliminate natural gas usage. And we've also seen in another jurisdiction that I won't mention that a lot of obstacles to getting natural gas infrastructure started, and then when it became apparent that natural gas wasn't going to be available to end -- end-users in the state, a complete about-face in terms of asking the incumbent utilities to figure out a way to get additional natural gas in and not have moratoria in place. And so I think -- I do think that there are many hands still to be played there, and from our perspective, while it is narrow, it's worth watching and it's also one where I think we benefit and society benefits from giving it a much closer examination.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Thank you, guys. Much appreciate it.
+Operator
+The next question comes from Timm Schneider with Citi. Your line is open to us.
+Timm Schneider -- Citi -- Analyst
+Yes, thank you. Thank you. I had a follow-up to a question that was asked earlier on the -- the whole renewables, the hydrogen, and the biodiesel fuels push. Just kind of curious.
+Obviously, that sounds great when you talk about it, but kind of what inning are we really in here in terms of what you think this could actually meaningfully add to your cash flow when you think some of these capex expenditures are going to show up? And then what's involved in terms of getting some of these projects from conception through completion? 
+Steve Kean -- Chief Executive Officer
+OK. That's -- that's the ultimate question and it's -- we're in different innings on different things. On -- on things like responsibly sourced natural gas, we're already there, and we're talking to customers about it. And as I said, some of our LNG customers are very interested in it because it does matter if you're a low emissions, low methane emissions, transportation storage provider which we are.
+We met our one future goal seven years ahead of schedule and the allocation to our sector was 0.30%. We're at 0.03%. So I mean we really -- we've got a lot of good things to show our customers in that regard. Serving as a backstop for renewables, our capacity as a backstop, our gas storage as probably the cheapest and most efficacious energy storage versus batteries.
+We -- we're -- we're right there right now. Renewable diesel, we're right there right now. The discussions we're having in California where, of course, the -- the whole market is aided there by a low carbon fuel standard. Dax would tell you, our customers are saying what can you do for us today? We're talking about renewable diesel hubs there that -- where we can build out some capability at -- at good returns and provide a good service to our customers.
+And they're really in a hurry to get something there. It's a little bit longer. It's not in the night thing on in other parts of the country. But as low carbon fuel standard spread, those things are going to be of greater interest.
+On the other hand, things like hydrogen. Hydrogen -- hydrogen is -- is promising. It's been the fuel of tomorrow for decades, and it takes a while to -- to -- and takes I think some subsidies to get it to a point where it's really actionable. It's $19 and then maybe to you today.
+And -- and so will it -- will it ultimately serve a -- a -- a compelling fraction of the -- of the energy needs? Yeah, but it is -- if you think about it, it's taking a very high-quality energy like electricity, which has consumed primary energy to get there, to get it to electricity. Take an electricity, using it to separate hydrogen from water, and -- in electrolysis, and then taking the hydrogen molecules and transport fuel context, for example, putting them into a fuel cell and converting it back to what? Electricity. So there is a lot to be done there to make that a sensible thing to do. But it could become sensible with the right -- the right supports, and credits, and the like.
+And -- and today, as -- as Timm pointed out, we can blend -- whoever is willing to invest in. I think there are opportunities to invest in it. We can blend that into our existing system today. And -- and I think that's an attractive proposition to those who are trying to lead the energy transition effort.
+And so if -- if it -- if it were in existence next year, we could move it on our pipelines next year. So that -- that's not -- so, Timm, it does come down to, and as I mentioned on CO2 capture, there are some things that are moving into actionable territory right now. There are other things that are good ways off. And -- and that's why it's -- it's important to be discerning about these things as we go and that's the way we're going to approach it.
+The things we can do today, the things that we can do tomorrow with the assets and businesses that we have today, and then what's the further step out from there and making sure that we're disciplined about how we approach that. So different innings on different energies.
+Timm Schneider -- Citi -- Analyst
+OK. And I -- I really appreciate that. Maybe as my follow-up here, just briefly. I would want to stick to hydrogen.
+How do you say -- how do you see the hydrogen environment kind of develop for midstream players? Do you think this will really be an opportunity for a maybe a set of two or three folks or is it a broader opportunity set for more? And how is to -- where -- where is Kinder Morgan's competitive advantage in -- in the sole hydrogen value chain?
+Steve Kean -- Chief Executive Officer
+I'll start with the last. I think our competitive advantage is in the existing network we have and the existing customer relationships that we have, meaning we are serving a lot of customers who would be taking blended hydrogen, whether that's on an industrial, or a power plant, or -- or an LDC for example. We're serving those customers today on the network that we have today. And so that's really -- that's really our advantage.
+In terms of how broad the opportunity is likely to be, I would say looking at it right now that it looks likely to be pretty broad. I mean it doesn't look like to your point there is really a dominant player there. One might emerge, of course, as -- as could be the case in any business, but there doesn't appear to be one now. Right now, I think it's still in a thousand flowers blooming stage. 
+Timm Schneider -- Citi -- Analyst
+OK, appreciate it. And I'll be back next week with some more questions. But appreciate it for now.
+Steve Kean -- Chief Executive Officer
+Thank you. 
+Operator
+Thank you. And the next question comes from Shneur Gershuni with UBS. Your line is open.
+Shneur Gershuni -- UBS -- Analyst
+Hi, guys, just wanted to follow up on an earlier question about the -- the volume change on EPNG. If I sort of think back to 2018 before things got crazy on the Waha spreads and so forth. If I recall, you put in a little bit of capital that there are very high return capital to sort of take care of the -- the challenges of time you're trying to address the -- the spread of issues into the -- the consequence that when PHP Gulf Coast came into service that those opportunities would go away. Is that kind of what we're seeing now or is it the seasonal res -- quote, response that -- that was given in -- in -- in response to the question.
+Just trying to -- trying to understand that that -- this is the -- the temporal earnings that were -- were going away, were always expected to go away, but was very profitable at the time. 
+Steve Kean -- Chief Executive Officer
+OK. Yeah, Tom Martin.
+Tom Martin -- President, Natural Gas Pipelines
+Yeah. I mean I think the macro response I gave is probably the bigger picture answer. I think there were clearly some very lucrative opportunities early on. We -- we captured those opportunities by spending a little capital doing some -- some term contracts on -- on -- on those.
+And clearly, as those deals come up for recontracting, they'll be a bit lower. But again, we're not talking about material dollars here. I think, really, the bigger picture answer is the one that matters the most and it's -- it's the macro fundamentals that I described earlier. 
+Shneur Gershuni -- UBS -- Analyst
+Perfect. Got it. Thank you very much. Appreciate the clarification. 
+Operator
+And there are currently no further questions.
+Steve Kean -- Chief Executive Officer
+Thank you very much. Have a good evening.
+Operator
+And that does conclude today's conference call --
+Kim Dang -- President
+OK, Dexter, we're done.
+Operator
+One moment -- one moment, please. [Operator signoff]
+Duration: 90 minutes
+Rich Kinder -- Co-Founder and Executive Chairman
+Steve Kean -- Chief Executive Officer
+Kim Dang -- President
+David Michels -- Chief Financial Officer
+Unknown speaker
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Shneur Gershuni -- UBS -- Analyst
+Spiro Dounis -- Credit Suisse -- Analyst
+Jean Ann Salisbury -- Sanford C. Bernstein -- Analyst
+John Schlosser -- President, Terminals
+Colton Bean -- Tudor, Pickering, Holt & Co. -- Analyst
+Tristan Richardson -- Truist Securities -- Analyst
+Dax Sanders -- President, Products Pipelines
+Michael Blum -- Wells Fargo Securities -- Analyst
+Tom Martin -- President, Natural Gas Pipelines
+Pearce Hammond -- Simmons Energy -- Analyst
+Jesse Arenivas -- President, Kinder Morgan CO2 Company L.P.
+Ujjwal Pradhan -- Bank of America Merrill Lynch -- Analyst
+Michael Lapides -- Goldman Sachs -- Analyst
+Timm Schneider -- Citi -- Analyst
+
+More KMI analysis
+All earnings call transcripts

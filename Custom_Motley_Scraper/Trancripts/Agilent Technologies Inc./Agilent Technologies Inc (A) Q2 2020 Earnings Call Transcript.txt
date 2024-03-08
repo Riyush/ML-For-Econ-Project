@@ -1,0 +1,327 @@
+Image source: The Motley Fool.
+Agilent Technologies Inc (A 0.01%)Q2 2020 Earnings CallMay 21, 2020, 4:30 p.m. ET
+Operator
+Good afternoon and welcome to the Agilent Technologies' Second Quarter Earnings Conference Call. [Operator Instructions] After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+And now I'd like to introduce you to the host for today's conference, Ankur Dhingra, Vice President of Investor Relations. Sir, please go ahead.
+Ankur Dhingra -- Vice President of Investor Relations
+Thank you, Jodi, and welcome everyone to Agilent's conference call for the second quarter of fiscal year 2020. I hope that all of you and your families are safe and healthy. On the webcast today are Mike McMullen, Agilent's President and CEO; and Bob McMahon, Agilent's Senior Vice President and CFO. Joining for the Q&A after prepared remarks will be Jacob Thaysen, President of Agilent's Life Science and Applied Markets Group; and Sam Raha, President of Agilent's Diagnostics and Genomics Group, along with Padraig McDonnell, President of the Agilent CrossLab Group. You can find the press release, investor presentation and information to supplement today's discussion on our website at www.investor.agilent.com.
+Today's comments by Mike and Bob will refer to non-GAAP financial measures. You will find the most directly comparable GAAP financial metrics and reconciliations on our website. Unless otherwise noted, all references to increases or decreases in financial metrics are year-over-year and revenue growth will be referred to on a core basis. Core revenue growth excludes the impact of currency and the acquisitions and divestitures completed within the past 12 months. We will also make forward-looking statements about the financial performance of the company. These statements are subject to risks and uncertainties and are only valid as of today. The company assumes no obligation to update them. Please look at the company's recent SEC filings for a more complete picture of our risks and other factors.
+And now, I'd like to turn the call over to Mike.
+Mike McMullen -- President and Chief Executive Officer
+Thanks, Ankur and thanks, everyone for joining our call today. I want to add my best wishes as well and hope that you and your families are safe and healthy. I'm pleased to have Padraig McDonnel, our President of the Agilent CrossLab Group joining us for the first time today. As I mentioned last quarter, Mark Doak has retired from the company and Padraig is now leading ACG. I know you will enjoy getting to know Padraig better in his new role and I'm glad he can be here with us on the call.
+Last quarter, Agilent was among the first to discuss the business impacts of COVID-19. Since then, much has changed as COVID-19 is now a global pandemic. The world is a very different place than it was back in February, but what hasn't changed is the attitude and execution of the Agilent team and our unwavering focus in four key areas. Let me first talk about how we are protecting our people. Our top priority is ensuring the health and safety of the Agilent team. Early on we instituted a global work from home policy and severely restricted travel. We implemented new work practices and safety protocols for our manufacturing teams and service engineers visiting customer laboratories. The team is really stepping up. True to the Agilent mission, our response to COVID-19 is driven by our commitment to our people and our customers.
+It should be no surprise then that our second area of focus is an unwavering commitment to our customers. We are and have been open for business. From the early stages of the pandemic, we took decisive action to secure our global business operations. We are using innovative and more efficient ways to support our customers, from leveraging our digital capabilities for remote technical assistance, to urgently delivering Bravo Liquid Handler systems for their COVID-19 tests, or providing live online guidance to keep labs functioning, we're doubling down on efforts to support our customers. This is especially true as their needs change and evolve.
+Our third focus area is taking quick and decisive action to preserve a strong P&L and balance sheet. When we experienced significant disruption to business activity in late March, we made changes in our supply chain, logistics and business operations. This ensured continuity of order in-take and our ability to deliver products and services to our customers. We also didn't shy away from taking swift action to reduce expenses. We quickly put in-place a cost management program while reprioritizing and sustaining our growth investments. As we continue to sharpen our plans, we will not put our future growth opportunities at risk.
+Bob will share more details, but a top priority is monitoring our liquidity and cash flow. We have taken actions to ensure a strong balance sheet and financial flexibility. The positive impact of our approach shows in our Q2 results. In the midst of the spread of the global pandemic, the Agilent team delivered Q2 revenues of $1.24 billion. This is flat on a reported basis and down a little less than 2% on a core basis. Our Q2 operating margins of 22.4% are up 50 basis points. We posted earnings per share of $0.71 during the quarter flat versus our results a year ago.
+Before covering additional Q2 detail, a few comments on our fourth key area of focus, our continued prioritization on growth. Our building and buying growth strategy remains firmly in place, while we are taking decisive action on our cost structure to respond to the COVID-19 impact. We are continuing to prioritize investments in fast growing markets, such as biopharma, that deliver incremental growth and help us create a more resilient business. When we all come out of this on the other side, Agilent will be poised for growth.
+Our Q2 pharma growth is being driven by the strength of our biopharma business. This is a direct result of our building and buying strategy in action. Our approach investing for growth continues to serve us well and will be a major factor in helping us emerge from the current environment stronger than ever. An example of our approach to continually assessing our growth investments is the decision we've made regarding our cancer diagnostics strategy and the Lasergen sequencer development program.
+Given changes in the marketplace, we believe we can now capture future growth in the NGS diagnostics space without the need for our own sequencer platform. As a result, we've made the decision to shutter our sequencer development program. We are redirecting our investments with the valuable intellectual property we've created into areas of higher interest. Despite this program change, we remain optimistic about continued growth in NGS cancer diagnostics.
+Let's now take a closer look at the quarter as well as the future outlook in today's COVID-19 world. Last quarter, our attention and revised outlook was focused on our China team, customers and business. As COVID-19 spread to other parts of the world in the second quarter, the situation changed. During February and March, our overall business was up about 1%. However, in late March, we faced significant disruption in business activity as Europe and the Americas restricted access to facilities.
+Our China business is recovering better than forecasted. We posted 4% core growth in China, with increasing strength throughout the quarter. In fact, in April, China posted strong growth while all other geographies experienced declines. We expect the China growth recovery to continue throughout the year, as lab operations and investment continue to resume. The near-term outlook in Europe and the US, however, remains challenging, particularly for new equipment purchases across most end-markets and non COVID-19 diagnostic testing.
+Some quick highlights across our businesses, both DGG and ACG delivered core growth. DGG's 5% growth is driven by NASD, up 35% as the ramp of that business continues as planned. ACG was up 1%. Our LSAG business declined 7% as customers curtailed equipment purchases, although we did have pockets of growth in biopharma, cell analysis, and COVID-19 testing and research. From an end market perspective, Pharma grew 5% in the quarter, followed by 4% growth in Diagnostics and Clinical. The Food market continued its recovery with a modest 1% growth driven by China. Our Environmental and Forensics business is down 1% for the quarter.
+In Q2, Academia and Chemical and Energy are the end markets that are most impacted, down 16% and 10%, respectively. We expect continued pressure in these markets throughout the rest of the year, although, we are seeing some pockets of growth in chemical production regionally, as some customers shift supply chains. Looking forward, we expect Q3 to be the most challenging quarter of the year with gradual improvement during the course of the quarter and continuing into Q4. As a key player in the life sciences industry, Agilent also has an important role to play in the fight against COVID-19.
+Before closing, I'd like to share a few thoughts on our COVID-19 offerings. While the COVID-19 virus is negatively affecting our overall growth at this time, Agilent is supporting several aspects of COVID-19 research and testing along with therapeutic and vaccine development. In Q2, this resulted in a one point tailwind of growth, primarily in providing instrumentation. There is potential that this will become a more meaningful tailwind in future quarters.
+To address this, we have mobilized a cross Agilent team to maximize support to customers around the globe fighting the virus. These offerings range from instrumentation, such as automation, PCR and microplate testing, to consumables and components necessary for testing, as well as lab support to these customers. As we enter Q3, I want you to know that the global Agilent team is energized and remains focused on supporting our customers and driving growth. We have taken swift and decisive actions to ensure a continued strong P&L and balance sheet. We remain a diversified, resilient company with a bias for speed, execution and growth.
+Thank you for being on the call. I will have a few closing comments after Bob speaks and then we look forward to taking your questions. And now, Bob you're up.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Thank you, Mike and good afternoon, everyone. Before I begin, I want to repeat what Mike and Ankur said in hoping you are all doing well and staying safe. Looking forward, I for one, am confident we will get through this and look forward to the day when we can follow up these calls with face-to-face meetings again. In my remarks today, I will provide some additional detail on revenue, walk through the second quarter income statement and some other key financial metrics, and then finish up with a framework for thinking about Q3.
+Given the current volatility and uncertainty that exists, we are not going to provide specific forward-looking guidance today. That said, in the spirit of trying to be helpful and transparent, we will provide a glimpse into the evolution of our business during the second quarter and our thought process on how things may play out in the coming quarter. Unless otherwise noted, my remarks will focus on non-GAAP results.
+Reported revenue for the quarter was $1.24 billion, which was flat versus last year on a reported basis. Currency negatively impacted revenue by 1.6 percentage points and acquisitions added 3.3 percentage points to growth. On a core basis, revenue declined 1.7% in the quarter. The pacing of revenue during the quarter varied significantly by region, driven by where each region was in the cycle of precautionary measures being taken to slow the spread of the virus. As we previously disclosed, we saw overall business activity slow in late March driven by the US and Europe. The stay-at-home measures in those regions reduced lab operations and limited lab access and our ability to install equipment. This lower level of business activity carried through the month of April resulting in double-digit declines for the month in those regions.
+On the other hand, and as we had anticipated, business activity picked up throughout the quarter in China as restrictions were slowly lifted. We saw strong growth in China in April, partially due to catch-up from lower business volumes in February and March. Overall, China grew 4% for the quarter, exceeding our initial expectations at the start of Q2. In total for Q2, quarter-to-date results through March were up 1%, while April was down roughly 6.5%, resulting in the 1.7% core decline.
+Before getting into some additional group details, it's also important to note, while we have seen order pushouts, we have not seen increased order cancellations. While there are always some level of cancellation, in both March and April, cancellations were actually lower than the previous year. Our resilient business model was extremely important to us as we navigated the effects of a challenging environment. As Mike mentioned, DGG and ACG both grew on a core basis, while LSAG instruments business declined.
+LSAG declined 7% core in the quarter but did see some bright spots with growth in large molecule pharma, cell analysis and COVID-19 testing and research In addition, as Mike mentioned, we had modest growth in the food market. For LSAG, the impact of COVID-19 related closures was most pronounced in the academia and government, and chemical and energy markets. ACG grew 1% with China growing in the high-single digits. Our ACG results were negatively affected by delays in installations and lab closures in Europe and the Americas during the quarter.
+And I'm pleased to say that our DGG business delivered 5% growth during Q2 and was on track for double-digit growth, prior to the slowdown in the US and Europe. We saw a sequential growth in genomics, boosted by products used to develop testing capabilities and for vaccine research into COVID-19. And as Mike mentioned, our NASD ramp remains on track and delivered excellent growth this quarter as well. The pathology business grew in all regions, except the US, where the effect of delayed in non-COVID-19 related medical procedures was more pronounced in April. On a geographic basis, all regions ranged from flat to down 4% for the quarter, with Europe down 4%, Americas down 1% and Asia Pacific, flat. And within Asia, as we mentioned China grew 4%.
+Now let's turn to the rest of the P&L. As the expanded impact of the pandemic became apparent, we moved quickly and decisively to adjust our cost structure through targeted discretionary spending program reductions. We continued to invest in our key growth opportunities and important capabilities, such as digital. For example, we leveraged digital and virtual reality investments for our field service engineers to continue to support our customers where we did not have physical lab access. While we took actions across the P&L, we focused most of our effort on SG&A. R&D investments, as a percentage of revenue were largely unchanged from the prior year.
+As a result, operating margins of 22.4% improved 50 basis points over last year on flat revenue. Gross Margin at 55.4% was down 60 basis points versus the prior year mostly due to volume and the revenue mix shifting more toward services. In addition, we saw higher logistics costs as moving goods internationally became more expensive. This combination of factors resulted in non-GAAP EPS for the quarter coming in at $0.71 per share, flat with the number we posted a year ago.
+Now, in terms of the balance sheet, we were in the market early in the quarter repurchasing 1.66 million shares for $126 million. In late March, however, we suspended all share repurchases to maximize our liquidity and financial position. While not in our current plans for Q3, we continue to monitor and evaluate when repurchases will resume. We generated $313 million in operating cash flow during the quarter, which is a $61 million improvement over last year, despite building some raw material inventory to assure supply. Additionally, we've taken steps to reduce our capital spending by roughly one-third for the rest of the year.
+In addition, we ended the quarter in a strong position with $2.1 billion in available liquidity, including $1.3 billion in cash and roughly $800 million available under our revolving credit facility. Our net leverage ratio is defined by net debt to EBITDA was 0.9 times. Given our cash flows and our strong financial position, there is no change to our dividend. As you may recall, we withdrew our 2020 guidance in mid-April due to the uncertainty surrounding the duration and severity of the global COVID-19 pandemic and the impact on the global economic environment. While various countries have started working toward reopening, the pace and effect of global reopening efforts is still unknown, so we won't be providing guidance for Q3 or the full year.
+However, we did want to provide a framework and a range of possibilities for how our business could unfold in the coming quarter. When we look at Q3, we expect May to be very similar to April and the business activity we've seen in the first weeks of the month confirm that. We anticipate that China will remain ahead of the curve in terms of economic recovery relative to the rest of the world. We expect pharma, and our services, particularly contracted services, which make up the majority of service revenue to remain resilient and we will also be following the consumables business very closely to monitor early signs of recovery in demand patterns.
+A combination of these factors could result in our revenues being down between 5% and 15% on a core basis. At the lower end of the decline, we assume activity in June and July will continue to improve, with the COVID-19 offerings Mike mentioned having a more significant impact than the 1% contribution in Q2. Now on the higher end of this decline, we're building in the assumption that there would be no significant improvement throughout the course of the quarter, in the US and Europe, that non-COVID-19 testing would not recover, and China would plateau. While this is a wide range, there is still significant uncertainty in the pace of recovery as the US and Europe are currently lifting restrictions. We hope that the 15% decline proves very conservative, but wanted to provide you with some of the assumptions we are using to manage going forward.
+In Q3, we expect a 2-point headwind due to exchange rates, and M&A should be a 3-point tailwind. Again, this is not formal guidance, but should give you a sense for some of the variables we are looking at within the business and believe this is the best way to view the third quarter given the uncertainties that exist. As Mike said, we also believe that Q3 will be the most difficult of our fiscal year as the world works through reopening the economy. Overall, I feel we are very well positioned to deal with this challenging environment, accelerate market share gains and come out even stronger as the global economy recovers.
+Before I turn the call back over to Mike, I want to conclude by saying Agilent's performance for the -- the first-two quarters truly shows the resiliency of our company. I also want to thank the Agilent team for remaining focused on supporting our customers during this time. And, I'd be remiss without a shout out to the finance team for being able to close the books in such a professional manner with everyone working from home. We've taken the actions that will serve us incredibly well through the rest of 2020 and into the future.
+And with that, I believe Mike you would like to share some final thoughts before we move on to the Q&A. Mike?
+Mike McMullen -- President and Chief Executive Officer
+Yes. Thanks, Bob. Before we take your questions, I want to close by saying that I couldn't be more proud of our Agilent team. The idea that difficult situations provide the opportunity for organizations and individuals to step up and exhibit strength, leadership and resiliency has never been more true at Agilent. The team has been tested during this crisis like no other time and they have not shied away from it. Instead, we have answered the call with world class execution, and even stronger focus on customer service and an inspired creativity that is second to none. I'm absolutely convinced that we will emerge from this pandemic as an even stronger force in the marketplace.
+And, with that, I will turn things over to Ankur, so we can take your questions. Thank you.
+Ankur Dhingra -- Vice President of Investor Relations
+Jodi, if you can open the line for Q&A, please.
+Operator
+[Operator Instructions] And our first question comes from the line of Tycho Peterson of JP Morgan. Please go ahead. Your line is open.
+Tycho Peterson -- JP Morgan -- Analyst
+Hey. Thanks. I'm going to start by asking about the guide. You said China is plateauing. So what I guess sequentially is getting worse here since you captured April in the prior quarter. Why should things be deteriorating for the upcoming quarter? And then, on the COVID tailwinds did the 35% growth you called out in NASD, does that capture anything around COVID manufacturing or can you maybe just touch on what drove the strength there too?
+Mike McMullen -- President and Chief Executive Officer
+Do you want to take that Bob?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. Thank you, Tycho. And this is Bob. I'll take the question. I'll actually take the second question first around NASD. The NASD growth is on the ramp that we had talked about previously. It actually had nothing to do with COVID-19 testing or research. It's mostly the activities that have continued in our pipeline of products in clinical testing that has happened, and we're very pleased with the progress there. So that is, it has nothing to do with the COVID-19 testing.
+On the first question that you had, again this is in guidance. It's kind of a range of scenarios that we're planning and we hope that the bottom end of that or the minus 15 would be very conservative. If you look at, we are expecting May to be very similar to April, which would hopefully be the bottom and then improvement in June and July. And -- but if there are relapses, if China does relapse or there is a slowdown in that growth that would be the bottom end of the range. So we're -- it's a wider range than we would normally have, but there is obviously very much a lot of uncertainty around the forecast.
+Tycho Peterson -- JP Morgan -- Analyst
+And on the uncertainty chemical and energy, you mentioned customer shifting supply chains. Can you maybe just talk about how much of the sequential step down here in C&E and given the volatility in oil prices. How much of a factor that is?
+Mike McMullen -- President and Chief Executive Officer
+Sure. Yeah, Bob. I'll take that one. So I think for C&E, for Q3, basically we assume -- it kind of looks like, Q2 and with the potential that the investments that we're starting to see inclinations of a regional approach to this pandemic is really caused many parts of the world to rethink their supply chain, so we're seeing early indications of moving of onshoring certain types of critical chemical components in certain geographies. So that could represent some upside to our thinking, but basically we're assuming kind of current situation continues into Q3.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah, Tycho. If you look -- if you -- if we took our chemical and energy end market and looked at the first-two months versus April, they were roughly the same. So we said it was about down 10% in the quarter. It didn't have a material change in April. One of the businesses that did was academia and government. And so academia and government with the lab closures and so forth was worse in April than it was in other markets, but chemical and energy was pretty steady throughout the quarter, now albeit down.
+Tycho Peterson -- JP Morgan -- Analyst
+Okay. And one clarification [Speech Overlap]
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Sorry, I was going to add too, I think when we talk about chemical and energy, it's important to keep in mind about 70% of that segment is actually chemical, including material testing.
+Tycho Peterson -- JP Morgan -- Analyst
+And then just one clarification before I hop off on Lasergen, again, it sounds like, this is a full write down, is that correct? You're kind of abandoning your project. That seems a little bit different than what you talked about back at our conference in January. So can you clarify, what changed there?
+Mike McMullen -- President and Chief Executive Officer
+Yeah. Well, actually, you referenced your conference a lot changed after the conference where we saw a number of new announcements indicating there were some changes in terms of how certain competitors in the space, we're thinking about access to the platform. So that caused us to rethink our current investments and we have an opportunity to really move our program forward without needing to invest directly in a sequential of platform of our own. And Bob, I'll let you comment on the financial side of that.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. It is a full shutdown and we will have a write-off in Q2.
+Tycho Peterson -- JP Morgan -- Analyst
+Thank you.
+Operator
+And our next question comes from the line of Steve Beuchaw of Wolfe Research. Please go ahead. Your line is open.
+Steve Beuchaw -- Wolfe Research -- Analyst
+Thanks for your time here. I wanted to ask, first of all, on the strategic activity in this space. One thing that we've seen across tools and devices is this upwelling of interest in capital raise in part with a view that there is an opportunity for accelerated capital deployment, given potential for opportunity here. You guys have a uniquely strong balance sheet comparatively, certainly plenty of liquidity. I wonder if you could speak to how you think about capital deployment and the intensity of capital deployment in the next year. And then I have two follow-ups. Thanks.
+Mike McMullen -- President and Chief Executive Officer
+Yeah. I think from an Agilent perspective, our overall thesis of building and buying still stays intact where we'd like to deploy capital in M&A that makes sense for the company and we've talked about our criteria around in markets that we know where companies that we've acquired have higher levels of growth in the overall company average accretive, so that formula remains relatively unchanged, but we have noticed that some of these moves as well. So I think that speaks to a continued robust interest in the M&A pipeline across the industry. I would also tell you the valuations haven't moved much. So this is not a buyer's market, and you can buy things on the cheap. So you really have to be think through what you're looking at, and it doesn't make sense for the company. Anything else to add to that Bob? Steve, do you have a follow-up or --
+Steve Beuchaw -- Wolfe Research -- Analyst
+Yeah. Sorry, I thought, Bob might chime in there. But I have two follow-ups. One is, I wonder if you could speak to activity on a month-to-month basis and the extent to which you think there might have been any sort of April snap back. You commented on a specifically in China, but any snapback activity in other parts of the world and the extent to which people might be trying to ramp quickly and how that might reflect not just in China, but on growth as a trend line prospectively for non-China regions. And then one just quick one, I'm curious how you guys are thinking about planning for growth in CrossLab given that CrossLab historically been a very strong grower and some component of the CrossLab growth story has been penetration into new categories, is that penetration story still active in the current environment. Thanks so much.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yes. I'll take the first question in terms of the pacing, Steve and you're right. What we have seen is that the pacing by region really follows kind of how the pandemic spread and then how the countries are coming back. And so what we saw was a more pronounced, obviously in China that has -- I wouldn't call it a snapback, but it's a recovery. And we're actually seeing the same thing in Europe, where Europe, we felt more of the pain, and that it's actually coming back faster. And then the US, and now we're starting to see some of the US, it's still very early days in the US, but you are seeing kind of that -- that kind of wave of recovery happening throughout the course of each one of the regions. And I'll turn it over to Padraig to give a chance to talk about the CrossLab's business, but we remain incredibly bullish about that business. And I think even more so now, given some of the proof points that we have in terms of being able to support our customers, both directly and through our digital means. Padraig?
+Padraig McDonnell -- Senior Vice President, Agilent and President, Agilent CrossLab Group
+Yeah. Thanks, Bob. And I think, yeah, very, very strong demand. We're seeing for example in our service business, a lot of strong demand holding up on our contracts, which really help our customers be productive and help with start up services and actually achieve a critical component for that customers in the services. On the consumable side, we certainly saw a strong demand in China, a big snap back on in terms of demand for our products that are really supporting workflows and we see this continue. And especially around a lot of the digital capabilities that we've developed and our way of interacting with customers. The last thing I would mention is that also our productivity story in CrossLab, but our lab enterprise business is doing extremely well. And also, really shows that the customer need for productivity in these times on beyond going forward is going to be very strong.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+And Steve, let me add just one other thing, in the case, obviously ACG grew 1%. It would have been stronger several points stronger. We did have some deferrals because we couldn't install the equipment and we recognize a portion of the price for the service, the training and installation and so forth and so that is revenue, that is on the balance sheet today and we'll come back to us in the course of Q3 and Q4.
+Steve Beuchaw -- Wolfe Research -- Analyst
+Yes. Okay. So this particular quarter was not a good indicator. Much appreciate it. Thank you very much.
+Operator
+Our next question comes from the line of Patrick Donnelly of Citi. Please go ahead. Your line is open.
+Patrick Donnelly -- Citi -- Analyst
+Yeah. Thanks, guys. Mike maybe one for you on the C&E segment. Certainly encouraging to hear, there was no real deterioration in April. Can you just talk through the exposure there obviously E&P pretty correlated to oil prices. Maybe on the refining side, how does that reacted to the oil decline, I know typically low oil supply. It feels like at least part of what's going on now is low demand, but maybe going forward?
+Mike McMullen -- President and Chief Executive Officer
+Yeah. That's a great question. And what we often trying to think that what's really -- we're really behind the lower oil price. And I think this time you got two things going on, right, which was oversupply and then really driven by, obviously, the COVID-19 and the slower growth in the economy and demand for those services. But I'm really glad to get a chance to comment on the mix of our business because that segment is pretty subdued right now. But over the years, we've continued to have more and more of our business move into the chemical side of that. So roughly about 70% of our business in C&E is in the chemical side and really saw much different dynamics in April, actually, almost all through all Q2, where the energy segment was pretty subdued where limited investment there, mainly business was carried forward through our ACG business, but really not a lot of demand on instruments, different kind of scenario on the chemical side.
+Patrick Donnelly -- Citi -- Analyst
+Okay. And then maybe on the other side of COVID, obviously, academic of labs closing during this understandable that they should snapback quickly. I guess, how do you feel about the C&E segment? Does it feel different where, again, labs reopening, demand comes back quickly, do you think this will linger because of the oil prices? What's your outlook, maybe again? Not asking for guidance by any means, but over the next six months to 12 months, does this have the potential to linger versus some of the other ones that should snapback with?
+Mike McMullen -- President and Chief Executive Officer
+In my prepared remarks, we basically said we expect this segment to be subdued for the foreseeable future. So it's really just tied to events that I'm just not smart enough to figure out myself, which is when does global growth start to get solidified and when does it start to turn. I think what we wanted to point out, there actually are some little glimmers of positive aspects of C&E business, particularly the COVID-19 has exposed the fragility of the world's supply chain. And we're seeing many customers and many governments, they want certain critical components made in their country and made in their region.
+So we are seeing indications across multiple industries of onshoring initiatives actually starting, which would speak to some longer-term growth prospects in this space. But don't get too excited. This -- I would just say, let's assume that it's going to stay subdued for a while, as we're thinking about it right now. Hence, the reason why we went through the guidance in Q2, because some of these are just too difficult to predict the timing of transition.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. And I would say, Patrick, just on that, obviously, the more subdued piece is the instrumentation...
+Mike McMullen -- President and Chief Executive Officer
+Yeah, absolutely.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+And we will see the snapback or the improvement first in the ACG business.
+Mike McMullen -- President and Chief Executive Officer
+Yeah. Absolutely.
+Patrick Donnelly -- Citi -- Analyst
+That's really helpful. And then a very quick cleanup on NASD, following up Tycho's question there. Do you guys have capacity to increase the address demand from COVID or are you already kind of maxed out in terms of the build out and just as you build out capacity, it's kind of addressing?
+Mike McMullen -- President and Chief Executive Officer
+We are not capacity constrained. And now, we continue to build out the new facility in Frederick as well as optimizing our Boulder facility. And while I can't share specific names, I can tell you that there are programs under way that aren't in the revenue yet right now that are related to COVID-19 work.
+Patrick Donnelly -- Citi -- Analyst
+Great. Thanks a lot, Mike.
+Mike McMullen -- President and Chief Executive Officer
+You are quite welcome.
+Operator
+Our next question comes from the line of Derik de Bruin of Bank of America. Please go ahead. Your line is open.
+Mike McMullen -- President and Chief Executive Officer
+Hey, Derik.
+Derik de Bruin -- Bank of America -- Analyst
+Hello. Good afternoon. Hi. Couple of questions, just a couple of cleanups. The NASD base now in 2Q, what's that -- where are we in terms of revenues? That was up 35%. I'm just curious on the base.
+Mike McMullen -- President and Chief Executive Officer
+Yeah. It's tracking well to the number that we talked about at the -- or what people have estimated, ramping up to $150 million kind of run rate. It's tracking well to that.
+Derik de Bruin -- Bank of America -- Analyst
+Great. And what are you going to do with the -- are you reinvesting the Lasergen money into the business or is that going to drop through? Are you going to -- and can you remind us on what you were spending on that I think it was around $50-ish million.
+Mike McMullen -- President and Chief Executive Officer
+Yeah. No, it was about $30 million a year. That was what was kind of forecasted this year. We've spent basically half of that. So the second half of the year, that'll be a combination of reinvesting where appropriate and also managing the dynamic situation that we're in, in terms of COVID-19. Hey, Bob, I think we had the full cost of the program in our Q2 results, in our next quarter results.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+That's correct.
+Mike McMullen -- President and Chief Executive Officer
+And there's some real talent in that team, and there's some really great intellectual property that we think we can really deploy in other programs. So we're looking to go forward that combo approach, as Bob mentioned.
+Derik de Bruin -- Bank of America -- Analyst
+So you mentioned that you're seeing some of your chemical customers think about their supply chains and move around. What about the pharmaceutical customers? I mean, obviously, there's a push looking about bringing API manufacturing back, and you're a big player there. And this also sort of dovetails with another question on geopolitical tensions. And are you worried about the longer-term impacts of what's happening now between the US and China in terms of your China business?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. I'll -- hey Derik, this is Bob. Yes. I'll take the first one, and I'll leave the second one to Mike. I think on the pharmaceutical one, we're actually watching that very closely. It's different than the chemical side because I think the chemical side will probably move a little faster than this. Obviously, there's regulations, but you are seeing discussions about that even as recently as earlier this week about the US providing a contract here in the US for some APIs and so forth. So we actually think -- we're watching that closely, and we think that, that could be an opportunity for us as those new labs or capacity come out, because our offering here is, I think, second to none, and so more to come there. It's probably not as fast-moving, but we certainly is on our radar screen.
+Mike McMullen -- President and Chief Executive Officer
+And without waiting in too deeply on the political dimension of things today, what I can tell you is, we're actively scenario planning. We -- under potential scenarios around changes in trade policies and supply chain. So we don't want to be caught in the reactive mode that we were when tariffs were first announced a few years ago. So our teams are really working through a number of different strategies right now.
+Derik de Bruin -- Bank of America -- Analyst
+And if I can squeeze one more in.
+Mike McMullen -- President and Chief Executive Officer
+Sure.
+Derik de Bruin -- Bank of America -- Analyst
+While Agilent doesn't do -- you don't supply testing products for COVID-19. I mean, obviously, how are you thinking about testing and deploying testing for your employees? And I'm sort of curious about, are your customers demanding that you get tested or people come in? Because there's some very large numbers being thrown around in terms of the size of the testing market. And so I'm just curious in terms of what you're thinking.
+Mike McMullen -- President and Chief Executive Officer
+Yeah. A couple of things right now, so first of all, although we don't provide kits directly ourselves, we provide a lot of the components and ingredients, antibodies and other enzymes, that go into testing kits. So we've -- I've personally involved in a number of calls where customers and governments are looking for us to assure to supply to them. So I think we've got a good feel for the demand that we're seeing out there. Relative to our own employees, right now, we're not requiring employees to be tested for -- return in the office.
+Just a reminder, about 85% of the employees now are, for Agilent, are working from home, and we're going to be very, very careful on phasing in the return to office. So we're thinking this through. Once more routine testing does become available, that's probably something we would look at pretty closely. But we're in no hurry right now because our teams are working from home right now.
+Relative -- it's funny. We keep asking that question of our -- particularly our service teams, and that has not come up yet. So we're continuing to monitor. But right now, we're not seeing requests from our customers to have any type of testing done prior to our employees coming onto the site. Clearly, we have to follow that our safety protocols, and we offered our team with the right PPE and the right training. But on the testing side, we've not yet seen that.
+Derik de Bruin -- Bank of America -- Analyst
+Thank you very much.
+Operator
+Our next question comes from the line of Dan Leonard of Wells Fargo. Please go ahead. Your line is open.
+Dan Leonard -- Wells Fargo -- Analyst
+Thank you. So hate to overanalyze one month, but I want to circle back to the month of April. So 6.5% down is not so bad for all of the news we've seen. Can you -- you mentioned strength in China. Can you quantify China? I mean I was doing some back of the envelope, but it looks like it might have been greater than 20% growth in April in China. Is that in the right ballpark?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yes. You're in the ballpark.
+Mike McMullen -- President and Chief Executive Officer
+You're pretty at good math, Dan.
+Dan Leonard -- Wells Fargo -- Analyst
+Okay. And then maybe separately follow-up. Mike, it does seem like you don't trust the trend in China and how much of that is just uncertainty around the virus trajectory versus the maybe geopolitical or any other things?
+Mike McMullen -- President and Chief Executive Officer
+Dan, thanks for the follow-up question. I do trust the trend in China. So I hope that didn't come through that way in my remarks. So actually...
+Dan Leonard -- Wells Fargo -- Analyst
+Okay. There's the plateau earlier. I wasn't sure.
+Mike McMullen -- President and Chief Executive Officer
+No, no. That was sort of the worst-case scenario that Bob was trying to put together this framework, said, well, we could be wrong. And if it's wrong, we -- this is what the implications would be. We don't think we're wrong. But if in case we were wrong, this is -- you see that far end of the framework that Bob described. But in fact, Q2 China growth was better than we had expected, and we believe it's going to continue to return to higher levels of growth throughout the quarter. And I hope a few of you noticed that the China food also grew in Q2.
+Dan Leonard -- Wells Fargo -- Analyst
+Great. Thank you for that clarification. [Indecipherable]
+Mike McMullen -- President and Chief Executive Officer
+Absolutely.
+Operator
+Our next question comes from the line of Doug Schenkel of Cowen. Please go ahead. Your line is open.
+Doug Schenkel -- Cowen -- Analyst
+Hey. Good afternoon, guys.
+Mike McMullen -- President and Chief Executive Officer
+Hey, Doug. How are you doing?
+Doug Schenkel -- Cowen -- Analyst
+I'm doing well, thank you. So maybe a quick follow-up to Dan's question, cutting it in a different way. Bob, you said May is going to be similar to April, but you acknowledged, again, in answering the last question that China continues to get better. Logically, I think that means something or somewhere still must be getting worse coming out of April into May. Maybe I'm just being a bit too forensic with how you position this. But I'm just wondering, are there areas where you saw and continue to see continued deterioration as we sit here in mid to late May?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. We haven't seen any continue -- again, these are one point out of the month, right, but -- or one point out of a year. But May is trending the way April trended in total. And so we're not seeing anything that is dramatically off pace.
+Mike McMullen -- President and Chief Executive Officer
+And I think Bob, it's -- maybe this is worth mentioning that we don't go in a lot of details on the order front, our order forecast have been tracking well for both April and through this point in time through May. So, yes.
+Doug Schenkel -- Cowen -- Analyst
+That's great. Helpful color. Regarding ACG trends, specifically on the consumable side, what did you see in April and then what was that trend into May. Consumable use picking up would be a really great sign that more people are getting into labs, and as you noted, a good leading indicator for future demands. So I'm just wondering, recognizing it's an unusual time, if you'd be willing to go to that level just because it's important for you in the group. And if so, if you'd say anything about specific end markets and geographies?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. I would say, generally speaking, our consumables business has started to pick up. And I'll just leave it at that.
+Doug Schenkel -- Cowen -- Analyst
+And it's tied directly to the opening a facility.
+Mike McMullen -- President and Chief Executive Officer
+You can draw a parallel, where things are opening up. You see the consumables recovering. It's recovering much faster than the instrumentation. And that's really -- that's why we keep using word uncertainty, because we can't project exactly how certain facilities will open up. But we know when they opened up in China, we've gotten the business. We know as they've been opening up in Europe, we're getting the business. And then when they've slowly been opened up in the US, but getting the business, with the exception being universities, which aren't opening up right now, unless you're doing COVID-19 research.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Correct.
+Doug Schenkel -- Cowen -- Analyst
+Okay. Super, helpful. Last one, cell analysis. Can you talk a bit more about trends in this business in the quarter? You had a good quarter. The business grew year-over-year. I think on the surface, that's a bit surprising just because of the heavy mix of heavy, the exposure to academic research. How are you able to pull that off?
+Mike McMullen -- President and Chief Executive Officer
+Yeah, Doug. Thanks for the observations there, because there is a big footprint of the business in academia, but the overall business did grow. And I think I'd like to give the opportunity to Jacob to crow a little about what's going on there.
+Jacob Thaysen -- Senior Vice President, Agilent and President, Life Sciences and Applied Markets Group
+Yeah, absolutely. Thank you very much. And it is actually a good story. I mean, as you say, Doug, it is a tale of two cities that clearly academia and government has been challenged during this period of time. While our exposure in biopharma has really picked up here. And furthermore, we have also seen quite some interest for the BioTek ELISA and [Indecipherable] in for the theology testing. So with that, that's actually quite good demand. We also see a flow, will have a tremendous growth. We see a lot of the flow instruments being used in the research sector right now to better understand the cytokine that is happening in -- relates to the COVID-19. So overall, both the biopharma space is seeing strong demand. We've seen demand into the diagnostic testing on the COVID-19. And then obviously, academia and government overall is challenging, but we do see pocket of interest still there. So overall, great performance.
+Mike McMullen -- President and Chief Executive Officer
+Thanks, Jacob.
+Doug Schenkel -- Cowen -- Analyst
+Okay, great. Thanks, again.
+Mike McMullen -- President and Chief Executive Officer
+Thanks.
+Operator
+And our next question comes from the line of Puneet Souda of SVB Leerink. Please go ahead. Your line is open.
+Puneet Souda -- SVB Leerink -- Analyst
+Yeah. Thanks. Hi, Mike. First one on NASD.
+Mike McMullen -- President and Chief Executive Officer
+Hi, Puneet. How are you doing?
+Puneet Souda -- SVB Leerink -- Analyst
+Great. Thanks, Mike. So the first one on NASD. Great to see the growth there, but just wondering, was there any element of stocking from the biopharma or biotech customers there just given heading into COVID?
+Mike McMullen -- President and Chief Executive Officer
+Sam, I think the answer is no, but I'm going to -- you haven't had a chance to talk today. So why don't you confirm or deny this room or around.
+Sam Raha -- Senior Vice President, Agilent and President, Diagnostics and Genomics Group
+Yeah. Thank you. No, the answer is no, Mike. And Puneet, that business, it's a long lead business where we both contract with customers usually several months, sometimes quarters out the work because there's a lot of a proprietary work that has to be done in conjunction with them, scheduling all the pre-validation work. So no, there was no stocking work. We've got things scheduled out for months ahead already. So, no stocking effect.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Hey, Puneet. This is Bob. Just to add on to what Sam said, because there's been a lot of news about clinical trials being put on hold and so forth. We haven't seen any of that in our demand for NASD.
+Puneet Souda -- SVB Leerink -- Analyst
+Okay. That's great to hear. So Sam, if I could and Mike, you as well, if I could ask on cancer diagnostics, obviously a high growth area and expansion into liquid biopsies and other significant market opportunities there. Now with the decision on Lasergen, how are you thinking about the long-term focus for your genomics portfolio and overall market position longer term?
+Mike McMullen -- President and Chief Executive Officer
+Yeah. I'll make some initial comments, and I'll invite Sam to join in here as well. So I guess, first of all, important just to remind the audience we actually do have a cancer diagnosis business with day from an NGS perspective. So we provide a lot of components and sample prep and other instrumentation into these workflows today. We're overall very -- we continue to be very, very bullish about the cancer diagnostics market for NGS-based -- cancer-based diagnostics. And we think there's a path forward for incremental growth on top of what we're doing that doesn't require a -- or having our own sequencer, because of some change in the external marketplace. And Sam, maybe you have some building comments on that.
+Sam Raha -- Senior Vice President, Agilent and President, Diagnostics and Genomics Group
+Yeah. Absolutely, Mike. As you said, we are -- we remain the leading provider for library preparation, particularly target enrichment kits that are used as part of NGS-based cancer diagnostics. We have some of the leading workflow elements as it relates to NGS-quality control and so forth. And also our combination of our access to clinical diagnostic labs through our pathology franchise, our CDX business where we work with pharma partners to develop companion diagnostics from -- we believe, together with what we have in genomics, it still gives us a unique capability set, which we are looking to deploy that capability set by bringing that together and there's partnering opportunities. So Puneet, we haven't really changed our thesis. And as Mike said earlier, we just don't believe we need to directly develop the sequencer ourselves. But our commitment to genomics, including arrays, including NGS continues, and we feel good about it.
+Puneet Souda -- SVB Leerink -- Analyst
+Okay. That's very helpful. And if I could squeeze last one then on the Bravo Liquid Handling robots that you have obviously are being used widely among the COVID testing community as well and genomics community. So trying to see if that was a meaningful number of this quarter. And is that something you expect to continue? And if you can -- if there's something you can quantify for along those lines. And I wasn't sure, this is in Sam's bucket or it's actually in the LSAG bucket.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. Hey, Puneet. This is Bob. I'll tell you it's in the LSAG bucket. And that was the majority of the instrument of the COVID-19 testing that Mike talked about one-point tailwind in Q2 and growing. So...
+Mike McMullen -- President and Chief Executive Officer
+So that demand has not peaked, and it comes not only with instrumentation, but an ongoing supply of consumables associated with an instrumentation.
+Puneet Souda -- SVB Leerink -- Analyst
+Okay. That's great. All right, thank you.
+Operator
+And our next question comes from the line of Vijay Kumar of Evercore ISI. Please go ahead. Your line is open.
+Vijay Kumar -- Evercore ISI -- Analyst
+Thanks guys for squeezing me in here.
+Mike McMullen -- President and Chief Executive Officer
+Sure, Vijay. No problem.
+Vijay Kumar -- Evercore ISI -- Analyst
+Mike, so I think, I just want to make sure I heard this correctly. You guys say April was down 7%, because I'm trying to figure it out, If May is in line with April 6.5%. So if May is, I guess, in line with April or even I guess, if the next -- forward two months are in line with April. Like how do we get to minus 15%? Maybe just help us understand the range?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+It wouldn't -- Vijay, you wouldn't, that would be kind of the -- toward the lower end, right? So what we're saying is, if things kind of backtracked, we didn't get any better in the US and Europe and we didn't really have -- there was a sort of a backtrack in China. So again, we're saying we don't expect that. We hope that that's very conservative. But things are just now opening up in US and Europe. But if you do the math that you're saying, you don't get there, you get a lot better. You get toward the minus 5%.
+Vijay Kumar -- Evercore ISI -- Analyst
+Understood. That's helpful, Bob. And then I guess, on that China topic, I know in the past you guys have or I guess, some of your peers have spoken about the stimulus -- China stimulus. Any details around or thoughts around a potential for stimulus? And perhaps how that could benefit you guys?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. We haven't heard any specifics on that. So that clearly would be a boost to our view of market demand the latter part of this year, but that's not at all in our calculus right now when we talk about a recovering China marketplace for us.
+Vijay Kumar -- Evercore ISI -- Analyst
+Perfect. Thanks guys.
+Operator
+And our next question comes from the line of Brandon Couillard of Jefferies. Please go ahead. Your line is open.
+Brandon Couillard -- Jefferies -- Analyst
+Thanks. Mike, I was hoping you could just touch on the small molecule pharma trends in the quarter and around capital equipments. Any disruption in places like India or other geographies?
+Mike McMullen -- President and Chief Executive Officer
+No, significant disruption, but it's relatively flattish I think for the quarter, that's about 70% of our pharma business, about 30% it was growing quite strongly in biopharma, small molecule is relatively flattish on the instrumentation side.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. We -- our business in India is fairly small today.
+Brandon Couillard -- Jefferies -- Analyst
+Okay. And then just one follow-up for you, Bob, just around the P&L. Can you sort of speak to the cost structure breakdown through fixed and variable and maybe how we should think about opex trends into the third quarter?
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. I would say, I mean, we've been -- we were very pleased with our ability to kind of manage the kind of the cost structure here. If you looked at it kind of on a sequential basis, there was about a $35 million kind of reduction, about a third of that quite honestly was travel related. As we put the brakes on and I would expect that to be probably even more significant in Q3. Obviously variable and then discretionary spend and then we do have some element of our variable comps that reduces with performance. But what I would say is, Q3 is going to be more challenging because we are protecting those growth investments. But we are very pleased with our ability to kind of manage our costs.
+Mike McMullen -- President and Chief Executive Officer
+Yeah, Bob. I could just jump in there. I mean, the fact that we were able to increase margins in the quarter in the midst of a pandemic, we're really quite pleased with that. And we didn't take shortcuts here. So we -- there was no COVID-19 layoffs within Agilent. And we've got a team that is not worried about their future employment. They are all worried about winning the marketplace and taking care of our customers.
+Brandon Couillard -- Jefferies -- Analyst
+Okay. Thank you.
+Mike McMullen -- President and Chief Executive Officer
+Thanks.
+Operator
+And our next question comes from the line of Dan Brennan of UBS. Please go ahead. Your line is open.
+Dan Brennan -- UBS -- Analyst
+Great. Thanks for taking the question guys.
+Mike McMullen -- President and Chief Executive Officer
+Sure, Dan.
+Dan Brennan -- UBS -- Analyst
+I was hoping maybe to -- hey, Mike, maybe to go back to China for a moment.
+Mike McMullen -- President and Chief Executive Officer
+Sure.
+Dan Brennan -- UBS -- Analyst
+Can you break it down a little bit more, kind of what you're seeing in China? I know you kind of highlighted in the deck that food grew and I think you've given some other tidbits. But maybe just give us a little flavor for your segments in China and then specifically if you could also just address maybe an update on food and generics, which had been two big drags for you guys.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. I'll take it Dan. What I would say is, in the quarter we were very pleased with the performance. All three business groups grew with DGG, albeit, the smallest one growing the fastest followed by ACG and LSAG was up a modest percentage, which is a great testament to the team there. Across the groups all, but I think Academia and government grew to varying levels. And food as we talked about was up in China and it helped drive the global food being up. So again, very good recovery there. And we've been very pleased with our performance in China.
+Dan Brennan -- UBS -- Analyst
+And we throw, Bob, and thank you for that. The generic issue obviously maybe gets a little lost right now during COVID and did major...
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. From a generic perspective, pharma was up it's really driven by the biopharma business. But our small molecule was not significantly impacted. As Mike said, our small molecule business was roughly flat globally and it was not that far off in China as well. Again, we've got the view that now COVID-19 kind of throws some variables in here, but we've continued to have the view that this ultimately is a good thing long-term for the industry and ultimately for us because we continue to see the customers who win are disproportionally our customers. And nothing really changed in Q2 from that standpoint.
+Dan Brennan -- UBS -- Analyst
+Got it.
+Jacob Thaysen -- Senior Vice President, Agilent and President, Life Sciences and Applied Markets Group
+Well, I can add to that. The consolidation just continued with the generics, but according to our expectations.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah.
+Dan Brennan -- UBS -- Analyst
+Got it. And I know there was already a question I think -- thanks, Jacob. And then I know plenty to ask the question on the diagnostics business, but if you think about DGG ex-NASD business, obviously that business should be a lot less sensitive toward discretionary visits given the nature of what you're selling there. But can you just give us a little flavor for what you are seeing since there is such a focus on the ability for hospitals to open back up and patient visits? So what do we track there?
+Mike McMullen -- President and Chief Executive Officer
+Yeah. I think actually, hospital access for -- and patients willingness to go to the hospital, medical care outside of COVID-19 has put a damper on the US business in pathology. So that's one of the areas of "uncertainty" we're looking at is when will those -- when will patients start to return to hospital to get those procedures done. We saw that resume, I believe Bob in Europe. But we've not yet seen it in the pathology US business and that puts somewhat of a -- that's put a drag on our Q2 results. We were quite pleased to post a 5% core growth in that business, despite this drag in the US, which we think eventually is going to come back. But again, this is when.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Yeah. And Dan, that's one of the variables that we were taking to account with the framework that we were talking about. If in fact, the large labs continue to focus on COVID-19 testing or there's not any resumption of non-COVID-19 medical procedures, then that will impact our pathology business because right now, biopsies aren't being done. Cancer screening is being deferred. And then if you have cancer, then you go for a biopsy and so forth. We're hoping that that will resume throughout the course of this quarter. But it's still very early days. Ultimately we see that as bad for the healthcare of the world, quite honestly. And so we hope not just as manufacturers, but as brothers and sisters and mothers and fathers that happens. But that's one of the things that is still in front of us.
+Dan Brennan -- UBS -- Analyst
+Terrific. Thank you, guys.
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Welcome.
+Operator
+[Operator Closing Remarks]
+Duration: 62 minutes
+Ankur Dhingra -- Vice President of Investor Relations
+Mike McMullen -- President and Chief Executive Officer
+Robert W. McMahon -- Senior Vice President, Agilent Chief Financial Officer
+Padraig McDonnell -- Senior Vice President, Agilent and President, Agilent CrossLab Group
+Jacob Thaysen -- Senior Vice President, Agilent and President, Life Sciences and Applied Markets Group
+Sam Raha -- Senior Vice President, Agilent and President, Diagnostics and Genomics Group
+Tycho Peterson -- JP Morgan -- Analyst
+Steve Beuchaw -- Wolfe Research -- Analyst
+Patrick Donnelly -- Citi -- Analyst
+Derik de Bruin -- Bank of America -- Analyst
+Dan Leonard -- Wells Fargo -- Analyst
+Doug Schenkel -- Cowen -- Analyst
+Puneet Souda -- SVB Leerink -- Analyst
+Vijay Kumar -- Evercore ISI -- Analyst
+Brandon Couillard -- Jefferies -- Analyst
+Dan Brennan -- UBS -- Analyst
+More A analysis
+All earnings call transcripts
+
+
+
+
+

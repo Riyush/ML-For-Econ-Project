@@ -1,0 +1,213 @@
+Image source: The Motley Fool.
+Republic Services Inc (RSG 0.90%)Q2 2021 Earnings CallJul 29, 2021, 5:00 p.m. ET
+Operator
+Good afternoon, and welcome to the Republic Services Second Quarter 2021 Investor Conference Call. Republic Services is traded on the New York Stock Exchange under the symbol RSG. [Operator Instructions]
+I would now like to turn the conference over to Stacey Mathews, Vice President of Investor Relations.
+
+Stacey Mathews -- Investor Relations
+I would like to welcome everyone to Republic Services' Second Quarter 2021 Conference Call. Jon Vander Ark, our CEO; and Brian DelGhiaccio, our CFO, are joining me as we discuss our performance. I would like to take a moment to remind everyone that some of the information we discuss on today's call contains forward-looking statements, which involve risks and uncertainties and may be materially different from actual results. Our SEC filings discuss factors that could cause actual results to differ materially from expectations. The material that we discuss today is time-sensitive. If in the future, you listen to a rebroadcast or recording of this conference call, you should be sensitive to the date of the original call, which is July 29, 2021.
+Please note that this call is the property of Republic Services, Inc. Any redistribution, retransmission or rebroadcast of this call in any form without the expressed written consent of Republic Services is strictly prohibited. I want to point out that our SEC filings, our earnings press release, which includes GAAP reconciliation tables and a discussion of business activities, along with a recording of this call, are all available on Republic website at republicservices.com. I want to remind you that Republic's management team routinely participates in investor conferences. When events are scheduled, the dates, times and presentations are posted on our website.
+With that, I would like to turn the call over to Jon.
+Jon Vander Ark -- President And Chief Executive Officer
+Thanks, Stacey. Good afternoon, everyone, and thank you for joining us. We are very pleased with our strong performance in the second quarter. Our results reflect strong execution and continued momentum on our strategic priorities which are building capabilities to further differentiate us from competitors. These capabilities include: driving growth and building customer loyalty through a maniacal focus on the customer, which we call Customer Zeal; leveraging digital tools to the experience for our customers and employees, which we believe drives growth and generates operational efficiencies; and prioritizing sustainability by offering environmentally responsible solutions to our customers while protecting the planet.
+During the second quarter, we delivered adjusted earnings per share of $1.09, which represents a 36% increase over the prior year, expanded EBITDA margin of 110 basis points to 30.6%, and generated $1 billion of adjusted free cash flow on a year-to-date basis. We continue to effectively allocate capital by investing in value-creating acquisitions and returning excess cash to our shareholders. Year-to-date, we invested $567 million in acquisitions to further enhance our market position and increase free cash flow. Our pipeline of acquisition opportunities remains robust, with opportunities in both solid waste and the Environmental Solutions portion of our business. We expect to invest well over $600 million in acquisitions for the full year. Year-to-date, we returned $363 million to our shareholders through dividends and share repurchases, and our Board recently approved an 8% increase in the quarterly dividend. The strength of the underlying business is irrefutable, and we continue to see the proof points that our strategy is working.
+Retention in our small and large container business remains at historically high levels at 94%. If you further consider all permanent units of service, retention is even higher at 95%. As anticipated, the pricing environment was strong in the second quarter. Total core price was 5.2%, and average yield was 2.6%. This level of core price matches the highest level in our company's history. During the second quarter, we delivered outsized growth in our business as the economy improved. Second quarter volume increased 8.1% compared to the prior year, which exceeded our expectations. The outlook for growth in the remainder of the year, both organically and through acquisitions, is strong. Turning to digital. We continue to see the benefits of our investments in technology and are well underway on the rollout of the next phase of our RISE platform. Through the second quarter, we implemented tablets in approximately 40% -- 47% of our large and small container fleet.
+We expect to be substantially complete by the end of this year, with plans to further deploy to the residential fleet beginning in 2022. The in-cab tablets enable automated customer notifications, which provides customers real-time information about their service. Next, we believe sustainability is more than environmental stewardship but also a platform for growth. We recently published our new sustainability report, which highlights the progress we are making in our most significant opportunities to positively impact our stakeholders and the environment. For example, we are proud to report a 5% reduction in operational greenhouse gas emissions in 2020 compared to the prior year. This year, we expanded and converted a landfill gas energy plant to high BTU and have 15 additional projects in the pipeline. These projects reduce landfill emissions, generate more renewable and improve our economics. We are also making the communities in which we operate better places to live.
+So far this year, we've supported more than 25 charitable efforts and neighborhood revitalization projects through financial contributions and volunteer efforts. This is in addition to the ongoing support of our local divisions provide to their communities. In recognition of our ESG performance and transparency, we were named to 3BL Media's 100 Best Corporate Citizens list for the second consecutive year. Finally, turning to our outlook for the remainder of the year. We expect continued strength in our business and to exceed the full year guidance we upwardly revised last quarter. Accordingly, we are updating full year financial guidance as follows. Adjusted EPS is now expected to be in a range of $4 to $4.05, and adjusted free cash flow is now expected to be in a range of $1.45 billion to $1.475 billion. This represents an increase of over 6% from the midpoint of the prior guidance.
+I will now turn the call over to Brian.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Thanks, Jon. Second quarter core price was 5.2%, which included open market pricing of 6.5% and restricted pricing of 3%. Core price in the open market was the highest level in company history. The components of core price included small container of 7.9%, large container of 5.3% and residential of 5%. Average yield was 2.6%, which increased 30 basis points from the first quarter. This level of performance was in line with our expectations. Second quarter volume increased 8.1%. While we expected second quarter to be the highest reported volume for the year, the 8.1% growth exceeded our expectations. The components of volume included an increase in small container of 8.6%, an increase in large container of 13.7% and an increase in landfill of 12.6%. For reference, second quarter volumes in our small and large container businesses were down less than 1% from a 2019 pre-pandemic baseline, and MSW and C&D landfill volumes were both above the pre-pandemic baseline.
+Moving on to recycling. Commodity prices increased to $170 per ton in the second quarter. This compared to $101 per ton in the prior year. Recycling processing and commodity sales contributed 100 basis points to internal growth during the second quarter. Next, turning to our Environmental Solutions business. Second quarter Environmental Solutions revenue was essentially flat with the prior year. Approximately 30% of our Environmental Solutions business is in the upstream oil and gas sector, and 70% is in the downstream petrochemical and broader industrial manufacturing sectors. The downstream petrochemical and industrial manufacturing portion of this business grew 8% compared to the prior year. Adjusted EBITDA margin for the second quarter was 30.6% and increased 110 basis points over the prior year. This included 130 basis points, a 50 basis point increase from recycled commodity prices and a 70 basis point headwind from net fuel.
+The margin expansion is a direct result of pricing in excess of our cost inflation realizing operating leverage as volumes return, and continued effective cost management. SG&A was 10.7% of revenue, which was flat with the prior year. SG&A included higher levels of incentive compensation due to projected financial outperformance. SG&A would have been approximately 10%, excluding the additional incentive compensation expenses. Year-to-date, adjusted free cash flow was $1 billion and increased $276 million or 38% compared to the prior year. The drivers of growth included EBITDA growth in the business, a positive contribution from a 1.5-day improvement in DSO and the timing of capital expenditures. We received approximately 40% of our projected full year capex during the first half of the year.
+During the quarter, total debt was $9 billion, and total liquidity was $2.9 billion. Interest expense decreased $13 million due to refinancing activities completed last year, and our leverage ratio was 2.9 times. With respect to taxes, our second quarter adjusted effective tax rate was 21.6%. We had an equivalent tax impact of 23.7% if you include noncash charges from solar investments. We'll expect a full year equivalent tax impact of 26%, which includes the effective tax rate and noncash solar charges.
+With that, operator, I would like to open the call to questions.
+Operator
+[Operator Instructions] Our first question today comes from Tyler Brown with Raymond James.
+Tyler Brown -- Raymond James -- Analyst
+Hey, good afternoon, everyone. Hey, Brian, I don't know if it was just my phone or not, but you kind of cut out when you were unpacking the 110 basis point improvement in EBITDA margins. Can you run through that again real quick?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes. The underlying business, Tyler, was 130 basis points of expansion. We had a headwind from net fuel of 70 basis points and then higher commodity prices contributed 50 basis points of the increase.
+Tyler Brown -- Raymond James -- Analyst
+Okay. Okay. Perfect. And then on the $0.26 increase in EPS at the midpoint, can you just break down the moving pieces there? What I'm really trying to get at is kind of get a feel for how much was kind of core price and volume versus other things like commodities.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes. So let me -- I'll put it in these terms. So commodity prices from our prior guide is about $0.08 of the increase. The rest of it is in the underlying business, and that's just a combination of price, volume, better and more effective cost management. And as I mentioned, due to the financial outperformance, we are recording higher incentive compensation expense in that underlying business. We are absorbing those higher incentive compensation accruals.
+Tyler Brown -- Raymond James -- Analyst
+Okay. Great. And then just lastly here, I know you don't give EBITDA guidance, but if you kind of run it through, are we kind of flirting with 30% EBITDA margins for the year?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes.
+Tyler Brown -- Raymond James -- Analyst
+Okay, All right. Guys, thank you.
+Operator
+Our next question will come from Mario Cortellacci with Jefferies.
+Mario Cortellacci -- Jefferies -- Analyst
+Hi, this is, Mario Cortellacci filling in for Hamza. Maybe just a kind of piggyback off of Tyler's last question and maybe it implies the same thing, but could you just talk about your current free cash flow conversion and what's implied in your 2021 guidance? And then where does that go longer term? And what are the big levers you can pull in order to continue to see that increase?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes, sure. So our original guidance had free cash flow conversion in all of the 43% range. And then, right, we are increasing both the EBITDA as well as the free cash flow, but we think the conversion is also improving at the same time. So it's trending closer to the 44% range. Longer term, we've talked about our ability to get to mid- -- to the 45%, 46%, 47%-type free cash flow conversion. We think we can just get there quicker, just because, again, we're having a better springboard here in '21.
+Mario Cortellacci -- Jefferies -- Analyst
+Got you. And then just a quick follow-up on headcount. Could you just remind us how you're thinking about further headcount additions and how you're also contemplating that with potential labor inflation going forward?
+Jon Vander Ark -- President And Chief Executive Officer
+Well, we'd certainly take more drivers if we could get them right now. We're probably foregoing -- certainly are foregoing some growth opportunities in certain markets where -- listen, the economy is booming in lots of spots, right, and we take more -- we're doing a great job on turnover broad listing, right, and we'd just love to be able to hire some more people, again, particularly in the industrial or large container line of business. And then we're seeing very modest inflation in this year's economics. We're going to do an annual increase, and we give our people a fair increase every year. We expect that certainly to tick up next year, but to be more than offset by our ability to price through that. So we think that inflation net-net will be margin expanding for us.
+Mario Cortellacci -- Jefferies -- Analyst
+Understood. Thank you.
+Operator
+Our next question comes from Walter Spracklin with RBC Capital Markets.
+Walter Spracklin -- RBC Capital Markets -- Analyst
+Thanks very much, operator, and good afternoon everyone. I'd like to come back to your comments on waste-to-gas conversion. You mentioned, I think, 15 facilities where you could ramp that up. Can you give us any quantification on the revenue and cash flow generation from that, the level of investment you would have to make or whether you're going to partner up here with any anybody for offtake arrangements? And generally, what the strategic direction is around this. Is this something that you're going to have as this nice steady stream of new revenue? Or could you contemplate down the road monetizing this? Obviously, there's been some significant valuations for this type of revenue stream and whether you could look at some value-enhancing opportunities there, just on the waste-to-gas conversion. I'd love to hear your thoughts on that.
+Jon Vander Ark -- President And Chief Executive Officer
+Sure. Yes. Strategically, we think it fits right into where we're going. I mentioned in my prepared comments, it supports our sustainability aspirations, and we think it drives money to the bottom line, and that's where we look at, things that are both environmentally sustainable and economically sustainable. They happen to be related most of the time. Well, broadly speaking, we'll look to partner, not because we can't do it ourselves. We do, do that in a handful of cases. I just think about our resources and it's less financial capital, it's more of our talent. I don't want to tie up all of our time and energy in a place where I think it will be a nice ancillary revenue stream, certainly profitable for us, but it doesn't provide exponential growth, right? There's a cap to that. And so we can work with other people who could help us get there quicker, and again, capture all of those environmental benefits and some of the financial benefits without having to tie up our resources, which I think are better placed elsewhere.
+Walter Spracklin -- RBC Capital Markets -- Analyst
+Okay. And just in terms of quantifying the potential opportunity from the 15 facilities you mentioned?
+Jon Vander Ark -- President And Chief Executive Officer
+No, we're not talking about the specific economics. I'd say broadly speaking, if we think about kind of pushing out, not every site, but you're talking about kind of a $200 million revenue type opportunity for us, right, in a shared arrangement. So again, we're not going to give a multiyear plan to get there. So that just dimension -- it could be a little more, could be a little less, of course. But that just dimensions that why we're not spending all of our energy there because there's a ceiling to the opportunity.
+Walter Spracklin -- RBC Capital Markets -- Analyst
+Got it. And that's a fairly low capital-intensive opportunity, is that right?
+Jon Vander Ark -- President And Chief Executive Officer
+Correct. Again, that's why we partner with others because we've got people lining up at the door to put their capital to work. And so we think the most attractive place -- way for us to play in that is working with others.
+Walter Spracklin -- RBC Capital Markets -- Analyst
+Got it. Okay, thank you very much and congrats on a great quarter. Thanks.
+Operator
+Our next question comes from Jeff Goldstein with Morgan Stanley. All right, we're going to go ahead and move to Kevin Chiang with CIBC. Your line on open
+Kevin Chiang -- CIBC -- Analyst
+Hi, thanks for taking my question. Congrats on a good quarter there. If I could just turn to pricing. You called out the 5.2 highest in company history. I get there's inflation everywhere, so your ability to offset that is obviously playing out. But I'm wondering, are you starting to see any pushback here as you look to capture pricing to offset inflation? You have central bankers telling us this is a transitory issue. Or are any of your clients coming back saying, we're not willing to pay that price from what might be a point in time increase in inflation? Or has it been pretty -- have these conversations been pretty normal, I guess?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+No, we're certainly getting it, right? We're just seeing the volume growth and you're seeing the prices stick. And again, our capture pricing tool allows us to adjust realtime as we've seen some inflationary pressure, for example, in steel prices on containers, right? We priced that right through. But keep in mind, most of the inflationary benefit of pricing hasn't yet flowed through. That will come on the contracted portion of our book, which is about 50%, and most of that will flow into 2022. But no, broadly seeing we are seeing customers take price. And we're showing up, working hard, doing a great job and getting paid for the work we do.
+Jon Vander Ark -- President And Chief Executive Officer
+And Kevin, remember, that core price metric is the price increase net of rollbacks. So that is already included in that metric.
+Kevin Chiang -- CIBC -- Analyst
+That's a good point. That's a great clarification. And just maybe looking at your free cash flow, you did increase your capex assumption a little bit, and I know you had a big spend in the first half of the year. Just looking to some other companies talking about the supply chain disruptions, one of the areas they're seeing it is the equipment they're planning to get this year. And just looking at your raised guidance, how you would frame the confidence in getting to that number, just given some of the supply chain disruptions around getting equipment and just getting the resources to get that stuff built.
+Jon Vander Ark -- President And Chief Executive Officer
+Yes, we're pretty confident in the number. Of course, we -- on a certain environment, so anything can happen with supply chains here. But we're on track to do that, and the incremental spend versus the original guide is really for growth capital. And some of our bigger spends, obviously, on the capital side are trucks and heavy equipment, and we're on track. We're going to take about 1,200 trucks this year. We've already received 700 of those, and have good line of sight to the 500. And we're working really closely -- our procurement team, working really closely with our partners, which are strategic and long term. And they've been on track in terms of supplying us. So we're hitting our marks there.
+Kevin Chiang -- CIBC -- Analyst
+That's great, thank you very much. Great quarter.
+Operator
+Thank you. Our next question comes from Jerry Revich with Goldman Sachs.
+Jerry Revich -- Goldman Sachs -- Analyst
+Hi, good afternoon. I'm wondering if you could just talk about the recycling investment opportunity that you folks have. You called out in the sustainability report the investments that you made in enhancing productivity at some plants. Can you just talk about how much runway you have to continue that investment in any greenfield or acquisition opportunities that you folks see on that part of the business?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. We have some of both, clearly. Broadly speaking, we're going through an opportunity that does that capex-opex trade-off, right? And we do it for two reasons. One, we think by putting more capital in, we can modernize those facilities. It allows us to produce a better product. On the other end, better segmentation, less contamination. We think we're getting higher yield. On the other end, a higher throughput of those facilities. Also back to the labor market, which is tight right now, those are very challenging jobs. So the more automation we put in those facilities, the better off we think we're going to be long term. And we've got a very consistent steady plan to upgrade a number of our facilities. And then there's a handful of markets that over the next few years will eye for greenfield facilities. They could be buy opportunities, but most likely will go studs up on those, just because we can get the right equipment and get the right facility and the right kind of capex, opex trade-off in place when we do it clean sheet.
+Jerry Revich -- Goldman Sachs -- Analyst
+Got it. And in terms of how much capital you might be able to deploy in that direction over the next couple of years? Can you just give us a rough sense?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+If we think about what we've done historically around our recycling processing when we've made those investments, it's been anywhere from $30 million to $40 million per year.
+Jon Vander Ark -- President And Chief Executive Officer
+And again, that could bump up at any given year, right, if we're going to do a truly new facility. And again, we'll return to base, so we'll look at that. If we think it's got a good returns profile, we'll certainly make the investment.
+Jerry Revich -- Goldman Sachs -- Analyst
+Okay. And lastly, excellent core price performance in the quarter, the pick up in core price was higher than the pick up in yield. Can you talk about was the driver of a little bit lower pick up in yield versus core price and how you're thinking about sequential pricing from here compared to what we saw last year?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. I would say we are in the midst of coming out of an economic shock. And so when you go down really fast and then come up really fast, which is what we're doing now, that tends to create some noise in some certain stats. So small container is a great example of that, right, really strong core price, yield of only 2.2%. A lot of that is mix. So you've got lower-priced customers coming back online there, for example, education, got a low-cost position because you've got a lot of containers in a small facility, but that also has a smaller price impact. So that will normalize here as we get into Q2 -- or Q3 and Q4, you'll see some better year-over-year comps. We did historically, trust me, we've not lost our aspiration for price, especially in an inflationary environment, people need to get paid, right? And as goods increase, we will certainly pass that price on through to customers.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+And Jerry, you can actually see that, so on the way down. So back in Q2 of 2020, if you look at small container, that's when yield was over 4%. That's when some of those education customers were exiting the system with service decreases. Now that they're coming back online, you're seeing that impact that mix is having. But just like we said with our large container portfolio, it's come back to 3%. It was running lower, right, for the last couple of quarters, and that had all of a function of lower weights, right? So there's a little bit of noise, as Jon mentioned here, that we're seeing in some of these metrics. But the core pricing is strong we're pricing in excess of our cost inflation, and we're generating over 100 basis points of margin expansion.
+Jerry Revich -- Goldman Sachs -- Analyst
+Terrific. I appreciate the conversation. Thanks.
+Operator
+Our next question comes from Noah Kaye with Oppenheimer.
+Noah Kaye -- Oppenheimer -- Analyst
+Hey, good afternoon, everyone. Thanks for taking the questions. You were talking, I think, in last quarter and before about a good special waste pipeline and looking for some of that to actually break free, and it looks like that started to happen this quarter. I guess just what was driving your view this kind of recovery in C&D and special waste? Was it regionally concentrated anywhere? And then how does the pipeline look heading into the back half?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. I just think special waste and times of uncertainty, those jobs, they often get awarded, right? They just don't move. And so we saw good special waste pipeline that continued to build even though the actual performance wasn't great in times of uncertainty. We're seeing those things get released. Listen, the pipeline is strong. We've seen places -- like California, for example, has not really opened up like other parts of the country have. So we see more upside, and the pipeline remains strong.
+Noah Kaye -- Oppenheimer -- Analyst
+Okay. Great. And then you talked before about the M&A opportunity in Environmental Services. I guess, first to clarify with that, being more in the downstream part of the business. And second, what does the tail of opportunities look like for you in that market? Is this primarily about tuck-ins? Do you have targets that could move the needle from a total company growth perspective?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. Our strategy there is really a mix of acquisitive and organic growth, right? And so we're building out product lines, building out geographies on that. And this is -- these are businesses or service lines that we've been in for long periods of time in very incremental ways. And customers have asked us to play a better and bigger role as they look to consolidate their supply base around fewer providers who can have great safety track record, have a digital interface and good sustainability record. So we can fit all those marks for them. And so we're on a kind of steady sequential path, and we see the pipeline there to be full. Over time, could we do something bigger? Of course, we could, but the near to medium-term path is kind of steady growth on that front. Again, it's not either, or. It's both end. We still have a very strong pipeline in the more traditional recycling and solid waste portion of the business as well.
+Noah Kaye -- Oppenheimer -- Analyst
+Thanks and congratulations on the great execution
+Operator
+Thank you. Our next question comes from Sean Eastman with KeyBanc Capital Markets.
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+Hi guys, thanks for taking my questions. Nice job again. Could we put a finer point around the updated margin -- EBITDA margin guidance?
+Jon Vander Ark -- President And Chief Executive Officer
+Sure. What would you like to speak to...
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+The exact number that's in the guidance would be wonderful.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes. So look, we -- year-to-date, we're running 30.6%. We see margin circa 30% in the back half of the year, which would put you, call it, a 30.3%, 30.4% on a full year basis, which would result in 90 to 100 basis points of margin expansion, '21 over '20. And that's following a year -- '20 over '19, where we had 130 basis points of margin expansion. So that would be over 200 basis points of margin expansion in two years.
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+Yes, certainly impressive. And that kind of implies a flattish trajectory in the back half. There's just so many moving parts in the business right now. Could you just kind of help me parse that out, why a flattening-out trend here makes sense? And maybe how the recycled commodity uplift has been built into that outlook?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. I'd say, listen, there's certainly some awareness that we're still in a pandemic, right? And with the Delta variant and the third wave happening and pockets of the country starting to retrench a bit, right, we're very mindful that we don't know exactly what happened in the next six months. We're not past this thing and into a new normal. We're very excited about the recovery in lots of spots, and certainly, the longer-term growth profile as well as our ability to execute on that. I think in the near term, there just remains some uncertainty.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes. And one of the things, too, that we were seeing really from the beginning of the year and throughout the second quarter is that as units have recovered, we have seen higher container weights, in particular, on our business customers. And so again, that's one of those things that we continue to expect going forward. We've talked about these macro benefits modulating as units return. Quite honestly, we've held on to those benefits longer than we originally anticipated. Many of these were thinking could become structural changes in our business. But that said, we're being prudent, and we're still expecting some of those to modulate as we continue to see the recovery. And that's why we expect a little bit of a sequential decline. But if it doesn't happen, then that could be upside to our expectations.
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+Okay, got it. And then just on the recycled commodities, I'm just curious relative to where we're sitting today, how you've built it in, if there's a bit of a cushion there as well.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Well, let me -- so our average recycled commodity prices were $170 per ton in the second quarter. We have assumed that, that will stay flat at that level for the rest of the year.
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+Okay, excellent. Okay, thanks very much guys. I'll turn it over.
+Operator
+Thank you. Our next question comes from Michael Hoffman with Stifel.
+Michael Hoffman -- Stifel -- Analyst
+Hey, Gary. Thanks for taking the questions. Brian, the $125 million free cash flow from your original February to your current midpoint to midpoint, you broke up the $125 million difference, the increase? How much is operating leverage and how much is commodities?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Commodities is about 25% of that, Michael, and the rest of it is operating leverage. And when I say operating leverage, remember, we're absorbing the higher incremental incentive compensation in that number. So ex that, the operating leverage is even higher.
+Michael Hoffman -- Stifel -- Analyst
+Right, and -- Okay. And this is a onetime adjust -- this is not my second question. Just to tease this out, that's a onetime adjustment to your incentive comp, so next year I'd expect SG&A to find a different percent of revenues because it will -- that will all normalize?
+Jon Vander Ark -- President And Chief Executive Officer
+Well, we hope to further exceed our plan next year. But yes, if gravity takes us back to hitting our number, we certainly -- that would anniversary well for us.
+Michael Hoffman -- Stifel -- Analyst
+Okay. On the sustainability commentary, and I'm trying to tease out just so people begin to appreciate some of the data on the greenhouse gas improvement, can you help us understand -- '16, '17, '18, the numbers were reasonably flattish, the production of Scope one and two. And then it spikes in '19, and then it comes back down to 5% in '20. Why does that list in that manner? Is there a measurement issue? Is there a peculiarity of the way the data is collected based on algorithms and we all should be aware of that? Put that in context for us.
+Jon Vander Ark -- President And Chief Executive Officer
+Get back in the specifics of the kind of the jump in '19. And certainly, there is some -- this space has not fully settled out, as you might imagine, right, in terms of how everybody is measuring it. The improvement last year, that's twofold. One is, we just had fewer miles driven, right. As we got more productive and there was a little bit of a demand fall as well as we -- landfill gas-to-energy projects, right, those coming online. And not even just new ones coming online, it's also optimizing and driving the performance and the output of the existing fleet. That's certainly helping as well.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes, and most of that reduction, though, Michael, of the 5%, that was related to just enhanced landfill gas collection, which is a direct outcome of just those additional projects that have come online.
+Jon Vander Ark -- President And Chief Executive Officer
+Okay, that's very helpful.
+Operator
+Thank you. Our next question comes from Kyle White with Deutsche Bank.
+Kyle White -- Deutsche Bank -- Analyst
+Hi, good afternoon. Thanks for taking the question. Just wondering with the new guide, are you providing updated thoughts on where you think volumes and average yields could end up for the full year?
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Look, average yield for right now, we're thinking is relatively consistent with what we originally guided, with maybe a slight upward bias. Volume, though, we are expecting to see 50 to 100 basis points better than what we originally said. I think we said about 1.5% to 2%. We're thinking it's probably closer to 2.5% at this point.
+Kyle White -- Deutsche Bank -- Analyst
+Got it, that's helpful. And then on M&A, following the Santek deal, should we expect you guys to be kind of take a pause here for this year on an M&A spend? Or do you still see a pretty robust pipeline and opportunity there for tuck-ins for the remainder of the year?
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. No, no pause. We're hard at work, pipeline is strong, and we expect to have a really strong year on that front.
+Kyle White -- Deutsche Bank -- Analyst
+Got it, thanks. I'll turn it over
+Operator
+Our next question comes from Jeff Goldstein with Morgan Stanley.
+Jeff Goldstein -- Morgan Stanley -- Analyst
+Hey, Can you guys hear me OK now?
+Jon Vander Ark -- President And Chief Executive Officer
+We can.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Yes.
+Jeff Goldstein -- Morgan Stanley -- Analyst
+All right. Great. So you mentioned earlier some labor headwinds, which I get. But at the same time, you got a fairly high amount of leverage on the labor line this quarter. I think it was about 70 basis points. So maybe you can just talk about what efficiencies you're seeing. Is that just lower overtime generally? Is that really just price? Maybe you could just talk about some of those drivers.
+Jon Vander Ark -- President And Chief Executive Officer
+Yes. I think you're seeing our RISE platform really take root, right? We're just driving efficiencies into the system. So for a large container driver rather than doing seven actions in a day, we're getting an eight action, right, in the same time period, right? And we've really worked hard over the last three or four years to design that platform, and we talked about that being embedded in about half of our small and large container routes. And we're seeing the fruits of that come through the P&L. And again, we expect more benefit as we go forward on that. And listen, there's probably still a little bit of opportunity here, a little bit of benefit from work from home and traffic patterns. Although we would have expected that to be a bigger headwind. Again, to Brian's earlier comment, we're holding on to that benefit, so we think that's a modest headwind at best as we move forward.
+Jeff Goldstein -- Morgan Stanley -- Analyst
+Okay. Great. And then your buybacks have been fairly limited since the onset of COVID. I know that partially has to do with a robust M&A market. But curious how we should think about your appetite for repurchases, I guess, for the rest of the year and really into next year as well.
+Jon Vander Ark -- President And Chief Executive Officer
+We certainly have appetite. Well, first priority, if we find value-creating acquisitions that meet our -- that are strategically aligned to meet our return profile, that's where we'll start. But we'll be active with the stock as well because we think that also was a great investment and certainly think we're trading well below our intrinsic value.
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+One of the things we talked about all along is that we want to preserve that capacity and kind of maintain that leverage ratio, at or below three times. Quite honestly, we were doing it with the Santek acquisition, and given our outperformance, it created more capacity, which is why we were a buyer of our stock in the second quarter.
+Jeff Goldstein -- Morgan Stanley -- Analyst
+All right, thanks for the color.
+Operator
+At this time, there appear to be no further questions. Mr. Vander Ark, I'll turn the call back over to you for closing remarks.
+Jon Vander Ark -- President And Chief Executive Officer
+Thank you, Ailee. Our second quarter results highlight the strength and momentum in the business, which positions us well for continued growth over the remainder of this year and beyond. We continue to create value for our stakeholders by executing against our strategic priorities, which drives profitable growth and increases returns. I would like to thank all of our employees for their continued hard work and dedication. They continue to demonstrate their passion for taking care of our customers, each other and the environment. Each year, the NWRA honors the best of the best, the drivers and operators of the year. I'd like to thank the employees who swept every available award in our category this year.
+These individuals are: James Davis; Deirdre McKinley, Tony Forest, Victoria Barragan-Urioso. We look forward to celebrating them next year at Waste Expo. They stood out among tens of thousands of their peers for their outstanding safety and customer service records. They are great examples of what we value. Have a good evening, and be safe.
+Operator
+[Operator Closing Remarks]
+Duration: 41 minutes
+Stacey Mathews -- Investor Relations
+Jon Vander Ark -- President And Chief Executive Officer
+Brian DelGhiaccio -- Executive Vice President, Chief Financial Officer
+Tyler Brown -- Raymond James -- Analyst
+Mario Cortellacci -- Jefferies -- Analyst
+Walter Spracklin -- RBC Capital Markets -- Analyst
+Kevin Chiang -- CIBC -- Analyst
+Jerry Revich -- Goldman Sachs -- Analyst
+Noah Kaye -- Oppenheimer -- Analyst
+Sean Eastman -- KeyBanc Capital Markets -- Analyst
+Michael Hoffman -- Stifel -- Analyst
+Kyle White -- Deutsche Bank -- Analyst
+Jeff Goldstein -- Morgan Stanley -- Analyst
+More RSG analysis
+All earnings call transcripts
+
+
+
+
+

@@ -1,0 +1,208 @@
+Image source: The Motley Fool.
+ONEOK (OKE -1.02%)Q3 2021 Earnings CallNov 03, 2021, 11:00 a.m. ET
+Operator
+Good day and welcome to the ONEOK third quarter 2021 earnings call. Today's conference is being recorded. At this time, I would like to turn the conference over to Andrew Ziola. Please go ahead sir.
+Andrew Ziola -- Vice President,Investor Relations and Corporate Affairs
+Thank you, Todd, and welcome to ONEOK third quarter 2021 earnings call. We issued our earnings release and presentation after the markets closed yesterday, and those materials are on our website. After our prepared remarks, we'll be available to take your questions. Statements made during this call that might include ONEOK's expectations or predictions should be considered forward-looking statements and are covered by the safe harbor provision of the Securities Acts of 1933 and 1934.
+Actual results could differ materially from those projected in forward-looking statements. For a discussion of factors that could cause actual results to differ, please refer to our SEC filings. [Operator instructions] With that, I'll turn the call over to Pierce Norton, president and chief executive officer. Pierce?
+
+
+Pierce Norton -- President and Chief Executive Officer
+Thanks, Andrew, and good morning, everyone. We appreciate your interest and investment in ONEOK and thank you for taking your time to join us today. With me on today's call is Walt Hulse, chief financial officer and executive vice president, strategy and corporate affairs; and Kevin Burdick, executive vice president and chief operating officer. Also available to answer your questions are Sheridan Swords, senior vice president, natural gas liquids; and Chuck Kelly, senior vice president, natural gas.
+Yesterday, we announced strong third quarter earnings results and increased our 2021 financial guidance expectations. Our third quarter results were driven by NGL and natural gas volume growth on our system, the result of increasing producer activity and improving market demand. As world economics continue to recover from the pandemic, we're seeing demand continue to recover for natural gas and NGLs, and we're focused really on helping to meet that increasing demand for these critical energy products, particularly as we head into the winter months. As we look forward, we continue to coordinate with our customers on future growth expectations and are focused on innovation throughout the company.
+In September, we announced a greenhouse gas emissions reduction target, marking another major environmental milestone for our company. Our goal is to achieve an absolute 30% reduction or 2.2 million metric tons of our combined Scope 1 and 2 emissions by 2030 compared with 2019 levels. We will undertake a number of strategic emission reduction measures to meet this target, including the further electrification of certain natural gas compression assets, implementing additional methane mitigation through best management practices, system optimizations and then collaborating with our utility providers to increase the use of low carbon energy for our operations, just to name a few. As we continue to evaluate low carbon opportunities, we remain focused on those that will complement our operations and capabilities while providing long-term stakeholder value.
+As we have additional detail on specific projects or the future emission reduction activities, we will share that information and our progress toward our 2030 target. I will turn the call over to Walt Hulse to discuss our financial performance.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Thank you, Pierce. With yesterday's earnings announcement, we once again increased our 2021 financial guidance expectations and narrowed our ranges. We now expect net income of $1.43 billion to $1.55 billion and adjusted EBITDA of $3.325 billion to $3.425 billion with a midpoint of $3.375 billion. This represents a 10% increase in our net income and EPS guidance midpoints and a 5% increase in our adjusted EBITDA midpoint compared with our previous guidance.
+Our higher expectations are driven by continued volume strength in the Rocky Mountain region and Permian Basin, increased demand for natural gas storage and transportation, and higher commodity prices. Our 2021 capital expenditures are expected to be closer to the higher-end of our guidance range of about $525 million to $675 million as a result of increased producer activity and project timing. We continually work with our customers to evaluate their future capacity needs and supply expectations, and we'll align our projects and capital investment with those needs. Our outlook for growth in 2022 continues to also strengthen, driven by the increasing producer activity and rising gas to oil ratio in the Williston Basin, along with the recent completion of our Bear Creek plant expansion.
+Additionally, new ethane demand from new and expanding petrochemical facilities is expected to come online before the end of the year. Kevin now will provide more detail on each of these shortly. Now for a brief overview of our third quarter performance. ONEOK's third quarter 2021 net income totaled $392 million or $0.88 per share, a 26% increase compared with the third quarter 2020 and a 15% increase compared with the prior quarter.
+Third quarter adjusted EBITDA totaled $865 million, a 16% increase year over year and an 8% increase compared with the second quarter 2021. Our September 30 net debt to EBITDA on an annualized run-rate basis was 4.0 times, and we have this line of sight in sub-4 times in the near future. We ended the third quarter with no borrowings outstanding on our $2.5 billion credit facility and nearly $225 million of cash on the balance sheet. We continue to proactively manage our balance sheet and upcoming debt maturities.
+And earlier this week, we redeemed the remaining $536 million of senior notes due February 2022. Our next debt maturity is not until October of 2022. In October, the board of directors declared a dividend of about $0.935 or $3.74 per share on an annualized basis, unchanged from the previous quarter. I will now turn the call over to Kevin for an operational update.
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Thank you, Walt. In our Natural Gas Liquids segment, total NGL raw feed throughput volumes increased 5% compared with the second quarter of 2021 and 10% year over year, averaging nearly 1.3 million barrels per day. Our highest NGL volume to-date. Third quarter raw feed throughput from the Rocky Mountain region increased 5% with the second -- compared within second quarter 2021, and nearly 50% compared with the third quarter 2020.
+Volume growth was driven by increased producer activity in the region, ethane recovery, and increasing volumes from recently connected third-party plants, and including the 250 million cubic feet per day third-party plant that came online in July. Roughly throughput volumes from the mid-continent and the Permian Basin also increased. Permian volumes increased 12% compared with the second quarter 2021, driven by higher ethane recovery and producer activity levels. We have also connected additional third-party plants in the basin during the quarter.
+The segment was also able to utilize our integrated assets to capture the benefit of location and commodity price differentials during the third quarter, providing additional earnings on top of our primarily fee-based results. Petrochemical demand continues to strengthen as facilities have returned to normal operations following Hurricane Ida and as the pandemic recovery continues. Two new petrochemical plants coming online before the end of this year could provide more than 160,000 barrels per day of additional ethane demand once fully operational. This additional capacity combined with strong ethane exports, should support a wider ethane to natural gas differential in 2022.
+Ethane volumes on our system in the Rocky Mountain region increased compared with the second quarter 2021 as we incented additional ethane recovery during the third quarter. Recovery continued in October and is also expected throughout November, given our current regional natural gas and ethane prices. In other regions, we continue to forecast partial ethane recovery in the mid-continent and near full recovery in the Permian for the remainder of the year. So all of these assumptions are included in our increased financial guidance for 2021.
+Any additional ethane recovered would provide upside to our 2021 expectations. Discretionary ethane on our system is now more than 225,000 barrels per day. Of that total opportunity, more than 125,000 barrels per day are available in the Rocky Mountain region and 100,000 barrels per day in the mid-continent. As our NGL volumes continue to grow across the systems, so does the discretionary ethane.
+Moving on to the Natural Gas Gathering and Processing segment. In the Rocky Mountain region, third quarter processed volumes averaged nearly 1.3 billion cubic feet per day, a 2% increase compared with the second quarter of 2021 and a nearly 25% increase year over year. Scheduled plant maintenance at four of our processing facilities, which we have since come back online, decreased third quarter volumes by approximately 30 million cubic feet per day for the quarter. We estimate that approximately 14 to 15 rigs, which can drill approximately 300 wells per year, is enough to maintain 1.4 billion cubic feet per day of production behind our system.
+Any of the additional rigs, combined with the rising gas-to-oil ratios of wells already connected to our system, would provide additional volume growth. Conversations with our producers in the region continue to point to higher activity levels through the end of the year and into year 2022. There are currently 32 rigs and 10 completion crews operating in the basin with 17 rigs and five completion crews on our dedicated acreage. This is more than enough activity to grow gas production on our acreage.
+In addition to our rigs that's currently operating in the basin, there remains a large inventory of drilled but uncompleted wells with more than 520 basinwide and approximately 300 on our dedicated acreage, compared with about 400 ducks on our dedicated acreage at this time last year. In the third quarter, we connected 72 wells in the Rocky Mountain region. And in October, we connected more than 30 additional wells. Based on the most recent producer completion schedules, we still expect to connect more than 300 wells this year.
+With our Bear Creek plant expansion and related compressor stations now complete and in-service, we should see a significant number of well completions in the fourth quarter in Dunn County as producers had timed their completions with the start-up of our well expansion to avoid flaring. The new plant will accommodate increasing volumes as it ramps to full capacity over the next two to three years. With Bear Creek 2's completion, we now have approximately 1.7 billion cubic feet per day of processing capacity in the basin. We also continue to see that -- increased activity in the Mid-Continent region with two rigs now operating on our acreage and 10 wells connected during the third quarter.
+Sustained higher natural gas and NGL prices can drive a continued increase in our activity next year. During the third quarter, the gathering and processing segments fee rate averaged a $1.02 per MMBtu, compared with $0.94 per MMBtu in the third quarter of 2020. Changes in our average fee rates continued to be driven by our volume and contract mix each quarter. We still expect the fee rate for 2021 to average between $1 and $1.05 per MMBtu.
+Onto the natural gas pipeline segment. This segment result is stable. Fee-based earnings continue to drive solid results with adjusted EBITDA increasing 8% compared with the prior quarter. As we entered the winter heating season, we continue to see this increased interest from our customers for additional long-term transportation and storage capacity on our system, following the extreme winter weather event earlier this year.
+The segment's market connected pipelines and more than the 52 billion cubic feet of natural gas storage provide critical services to our customers all year around but especially during the winter. As always, we're working with our customers to understand their needs and to help meet increasing demand in the coming months. Pierce, that concludes my remarks.
+Pierce Norton -- President and Chief Executive Officer
+Thank you, Kevin. The strong results for this quarter underscore the quality of our assets and the hard work and dedication of our more than 2,800 employees. I'm very proud of the fact that our employees maintain discipline and focus on this importance of safety, reliability, and the responsible operations of our assets. The first nine months of this year has set up well for the end of the next year, the companywide earnings growth in year 2021, and have laid the foundation for continued growth next year.
+With that, operator, we're now ready for questions.
+Operator
+[Operator instructions] We'll take our first question from Shneur Gershuni with UBS.
+Shneur Gershuni -- UBS -- Analyst
+Hi. Good morning, everyone. Maybe to start off, I was wondering if we can talk about tailwinds into 2022. You gave some pretty good color about well completions in the presentation there.
+It sounds like you've about 100 wells left to complete for this year out of the 300 with only two months to go. You've got Bear Creek now in service. Is it also fair to assume that you potentially have some PPI inflators on some of your assets like Elk Creek and so forth? And so just kind of wondering how to how to think about ONEOK as we sort of head into 2022. In the past, you've talked about a $3.5 billion to $4billion upside potential.
+Is that the case? Are this tailwind stronger now? Just wondering if you can give us sort of some color as to how do you think of the tailwinds right now as we head into 2022.
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Shneur, this is Kevin. I think there's multiple kind of answers in that question. One, when we think about tailwinds into '22 I really go more toward the activity levels we're seeing in the Bakken with the rigs, with the DUC inventory, with the rising GORs. We're seeing really nice activity and volume growth in the Permian.
+So I kind of point to that core volume growth. In addition to that, you've got like I said in the remarks, ethane demand coming on the system, which could drive additional ethane recovery as we think about 2022. So that's where I think the tailwinds are. But to your -- you asked a question in there about kind of inflators on our contracts.
+In our NGL segment and our GNP segment, the vast majority of our contracts do have escalators on the fee rate, so we're covered as we think about inflation and other things like that. So those contracts are covered.
+Shneur Gershuni -- UBS -- Analyst
+OK. So you're still good with the range from before. OK. And then maybe just sort of given your leverage trajectory, kind of curious about what kind of return of capital options are potentially considering when you hit your leverage targets mid next year.
+Could we potentially see a dividend increase or buybacks on the table? Just any color on that as well too, please.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Sure, Shneur. This is Walt. We're very pleased to have achieved that 4.0 here in the third quarter. We want to continue to see that trend lower.
+And so we're not going to stop looking for that debt reduction and then improving debt-to-EBITDA ratio. The other thing with free cash flow is it gives us the opportunity to invest in our capital growth as we go forward, utilizing free cash flow and not having to finance. Obviously, as we get further and further along into the reduction, our options open up. But at the moment, we're focused on debt reduction and using our free cash flow for high return projects.
+Shneur Gershuni -- UBS -- Analyst
+Great. Perfect. Thank you very much. Appreciate the color today.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Thank you.
+Operator
+Thank you. We'll take our next question from Christine Cho with Barclays.
+Christine Cho -- Barclays -- Analyst
+Morning. If I could start with the incented ethane extraction in the Bakken, the quarter was a little noisy with a number of plants being offline so it's kind of hard to tell on a sequential basis but can you just give us an idea of I think in your prepared remarks that you said you continue to incent ethane, what the magnitude of the increase was on a quarter-over-quarter basis. And Belvieu spread over Ventura gas didn't seem like it would incentivize ethane extraction, so should we assume it's because of your exposure to AECO? And I know you're not going to tell us what your exposure to AECO is but can you give us an idea of what your limitations and constraints would be so that we can try and figure out maybe what your max exposure could be?
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+Christine, this is Sheridan. What I would tell you is when we look at the opportunity to incentivize ethane, we look at what we could sell gas at for at the gas plant not at Ventura. So we look at what's going on in the marketplace, what the market is offering us for gas price at the plant, and then we buy it. If we choose to incentivize it, we buy the ethane at that price or slightly better than that price to go in.
+So you can't really use venture or AECO. You have to look and see what is happening at the gas plant at the time. In terms of volume, we -- as we said in the remarks, we did incentivize more ethane in the third quarter than we did in the second quarter. At this time, we're not going to give you an idea how much more but we did incentivize more in the third quarter.
+Christine Cho -- Barclays -- Analyst
+And would it be safe to assume that you could incentivize even more like on a fiscal basis going forward?
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+Yes, especially as volumes grow in the basin and grow on our in our GNP segment, we do have an opportunity to incentivize more anything. But as I said in previous, we look at what's going on the marketplace, where the prices are in all basins to see how much we think is the right amount of ethane to bring out so we don't push other basins that we have operations into rejection.
+Christine Cho -- Barclays -- Analyst
+OK. And then I guess when we think about the ethane demand that is slated to ramp up, how do you think about the risk to the operational crackers not running at full utilization if gas prices and ethane prices get too high?
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+What I would say there's still a very strong spread between ethane and ethylene. And so it looks like the crackers have plenty of room to continue to run. Now with new crackers run at full rate, we think they will but they need to run at -- more ethane needs to be cracked today than has been because of that wide ethane to ethylene spread. So we see good volume going forward.
+And then you couple that with the exports that are coming online. We expect stronger export demand in 2022 than we've seen in 2021, especially as additional crackers come on in China.
+Christine Cho -- Barclays -- Analyst
+Great. Thank you.
+Operator
+Thank you we'll take our next question from Jeremy Tonet with J.P. Morgan.
+Jeremy Tonet -- J.P. Morgan -- Analyst
+I think on prior calls you talked about a low double digit increase for EBITDA versus -- well, a midpoint of $3.2 billion of EBITDA at that point in time with the guidance. I'm just wondering if that's kind of a fair way to think about it. Commodity prices look like they're higher than what was quoted in the first call there but just trying to update, I guess, how you guys are thinking about 2022 now versus what you had laid out in the first quarter.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Jeremy, this is Walt. I think when we laid it out in the first quarter, our guidance at that point was $3.050 billion. Obviously, with the strength that we've seen and build throughout the year, we already achieved what was out there at that point in time. I -- what I would comment on is that quarter to quarter, we have seen everything strengthen in our business whether it be producer activity, commodity prices.So all of the trends are headed in the right direction.
+We think that we're going into '22 with a very good tailwind and we will give you our '22 guidance in February.
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Got it. That makes sense there. And maybe just pivoting toward D.C. for a minute and granted it's pretty uncertain outlook there.
+We have very cloudy crystal ball but just wondering if you could offer any thoughts on what you might be looking for out there and how that could impact ONEOK, the higher 45-Q or minimum tax or anything else that is on your mind at this point.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Well, as it relates to the alternative minimum tax, now there's still quite a few moving parts right now. If it is enacted, it's unclear at this point how it will interplay with bonus depreciation, which is in place for the next several years and has been in place. It's unclear how it will interplay with the interest limitations that are already in place on the NOL utilization. And also the billion dollar threshold may be increasing, making the whole conversation somewhat irrelevant.
+So we are on top of it. We've got a team that is watching the developments there and we will continue to do that. But at the end of the day, even in its worst case, we wouldn't see it changing our progress on deleveraging or being able to fund our capex going forward.
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Got it. Thank you for that. That's a very helpful answer.
+Operator
+Thank you. We'll take our next question from Jean Ann Salisbury with Bernstein.
+Jean Salisbury -- Sanford C. Bernstein -- Analyst
+Hi. Good morning. North Dakota statewide flaring increased in recent months as you show on Page 8. Can you talk about the reasons for that and if it's an indicator that it might be tough to get all of the expected gas production growth going forward? Notably ONEOK's acreage clearing hasn't increased, so maybe it's different for you all across, I think, capacity.But just wondering about the trends in wider North Dakota versus you all.
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Jean Ann, this is Kevin. I'll -- Chuck can chime in as well. But I think what you saw going on through the summer is you had several outages at facilities. We've talked about some of the facilities we had down.
+And while the majority of the cases producers are then curtailing that volume, sometimes you'll see a little tick up in flaring. And the same with some minor third-party plants that were going through some expansions and other maintenance activities during the summer. I don't think that's a trend. I think it's going to trend back the other way as we get into what I'd consider more normal operational run rates for these facilities.
+The conversations we're having with all our customers up there, and I'm sure third parties are the same way, the target discussion is zero. It's not the state targets anymore. So we are working with our customers for sure on how we drive that number as close to zero as we possibly can, as it relates to the timing of our facilities, as it relates to how they're bringing on large pads, etc. So I would expect that to turn around as we get these facilities up and going.
+Jean Salisbury -- Sanford C. Bernstein -- Analyst
+That's really helpful. Thank you. And then just wondering if there's been any recent movement on either the Bison project or the northern border expansion to get some more gas takeaway kind of on the horizon?
+Chuck Kelly -- Senior Vice President, Natural Gas
+Yeah, Jean Ann. This is Chuck. The projects that were discussed prior to the pandemic when we saw the trajectory of the basin requiring additional residue takeaway, we are revisiting those projects as we see increased activity in the basin. Rising GORs is quite a few factors that indicate that in the next, call it, two to three years these projects are going to become necessary.
+So there's a lot of work being done on it behind the scenes right now and we will definitely be a part of that solution right.
+Jean Salisbury -- Sanford C. Bernstein -- Analyst
+Great. Thanks. That's all for me.
+Operator
+Thank you. We'll take our next question from Michael Blum of Wells Fargo.
+Michael Blum -- Wells Fargo Securities -- Analyst
+Thanks. Good morning, everyone. I wanted to just ask a bit about the mid-continent. I just wanted to hear what you're seeing in terms of producers plans there.
+Do you think there's a possibility that mid-con volumes could be flat in 2022? Do you think there's been enough uptake and drilling activity? Thanks.
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Michael, it's Kevin. I think if you look at the total basin, yeah, it's nice to see the uptick in rigs. I know there's been a couple of producers that have come out pretty strongly and and announced increases in production in the Mid-Continent, especially from a gas and NGL perspective. The way we kind of look at it is, A, we focus on the total rigs because with our NGL position across that basin, where we're connected to about every plant, chances are if a rig shows up in the Mid-Continent, the NGLs are coming to us.
+So that's a tailwind. While we may not have a lot of those rigs running on our dedicated acreage in GNP, we do have a couple. We've completed some wells and that's a nice -- again, we continue to talk to our customers and if we see these types of prices sustained, I think you could see some more activity in the Mid-Continent.
+Michael Blum -- Wells Fargo Securities -- Analyst
+Great. Thank you very much.
+Operator
+Thank you. We'll take our next question from Colton Bean with Tudor, Pickering, Holt & Company.
+Colton Bean -- Tudor, Pickering, Holt and Company -- Analyst
+Morning. So maybe to blend the two questions there on ethane incentive and then the mid-con, I think we saw a slight recovery in the average bundled mid-con rate for Q3. Was that really just a result of this spread between ODT and Bellevue widening out a bit? And if so, I guess are current levels or Q3 levels at least kind of sufficient to get that historical $0.9 cent per gallon rate?
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+This is Sheridan. What I'd say is two things that drove the rise in the average [Inaudible] in the Mid-Continent, you mentioned one of them, which is we saw a wider spread between OGT and Bellevue. I think factors or one of the months in the quarter, we did incentivize -- didn't have to incentivize any ethane now. That came out naturally.
+The other thing we also saw an uptick in our C3-plus volume which gets a higher rate than the ethane volume. A lot of our plants have a split tier rate for ethane and C3-plus. So both of those contributed to the higher rate.
+Colton Bean -- Tudor, Pickering, Holt and Company -- Analyst
+Great. And then back on the balance sheet, you've highlighted that the desire to drop below 4x, looks like effectively there on a run rate basis. Is there a new kind of leverage target that you guys think about whether it's the ratio or do you think more in terms of an absolute debt target? And really just interested in how you're thinking about the balance sheet philosophically over the next couple of years.
+Pierce Norton -- President and Chief Executive Officer
+Well, I mean we've said before that aspirationally we would like to head toward 35 and maybe even a little bit lower but I think we're going to see opportunities going forward. At -- the EBITDA levels that we're at, half a turn is a whole lot of money to invest. So we think we've got meaningful room there to continue to invest in great projects and still see our deleveraging trend downwards toward that aspirational target of around 3.5 times.
+Colton Bean -- Tudor, Pickering, Holt and Company -- Analyst
+OK. Thank you.
+Operator
+Thank you. We'll take our next question from Tristan Richardson of Truist Securities.
+Tristan Richardson -- Truist Securities -- Analyst
+Hi. Good morning, guys. Just a quick one on capital. Clearly you guys have -- you've shown the Elk Creek slide before.
+Obviously there's plenty of capital efficient optionality there on the downstream side but can you frame for us maybe generally the capex dynamic in 2022 versus 2021? Certainly a very modest capital year with Bear Creek but with additional third-party plants on line in the second half, GOR trends in that sort of pent-up volumes dynamic, you mentioned, in anticipation of Bear Creek. Can you just frame for us what the capital could look like in GMP or just broadly in 2022?
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Tristan, this is Kevin. I'm not going to give you a number because that will flow with or as we provide you guidance early next year. But the way we're -- we think about capital, we're constantly evaluating what our customers needs are and what our capacities are. So rather we're talking about processing -- gathering and/or processing needs in the Bakken, frac capacity needs in Bellevue, other pipeline needs maybe on West Texas.
+We're evaluating all of the information from our customers about what their plans are as we move into '22 and then factoring that in. So the great position we're in, as you mentioned Elk Creek, but even should we need additional frac capacity like an MB-5 to restart that paused project, we've already said we've already spent a significant amount of that money. So both the additional capital we would need to provide that capacity as well as the time we would need to deliver the capacity, we're in really good shape because we might only need, say, 12 to 18 months to finish out a frac. And the pipeline, we've already got pipe ordered and bought so you don't have that exposure.
+So these projects that could come back are in really good shape to -- we don't have to spend a lot of money and we can do them relatively quickly.
+Operator
+Thank you. We'll take our next question from Craig Shere with Tuohy Brothers.
+Craig Shere -- Tuohy Brothers -- Analyst
+Good morning.
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Good morning, Craig.
+Craig Shere -- Tuohy Brothers -- Analyst
+So we're talking about that 25 a month well connects in the Bakken, and obviously it's increasing. I think you said 30 in October, and if I did the math right, maybe a 38 or more from November, December. So I had a couple of questions. One, if these trends continue, does it seem inevitable that by year-end next year, we hit over 1.5 a day? And this is all just off your activity, right, on your acreage but it kind of ignores activity with third-party processing plant connections into your NGL system, right.
+So how much more upside could there be there?
+Pierce Norton -- President and Chief Executive Officer
+Well, Craig, that's -- I mean you've hit on the tailwinds we've talked about. I mean if you're north of 30 rigs in the basin, absolutely we believe that's enough to grow gas production across the entire basin. And so that's not only going to benefit us from a GMP perspective but all the third-party connections that Sheridan has on the NGL side. We're going to benefit from growth there as well.
+We're in great shape because we've still got, I think, 125,000 barrels a day of capacity on Elk Creek or on our NGL systems coming out of the basin. So again, we don't have to spend a lot of capital to capture that EBITDA.
+Craig Shere -- Tuohy Brothers -- Analyst
+OK. And it sounds like there's this great tailwind, everything's looking wonderful. I understand well wait till February to get next year's guidance but it seems like updated full-year midpoint EBITDA guidance kind of suggests decent but the kind of sober fourth quarter. Nothing more recent outperformance versus expectations.
+Could you maybe talk about the gives and takes going into the fourth quarter?
+Pierce Norton -- President and Chief Executive Officer
+Well, I think the gives and takes are, as you're probably going to predict we'll say is we always know there's weather we have to deal with in North Dakota. And so if you get a calm early winter then yeah, I think that could provide some upside. We do have a lot of well connects forecasted in the last couple months of the year. That's what producers are telling us.
+But if you get some weather, could those be delayed? I think the key -- potential so. But I think the key is we have kind of this arbitrary cutoff at December 31. Well, the well connects are going to get done rather it's in on December 15th or January 15th. So as we think -- if we back up and look at the trends over the next several months, clearly we've got optimism of where we're going to be.
+But I think, yes, you've hit on -- there are -- I think there's some upside as well with both volumes if these wells come on line like we think and as well as the ethane recovery option that would be a positive upside for us in the fourth quarter.
+Craig Shere -- Tuohy Brothers -- Analyst
+Great. Thank you.
+Operator
+Thank you. We'll take our next question from Alex Kania with Wolfe Research.
+Alex Kania -- Wolfe Research -- Analyst
+Hey, good morning. Two questions. First is just thinking about the ethane recovery opportunity, thinking going into next year and maybe putting it into context with your view of kind of a widening spread between ethylene natural gas next year just with increased demand. So would it be fair to think that there's a kind of double opportunity there between both volumes and maybe an ability to kind of reduce the incentive pricing that you have on ethane?
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+Yeah, this is Sheridan. You're exactly right. We think there is an opportunity both on them. Obviously, if we -- the wider the ethane to natural gas spread gets, the more we can capture of that spreads and so the incentive is less.
+And also as volume continues to increase in the Bakken in and potentially in the Mid-Continent, we also have the opportunity bring even more ethane out. So you're exactly -- you're thinking about it right. There's a double benefit going into 2022.
+Alex Kania -- Wolfe Research -- Analyst
+Great. Thanks. And then just maybe a follow up on thinking about the, I guess, the maintenance gas level at the very least on the 300 wells a year in the 14 to 15 rigs. Does that also imply or kind of assume any continued work-down of the DUC inventory or is that 14 to 15 rigs, say, enough to kind of keep volumes where they are and then whatever else are going with the GOR but not having to really dive into the inventory of the DUCs anymore?
+Pierce Norton -- President and Chief Executive Officer
+I think you'll see the DUC inventory continue to work down a little bit. Those will occur, I guess, call it, simultaneously. You'll look at the completion crews and at 10 completion crews, I think you will -- and the number of rigs running, I think you'll work the inventory down. It'll be a little slower.
+But the more rigs you have, the more kind of a working -- you'll get down to a working inventory level at some point where the producer likes to keep a certain level so that they don't ever want a completion crew to be waiting on on a well to complete. So I think you'll see it stabilized but I do think you're going to have a period of time here for the next several months where you're going to have both the DUC inventory getting worked down as well as these new rigs churning out new wells.
+Alex Kania -- Wolfe Research -- Analyst
+Great. Thanks very much.
+Operator
+Thank you. We'll take our next -- our last question from Michael Lapides with Goldman Sachs.
+Michael Lapides -- Goldman Sachs -- Analyst
+Hey, guys. Thanks for taking my question. Mine is a little bit more long term in nature. When you get close to a point where you're going to think about capital allocation again and given just what the industry has been through over the last couple of years, if not longer, how do you think about from an equity standpoint what you and the board would view as an appropriate kind of how to return capital back to equity holders.
+Meaning do you think it's embedded primarily in the dividend growth or are you thinking it's embedded more so in buybacks and in very limited dividend growth? Do special dividends play a role? Just -- I'm trying to just think about how you're thinking and how the board's thinking about capital allocation as you would see improving fundamentals ahead.
+Pierce Norton -- President and Chief Executive Officer
+So, Michael, I'll -- this is Pierce. I think the -- what our first priority would be to grow our earnings per share and return that value that way in the equity price. I mean Walt said this before. As we go down through the four and get to the 3.5 and maybe lower, it does open up our opportunities.
+But we also are looking at one of those growth opportunities to reinvest in the business to continue to grow our earnings per share. And then it opens up the board to look at some of those other opportunities. Walt, you got anything to add to that?
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+No, I think that's exactly right. We -- as we see those earnings growth, the board will continue to evaluate all those opportunities. And if anything comes back to it, we have more attractive returns and high multiple projects and we're going to want to focus our capital on. If that isn't the case, then obviously looking at other forms of capital returns to shareholders is something we'll have to evaluate.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Thank you, guys. I'll followup offline. Much appreciated.
+Pierce Norton -- President and Chief Executive Officer
+Welcome. Thank you.
+Operator
+Thank you. That concludes our questions for today. I'll turn it back to Andrew Ziola for closing remarks.
+Andrew Ziola -- Vice President,Investor Relations and Corporate Affairs
+Our quiet period for the fourth quarter and year end starts when we close our books in January of 2022 and extends until we release earnings in late February. We'll provide details for that conference call at a later date. Thank you all for joining us, and the IR team will be available throughout the day.
+Duration: 43 minutes
+Andrew Ziola -- Vice President,Investor Relations and Corporate Affairs
+Pierce Norton -- President and Chief Executive Officer
+Walt Hulse -- Chief Financial Officer and Executive Vice President, Strategy and Corporate Affairs
+Kevin Burdick -- Executive Vice President and Chief Operating Officer
+Shneur Gershuni -- UBS -- Analyst
+Christine Cho -- Barclays -- Analyst
+Sheridan Swords -- Senior Vice President, Natural Gas Liquids
+Jeremy Tonet -- J.P. Morgan -- Analyst
+Jean Salisbury -- Sanford C. Bernstein -- Analyst
+Chuck Kelly -- Senior Vice President, Natural Gas
+Michael Blum -- Wells Fargo Securities -- Analyst
+Colton Bean -- Tudor, Pickering, Holt and Company -- Analyst
+Tristan Richardson -- Truist Securities -- Analyst
+Craig Shere -- Tuohy Brothers -- Analyst
+Alex Kania -- Wolfe Research -- Analyst
+Michael Lapides -- Goldman Sachs -- Analyst
+More OKE analysis
+All earnings call transcripts

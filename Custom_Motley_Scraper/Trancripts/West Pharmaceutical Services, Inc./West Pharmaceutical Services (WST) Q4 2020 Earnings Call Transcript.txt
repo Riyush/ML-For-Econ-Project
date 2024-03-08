@@ -1,0 +1,216 @@
+Image source: The Motley Fool.
+West Pharmaceutical Services (WST 2.10%)Q4 2020 Earnings CallFeb 18, 2021, 9:00 a.m. ET
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the fourth-quarter 2020 West Pharmaceutical Services earnings conference call. [Operator instructions] I would now like to hand the conference over to your speaker today, Mr. Quintin Lai, vice president of investor relations. Please go ahead, sir.
+Quintin Lai -- Vice President, Investor Relations
+Thank you, Catherine. Good morning and welcome to West's fourth-quarter and full year 2020 conference call. We issued our financial results this morning and the release has been posted in the Investors section on the company's website located at westpharma.com. This morning, CEO Eric Green and CFO Bernard Birkett will review our financial results, provide an update on our business and present our financial outlook for the full year of 2021.
+There's a slide presentation that accompanies today's call, and a copy of that presentation is available on the Investor section of our website. On Slide 4 is our safe harbor statement. Statements made by management on this call and in the accompanying presentation contain forward-looking statements within the meaning of U.S. Federal Securities Law.
+
+These statements are based on our beliefs and assumptions, current expectations, estimates and forecasts. The company's future results are influenced by many factors beyond the control of the company. Actual results could differ materially from past results as well as those expressed or implied in any forward-looking statement made here. Please refer to today's press release as well as any other disclosures made by the company regarding the risks to which it is subject, including our 10-K, 10-Q and 8-K reports.
+During today's call, management will make reference to non-GAAP financial measures, including organic sales growth, adjusted operating profit, adjusted operating profit margin, and adjusted diluted EPS. Reconciliations and limitations of the non-GAAP financial measures to the most comparable financial results prepared in conformity to GAAP are provided in this morning's earnings release. I now turn the call over to West's CEO and president, Eric Green. 
+Eric Green -- Chief Executive Officer
+Thank you, Quintin and good morning, everyone. Thank you for joining us today. West had an extraordinary year of success in the face of the biggest healthcare challenge of our generation. A record-setting year of sales and margins were driven by base business demand of our components, devices and solutions as well as the accelerating demand for components associated with COVID-19 vaccines and therapeutics.
+This was accomplished by our dedicated team members across the globe, working tirelessly to show up each day at our facilities, our labs and remotely at their homes to make a meaningful difference to customers and patients. I want to begin by acknowledging this incredible efforts and say thank you. Starting on Slide 5 of the presentation. The past year has truly brought to life the importance of our mission and values that guides our work each day at West.
+We remain steadfast in our purpose to serve society and lead by example for the communities in which we live and work. Importantly, we continue to manage through these unprecedented times by focusing on two key priorities. One, keeping our team members safe and two, ensuring uninterrupted supply of high-quality containment and delivery devices required by our customers and the patients we jointly serve. The criticality of our business today is shown in the character and the perseverance of our team members to deliver on our commitments as a trusted partner for our customers.
+The strength of our performance this past quarter and throughout 2020, demonstrates the forward momentum that we have built over time with our market-led strategy, globalization of our manufacturing network and One West team approach to satisfy market demand. Moving to Slide 6. These charts show a breakdown of the 2020 sales and the impact of our high-value products that we bring to numerous customers around the world. As the base business continues to grow, and as we saw a growing demand for components associated with COVID-19, we leveraged our global infrastructure and team's agility to meet the increased demand.
+Now, turning to Slide 7. Proudly, West components are on a majority of the vaccines on the market and in development to combat COVID-19. The process for selecting the best high-quality packaging components for use with injectable medicines, including vaccines is a complex one, driven by years of science, which West has pioneered. It became clear to us in early 2020 that would -- we would need to accelerate production capacity for certain high-value products.
+As I previously shared, many of our customers are selecting fluoropolymer-coated stoppers from vial configurations made by both West and our partner, Daikyo. These are the industry standard for packaging sensitive molecules and have an outstanding track record of quality and reliability. Some of our customers have selected NovaPure, as they have made the decision to use this best-in-industry component to ensure the highest degree of quality and safety. In addition, we're involved in many therapeutic approvals and our contract manufacturing business is supporting the COVID-19 diagnostic requirements of our customers.
+In Q4, we accelerated our capacity expansions and began the installation of additional equipment with a modular approach to expand Flurotec and NovaPure capacity. This included the installation of several 45-ton hydraulic presses and additional HVP manufacturing processes to produce components for COVID-19 vaccines at several sites. I'm proud to say that the first presses were installed and validated at the end of 2020, and we're now producing product. And we're not done yet.
+We have more presses that will be installed in the first half of this year. It should be noted that these investments were already included in the 5-year plan. We just brought them forward to support the pandemic efforts. Moving to Slide 8.
+While COVID-19 was much of the focus in 2020, there are a few other notable highlights I would like to share. West was named to the S&P 500 and recently joined the S&P 500 Dividend Aristocrats. We continue to make significant progress with our environmental, social and governance priorities and have received many accolades in 2020 for these efforts. We launched several innovative products such as our 20-millimeter Vial2Bag Advanced product.
+AccelTRA component line extensions and a Flip-Off seal container closure system compatible with Daikyo Crystal Zenith vials. Our team of scientific and technical experts continue to educate and share insights in biologics, combination products and container closure integrity, which are priority areas in pharmaceutical packaging and necessity during this pandemic to ensure patient safety. At the end of the year, West digital technology center successfully implemented a new ERP system, SAP S/4HANA, which during this pandemic is quite an accomplishment. As we continue to improve our internal systems, S/4HANA brings enhanced analytics to improve responsiveness, operating efficiencies and greater service levels for customers.
+Turning to Slide 9. The opportunity ahead of us centers around three core pillars: execute, innovate and grow. The first pillar, Execute is about continuing to build from the strength and success of the market led strategy. Further globalization of our operating model.
+And lastly, a shift from analog to a digital environment across West. We continue to drive the market-led strategy for further defining unique value propositions to address specific customer needs in biologics, generics and pharma. These are very attractive, robust markets for the future of injectable medicines. For the benefit of our customers, we have been able to leverage our global manufacturing network by enabling the right capabilities, scale and flexibility to keep up with the increased demand with the ability to leverage existing assets more effectively across our global network, we can respond to the demand of our base business and importantly, the demand for COVID-19, while maintaining our global leadership position.
+We will continue to deliver digital tools, such as the Knowledge Center and the West Virtual, along with enhancements to improve plant productivity with automation and advanced manufacturing systems. The second pillar is Innovate with a focus on R&D efforts with -- from concept to commercialization. Our newly aligned R&D team is focused on several areas: the first area of new products and platforms, to connect the dots across science and technology for potential value creation. The second area is technology solutions and new go-to-market enablement, which explores adjacent technologies and disruptors to realize new opportunities.
+And the third area is product life cycle management with the execution of development agreements and product extensions. We are confident that these R&D efforts will have us well positioned to deliver unique innovations and future improvements to existing portfolios for our customers. The third pillar is Growth, capital deployment and free cash flow. As mentioned earlier, we have increased capital expenditures on specific equipment focused on Flurotec and NovaPure to enable us to respond to the core business growth and vaccine requirements and as the vaccines are being approved, making sure we can respond and meet the customer demand.
+And we continue to look for external technology opportunities to complement our business. We are working from a position of strength as we believe we have a long horizon of continued organic sales growth and margin expansion. Our focus within these three pillars: execute, innovate and grow, allows us to be more responsive, leverage our assets more effectively, and support the trends that are happening in the industry today. Turning to Slide 10 and our performance in the fourth quarter and full year.
+Our financial results were strong. We had approximately 20% organic sales growth in the fourth quarter and 16% for the full year driven again by robust biologics growth, high-value product sales and contract manufacturing. And our base business delivered significant growth with solid growth in operating profit margin expansion. This resulted in a strong adjusted EPS and free cash flow for the fourth quarter.
+And with that, I'll turn it over to our CFO, Bernard Birkett, who will provide more detail on our financial performance and guidance. Bernard?
+Bernard Birkett -- Chief Financial Officer
+Thank you, Eric and good morning. So let's review the numbers in more detail. We'll first look at Q4 2020 revenues and profits where we saw continued strong sales and EPS growth led by strong revenue performance, primarily in our biologics and generics market units and contract manufacturing. I will take you through the margin growth we saw in the quarter as well as some balance sheet takeaways.
+And finally, we'll review our 2021 guidance. First up Q4, our financial results are summarized on Slide 11 and the reconciliation of non-U.S. GAAP measures are described in Slides 20 to 23. We recorded net sales of $580 million, representing organic sales growth of 19.8%.
+COVID-related net revenues are estimated to have been approximately $46 million in the quarter. These net revenues include our assessment of components associated with vaccines, treatment and diagnosis of COVID-19 patients, offset by lower sales to customers affected by lower volumes due to the pandemic. Looking at Slide 12. proprietary product sales grew organically by 25.1% in the quarter.
+High-value products, which made up more than 65% of proprietary product sales in the quarter grew double digits and had solid momentum across all market units throughout Q4. Looking at the performance of the market units, the biologics market unit delivered strong double-digit growth. We continue to work with many biotech and biopharma customers, who are using West and Daikyo high-value product offerings. The generics market unit also experienced strong double-digit growth made by sales of Westar and Flurotec components.
+Our pharma market unit saw low single-digit growth with sales led by high-value products, including Westar and Flurotec components. And contract manufacturing had mid single-digit organic sales growth for the fourth quarter, led once again, by sales of diagnostic and healthcare-related injection devices. We continue to see improvements in gross profit. We recorded a $211.1 million in gross profit, $57.9 million or 37.8% above Q4 of last year.
+And our gross profit margin of 36.4% was a 390-basis-point expansion from the same period last year. We saw improvements in adjusted operating profit with $119.1 million recorded this quarter compared to $73.1 million in the same period last year or a 62.9% increase. Our adjusted operating profit margin of 20.5% was a 500-basis-point increase from the same period last year. Finally, adjusted diluted EPS grew 63% for Q4.
+Excluding stock tax benefit of $0.09 in Q4, EPS grew by approximately 55%. So let's review the growth drivers in both revenue and profit. On Slide 13, we show the contributions to sales growth in the quarter. Volume and mix contributed $87.8 million or 18.7 percentage points of growth, including approximately $46 million of volume-driven by COVID-19-related net demand.
+Sales price increases contributed $5.5 million, a 1.2 percentage points of growth, and changes in foreign currency exchange rate increased sales by $16.3 million or an increase of 3.5 percentage points. Looking at margin performance. Slide 14 shows our consolidated gross profit margin of 36.4% for Q4 2020, up from 32.5% in Q4 2019. proprietary Products fourth-quarter gross profit margin of 41.7% was 370 basis points above the margin achieved in the fourth quarter of 2019.
+The key drivers for the continued improvement in proprietary Products gross profit margin were favorable mix of products sold driven by growth in high-value products, reduction efficiencies and sales price increases, partially offset by increased overhead costs. Contract manufacturing fourth-quarter gross profit margin of 17.2% was 80 basis points above the margin achieved in the fourth quarter of 2019. This is a result of improved efficiencies and plant utilization. Now, let's look at our balance sheet and review how we've done in terms of generating more cash.
+On Slide 15, we have listed some key cash flow metrics. Operating cash flow was $472.5 million for 2020, an increase of $105.3 million compared to the same period last year, a 28.7% increase. Our 2020 capital spending was $174.4 million, $48 million higher than the same period last year and in line with guidance. Working capital of $870.3 million at December 31, 2020, was $153.2 million higher than at December 31, 2019, primarily due to an increase in accounts receivable of $66 million due to increased sales activity and an increase in inventory of $85.6 million to position us to support the increasing needs of our customers.
+Our cash balance at December 31 of $615.5 million, was $176.4 million more than our December 2019 balance, primarily due to our positive operating results. Turning to guidance. Slide 16 provides a high level summary. Full year 2021 net sales guidance will be in a range of between $2.5 billion and $2.2 -- $2.525 billion.
+This includes estimated net COVID incremental revenues of approximately $260 million. There is an estimated benefit of $75 million based on current foreign exchange rate. We expect organic sales growth to be approximately 13% to 14%. We expect our full year 2021 reported diluted EPS guidance to be in a range of $6 to $6.15.
+We continue to expand our HVP manufacturing capacity at our existing sites to meet anticipated core growth and COVID vaccine demand. Accordingly, we have set capex guidance of $230 million to $240 million. There are some key elements I want to bring your attention to as you review our guidance. Estimated FX benefit on EPS has an impact of approximately $0.23 based on current foreign currency exchange rates and excludes future tax benefits from stock-based compensation.
+To summarize the key takeaways for the fourth quarter, strong top-line growth in both proprietary and contract manufacturing, gross profit margin improvement, growth in operating profit margin, growth and adjusted diluted EPS, and growth in operating and free cash flow, delivering in line with our pillars of execute, innovate and grow. I'd now like to turn the call back over to Eric.
+Eric Green -- Chief Executive Officer
+Great. Thank you, Bernard. To summarize on Slide 17, we have a critical role to support our customers as we work to resolve this global pandemic. The participation rate remains very high.
+And our products are being used in this battle. We have strength in the underlying core business and long-term growth. Our focus on execute, innovate and grow, allows us to be more responsive to the changes in the industry. Our market-led strategy is delivering the right products and solutions to our customers.
+Our global operations network continues to flex and respond to increased demand and capacity requirements. And our investments to fuel R&D and innovation in digital technology will continue to keep us on the forefront of the industry. The future is promising, but most importantly, we remain grounded for our mission and values each day at West, because every component has a patient's name on it. Catherine, we're ready to take questions.
+Thank you.
+Operator
+[Operator instructions] Our first question comes from Larry Solow with CJS Securities. Your line is open.
+Larry Solow -- CJS Securities -- Analyst
+Great. Good morning guys and congrats on a great quarter and year in tough environment, and thanks for taking my question as well. Maybe first question. Could you maybe just give us a little more color on just on the COVID expectations.
+I think you did about $100 million, if I'm not mistaken in this and 2020, maybe a little less about $250 million or $260 million is your guidance this coming year. Can you just give us a breakout? Is it -- are you seeing more on the vaccine side? You mentioned some customers are using, it sounds like most are using Flurotec on the vaccine side, some are looking at NovaPure. Can you give us just sort of a higher level, maybe just a mix? And any color you can add to that, would be great.
+Eric Green -- Chief Executive Officer
+Yeah. Thank you, Larry, and I appreciate the question. When we started this journey, let's say, in end of Q1, early Q2 of 2020, the primary focus at that point from revenue was more around the diagnostics and a few therapeutics that are being approved for COVID-19. And if you look at the tailend of 2020, it started to flip more toward vaccines and as we move into 2021, you'll see most of -- going from, as you said, a little bit less than $100 million of revenues associated with COVID-19 in 2020, we're guiding toward $260 million approximately for 2021.
+Majority of that will be vaccines related. And our participation is very high and the types of solutions that we're bringing to the customers tend to be around the Flurotec, and in some cases, the NovaPure, in addition to products like seals. So that's the transition that you'll see in the mix of type of revenues to support the COVID-19 solutions. And that aligns up very nicely to the investments we made with additional capital equipment in our facilities to support the increase in demand that we have visibility of -- for several quarters ahead of us.
+Larry Solow -- CJS Securities -- Analyst
+OK. And it sounds like -- I know you said you've accelerated, you've talked this for a couple of quarters. The investment into NovaPure and Westar and the Flurotec. Is that -- the acceleration or the continued acceleration that looks like going into 2020 -- 2021, excuse me, is that sort of ahead of where you thought you might have been even a quarter ago in terms of the outlook for next year, for this year, spending-wise?
+Eric Green -- Chief Executive Officer
+Well, no. We're actually slightly ahead of schedule of implementation because the team has done a phenomenal job to working with our suppliers. And being innovative and getting the materials into our sites or the equipment, and then obviously, the validation process. So they've been working literally around the clock, as many companies are doing, to get these lines up and running and validated.
+But the reality is, with the new equipment we installed, we didn't have a lot of revenues associated to those in 2020, that's starting to pick up in 2021. There is additional equipment that is scheduled in the first half of this year, which is on track and also within line that we originally talked about as far as capital expenditures. So we're comfortable where we are and further conversations with customers gives us confidence that we're planning accordingly looking at current demand and potentially future demand.
+Larry Solow -- CJS Securities -- Analyst
+And it looks like, if I do the back-of-the-envelope math, it's about 10% growth, excluding, if I -- we take out COVID from 2020 and 2021 and I guess that's -- excluding the currency benefit, I guess, that sort of puts you in line with your sort of 6% to 8% organic growth targets, excluding the COVID-related sales. Is that about in the ballpark?
+Bernard Birkett -- Chief Financial Officer
+Yeah. That's correct, Larry. So we're -- we still see a lot of strengths within the core business. And as Eric kind of alluded to in his comments also, we saw that throughout 2020 and we continue to see that as we move through 2021.
+And then you have the COVID vaccine revenue on top of that. So you are in the ballpark there. So that continues to be pretty much in line with our long-term construct.
+Operator
+Thank you. Our next question comes from Juan Avendano with Bank of America. Your line is open.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+Hello, gentlemen. Thank you and congrats on the quarter.
+Bernard Birkett -- Chief Financial Officer
+Great. Thank you.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+According to my calculations, or unless there was any customer reclassifications among the customer segments, generics grew about 42% year over year, and I would suppose that all of this is non-COVID related. Can you confirm with me, whether or not this is correct? And what drove the significant step up?
+Bernard Birkett -- Chief Financial Officer
+So generics was, I think, high single digits or early double digits. I don't know where you're getting -- did you say 42%?
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+Yeah. OK, got it. I'll check my math on that.
+Bernard Birkett -- Chief Financial Officer
+Yeah, yeah.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+OK. Good. And then can you give us an idea about the backlog of committed orders as of the end of 2020?
+Eric Green -- Chief Executive Officer
+Yeah. I'll -- when we look at the backlog, we -- I'll say that it's stronger than it was in the prior year. And the mix of it is more toward the high-value products. The other aspect of the order book is that we're having great success with customers having longer visibility, so that we have better opportunities to plan accordingly in our manufacturing processes.
+So yes, it's a stronger order book. The mix is more toward our high-value product components, and we do have longer outlook and obviously, on top of that -- that's our core business. On top of that, you have the vaccines. In addition, the visibility of what we are responding to over the next several quarters.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+And I guess there's been some evolving changes that could happen on the COVID vaccine packaging configurations. I mean Pfizer is now squeezing six doses out of the five dose vial and Moderna might be considering putting 14 doses as opposed to 10 by doing some configurations. Have you taken into account these potential changes in the packaging configuration in your COVID-19 revenue guidance?
+Eric Green -- Chief Executive Officer
+Yeah. That's all been taken into consideration with our guidance. And so there's two ways of looking at it. That's great that we're able to get the more doses per vial to be able to respond in -- globally as quickly as possible.
+But as you think about long term, there's obviously future opportunities as you think about moving down to single-use vials and/or prefilled syringes, which will -- potentially could become a preferred solution long term. So we've taken all that into consideration. We feel good about where we are with our capacity and our capabilities. And also, we're engaged with the dialogue about what does this look like long term.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+OK, thank you. And then before I get back into the queue. I guess on the Contract Manufactured Products, do you plan to add capacity in 2021? And is there a chance for that segment not to actually deliver double-digit growth in 2021, unless you add capacity.
+Bernard Birkett -- Chief Financial Officer
+Yeah. Well, as you know, we've been talking about the growth in contract manufacturing for a while, saying that it will gravitate toward mid single-digit growth, and it wouldn't be at the double-digit growth rates we've seen over the last number of years, just given the nature of that business. We continue to invest in it. It is part of our capex forecast for 2021, and there's a number of growth initiatives in that area.
+And what we have been communicating that the growth rate will become more in line with our overall construct. And I think if you look at Q4 -- the Q4 number, the absolute dollars was pretty consistent throughout the year with contract manufacturing. It just came up against a really big comp in Q4. So the percentage growth rate looked a little bit lighter than the previous quarters.
+But from a dollar perspective, it's pretty much in line with where we have expected it to be and where we have communicated it will be. But we continue to invest in that part of our business.
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+OK, got it. Thank you.
+Operator
+Thank you. Our next question comes from Paul Knight with KeyBanc. Your line is open.
+Paul Knight -- KeyBanc Capital Markets -- Analyst
+Hi, guys. Could you talk to -- I think Bernard, you had mentioned that there was a negative COVID effect. Could you qualify that? And is it possible to even quantify how much headwind you had in your past results?
+Bernard Birkett -- Chief Financial Officer
+Yeah. Well, we haven't really broken it out. We're concentrated on given the net impact to our business. But it's really been in animal health and some in dental, which -- those two areas are within our pharma market unit.
+That's where we saw some slowing down. It wasn't overly material for us. And then I think there were some elective surgeries as well that were impacted. But nothing drastic that we have to call out.
+Paul Knight -- KeyBanc Capital Markets -- Analyst
+Right. And then Eric, as you look at these capital expenditures, do you have a footprint that you can get this turnaround done quickly? Or do you have to go from greenfield sites, I guess, ultimately, how quickly does this come online?
+Eric Green -- Chief Executive Officer
+Very quickly, Paul. The work that has been done by the team over the last couple of years with globalizing the operations. And then as you know, we moved from 29 plants to 25 plants, has enabled us to think about future growth, leverage our existing assets. So it's a very short turnaround.
+The longest part of the lead time is around getting the equipment built. And then there's obviously a validation process associated to that. But it's -- all of the equipments is being put into existing facilities.
+Paul Knight -- KeyBanc Capital Markets -- Analyst
+OK. And then lastly, Eric, where are you in your progress on your goal of Six Sigma, if I can call it that, from when you started. Are you halfway there? Are you a third of the way there? What's your view on what you wanted to accomplish when you arrived?
+Eric Green -- Chief Executive Officer
+There's a lot more to do, Paul. I honestly believe we're in a very good position to leverage not just what we do today, but what we can do tomorrow for our customers. We're pulled into conversations or beyond at current portfolio. We have more work to do on globalization of the enterprise.
+We have a great opportunity to move toward more digital. I'm extremely pleased on how the team implemented S/4HANA during this pandemic in a virtual environment globally. And that's quite a test and that was done with our internal digital technology center out of our Bengaluru site. So you can hear by my tone, is that -- there's -- I think there's a lot of opportunity for us to really have a more meaningful impact on patients and we'll support our customers as they move toward new innovative solutions, and particularly around the biologics space.
+Paul Knight -- KeyBanc Capital Markets -- Analyst
+OK, thank you.
+Eric Green -- Chief Executive Officer
+Thanks, Paul.
+Operator
+Thank you. Our next question comes from Jacob Johnson with Stephens. Your line is open.
+Jacob Johnson -- Stephens Inc. -- Analyst
+Hey, thanks. Maybe first, following up on Paul's headwind question. As things hopefully, reopen, kind of following a vaccine, people return to the doctor and dentist, I guess, take their pets to the veterinarian, have elective surgeries. Could there be upside to your expectations around growth in 2021 kind of ex-COVID?
+Bernard Birkett -- Chief Financial Officer
+Well, that's -- it's very open-ended question. If those things happened, yes, ideally, you would say there will be some level of upside, but we're focused on delivering within the construct and the guidance that we've given now and making sure that we're able to deliver on that vaccine demand to get everything back to normal. And then if other markets open up, yes, we will have the capacity in place to be able to serve those also.
+Jacob Johnson -- Stephens Inc. -- Analyst
+Got you. And then on COVID work, can you talk about where you're seeing demand from these COVID vaccines and therapeutics by geography? Is this largely focused on kind of an opportunity in the U.S. and Europe? Or is this a situation where there could be opportunity in kind of Asia Pacific as well?
+Eric Green -- Chief Executive Officer
+Global. So we're -- so some of the firms, obviously, the ones that are approved in the market right now for emergency use were -- they are not just in the United States, but they have partners in other regions of the world. And so fortunately -- because of our position, and our assets are global, we're able to support them. So if they decide to do it internally or go externally with a partner, we're there to support them with their primary containment solutions.
+So we're seeing -- if you think about it, in Asia, there's probably a little more prefilled syringe demand in the market, particularly in China. In Europe and Asia is pretty consistent on the vial configurations. But -- and it's consistent product that we provide throughout all these customers. The Flurotec coating is primarily the main driver.
+Jacob Johnson -- Stephens Inc. -- Analyst
+Got it. Thanks for taking the question and congrats on the quarter.
+Eric Green -- Chief Executive Officer
+Thank you.
+Bernard Birkett -- Chief Financial Officer
+Thank you.
+Operator
+Thank you. Our next question comes from John Kreger with William Blair. Your line is open.
+John Kreger -- William Blair -- Analyst
+Hey, guys. I have a question, obviously, at the beginning of '20, you weren't thinking about COVID demand. How have you been able to handle your non-COVID work? Have you had to sort of defer that underlying order flow? Or have you been generally able to keep up with the sort of typical non-COVID orders?
+Eric Green -- Chief Executive Officer
+In general, we've been able to keep up. However, I would say there are times where we had to engage with our customers to identify if we had to pivot and respond to particularly a COVID order, how we work with our customers, since we're made to order. And our customers have been very supportive. But in the most part, we've been able to respond.
+I just put it in context, just in our proprietary business, we do over 30 billion components a year. So when you think about the demand that we're putting on our operations with the additional demand for COVID solutions, it's meaningful, but it's not over taxing the global operations.
+John Kreger -- William Blair -- Analyst
+Eric, that's helpful. And then maybe the corollary to that, as you work with clients, kind of upstream and their pipeline work, are you getting the sense that some of that work has been back-burnered as they sort of sprint to meet the COVID challenges? Or again, has the normal flow of non-COVID work been pretty stable in terms of the development process?
+Eric Green -- Chief Executive Officer
+It's interesting. We're finding -- if you kind of look in the mirror a little bit, what has been approved by the FDA in 2020 versus '19 and '18, what you'll find is pretty -- somewhat consistent -- which is interesting because, we do work with certain customers. There might be a particular delay in clinical trials and so forth. But we're seeing a relatively -- I would say, relatively stable, consistent pattern as we speak today.
+And on top of that, we look at our participation rate. It remains equal, if not better. If you just -- and that's taking the vaccines out of the equation. On the core business, we're seeing very strong participation rates.
+So we're not seeing too much of a deviation of what we've seen in the last couple of years.
+John Kreger -- William Blair -- Analyst
+Great. Thanks. And then one last one. Can you just remind us why generics tends to grow notably faster than pharma? And as you look out '21 or '22, does it -- do you think you'll see the same trend or a little bit more of a normalization of those two buckets?
+Eric Green -- Chief Executive Officer
+Yeah. There's two comments and maybe, Bernard, if you want to add. But the first one is, if you think about where we started with on this market-led approach, it became apparent when we started a few years ago that the generics market unit was the lower market share among the three. So we had better -- we had a greater opportunity to capture more share, just by simply repositioning new portfolios like AccelTRA that are very attractive to that segment.
+So I would -- and the other aspect, just to remind mind you of is, the pharma business includes dental, includes vet, includes other ancillary segments outside of just branded small molecule. And therefore, you'll see a little bit more of a softness in that business. But we're seeing the number of ANDAs continuing to be very strong, which is what drives the generics business for West. I don't know, Bernard, if you want to add any comment to that?
+Bernard Birkett -- Chief Financial Officer
+No. I think you've encapsulated it. It's our market share is different within those two market units, and there's more room for us to grow within generics, as Eric said. We put the market units in place.
+It allows us to focus in on that area and start to grow our business within generics, and that continues to be the case. And there is -- we still have a pathway forward to continue that accelerated growth. And then we're introducing new products also to help us to get more entrenched with the generics market space.
+John Kreger -- William Blair -- Analyst
+Great. And maybe just one last one. The COVID contribution that you've quantified for '21, as you think about longer term planning, do you view that as sort of durable or more of a kind of a bolus that will likely decline in '22 and '23?
+Bernard Birkett -- Chief Financial Officer
+Well, one of the things that we've looked at is the mix of our COVID-related business. And as Eric said earlier, started out more on the diagnostics and the therapeutic side as we went through the first half and the first, we'll call it, three quarters of 2020 and then a more -- it became larger within vaccines, and we have been communicating that we thought the vaccine will be where West will see the biggest opportunity for us. And that's reflected in our 2021 guidance. So it's really -- how does the vaccine play out over the next number of years? What sort of booster shots will be required? So that's how we're trying to frame this and building that into our planning.
+So it's obviously -- how does that vaccine market develop over the next number of years and will boosters be required? But that's primarily where we're participating right now.
+John Kreger -- William Blair -- Analyst
+Understood. Thanks, guys.
+Bernard Birkett -- Chief Financial Officer
+Thank you.
+Operator
+Thank you. Our next question comes from Dave Windley with Jefferies. Your line is open.
+Dave Windley -- Jefferies -- Analyst
+Hi. Good morning. Thanks for taking my questions. Thanks to your team as well.
+I hope to get a vaccine soon. So I'm one of the -- we're all one of the patients. So thanks for their hard work. I was hoping, probably have a series of clarifications.
+So in your COVID vaccine -- or excuse me, your COVID contribution to '21, as I'm listening to you describe how that has kind of evolved in the last quarter or so, should I interpret that the $100 million of kind of base in '20 stays in that same mix and the vaccine is the $160 million contribution on top of that? Or does most of the $260 million actually then become vaccine as we move into '21?
+Bernard Birkett -- Chief Financial Officer
+Yeah. It's primarily the growth we see within the vaccine segment. And as we said, there was a lot on the therapeutics within 2020 and the early part when people were trying to figure out how to treat this thing. And then that shift is the -- as we got into the latter part of the year.
+And so now more of the focus is around vaccines for us. There is some within therapeutics, a little bit in diagnostics, but it's primarily vaccine related.
+Dave Windley -- Jefferies -- Analyst
+OK. Got it. And then to -- sorry.
+Bernard Birkett -- Chief Financial Officer
+No. Go ahead.
+Dave Windley -- Jefferies -- Analyst
+To Jacob's question on global and your answer there. It sounds like, your clients are making high-value product choices globally. Did I understand that correctly? Or are you seeing them kind of downshift to standard in, say, developing economies, things like that?
+Eric Green -- Chief Executive Officer
+No. We're seeing consistency Dave, around our high-value products, particularly on the Flurotec, just because of the characteristics of the vaccine, their molecule itself. So we're not seeing any reduction, I guess, if you want to call that from the high-value product portfolio. So it truly is HVP globally.
+Dave Windley -- Jefferies -- Analyst
+Sure. That sounds great. In terms of then broadening out from COVID, is this experience since the last year and the ability to kind of -- I mean I'm sure clients are familiar with these products, but your ability to kind of respond quickly to clients, to ramp up your capacity for these high-value products, is that stimulating higher adoption of high-value in the non-COVID opportunities with these clients? I'm just wondering what kind of knock-on effect that might create in your conversations with clients?
+Eric Green -- Chief Executive Officer
+Yeah. If you look at our biologic portfolio, as you know, we have a very high participation rate there. So that tends to be primarily around our Flurotec platform. But to your point, we are seeing an acceleration and conversations around NovaPure, because now -- because of scale and a greater understanding of the characteristics of the primary packaging containment.
+So as they look at vaccines, that will spill over to more of a platform approach going forward. That's how we see it. And that's why we're continuously building and pushing for helping our customers get to that NovaPure conclusion with their new molecules that they're working on.
+Dave Windley -- Jefferies -- Analyst
+Interesting. So that kind of segues into my last question, which is, can you give us some sense -- I mean, I think two or three years ago and really throughout this period of time, we've talked about high-value product as a percentage, but within high value product, you obviously have many tiers, NovaPure at the higher end. Can you give us a sense of how the mix has shifted within high-value product from kind of Westar at the entry-level and NovaPure at the high level. How does that evolution look, if we could see that detail?
+Eric Green -- Chief Executive Officer
+Yeah. We don't give out the exact numbers for each area. But what you would see, if you look at -- if you recall that a while ago, we showed a kind of a spectrum of all the high-value products from, as you rightly said in Westar, all the way up to NovaPure, what you're seeing is, the higher growth and now it's higher delta on revenue is in the upper right-hand side versus the lower left side. So to your point, we are seeing that adoption.
+We're starting to see the volume. And as you know with our business, it takes a while to get that adoption and then build it into the platform of our customers. So the higher growth is in the upper hand side of that spectrum.
+Dave Windley -- Jefferies -- Analyst
+OK. I'll leave it at that. Thank you.
+Eric Green -- Chief Executive Officer
+Thank you.
+Operator
+And I'm showing no further questions at this time. I'd like to turn the call back to Quintin Lai for any closing remarks.
+Quintin Lai -- Vice President, Investor Relations
+Thank you, Catherine. And thank all of you for joining us today on today's conference call. An online archive of the broadcast will be available on our website at westpharma.com in the Investors section. Additionally, you can get a replay through Thursday, February 25, by using the dial-in numbers and conference ID provided at the end of today's release.
+That concludes this call. Have a nice day.
+Operator
+[Operator signoff]
+Duration: 50 minutes
+Quintin Lai -- Vice President, Investor Relations
+Eric Green -- Chief Executive Officer
+Bernard Birkett -- Chief Financial Officer
+Larry Solow -- CJS Securities -- Analyst
+Juan Avendano -- Bank of America Merrill Lynch -- Analyst
+Paul Knight -- KeyBanc Capital Markets -- Analyst
+Jacob Johnson -- Stephens Inc. -- Analyst
+John Kreger -- William Blair -- Analyst
+Dave Windley -- Jefferies -- Analyst
+More WST analysis
+All earnings call transcripts

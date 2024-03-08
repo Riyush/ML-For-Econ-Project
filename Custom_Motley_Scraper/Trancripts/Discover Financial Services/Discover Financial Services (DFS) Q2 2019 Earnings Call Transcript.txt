@@ -1,0 +1,290 @@
+Image source: The Motley Fool.
+Discover Financial Services (DFS 1.37%)Q2 2019 Earnings CallJul 23, 2019, 5:00 p.m. ET
+Operator
+Good afternoon. My name is Erica, and I will be your conference operator today. At this time, I would like to welcome everyone to the Second Quarter 2019 Discover Financial Services Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+I will now turn the call over to Mr. Craig Streem, Head of Investor Relations. Please go ahead.
+Craig Streem -- Vice President, Investor Relations
+Thank you, Erica. Welcome, everybody, to our call this afternoon. I will begin briefly on Slide 2 of our earnings presentation, which you can find in the Financials section of our Investor Relations website, investorrelations.discover.com.
+Our discussion today contains certain forward-looking statements that are subject to risks and uncertainties that may cause actual results differ materially. Please refer to our notices regarding forward-looking statements that appear in today's earnings press release and presentation.
+Our call today will include remarks from our CEO, Roger Hochschild, covering second quarter highlights, and then Mark Graf, our Chief Financial Officer, will take you through the rest of the earnings presentation. And after Mark completes his comments, there will be plenty of time for question-and-answer session, but we'd ask you to limit yourself to one question please and one follow-up, so we can make sure that everyone gets on.
+And now beginning on Slide 3, it's my pleasure to turn the call over to Roger.
+Roger Hochschild -- Chief Executive Officer and President
+Thanks, Craig, and thanks to our listeners, for joining today's call. Very simply, this was another very good quarter for us with solid loan growth, a strong net interest margin and ongoing improvements in underlying credit performance.
+We earned $753 million after-tax or $2.32 per share and generated a robust return on equity of 26%. Our ability to balance loan growth with disciplined credit management continues to generate very strong returns, while our investments in the Discover brand and advanced technology enhance our ability to drive a differentiated customer experience and competitive advantage.
+To that point, we were recently awarded the highest ranking by J.D. Power for customer satisfaction among credit card, mobile apps and websites. This recognition highlights how our investments in technology and analytics have enabled us to deliver industry-leading customer value, while maintaining operating efficiency.
+Looking at some of the specifics of our second quarter performance, total loans were up 6% with strong credit performance across all of our products, reflecting our discipline in underwriting new accounts and line management along with continued investments in collection capabilities.
+Looking at our lending products, the 7% growth in card receivables was sourced from a healthy mix of new versus existing customers. In terms of card portfolio mix, growth was primarily from higher yielding merchandise balances versus promotional balances. We have previously shared with you our intent to decrease the level of growth from promotional activity and that trend continued in the second quarter. This provided a meaningful contribution to our net interest margin performance this quarter.
+Turning to our student loan business, growth remains strong, and as we enter the peak season, early origination activity looks good and is consistent with our expectations. We believe we are well positioned to continue to gain market share.
+In personal loans, our recent credit tightening has achieved its desired effect with both the charge-off and delinquencies declining from the prior quarter, and loan growth consistent with our target. We remain focused on originating loans that will generate satisfactory long-term returns rather than pursuing faster growth in what remains a very competitive environment.
+Overall, underlying credit trends continue to be favorable across our lending products as the normalization impact on the back book continues to lessen and credit performance is increasingly driven by growth in receivables.
+Our Payment Services segment generated a robust 15% increase in pre-tax income, driven by strong growth in volume, the majority of which came from our PULSE business. The team at PULSE continues to win new relationships and build business with existing issuers by developing creative debit solutions that deliver meaningful value for partners.
+We continue to execute our strategy in payments to enhance global acceptance by investing in partnerships, primarily with local acquirers in Western Europe, as well as adding to our network to network alliance partnerships as we make progress against our objective of universal merchant acceptance.
+In summary, our results this quarter reflect the discipline and commitment to excellence that we bring to serving our customers and delivering long-term value to our shareholders. Clearly, the favorable economic environment has contributed to our performance and we don't see any signs that this is changing in the near-term. Nevertheless, we recognize that this may moderate at some point and are continuing to adapt our growth in credit strategies as appropriate.
+Before I turn the call over to Mark, I want to highlight two important additions to the Discover team. First, I want to welcome Wanji Walcott, our new Chief Legal Officer and General Counsel. Wanji joins us from PayPal with significant prior experience at American Express. So she brings a wealth of highly relevant knowledge to Discover. I also want to welcome Jennifer Wong, Chief Operating Officer at Reddit, who has joined our Board of Directors. Jen will be an invaluable addition to our Board bringing deep experience in media and digital advertising.
+I'll now ask Mark to discuss our financial results in more detail.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Thanks, Roger, and good afternoon, everyone. I'll begin by addressing our summary financial results on Slide 4.
+Looking at the key elements of the income statement, revenue growth of 10% this quarter was driven by solid loan growth and a higher net interest margin. Looking at the provision for loan losses, roughly three quarters of the 6% increase was driven by the seasoning of loan growth with the remaining 25% reflecting continued supply driven normalization in the consumer credit industry.
+Operating expenses were up 10% year-over-year due to higher compensation expense and investments in support of growth and new capabilities. The effective tax rate for the quarter was in line with our expectations at 24%.
+Turning to Slide 5, total loans increased 6% over the prior year, led by 7% growth in credit card receivables. As Roger noted, higher yielding standard merchandise balances were the primary driver of the increase. While the contribution from promotional balances was less of a factor this quarter as it continued to decelerate. Compared to the prior year, promotional balances were down 80 basis points, and dropped 70 basis points sequentially reflecting our decision to decrease the level of growth from promotional activity over the last several quarters.
+Turning to our other primary lending products, our organic student loan portfolio increased 9% year-over-year, while total private student loan balances were up 3%. Personal loans increased 2%, which was in line with expectations, given the slowdown in originations, which we have mentioned previously.
+Moving to the results from our Payment segment, on the right hand side of Slide 5, you can see the proprietary volume was up 4% year-over-year. In Payment Services, PULSE volume increased 7% over the prior year driven by incremental volume from existing issuers, new issuers on the network, as well as growth in our PINless products such as PULSE PAY Express and PULSE E-commerce. Network Partners volume was up 29%, primarily driven by AribaPay. Diners Club volume was up 1% over the prior year, having been impacted by unfavorable foreign exchange movements.
+Moving to revenue on Slide 6, net interest income increased $203 million or 10% from a year ago, driven by higher loan balances and increased market rates. Total non-interest income increased $46 million, primarily driven by a 14% increase in net discount and interchange revenue. The 5% increase in gross discount and interchange revenue was primarily driven by the year-over-year increase in sales volume, which was also up 5%.
+Rewards costs were flat in the prior year, and up a bit sequentially reflecting increases in sales volume, offset by lower utilization in the rotating 5% category. Just to remind you, groceries, which we featured in the first quarter, is the rotating category that attracts the highest level of spending and quarterly shifts in the 5% category can have a significant impact on both the rewards rate and sales volume.
+As shown on Slide 7, our net interest margin was 10.47% for the quarter, up 26 basis points year-over-year and 1 basis point sequentially. Relative to the second quarter of last year, the net benefit of prime rate increases in March, June and December of 2018, as well as a favorable shift in the promotional balance mix and revolve rate were partially offset by higher deposit costs in both brokered and direct-to-consumer, and higher charge-offs of accrued interest.
+Compared to the first quarter, the benefits from two additional cycle days, a shift in promo balanced mix, and a favorable funding mix, were mostly offset by the higher costs in brokered and direct-to-consumer deposits.
+Looking forward, our outlook for net interest margin reflects continued strong credit performance and favorability in portfolio mix, balanced against a degree of uncertainty around the timing and level of Fed actions. That said, it's fair to say that it's looking more likely that full year net interest margin will evidence a bit of the upside bias we spoke about when we provided 2019 guidance.
+Total loan yield increased 54 basis points from a year ago to 12.82%, primarily driven by an increase of 56 basis points in card yield and a 54 basis point increase in private student loan yield. Prime rate increases, favorability in the revolve rate, and a lower level of promotional balances led card yields higher, partially offset by an increase in interest charge-offs. As we noted earlier, the mix of lower yield and promotional balances decreased 80 basis points from a year ago, reflecting the slowdown in growth from promo activity, which had a positive impact on both card yields and overall NIM.
+The year-over-year increase in student loan yield was primarily driven by higher short-term interest rates. Slightly over 60% of the portfolio is at a variable rate. On the liability side of the balance sheet, the average consumer deposits grew 16% and now make up over half of total funding. The strong growth in consumer deposits reflects our continued focus on attracting more stable and cost effective funding.
+Consumer deposit rates rose during the quarter, increasing 5 basis points sequentially and 49 basis points year-over-year. We continue to see cumulative deposit betas below historic norms.
+As we consider potential cuts in the Fed funds rate, we expect that the resulting decline in loan yields would be mostly, but not completely offset by lower funding costs. We've been trimming our asset sensitivity and expect to be down to roughly three quarters of 1% asset sensitive by the end of the third quarter.
+Turning to Slide 8, total operating expenses rose $94 million from the prior year. Employee compensation increased $27 million, driven by higher average salaries and benefits, which included the impact of the higher minimum hourly wage we implemented in May of 2018.
+Information processing costs were up, reflecting our continued investments in infrastructure and analytic capabilities. Professional fees increased $22 million, primarily due to increased collection costs related to higher recoveries in the quarter, as well as investments in new capabilities.
+Now I'll discuss our credit results on Slide 9. Total net charge-offs rose 11 basis points from the prior year. The increase in charge-offs continues to be primarily driven by the seasoning of loan growth in the past few years and to a lesser extent supply driven credit normalization. Credit card net charge-offs were 15 basis points higher year-over-year. From a sequential perspective, this was the seventh consecutive quarter of slowing year-over-year increases in card charge-offs, and this trend reflects the fact that normalization continues to moderate.
+The credit card 30 plus delinquency rate was up 18 basis points year-over-year, and down 11 basis points sequentially. Credit performance in the card business continues to be very solid, reflecting our disciplined approach to credit management in both new and existing accounts.
+Private student loan credit performance also remains strong, with net charge-offs down 31 basis points year-over-year and 5 basis points sequentially, aided by efficiency gains in collections. Personal loan net charge-offs were up 36 basis points from the prior year and down 20 basis points sequentially. The 30-plus delinquency rate was up 7 basis points year-over-year and decreased 2 basis points sequentially. Credit performance in the personal loan portfolio continues to stabilize, which you can see reflected in the sequential improvements in both charge-off and delinquency.
+Looking at capital on Slide 10, our common equity Tier 1 ratio decreased 10 basis points sequentially as loan balances grew. Our payout ratio for the last 12 months was 82%.
+We recently announced that our Board of Directors has approved our capital plan for the four quarters ending June 30, 2020, which includes a $0.04 per share increase in our quarterly common stock dividend, as well as planned share repurchases up to $1.63 billion over the next four quarters.
+I'll remind you that we were not subject to CCAR for 2019. But we required a capital plan that was approved by our Board of Directors and submitted to regulators. As always, we remain committed to efficiently deploying our shareholders' capital by focusing on profitable and disciplined asset growth and returning excess capital via dividends and share repurchases.
+To sum up the quarter on Slide 11, we generated 6% total loan growth and a 26% return on equity. Our consumer deposit business saw strong growth of 16%, while deposit rates increased 49 basis points year-over-year. With respect to credit, while our charge-off rates have increased as loan growth seasons and credit conditions normalize, performance reflects positive trends across our lending products and remains consistent with both our expectations and our return targets.
+And last but not least, we're continuing to execute on our capital plan with loan growth and capital returns helping to bring our capital ratio closer to target levels.
+In conclusion, this was a terrific quarter for us, characterized by continued receivables growth, solid credit performance and very strong returns.
+That concludes our formal remarks. So, I'll turn the call back to our operator Erica to open the line for Q&A.
+Operator
+[Operator Instructions] We'll take our first question from Bob Napoli with William Blair.
+Bob Napoli -- William Blair -- Analyst
+Thank you, and good afternoon. Solid quarter, and Mark, sorry to see leaving next year, but it's been great working with you. Question on CECL I guess, and hopefully you're not leaving because of CECL, Mark, I know that's frustrated you there a little bit. But the -- can you -- the reserve build, do you have an idea what you expect the reserve build to be? And then maybe more importantly after the reserve build, just any thoughts you would have on what effect CECL would have on earnings growth over the long term on average over time?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Sure. First of all, Bob, I would say, thanks for the kind words. I appreciate it. I have enjoyed working with you and all the folks in the market tremendously over the last nine years. So, I'm not going yet. So you got to suffer through with me for a little while.
+In terms of CECL, I would say, Bob, there is no change to our 55% to 65% estimate for the increase in reserves and adoption of CECL. Now, I'd be remiss if I didn't remind you that that is a estimate. It's heavily dependent on both the composition and trends in the portfolio, and the forward-looking view of the economy actually at the time we adopt. But again, if we had adopted this quarter, it looks like, roughly 55% to 65% range would be the right way to think about it.
+In terms of where that impact comes in, you know it's longer duration, higher lifetime loss content assets, and actuarially managed asset classes are obviously pretty heavily dependent on a macro forecasts in CECL, CECL environment. So the volatility going forward, I think, is really going to be the speed and the level of change in macroeconomic forecasts will really be the driver in volatility.
+As you sit and look at those things in addition to loan growth itself, right, there is a penalty for growth under CECL. So those would be the moving parts and pieces. I think our number one concern remains comparability across issuers is going to be challenging. So it's going to be incumbent upon us to provide really good disclosure and for all the users of the financial statements to really dig in there.
+Bob Napoli -- William Blair -- Analyst
+The capital return is a little bit below what we were looking for. Is that because of CECL? We're just trying to figure out how is that related?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+So, CECL and the implementation of CECL definitely impacted our thoughts in terms of the forward full quarter ask in terms of capital return basis, yes.
+Bob Napoli -- William Blair -- Analyst
+Great. Thank you. Appreciate it.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+You bet, Bob.
+Operator
+Our next question comes from Rick Shane with JP Morgan.
+Rick Shane -- JPMorgan -- Analyst
+Hey, guys, thanks for taking my question, and Mark, congratulations, and we will definitely miss you. I wanted to ask a little bit about the transition on promotional rates. I'm curious what the results have been with the promotional balances? Have you been able to convert them to full pay in the way that you anticipated? And is the NPV on that program what you expected?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yes, promotional balances remained very profitable for us. And it's a mix of using promo rates around ET and retail for new accounts, as well as targeted offers to our existing portfolio. So profitability has been very strong. It's just some of the growth we're seeing around merchandise balances and some other forms of simulation, including rewards are working well, and so that's driving down the overall mix that's at promotional rates.
+And in terms of the NPV part of the question, I would say, yes, the NPVs continue to perform in line with expectations. And candidly, some of the level of focus on promotional balances obviously is, do we believe in the current environment based on competitor actions, and otherwise do we have the ability to keep hitting those NPVs, and if we can't, we pull back, as we don't want to put asset growth on the books that doesn't meet our desired return thresholds.
+Rick Shane -- JPMorgan -- Analyst
+Great. Thank you. And then you had alluded to the fact that you've been able to implement some strategies to dampen asset sensitivity. Can you talk a little bit about that?
+Roger Hochschild -- Chief Executive Officer and President
+Yes, principally what we've been doing is, over the course of the last several months, we've been adding to our investment portfolio, specifically buying short-dated treasuries, tough two years in NIM has been the primary vehicle we've used to accomplish that dampening on the asset sensitivity side.
+I think realistically, there's a little bit more room there to add a little bit more on the treasury book, but then there will also be some synthetic activities we will engage and to do principally plain whenever asset swaps would be the way to think about it. We are in market today with an ABS floater, a two-year ABS floater. Specifically, we won't swap that effects, the way we have done over the years with a number of our ABS floaters as well that will also help in that capacity. That's about an $800 million deal roughly, give or take.
+Rick Shane -- JPMorgan -- Analyst
+Perfect. Thank you guys very much.
+Roger Hochschild -- Chief Executive Officer and President
+You bet.
+Operator
+Our next question comes from Mark DeVries with Barclays.
+Mark DeVries -- Barclays -- Analyst
+Yes. Thank you. I was hoping you could help us better understand the pace of reserve builds. While the year-over-year increases in delinquencies and charge-offs have been improving at a fairly steady pace, changes in the reserve ratios has been a lot more erratic, with some quarters like this one, where there is almost no change sequentially, and quarters like the last one was up 17 basis points. And this quarter is kind of flat was actually in a period where for the first time in a while, you actually saw your year-over-year delinquencies increase. So I was hoping, Mark, if you could just give us kind of sense of how to think about on a quarterly basis what causes you to move your -- your reserve rate up or down.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Sure. So today pre-CECL, we set our reserve based on expected losses on loans that are on the balance sheet now, and will be the losses we expect to see over the coming 12 months. And the key really influencers of that level are going to be delinquency trends we see in the portfolio, macroeconomic trends and forecasts, obviously bankruptcy forecasts, what we see going on in incidence rates, and what we see happening with consumer leverage and abilities to pay. Right. We would really be the key influencers, I guess, that will be out there today Mark, and I think the other thing is we try not to react with a knee jerk reaction one quarter versus the next.
+So when we see some goodness, we got a relatively flat reserve rate this quarter vis-a-vis last quarter, we saw a little bit of goodness in a couple of areas, we're not just going to assume that that represents a trend. We're going to wait and see that develop, and we're going to make sure we're being prudent in how we think about trends in the portfolio as opposed to just knee jerk reacting up and down.
+As we go into a CECL environment, I think that level of judgment will increase candidly, but we will become far more sensitive to changes in macroeconomic forecasts as well as the level of growth in the portfolio in a CECL environment as well. So that would be how to think about it now and really how to think about it going forward.
+Mark DeVries -- Barclays -- Analyst
+Okay. That's helpful. But then when we think specifically about this quarter versus last quarter, well, what did you see maybe differently and all those different things you evaluate that cause you to keep reserves mostly unchanged at least the reserve ratio versus last quarter where there is a more substantial increase?
+Roger Hochschild -- Chief Executive Officer and President
+Yes, I mean, I think, the reserve rate stayed relatively flat. I think we saw a constructive activity on a quarter-over-quarter basis in delinquency trends. We saw constructive developments in quarter-over-quarter trends in charge-off trends. Macro trends a little less clear candidly than we would have seen historically, relatively flat, but uncertainty around what the hell is going on with Fed, quite honestly, would be entering into that process.
+Incidence rates up a tad, but nothing significant. I mean there is no question severity remains the primary driver. Consumer leverage is pretty consistent. So you kind of put all that into the blender and hit go, you know, I suppose, you could have gotten yourself comfortable with a modest reserve rate reduction, but we don't target a reserve rate. Again, we set reserves based on the loans we see on the books and all those factors we talked about earlier, and we want to see those factors develop over more than just a month or two. We actually want to see them develop into trends before we respond to those trends because most importantly those reserves are meant to reflect the risk that we as a management team feel exists in the loan book today and not to just need your quarter-over-quarter based on things we see moving.
+Mark DeVries -- Barclays -- Analyst
+Okay. That's very helpful. Thank you.
+Roger Hochschild -- Chief Executive Officer and President
+You bet.
+Operator
+Our next question comes from Jason Kupferberg with Bank of America.
+Mihir Bhatia -- Bank of America Merrill Lynch -- Analyst
+Hi. Good afternoon. This is Mihir for Jason. Just a quick question on the purchase volume. Is there anything you would call out in terms of the Discover card purchase volume other than just the different category and rewards, because we saw a little bit of a slowdown this quarter. I think it was up 4.5% versus 6.5% last quarter. And so I was just wondering if there's anything particular there?
+Roger Hochschild -- Chief Executive Officer and President
+Yes, a couple of things. One when you look at us compared to competitors, ours is explicitly more of a lend-focused model versus spend-focused, and sometimes there is a bit of a disconnect. Part of it was just a challenging comp year-over-year. The switch in 5% category probably cost us roughly almost a point of growth. The other thing is gas prices can have an impact, and so that also dampened our year-over-year sales growth.
+Mihir Bhatia -- Bank of America Merrill Lynch -- Analyst
+Got it, sir. Thank you. And then just can you give us an update on the checking product, you know the one with the reward. What kind of engagement are you seeing from customers? Is the population different that are attracted to this product, whether it's millennials versus your card product, if you will? And is there an opportunity to drive that growth a little further in the interest rate, as you know, if the interest rate environment goes as we're expecting with the lower of Fed funds rate maybe and you might see a little bit less yield chasing?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yes. The benefits of checking compared to other products actually gets tougher in a lower rate environment, just because in checking you're not paying interest that you're paying OpEx. And so as rates come lower, the advantage of checking versus say saving, starts to get compressed. We continue to be excited about how checking is performing. The average age of new customers is about 35.
+Our card actually does well with students, and millennials too, but we're excited about the product. About a quarter of the new customers are also opening a savings account. So we're excited about that. Seeing good growth year-over-year in new account, so it continues to be a good product for us, but I would caution you, we view it as a long-term build before checking deposits become a meaningful piece of our funding. Overall though the debt -- direct-to-consumer deposit portfolio is doing very well, and as we mentioned on the call is now over half of our funding.
+Mihir Bhatia -- Bank of America Merrill Lynch -- Analyst
+Okay. Thank you.
+Operator
+Our next question comes from Sanjay Sakhrani with KBW.
+Sanjay Sakhrani -- Keefe, Bruyette & Woods -- Analyst
+Thanks. I guess I have a question on loan growth. Obviously the card growth continues to be strong and the mix is actually improving to less promo. Could you just talk about what's driving this window to be open for you for this long, Roger, and maybe you could also just talk about how you are incorporating the shifting views on the macro into the underwriting process?
+Roger Hochschild -- Chief Executive Officer and President
+Yes. We have not -- I will start with the back of that, Sanjay. We haven't changed our views on macro. We continue to be at the margin tightening credit and nothing has changed there in terms of how we think about our card underwriting. I think the window is there as long as we can execute on having a compelling value proposition for consumers in a very competitive environment. And so we always target a healthy mix of loan growth coming from both new accounts, as well as stimulating our existing card accounts. We're happy with how it's performing, but continue to see good opportunities as well.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+And it continues to skew toward prime-oriented solid growth, Sanjay, if you -- something you'll see in our Q, is it comes out at the end of the quarter, that going in front run a little bit, the percentage of accounts, below 660 -- at or below 660 actually decreased to about 19% in the quarter. So you're seeing the percentage of the book, that's actually classified as subprime begin to shrink as well.
+Sanjay Sakhrani -- Keefe, Bruyette & Woods -- Analyst
+Okay. And then just a follow-up for you, Mark. I appreciate the commentary on the NIM and lower rates so far, but maybe you could just backing up a little bit more high level talk about deposit betas and how they may very early in the process of rates going down versus later in the process because we were seeing that -- that difference as we were going late into the rate rising cycle, so maybe can you just talk about those dynamics? Thanks.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yes, sure. We typically, it's not unusual for deposit pricing to continue increasing after market rates stop. So we did see a little bit of that across the industry. More recently though we've seen decreases including some of our product book as well. We have implemented rate decreases also. So last quarter when we talked Sanjay, the cumulative beta through the cycle was 51, the cumulative beta through the cycle as we sit here today is 49.
+So at the end of the day, obviously competitor actions will have a bearing on how we act and respond, because we are trying to be relevant in the market. We continue to target that -- that sixth to tenth kind of place in bank rate to offer real significant value, but not to have rate with leading proposition. So that's generally how I would think about it.
+On the NIM question more broadly, I guess, what I'd say is, I mentioned, we did see a little bit of upside, bias to the upside when we gave our guidance, and we're really seeing that to be more likely right now. I'm guessing NIM could come in anywhere from, call it, 5 basis points to 9 basis points roughly higher than that 10.3% that was part of our initial guide.
+I think I want to make sure folks don't overreact, and to the growth we've seen in NIM and really make extrapolate that as well, because we are asset sensitive still roughly 25 basis point increase by the Fed on a 12-month forward basis takes about 1 basis point or 2 basis point off a margin, hit or take. It's kind of the way to think about it, and those treasuries we've been buying to dampen our asset sensitivity also are at lower yields than some other things as well.
+So, I mean we're doing the right things to prudently position the balance sheet. NIM is going to be clearly on the plus side of that guide with a bias to the upside, but I don't want folks to run away and assume it's going through the -- go into the moon either.
+Sanjay Sakhrani -- Keefe, Bruyette & Woods -- Analyst
+All right. Thank you very much.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+You bet.
+Operator
+Our next question comes from Ryan Nash with Goldman Sachs.
+Ryan Nash -- Goldman Sachs -- Analyst
+Hey. Good evening, guys.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Hey, Ryan.
+Ryan Nash -- Goldman Sachs -- Analyst
+Hey, Mark, so when I look at credit broadly, so net charge-offs year-to-date are running kind of toward the bottom of the range. 3Q historically is seasonally strong for losses. Can you maybe just talk by product, how you're feeling about the trajectory of losses and given positive seasonality? Could we end up coming in at or below the low end of your 3.2% to 3.4% targeted range? Thanks.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yes, I'm not going to get into the trap of revising guidance on the credit line here, but I will be happy to walk you through the parts and pieces. I would say card, Ryan, continues to feel very stable and very good. I would say, from that perspective, this was the seventh consecutive quarter we saw the rate of increase in charge-offs moderate year-over-year -- the rate of growth moderate year-over-year.
+We still are seeing the impacts of normalization, but it's down to roughly, call it, a quarter of the impact. The other three quarters is really coming from growth. And as our loan growth has moderated a little bit in our guidance for the year, 6% to 8%, as we're coming in closer to that 6%-ish kind of range. So far, I would say, that has bearing on that equation a little bit as well. So it feels to me at the end of the day like we're in good shape with respect to trends in card charge-offs.
+If we talk student loans that product has consistently just been a very solid credit performer for us. Don't see any signs of change on that in the horizon at all. It just continues to feel decidedly solid, I would say.
+Personal loans too early to declare a victory, but it is looking like that 5% general soft guide we gave around personal loan charge-off rates because of working through some of those segments that we talked about going back about a year or so ago. It looks like that was probably a little conservative. So I do think our personal loan charge-offs will come in inside of that 5% number. You saw really positive quarter-over-quarter trends this time. Again, I'm not going to declare victory on the basis of a quarter, but it does feel like things are trending well there as well. So not prepared to revise credit guidance at this point in time, but I would say we continue to feel really good about the trajectory of credit, the performance of credit and the health of the book.
+Ryan Nash -- Goldman Sachs -- Analyst
+Got it. And sorry to ask another question on the net interest margin. But if I look year-to-date, you're running at close to 10.47%, the guidance would imply about a 20 basis point fall off in the back half, which is historically seasonally strong. So I guess I just want to make sure I understand all of the moving pieces, given that you're slightly asset sensitive, you have better seasonality, but then you also have lower promo activity which is helping support the margins. So can you just walk us through the puts and takes of how we end up with the margin in the back half of the year that's lower relative to the first half? Thanks, Mark.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yeah, I'll do my best. And I would not interpret this is going to be all inclusive. But I'll give you some things to think about. So as we head into the latter part of the year, transactor engagement typically tends to pick up as we go on into the holiday shopping season. So you'll have a bigger percentage of the mix that essentially is effectively 0% earning asset. So that has an effect there that you should be thinking about at the end of the day. The asset sensitivity, depending upon the pace of the Fed, the guidance we have implies right now, our guidance would imply 25 basis point coming up here shortly and 25 basis point in the fourth quarter. If the pacing is greater than that, it would have a bigger impact and I already said 12-month forward 1 basis point or 2 basis point for every 25 basis point, the way to think about that. Those portfolio purchases have a dampening effect on the treasuries.
+On the promo piece, we don't expect that to continue to decline from its current levels. We're thinking the level we're sending out right now as a percentage of the mix feels about right, so you won't have further tailwind from promo at this point in time. So those would be some of the things I would generally be thinking about Ryan, it's not all inclusive. But I'm trying to send a balanced message on NIM, it's clearly a good story. It's going to end up higher than that 10.3% that we had talked about, but I don't want folks to think we're sandbagging and setting something upwards go into the moon either. I'm trying to send a very balanced, very clear message there.
+Ryan Nash -- Goldman Sachs -- Analyst
+Got it. Thanks for all the color.
+Roger Hochschild -- Chief Executive Officer and President
+You bet.
+Operator
+And our next question comes from Bill Carcache with Nomura.
+Bill Carcache -- Nomura -- Analyst
+Thank you. My first question is on rewards and promotional activity. I know it's early in the quarter, but can you discuss whether including PayPal in this quarter's 5% cashback kind of cashback rewards category, whether you'd expect that to drive a pickup in volumes? And how should we think about the sustainable rewards rate level, as we look ahead from here in light of the decrease that we saw this quarter?
+Roger Hochschild -- Chief Executive Officer and President
+Yeah. I wouldn't read too much into the decrease this quarter. We've talked about how the categories can have a significant impact QoverQ, but that doesn't change our long-term perspective. We're very excited about the program with PayPal, they're a great partner. So -- but just given their overall scale, I'd say, modest impact on rewards rate in the coming quarter.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yeah. And on a full year basis, I would say we aren't moving that guide we gave for the year that 132 basis points to 134 basis points [Phonetics], so it definitely does tend to move around based on how lucrative that category is, right. So, like in the first quarter groceries, it's really easy to max out on the $1,500 in spend. I think you have to spend $125 a week or something inside of that even to max out. It's really easy to do. Certain of the other categories, it's not as easy to max out on that, if you will, unless you're a high spend transactor. So we do see variability based on that as well, but I -- the guide for the year the 132 basis points to 134 basis points is still I think how I would be thinking about it.
+Bill Carcache -- Nomura -- Analyst
+Got it. That's helpful. Thanks. Roger and Mark, my last question is regarding your digital investments and specifically on cloud. You guys have talked about pursuing a hybrid cloud strategy versus the public cloud strategy that some of your competitors are pursuing. Can you discuss whether you have any concern that first -- first of all, you may be falling behind your competitors? And secondly, maybe if you could discuss what you're seeking to optimize with your strategy?
+Roger Hochschild -- Chief Executive Officer and President
+Yeah, so in terms of hybrid cloud versus sort of moving purely to the public cloud, I think our focus around technology is always technology to drive business value, not technology for technology's sake. And so, we try and take a really practical view. So moving a 100% of your applications to the public cloud and moving your general ledger there, I'm not sure I see the benefit. On some of the consumer-facing applications we have migrated to the cloud and rewritten the architecture, you're seeing 30% plus increases in future delivery rate, so clear benefits from public cloud, but we feel like our hybrid strategy is the right way to go.
+In terms of falling behind our competitors on technology, I maybe think more about what's the opportunity in front of us versus comparing because everyone's business is a bit different. Certainly, we're doing a great job in business value. If you look at what we've done in the mobile space being Number 1 ranked there, but I'm also excited about how quickly technology is changing and what we can do in the coming years.
+Bill Carcache -- Nomura -- Analyst
+Very helpful. Thanks for taking my questions.
+Operator
+Our next question comes from John Hecht with Jefferies.
+John Hecht -- Jefferies -- Analyst
+Thanks very much guys. I -- actually most of my questions have been asked, so I just have one. You -- Roger you referred to a good mix of sources of growth from new customers and increasing advances. I want to -- can you parse that and give us a little bit more information of the growth, how much of it's coming from utilization versus advances versus new customers?
+Roger Hochschild -- Chief Executive Officer and President
+Yeah. I guess, a bit more from new customers versus the portfolio, so probably for the last roughly 18 months, we've been close to that 60/40 range between the two, maybe a little higher this quarter, but again a healthy mix that's consistent really with what we've done for a while now.
+John Hecht -- Jefferies -- Analyst
+Okay. And I guess as a related follow-up is how would you discuss the competitive environment, you guys have used the word competitive quite a bit, but has it leveled off, is there changing dynamics on competition for new customers and rewards or how do we think about that?
+Roger Hochschild -- Chief Executive Officer and President
+We've said for a while that rewards competition has leveled off, going back a couple of years, it was just every quarter. Someone who's out there with the hot new program. So it's stable, look, the card business is always very competitive. If you look at the returns, and so it's really the same competitors pursuing it aggressively and that's just a constant state for the business.
+John Hecht -- Jefferies -- Analyst
+Great. Thanks very much for the color.
+Operator
+And your next question is from Vincent Caintic with Stephens.
+Vincent Caintic -- Stephens -- Analyst
+Hi, good afternoon. Most of my questions have been answered as well. So just maybe switching gears to the expense side. So on Slide 8, very helpful color on some of the expense growth, if you could talk about maybe in some more detail about the information processing and the professional fees and other expenses that are up in the double-digit range, is that something that we should expect continuing going forward or is there one-time things specifically for the investments in infrastructure and capabilities, if you could discuss that further in detail? Thank you.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Sure. So if you think about the information technology spend, I think that is -- that really is the battlefield on which the bank of the future is being built, quite honestly. So I would not expect to see technology spend be something you'd look to see us ratchet back on anytime soon. Obviously, we have leverage there. If we were hit a downturn, a major bump in the road, something like that. But it feels like those investments are driving great returns. You're seeing it already in some of the performance in our personal loan book as we're able to better weed out some of the challenges we were faced with their, if you will, you're seeing it kind of across the board in the portfolio.
+So we feel good about that. If you're talking about the professional fees, I think on that piece of the puzzle, yes, I believe there is some lumpiness to that one. So I think you'll see that one continue to be exhibit a degree of lumpiness and I would not take that as an elevated run rate or something that I would expect to see on a normalized basis. On the other -- the other category that was up $28 million. I would say the variance there. It's about $11 million year-over-year, due to global acceptance, about $13 million. And at this year, I think there was about $2 million in it last year same quarter, something like that. And about $9 million of that is driven by fraud reserve. We had a -- in the second quarter of '18 last year, we had a reserve release in the fraud reserve. This year's second quarter, we had a normal build, driven consistent with loan and deposit growth.
+So at the end of the day, those would be the big drivers in the other. So, continue to feel good about the expense guide broadly for the full year, and continue to feel that there is significant untapped leverage in the expense base that we can avail ourselves of, if and when we see a shift in the environment.
+Roger Hochschild -- Chief Executive Officer and President
+And maybe to build off Mark's comment, you can see great stability and operating efficiency even as we made those increases in investment in technology. And I think that reflects really our discipline around expenses that to the extent we need to make investments, we're going to look hard at everything and see how we can fund this.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Yes. And actually, we're at not, for peak season, DSL expenses that you incur, your efficiency ratio actually this quarter would have come in at 37.1%. So I think, again, I feel real good about the expense guide and I feel very good about the leverage that exists there.
+Vincent Caintic -- Stephens -- Analyst
+Okay. Got it. Thanks very much.
+Operator
+Our next question comes from Meng Jiao with Deutsche Bank.
+Meng Jiao -- Deutsche Bank -- Analyst
+Good afternoon, guys. [Indecipherable] A quick question just on M&A, I think earlier this year you guys spoke to loving -- would be loving to do acquisitions in the payment space, but you noted the valuations are high. I just wanted to get any sort of updated thoughts that you guys had in terms of M&A space whether it relates to payment space or direct US banking? Thanks.
+Roger Hochschild -- Chief Executive Officer and President
+Yes, I think the same comment still holds true. We love to do acquisitions in payments and valuations are still high. So, if you look back over the years, both PULSE and Diners were transformational acquisitions in the payment side, but Mark and his team run a very disciplined process, and we're focused on value, and making sure that transactions work out well for our shareholders.
+On the banking side, there's probably a bit less to get excited about. You know, just buying a portfolio is like buying a bond. And we're very happy with the presence we've built in the products we're in on the consumer side. So I wouldn't necessarily encourage you to think about any acquisitions on the direct banking side. We'll look at anything opportunistically, but we feel good, and I think this quarter shows, there is a lot we can do around organic growth. Erica?
+Operator
+Our next question comes from Chris Donat with Sandler O'Neill.
+Christopher Donat -- Sandler O'Neill -- Analsyt
+Good afternoon. Thanks for taking my question. Wanted to ask about the competitive environment for deposits, because Mark, I thought, I heard you say that you have put some decreases in the product book and we've seen Ally and the Marcus product from Goldman Sachs. We've seen some incremental reductions. Just I'm trying to get a sense of how confident do you feel that you can trim deposit rates without having any adverse impact?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+So, I would say, that is always the $64,000 question. I think the real question out there is, where do you stand on a relative basis, right. You have to be in the relevant range in the marketplace. I think, do we have the ability to lead the market down in terms of deposit pricing. No, I don't think we have the ability to lead the market down in deposit pricing. We didn't lead it going up either.
+Do I feel like the betas that we have built into our asset liability models and the guidance we provided around NIM and other things for the year, continue to feel really good? And do I feel like that is a business that continues over time to look more and more like a traditional bank's deposit business where there is real relationship? Yes, I do.
+I mean, I think when I looked most recently, I think we're just a hair shy of 70% of our depositors now have a relationship with us on the asset side of the balance sheet. Right. So I feel very good that these are not hot money quasi-capital markets accounts, and I feel very good about our ability in a declining rate environment to harvest some benefit there.
+Christopher Donat -- Sandler O'Neill -- Analsyt
+Okay. That makes sense to me. Then just kind of curiosity wise, on the upper end of the competitive spectrum, we've seen robo-advisors like Betterment and Wealthfront, get a little more aggressive on deposit products using not a traditional bank product, but using bank relationships to get FDIC protection. Anyway, have you seen any meaningful competition from them or is that really hitting kind of a different part of the marketplace and you're targeting for deposits?
+Roger Hochschild -- Chief Executive Officer and President
+Yes, we haven't seen any impact from them.
+Christopher Donat -- Sandler O'Neill -- Analsyt
+Okay. Thanks very much.
+Operator
+Our next question comes from Moshe Orenbuch with Credit Suisse.
+Moshe Orenbuch -- Credit Suisse Securities -- Analyst
+Great, thanks. Most of my questions have been asked and answered. But I was hoping to kind of talk a little bit, a couple of questions before about competition. Marketing spend was kind of flattish. And as you mentioned the rewards category in Q2 didn't had a lower level. I mean as you look in the second half, I mean is there an opportunity to take more share to generate a little better growth in either lending or spending or both?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+We tend to think about it in terms of the ROI for the marketing dollars we put out there. If you think product by product, certainly, seasonally, you're going to start seeing a ramp up in Q3, given the peak for student loans. For personal loans, we were very explicit about trimming back some channels based on credit performance, but also that we're starting to see the benefits from that in terms of the losses and the new generation of models going in. Fourth quarter tends to be heavy for card.
+So, yes, I think you can expect to see us continue to invest and look to gain share, particularly around student loans and card. Personal loans, I think you want to not pursue share and growth there too aggressively, that's really driven by return and we've been very vocal over years now. There are times to market that product and there are times to cut back and we will continue to be disciplined.
+Moshe Orenbuch -- Credit Suisse Securities -- Analyst
+Got it. Thanks. And maybe just a follow-up for Mark. You've always used capital markets funding in conjunction with deposits. And as we're getting into this declining rate environment and to the extent that the industry doesn't cut as fast, would you kind of switch over to a greater degree of capital markets funding?
+Roger Hochschild -- Chief Executive Officer and President
+I'd say, I think about it a little bit like a constrained optimization, Moshe. At the end of the day, I think over the long haul, the value of a true relationship oriented deposit base can't be replicated. So I would still have a bias to that general direction. That being said, we are economically motivated, and to the extent the cost of funding in the capital markets really started to gap out. Sure, would be willing to do that at the end of the day, subject to maintaining good discipline around asset liability management and make sure we're not doing anything that is near-term beneficial, but plants land mines in the forward P&L when those things mature or reprice. But I was -- but sure I'd be willing to consider it.
+Moshe Orenbuch -- Credit Suisse Securities -- Analyst
+Yes. Thanks so much.
+Operator
+Our next question comes from Betsy Graseck with Morgan Stanley.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hi. Good evening
+Roger Hochschild -- Chief Executive Officer and President
+Good evening.
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Hey Betsy.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hey. Couple of questions. First, for Mark, just want to make sure your commentary around for every 25 bps, 1 basis points to 2 basis points, that I think last quarter was 4 basis points to 6 basis points. So I just want to make sure I heard that right as well as just understand the reason for that differentials, all the actions that you discussed earlier. Is that a 1 basis points to 2 basis points for the second half of the year, or is that 3Q and so we should expect an even lower level of impact as we hit 4Q?
+So the 4 basis points to 6 basis points, Betsy, would have been predicated. That goes back maybe a quarter -- two quarters ago, and is predicated on what the benefit would be from a rate increase. We're now looking at what the likely cost of a rate decrease would be, and it wasn't symmetrical, the way we built it. So you're looking at 1 basis points to 2 basis points of cost to margin on a 12-month forward basis associated with a 25 basis point reduction. And we are continuing to shift the asset sensitivity. So I would expect over time that will moderate from that current 1 basis point to 2 basis points level as we continue to shift the positioning of the balance sheet.
+Got it. And that's against spot or that's against the forward curve?
+Mark Graf -- Executive Vice President and Chief Financial Officer
+That's against the forward curve. That's against the forward curve.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Got it. Okay. And then, Roger, a question for you, in the prepared remarks, you were talking a bit about the European opportunity and how you saw some of that come through this quarter. Could you give us a sense as to which kind of markets you're seeing the uptake the most rapidly and where you feel you are in terms of the opportunity set here is, is what we saw this quarter, something that you think continue for a while or is there anything in particular that would say, hey, this is more of a one quarter event?
+Roger Hochschild -- Chief Executive Officer and President
+Yeah. I think for us, probably a lot of the focus is around Spain, but also the UK and Ireland. Some of the smaller markets, we're seeing great success and exciting partnership, so Bulgaria is another one I'll highlight. This really is a multi-year strategy, different countries will blink in and out, but it's a broad focus across Western Europe.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Okay. So early innings, because this is -- these are not necessarily new markets for you, but there are new -- given the relationships that you extended recently at an accelerating growth path. Is that fair?
+Roger Hochschild -- Chief Executive Officer and President
+Yeah. And some of them well -- clearly, we are in hundreds of countries around the world. Some of these reflect, I would say, step function changes in terms of merchant acceptance within those markets.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Okay. So we could see this pace continue, as your relationship build out in these newer -- in these markets?
+Roger Hochschild -- Chief Executive Officer and President
+Yes.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Okay, thank you.
+Operator
+There are no further questions at this time. Mr. Streem, your closing comments please.
+Craig Streem -- Vice President, Investor Relations
+Thanks, Erica. Thank you all for your interest. We appreciate your queuing up with us in light of who else may be out there this afternoon. And anything else you need of course, feel free to come back to us. Thank you.
+Operator
+[Operator Closing Remarks]
+Duration: 58 minutes
+Craig Streem -- Vice President, Investor Relations
+Roger Hochschild -- Chief Executive Officer and President
+Mark Graf -- Executive Vice President and Chief Financial Officer
+Bob Napoli -- William Blair -- Analyst
+Rick Shane -- JPMorgan -- Analyst
+Mark DeVries -- Barclays -- Analyst
+Mihir Bhatia -- Bank of America Merrill Lynch -- Analyst
+Sanjay Sakhrani -- Keefe, Bruyette & Woods -- Analyst
+Ryan Nash -- Goldman Sachs -- Analyst
+Bill Carcache -- Nomura -- Analyst
+John Hecht -- Jefferies -- Analyst
+Vincent Caintic -- Stephens -- Analyst
+Meng Jiao -- Deutsche Bank -- Analyst
+Christopher Donat -- Sandler O'Neill -- Analsyt
+Moshe Orenbuch -- Credit Suisse Securities -- Analyst
+Betsy Graseck -- Morgan Stanley -- Analyst
+More DFS analysis
+All earnings call transcripts
+
+
+
+
+

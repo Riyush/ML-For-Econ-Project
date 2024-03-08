@@ -1,0 +1,364 @@
+Image source: The Motley Fool.
+M & T Bank (MTB 0.09%)Q1 2021 Earnings CallApr 19, 2021, 11:00 a.m. ET
+Operator
+Thank you for standing by, and welcome to M&T Bank's first-quarter 2021 earnings conference call. [Operator instructions] Thank you. I will now turn the call over to Don MacLeod to begin. Please go ahead.
+Don MacLeod -- Vice President and Director of Investor Relations
+Thank you, Maria, and good morning, everyone. I'd like to thank you all for participating in M&T's first-quarter 2021 earnings conference call, both by telephone and through the webcast. If you have not read the earnings release we issued this morning, you may access it, along with the financial tables and schedules, from our website, www.mtb.com, by clicking on the Investor Relations link and then on the Events and Presentations link. Also, before we start, I'd like to mention that comments made during this call might contain forward-looking statements relating to the banking industry and to M&T Bank Corporation.
+M&T encourages participants to refer to our SEC filings on Forms 8-K, 10-K, and 10-Q, including the form we filed in connection with the earnings release for a complete discussion of forward-looking statements. Darren King is not with us today and is recovering from the effects of the COVID-19 virus. He expects to rejoin us shortly. In his absence, M&T's CEO, Rene Jones, will draw on his skills as former CFO and will be our primary speaker on today's call.
+
+Now, I'd like to introduce our chief executive, Rene Jones. 
+Rene Jones -- Chief Executive Officer
+Thank you, Don, and good morning, everyone. Don, thank you for using the word skills. When I handed over the CFO reins to Darren five years ago, one of the things that I was happy that went with it was the call. But although Darren is doing well and we expect his return to action shortly, I boldly volunteered to handle the call today.
+And just so you know, my agenda is that I do a good job but not such a good job that you won't be clamoring to have Darren back as soon as possible. Joining me today on the call are Bob Bojdak, our chief credit officer; and Mike Spychala, our corporate controller, whom I'm sure you both know -- you know both of them. As we noted in this morning's press release, we're pleased with the strong momentum in residential mortgage banking and our Wilmington Trust group of businesses. Outside of our usual seasonal first-quarter surge in salaries and benefits, expenses remained well-controlled, and credit trends are indicative of the state of the loan portfolio and the forecasted improvements in the economy.
+Diluted GAAP earnings per common share was $3.33 for the first quarter of 2021, compared with $3.52 in the fourth quarter of 2020 and $1.93 in last year's first quarter. Net income for the quarter was $447 million, compared with $471 million in the linked quarter and $269 million in the year-ago quarter. On a GAAP basis, M&T's first-quarter results produced an annualized rate of return on average assets of 1.22% and an annualized return on average common equity of 11.57%. This compares with rates of 1.30% and 12.07%, respectively, in the previous quarter.
+Included in GAAP results in the recent quarter were after-tax expenses from the amortization of intangible assets amounting to $2 million or $0.02 per common share, little change from the prior quarter. Also included in the quarter's results were merger-related charges of $10 million related to M&T's proposed acquisition of People's United Financial. This amounted to $8 million after tax or $0.06 per common share. Consistent with our long-term practice, M&T provides supplemental reporting of its results on a net operating or tangible basis, from which we have only ever excluded the after-tax effect of amortization of intangible assets, as well as any gains or expenses associated with mergers and acquisitions.
+Net operating income for the first quarter, which excludes intangible amortization and the merger-related expenses, was $457 million, compared with $473 million in the linked quarter and $272 million in last year's first quarter. Diluted net operating earnings per share were $3.41 for the recent quarter, compared with $3.54 in 2020's fourth quarter and $1.95 in the first quarter of last year -- of last year. Net operating income yielded annualized rates of return on average tangible asset and average tangible common shareholders' equity of 1.29% and 17.05% for the recent quarter. The comparable returns were 1.35% and 17.53% in the fourth quarter of 2020.
+In accordance with the SEC guidelines, this morning's press release contains a tabular reconciliation of GAAP and non-GAAP results, including tangible assets and equity. So let's take a look at some of the underlying details. Taxable equivalent net interest income was $985 million in the first quarter of 2021, compared with $993 million in the linked quarter. This reflects a higher level of average interest-earning assets, primarily cash equivalents, and a shorter calendar quarter.
+The margin for the past quarter was 2.97%, down 3 basis points from 3% in the linked quarter. The primary driver of the margin decline was the higher level of cash on deposit with the Federal Reserve, which we estimated reduced the margin by 5 basis points. And that was partially offset by a 2-basis-point benefit from the shorter quarter. Similarly, the $8 million linked-quarter decline in net interest income reflects the loss of income from two fewer accrual days.
+Changes in interest rates had a minimal effect for the quarter. Compared with the fourth quarter of 2020, average interest-earning assets increased by some 2%, reflecting a 9% increase in money market placements, including cash on deposit with the Federal Reserve, and an 8% decline in investment securities. Average loans outstanding grew by – grew nearly 1% compared with the previous quarter. Excluding PPP loans, average loans grew $1.1 billion or over 1%.
+Looking at the loans by category on an average basis compared to the linked quarter, commercial and industrial loans were essentially flat with increased dealer floor plan balances and other C&I loans, partially offset by lower average PPP loans. Due to timing of originations and the receipt of payments, average PPP loans declined $453 million from the prior quarter. Commercial real estate loans declined less than 0.5% compared to the fourth quarter, indicative of very low levels of customer activity. Residential real estate loans grew by 4%, consistent with our expectations.
+The increase reflects purchases from -- of loans from Ginnie Mae pools that we sub-service, partially offset by further runoff of the acquired mortgage loans. Consumer loans were up nearly 1%. That activity was consistent with recent quarters, where growth in indirect auto and recreational finance loans has been outpacing declines in home equity lines and loans. On an end-of-period basis, PPP loans totaled $6.2 billion, up from $5.4 billion at the end of the fourth quarter.
+Average core customer deposits, which exclude deposits received at M&T's Cayman Island office and CDs over $250,000, increased 4% or $5 billion compared to the fourth quarter. That figure includes $4 billion of noninterest-bearing deposits. On an end-of-period basis, core deposits were up nearly $9 billion. Foreign office deposits increased 17% on an average basis but were -- I'm sorry, decreased 17% on an average basis but were essentially flat on an end-of-period basis.
+Turning to noninterest income, noninterest income totaled $506 million for the first quarter, compared with $551 million in the linked quarter. The recent quarter included $12 million of valuation losses on equity securities, largely the remaining holdings of our GSE preferred stock, while 2020's final quarter included $2 million of gains. Over the past few years, M&T has received a distribution from Baby Lending Group in the first quarter of the year. Results for the first quarter of 2020 included a $23 million distribution and a change in the past timing.
+As you may know, M&T received a $30 million distribution in the fourth quarter of 2020, as expected. No distribution was received in this year's first quarter. Mortgage banking revenues were $139 million in the recent quarter, down $1 million from $140 million in the linked quarter. Our residential mortgage business continued to perform well.
+Revenues from that business, including both originations and servicing activities, were $107 million in the first quarter, improved from $95 million in the prior quarter. That increase reflects improved gain-on-sale margins. Residential mortgage loans originated for sale were $1.3 billion in the recent quarter, up about 5% from the fourth quarter. Commercial mortgage banking revenues were $32 million in the first quarter, reflecting the -- a seasonal decline from $45 million in the linked quarter.
+That figure was $30 million in the year-ago quarter. Trust income rose to $156 million in the recent quarter, improved from $151 million in the previous quarter. The increase is the result of growth in assets under management, in wealth, and institutional businesses. Service charges on deposits were $93 million, compared with $96 million in the fourth quarter.
+The decline from the linked quarter is the result of higher customer balances offsetting activity-based fees. Operating expenses -- turning to operating expenses for the first quarter, which exclude the amortization of intangible assets and merger-related expenses, were $907 million. The comparable figures were $842 million in the linked quarter and $903 million in the year-ago quarter. As is typical for M&T's fiscal first-quarter results, operating expenses for the recent quarter included approximately $69 million of seasonally higher compensation costs relating to accelerated – to the accelerated recognition of equity compensation expense for certain retirement-eligible employees, the HSA contribution, the impact of annual incentive compensation payouts on the 401(k) match and FICA payments, and unemployment insurance.
+Those same items amounted to an increase in salaries and benefits of approximately $67 million in last year's first quarter. As usual, we expect those seasonal factors to decline significantly as we enter the second quarter. Other cost of operations for the past quarter included a $9 million reduction in the valuation allowance on our capitalized mortgage servicing rights. You'll recall that there was a $3 million addition to the allowance in 2020's fourth quarter and a $10 million addition in last year's first quarter.
+The quarter's results also reflect an elevated contribution to the M&T Charitable Foundation. The efficiency ratio, which excludes intangible amortization from the numerator and securities gains or losses from the denominator, was 60.3% in the recent quarter compared with 54.6% in 2020's fourth quarter and 58.9% in the first quarter of 2020. Those ratios in the first quarters of 2020 and 2021, each reflect the seasonally elevated compensation expenses that we talked about. Next, let's turn to credit.
+The overall economy, of course, continues to improve. but some sectors such as hospitality, continue to face pressure. As was the case over the course of 2020, the recent quarter continued to highlight the differences between the former incurred loss accounting method and the CECL standard adopted at the beginning of last year. Previously, reported delinquencies and transition of loans from accruing to nonaccruing status evidenced by financial stress delinquency or default by borrowers preceded or accompanied the establishment of loss reserves.
+Under CECL, we increased our loss reserves last year based on worsening projected economic scenarios. Significant downgrades of specifically identifiable credits to nonaccrual emerged in the fourth quarter and criticized in the recent quarter -- and to criticize in the recent quarter, consistent with last year's additions to the allowance for credit losses. The allowance for credit losses amounted to $1.6 billion at the end of the first quarter. The $100 million decline from the end of 2020 reflects a $25 million recapture of previous provisions for credit losses, combined with $75 million of net charge-offs in the first quarter.
+The provision recapture and the resulting reduction in the allowance for the recent quarter continued to reflect the ongoing uncertainty as to the impact of the COVID-19 pandemic on economic activity, employment levels, and the ultimate collectibility of loans. That said, the improving economic outlook leaves us cautiously optimistic as to the ongoing effects of the pandemic compared with the greater levels of uncertainty in prior quarters. Our macroeconomic forecast uses a number of economic variables with the largest drivers being the unemployment rate and GDP. Our forecast assumes that the national unemployment rate continues to be at elevated levels, on average, 5.7% through 2021, followed by a gradual improvement, reaching 2.4% by the end of 2022.
+I'm sorry, 4.2% by the end of 2022. The forecast assumes that GDP grows at 6.2% annual -- at annual rate during 2021, resulting in GDP returning to pre-pandemic levels during 2021. Our forecast considers improved government stimulus, but not any further fiscal or monetary actions. Nonaccrual loans amounted to $1.9 billion or 1.97% of loans at the end of March.
+This was up slightly from 1.92% at the end of last December. As noted, net charge-offs for the recent quarter amounted to $75 million. Annualized net charge-offs as a percentage of total loans were 31 basis points for the first quarter compared with 39 basis points in the fourth quarter. Loans 90 days past due, on which we continue to improve interest, were $1.1 billion at the end of the recent quarter, 96% of those loans were guaranteed by government-related entities.
+Turning to capital. M&T's common equity Tier 1 ratio was an estimated 10.4% compared with 10% at the end of the fourth quarter, and which reflects a slight reduction in risk-weighted assets and earnings net of -- and earnings net of dividends. As previously noted, the People's United merger is pending. We don't plan to engage in any stock repurchase activity while that is pending.
+Now turning to the outlook. While the economy continues to improve and funds from stimulus programs reach our commercial, and consumer clients, we haven't seen enough change in our outlook for 2021 in any significant way from what we shared on the January call. Aside from the improved credit outlook as evidenced by the reserve release this quarter, I don't intend to provide any updates. Darren's remarks as to net interest income, loan growth, fees, and expenses still hold.
+And those, of course, are predate our merger announcement and don't contemplate any impact from the merger. We supply the merger-related comments at the time of announcement. Of course, as you're aware, our projections are subject to a number of uncertainties and various assumptions regarding national and regional economic growth, changes in interest rates, political events, and other macroeconomic factors, which may differ materially from what actually unfolds in the future. So now let's open up the call to questions before which Maria will briefly review the instructions.
+Operator
+Thank you. [Operator instructions] Our first question comes from the line of Ken Zerbe of Morgan Stanley.
+Rene Jones -- Chief Executive Officer
+Hi, Ken.
+Ken Zerbe -- Morgan Stanley -- Analyst
+Hi, Rene. So I think you never left in terms of giving the prepared remarks. All right. Maybe just to start off, in terms of the reserve release, the way the press release read, and even your comments, it sounds like you guys are still applying a fair amount of qualitative overlays that are fairly negative or that you're -- you know, there's a lot of uncertainty in the market, but you still released reserves pretty meaningfully this quarter.
+Is it fair to assume that if the economy continues to get slowly better and some of those qualitative overlays come off, that we could actually see a more material negative provision expense next quarter?
+Rene Jones -- Chief Executive Officer
+I guess the way I think about it is if you look at how our allowance worked at the end of the quarter, we saw releases in the commercial C&I book and in the consumer book. And those are largely reflective of the GDP and unemployment projection improvements that you've seen. And I think the thing to think about it, as you know, that one of the unique things about this period of time is that it's uneven, right? So while we're having good projections and unemployment is coming down, we've got great projections of GDP. It's not even everywhere.
+And so some of the places that are affected by travel and entertainment, right, are still lagging behind. So while we've seen things, for example, like higher scheduled bookings for the summer and the fall, we've really yet to see the improvement, particularly in our CRE and our hotel exposures. So without using the word overlays, I think that we're looking for signs of improvement in those particular areas, which would be required before we would see any reduction in the reserves on those portfolios.
+Ken Zerbe -- Morgan Stanley -- Analyst
+Got it. OK. That makes sense. And then just as a follow-up question.
+You're obviously building up a fairly sizable cash position, given all the deposit growth. How are you thinking about investing some of that cash into higher-yielding securities potentially?
+Rene Jones -- Chief Executive Officer
+It's a great question. We give a lot of thought. I think our first, you know, thought, it starts with the idea that we probably, at the end of the quarter, probably had $20 billion of excess liquidity beyond what we would use and use, you know, for our liquidity position. And, you know, I think a huge portion of that is clearly related to what I would call transitory.
+Now the big issue is how long does it transition? And so when we first thought that we have is that we hate to invest in low-return assets. So we don't think it's our job to invest for you all of that cash in securities because you could go do that off on your own. The returns are too low. Having said that, you know, we do have one of the smallest securities book out there.
+And so we're sort of constantly monitoring this idea of, you know, you know, how low do we want to make that go. So, you know, I think maybe the more interesting thing long term is what's really hard to see is the growth in activity that may be permanent that's happening over time, the account growth, those types of things, and the behavior of customers. So I think when we do see, which maybe for a -- might not be for a while because of more infrastructure spending and things like that. But when we do see a return, I think we may see a higher level of cash balances for quite some time.
+And as that becomes more clear to us, we would think about investing, you know, investing those dollars. But I think it's a little too early today.
+Ken Zerbe -- Morgan Stanley -- Analyst
+All right. Great. Thank you very much.
+Operator
+Our next question comes from the line of John Pancari of Evercore ISI.
+Rene Jones -- Chief Executive Officer
+John?
+John Pancari -- Evercore ISI -- Analyst
+Good morning, Rene.
+Rene Jones -- Chief Executive Officer
+Hey!
+John Pancari -- Evercore ISI -- Analyst
+I just wanted to maybe touch on loan demand, if you can talk a little bit about where you're seeing any improvement at all, particularly, on the commercial side, really interested in what you're seeing on the pipeline front, and if you're seeing any signs of a pickup in capex activity. And then separately on the consumer side, as well, what you're seeing. Thanks a lot.
+Rene Jones -- Chief Executive Officer
+Yeah. So, thanks. In the C&I space, I think, I don't know if it's a change, but if you look in -- if you look in the areas of M&A activity, if you look in the areas of manufacturing, we've seen some -- some progress there. But beyond that, it's very slow.
+Utilization was either flat to slightly down this quarter. We're seeing very limited, if any, growth really declines in the CRE segment because there's just no demand because of the state of things there. Having said that, it's interesting, as particularly commercial volumes remain low, if you look back, as I did over four, five quarters, you do see a steady increase in the roll on margin. So the activity that is getting done is at higher return levels.
+So that should have some impact as we move further -- you know, not immediate impact, but as we -- as that continues, That should have some positive impact on the margin. Things remain -- still remain really robust on the consumer side with the exception of HELOC loans.
+John Pancari -- Evercore ISI -- Analyst
+Got it. OK. Thanks. That's helpful.
+And then separately on the credit quality side, I wanted to see if you could update us on the commercial real estate portfolio. I know you indicated the areas of stress by industry, but I know you also noted that there wasn't necessarily a release there on the commercial real estate side. So if you could just remind us the size of that reserve as well when you give some update on the trends. Thanks.
+Rene Jones -- Chief Executive Officer
+Yes. So what I'll say is, you know, no surprise, hotels continue to be the property type that are -- that are under the greatest amount of stress in our portfolio. And hotel CRE loans were the largest contributor to the increase in our -- in both -- in our criticized book. And the thing to think -- to think about it is given the duration of the pandemic and its impact on things like travel, it's really not surprising that the hotels kind of face greater stress.
+So you'll remember that although performance, we're seeing some slight improvement -- give me one second -- seen some slight improvement, most of our hotel portfolios really can't support the contractual debt service payments without an in-place modification, or maybe as important support from their sponsors. So what that means is that while you've seen an increase in classified. So this quarter, we've seen about a $1 billion increase in our classifieds, about half of that was in the hotel space. Really, what that is, is just the length of time.
+Having said that, we don't expect that those downgrades will contribute to increased risk of loss because that really depends on other factors like beyond the credit grade, like the strength of the sponsors and the value of the underlying collateral. You -- you'll notice that we didn't have much of an increase to nonperformance for example. In terms of those two factors, the strength of our collateral. First, you know, what we've been doing is we've been on a mission to -- to reappraise all of our hospitality properties that are in excess of $5 million and that are in the classified status.
+So that reflects a little over 100 -- 100 properties and that accounts for about $2.3 billion in exposure. So the first 62 of those appraisals so far through February have shown as is values that have declined about 15% and stabilized values that reflect about a 6% decline. If -- keep that in mind that we're starting with 56% LTVs. And then if you jumped to New York City, we've seen a 24% as is decline with a 4% stabilized decline, but that starts with an LTV of about 47, right? So that gives you a sense that the migration we're seeing in classifieds in this space is pretty much pretty normal and what we would have expected.
+But it's not necessarily an indication of a lost -- lost content. And then finally, I think I'd say as, you know, in talking to all of our sponsors, they -- they seem to remain strong and capable of supporting the properties until conditions improve. And we really have a low number of properties, maybe something like 12%, 13% that come due this year and a significant portion that are 2023 and beyond, you know, in excess of 60% that -- that are further out. So we think we're in a good position to kind of watch this stuff change.
+I don't know if I have the numbers on the specific reserve for you.
+John Pancari -- Evercore ISI -- Analyst
+That's -- yeah, no problem. I can get that later on.
+Rene Jones -- Chief Executive Officer
+OK. OK, great.
+John Pancari -- Evercore ISI -- Analyst
+OK. All right. Thanks, Rene. I appreciate it.
+Operator
+Our next question comes from the line of Dave Rochester of Compass Point.
+Dave Rochester -- Compass Point -- Analyst
+Hey, good morning.
+Rene Jones -- Chief Executive Officer
+Good morning.
+Dave Rochester -- Compass Point -- Analyst
+I -- I -- I know you mentioned no updates on the guidance front for 2021, but the industry backdrop does look a little bit better today versus a few months ago. So I was just wondering if you talk about how you're packing that in. I know you'd mentioned NII down, even to low to mid single-digit range for the year at that point. So just curious what the offsets might be there, if it's weaker loan growth or some other area, or maybe you're thinking that range is still good but maybe it's better into that range is more likely? Just any color there would be great.
+Rene Jones -- Chief Executive Officer
+Yeah. No, that's good question. You know, I think, you know, we're -- we're looking at low single-digit year-over-year change in the margin, a decline in the margin. But I would say that we are off to a good start.
+If you think about how do you -- how do you outperform that, you -- you kind of -- your first quarter is probably the toughest because you are on a declining trend. So we're excited that we actually outperformed there. And I think if, you know, the things that we're not sure how long they last, but things like the extended foreclosure moratorium means that we'll be do -- doing less repooling of the Ginnie Maes, it means they'll be on the balance sheet longer, right? So that'll produce some results. And then the cash balances are re -- relatively high.
+So, you know, I'd just say we feel good and optimistic about -- about at least -- at the least meeting our projections.
+Dave Rochester -- Compass Point -- Analyst
+OK. Great. And then maybe just switching to the loan growth front, you -- you mentioned the -- the Ginnie Mae buyout. So just wondering, can you just talk about how that opportunity looks there going forward? And then maybe just on the overall, just by the PPP production for the quarter and then if you could recognize [Audio gap] these would be great.
+Thanks.
+Rene Jones -- Chief Executive Officer
+Just the last part again, last part.
+Dave Rochester -- Compass Point -- Analyst
+Sure. The -- so the PPP production in the quarter and then what you guys realize from an amortized fee perspective this quarter?
+Rene Jones -- Chief Executive Officer
+Yeah, OK. So on the Ginnies, you know, the -- the Ginnie -- it'd be hard to -- to continue to find in -- places to purchase Ginnies, we -- we keep working on it. But at the end of the day, particularly again because of the foreclosure modification and the extension going out, we think there's just going to be fewer -- fewer opportunities to do that. In terms of the PPP loans.
+Mike Spychala -- Corporate Controller
+Two and a half of the [Inaudible] in the quarter.
+Dave Rochester -- Compass Point -- Analyst
+On the [Inaudible]
+Mike Spychala -- Corporate Controller
+Yeah, we -- we booked 2.5 billion in PPP2 during the quarter, most of that in March. And -- and then we had about 1.8 of repayments. So the -- the repayments did push the -- the income up a little bit. But in total, interest income from the PPP was relatively flat to slightly down a couple of million bucks from last quarter.
+Dave Rochester -- Compass Point -- Analyst
+How much fees -- how many in the way of fees do you have now that's left?
+Rene Jones -- Chief Executive Officer
+We -- we haven't disclosed that number. I don't think -- I'm not sure. But, you know, we were -- we're -- modestly, it didn't -- almost no change, maybe it was down 3 million, and we don't expect a significant change, you know, that'll -- that'll progressively move. But by next quarter, we don't expect a significant change.
+Mike Spychala -- Corporate Controller
+Yeah. Depends on the pace of repayments, right?
+Rene Jones -- Chief Executive Officer
+What I will tell you -- what I will tell you is that when you take a step back and think about the margin of that we have, you know, the excess cash, if you take the $20 billion that I talked about before, if you didn't have that, that essentially takes your printed margin up over 50 basis points. And if you also exclude all of the PPP activity balances and now the income, that has about a 9-basis-point impact in the other direction. So what really is interesting to me is that aside from those two factors, our margin has held up really, really well compared to historical terms. But it's just a little noise that you can't see it because of those two items.
+Dave Rochester -- Compass Point -- Analyst
+Yup, great. All right, thanks for all the color.
+Operator
+Our next question comes from the line of Gerard Cassidy of RBC.
+Rene Jones -- Chief Executive Officer
+Hi, Gerard.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Hi, Rene. How are you?
+Rene Jones -- Chief Executive Officer
+I'm doing well.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Good. You haven't lost your touch. It's like riding a bicycle.
+Rene Jones -- Chief Executive Officer
+I don't know. I'm doing slightly better than Darren.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+There you go. I got a question for you. You know, as you touched on already about the -- the high amounts of liquidity that you have on your balance sheet with the cash sitting at the Federal Reserve being up so dramatically, you know, like the entire industry because of quantitative easing and such. I guess one of the questions I have for you is I can understand why JP Morgan Chase and some of our big money center banks have seen such a surge in deposits because of quantitative easing.
+Can you walk through for us how the flow is coming into your organization in terms of the deposits that, you know, forcing you now to, you know, increase your deposits in your reserves up at the central bank?
+Rene Jones -- Chief Executive Officer
+Yeah, that's a great question. I -- I -- what you have to do is you have to kind of go back prior to the -- the pandemic and think about our operating model. We more than, I mean more than most, focus on core operating accounts, right? So we -- we have never had a need to actually do a national or, you know, what are they calling these things, internet bank that it raises money, you know, across the network. We're always raising money predominantly in our customer businesses with operating accounts.
+And so what you're going to see when that happens with operating accounts, all of the cash from the stimulus, all of the cash and the monetary events that have taken place are actually going into customer accounts. And because our proportion of customer accounts and core operating accounts are higher than -- than in most institutions, you see the -- the impact on M&T is outsized. Now, that means that we've got to manage it very closely. So today, for example, we're very well making sure that, sorry, nobody's renting our balance sheet for free and -- and -- and, you know, just parking money that nobody else wants.
+Again, core operating concepts. But that's the principal reason. And you can actually draw a comparison between percentage of both DDA and let's say transaction accounts. If you get that information across institutions and go before the crisis and then look today, you'll see that that's the differentiator.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. And then to bring those balances down i -- is not necessarily going to take higher interest rates where they would maybe move the money out. It would be more business activity picking up where they utilize the cash to grow their businesses?
+Rene Jones -- Chief Executive Officer
+Exactly. Exactly. So -- so that's one of the things that you'll begin to see. You'll see -- I -- I think you're going to see both on the consumer side and business more spending.
+I think it might be one of the factors which gives us the most uncertainty about loan growth because there's so much cash that's been built up. And then if you start looking at certain factors, it's not just sentiment. Remember, for example, with large with -- with middle-market companies, you know, the supply chains are still not fully unlocked and back to normal, right? So that's preventing people from maybe building up in inventories. You know, a very classic example would be that with -- with the auto industry and so forth.
+So -- but you've got that exactly right. I -- I would expect to see that a fair portion of this starts to increase spending both from consumers and commercial. I also think, this is my own opinion, that events like pandemics linger for a very long time. And the idea that customers are going to keep higher ongoing levels of cash as a permanent way of doing business makes a lot of sense to me.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. And then as a follow-up question and you touched on it in the answer you just gave me. You're one of the, you know, better floor plan financiers -- financiers, you know, throughout the Northeast with autos. Can you talk to us to that very issue about the supply chain? There's quite a bit written about the shortage of semiconductor chips, you know, affecting the production of automobiles.
+What are your dealers telling you and how are they doing right now?
+Rene Jones -- Chief Executive Officer
+Well, I think the dealerships are all doing fine, right, because the ac -- activity there is that it's very difficult to get new cars. But having said that, there is a search around, right, for -- for used cars. And so as things, for example, as your -- your car comes off lease, right?? If -- if -- if you don't actually take on and buy that car, there -- they add a nice source of cars into the -- into the dealers. And this is one of the principal reasons why used car prices are so high, right? If you're thinking about the third quarter of last year, we thought we're sort of record highs on -- on used car prices.
+What -- what -- and we thought that by the fourth quarter that would start to come down. But those supply chains really haven't unlocked and the prices are just continuing to go up, which means the dealers are really healthy. You know, there's sort of a nice natural offset for them.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. And if Darren's listening, get quick -- get better quickly, Darren. Thank you, Rene.
+Rene Jones -- Chief Executive Officer
+Thanks, Gerard.
+Operator
+Our next question comes from the line of Matt O'Connor of Deutsche Bank.
+Rene Jones -- Chief Executive Officer
+Hey, Matt.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Good morning. Just to push maybe one last time here on the cash part of the discussion. So, you know, you definitely seem more confident that some of the cash is going to stick. We've seen a pretty material rise in rates, although off of a really low level.
+And your -- your loan trends are -- are better than peers, which I want to ask for my second question. But it's still this very modest growth. Like what are you waiting for to buy some securities? And if -- if you had loaded up on securities, I'd asked you why you're buying so much? So I ask at the extreme it's because if we took all your cash and put it in like from other banks, I think it adds about 10% to earnings. So what are you waiting for?
+Rene Jones -- Chief Executive Officer
+So this is how it goes, Matt. This is how it goes internally, right? So I call up -- Darren and I call up Scott Warman and we asked that exact question every month. What are you waiting for? And -- and then, what we find out is we're really, really happy when the tenure is at its lows that he didn't respond to us. And you know, but when -- when the tenure got itself up to the 170's range, you know, we've dipped our toe back in the market but not significantly because we just kind of look through and we think that, you know, these bond prices don't -- don't make much -- much sense from a long-term perspective and we know that, right? So while we could make a little bit more money, we're constantly focused on -- on risk-adjusted returns, are we making the right decisions.
+So -- so while we might purchase a few more securities, I -- I don't see it being a meaningful move or meaningful change in the way we position it unless we see better risk-adjusted returns on -- on those portfolios.
+Don MacLeod -- Vice President and Director of Investor Relations
+Matt, the drop option just spread on past tenures turn negative again so you're not being paid to take the negative convexity risk.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Well, some other banks think differently but yeah, it's a 10-year asset that you're locking in so it's very questionable. Agreed.
+Rene Jones -- Chief Executive Officer
+Yeah.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Just a separate question. You know, the loans ticked up a little bit this quarter. I think the industry overall was down kind of 2% to 3%. You know, you already touched on like the Ginnie Mae purchases.
+You know, PPP and all are your biggest factor. You're probably benefiting from not having much card runoff, but it still feels like X everything loan trends are a little more resilient. I'm wondering if you would agree and what's driving that? And then, of course, when things pick up, you know, M&T usually doesn't lead the pack in terms of loan growth but how do you think they'll fare versus the industry from here?
+Rene Jones -- Chief Executive Officer
+I think -- I think that our C&I customers are more optimistic than they were last quarter and the quarter before. I think that sentiment will continue to change. I think you're going to see more activity. And the question will be a matter of timing, you know, do they use their cash and do they -- do they come up? But -- but we, you know, the trends if you look at this quarter, it's actually been pretty decent on -- on the -- on the C&I -- C&I space, when you -- you net up the PPP effect.
+So commercial real estate, I don't expect to do much for, you know, for the near term. I think there's a lot of clutter, obviously, a lot of pain there but there's also a lot of resetting going on. The one place where -- I think we've talked about, you know, everybody has talked about warehouse and industrial. The issue there though is because it's the only class in real estate that -- that -- that price -- prices, again, pricing and economics have competed away.
+So it doesn't make any sense from an economic perspective for us to lean into that space. So look, I think we're optimistic about loan growth for the long term but it's just going to take some time to -- to start moving in the right direction.
+Matt O'Connor -- Deutsche Bank -- Analyst
+OK. Thank you very much.
+Operator
+Our next question comes from Bill Carcache courtesy of Wolfe Research.
+Rene Jones -- Chief Executive Officer
+Hi, Bill.
+Bill Carcache -- Wolfe Research -- Analyst
+Hey, thanks. Good morning. It's good to hear you on the call again Rene. I know revenue synergies weren't included in your initial guidance post, the People's United acquisition.
+But, Rene, can you discussed how much focus there is ahead of closing and doing everything you can to really hit the ground running in 2022 as you look at some of the opportunities that M&T will have in -- in their legacy markets and vice versa?
+Rene Jones -- Chief Executive Officer
+Yeah. Well, you know, it's kind of funny that the actual and just the whole process of integration is really getting at that, right? You know we've -- what I would start by saying is we've sort of set up our -- our -- our transition teams, everybody on each side of the organized -- each side of both organizations has met. Everything that we've seen particularly on, you know, on -- on the businesses that we're not really part of have confirmed everything that we saw in due diligence. Number two, we're super impressed with their talent and their people.
+You know, we've done a lot of acquisitions, among all of them, this one sort of stands out that we're -- the people who are running the businesses -- the business are -- are really capable including that, you know, a couple of businesses that we don't have. So there's a lot of dialogue going on just around exactly what you're talking about. And I just remind you that, you know, we think, for example, from the M&T side, some of the capabilities that we have with small business banking, our key treasury management, capital markets expertise extending that to their customer base is going to provide a significant opportunity. We have M&T Realty Capital Corp., which allows us to meet the needs of real estate clients but not necessarily use our balance sheet for that.
+And that's a new capability for them. Then of course, Wilmington Trust combined with their wealth, I think, we're going to bring a lot more capabilities combined than we would individually to the New England markets. If you go the other way, we're very excited and continue to be excited about the equipment finance business and being able to offer that -- those services to M&T small business and middle-market customers. And so, you know, it's -- it's not a short list, right? Which is sort of one of the principal reasons that -- that we felt that we could do a better job for our -- our collective customers together than -- than separately.
+Bill Carcache -- Wolfe Research -- Analyst
+Understood. Just to follow-up on, not to beat a dead horse, but to follow-up on -- on the excess liquidity discussion. Your rationale makes a ton of sense. Yeah.
+But -- but I guess, you know, just -- just looking at the numbers we've seen, the securities portfolio goes from over 14% of -- of your average earning assets in 2017 to just under 5% this quarter. At some point, and you've talked to around this, but maybe could you just give a little bit of color on the extent to which you're worried that at some point you're competitively disadvantaged. You have nothing else from -- from the NII opportunity that you're foregoing, you know, even if it comes with some -- some interest rate risk but maybe a, you know, a little bit of color around that point.
+Rene Jones -- Chief Executive Officer
+I just simply said, Bill, you're thinking about the right way, right? I think that you know, we're very disciplined in that we look at almost every trade. But you really have to step back and look at the overall balance sheet. You know, we're below $7 billion in -- in securities, right? And so at some point, you're really only going to go so low. But if you compare that to when you make that decision and think on average where the tenure has been, not today but where it has been, we're really happy with our -- our decision.
+But at the same time, you're totally right, like you got to look at it as a portfolio and we -- and we do believe, and we're getting more and more evidence particularly as new programs come in life and, you know, the infrastructure, Bill, that we're talking about next, right? It gives us some sense that the risk is lowering that, you know, and that the cash may be around a lot -- a lot a little bit longer. So -- so we'll have to look at that -- that overall portfolio and realize how small can the -- can the of securities portfolio get.
+Bill Carcache -- Wolfe Research -- Analyst
+That's very helpful. Thank you.
+Operator
+Our next question comes from the line of Peter Winter of Wedbush Securities.
+Peter Winter -- Wedbush Securities -- Analyst
+Good morning, Rene.
+Rene Jones -- Chief Executive Officer
+Hi, Peter.
+Peter Winter -- Wedbush Securities -- Analyst
+I wanted to ask about asset sensitivity. In -- in prior calls, Darren had said, for each 25- basis-point rate hike, NIM benefits 6 to 10 basis points. But the balance sheet has gotten so much more asset sensitive and so I was wondering can you just give an update to the impact to NIM from rate hikes? And then secondly, are there any plans to maybe reduce asset sensitivity with layering in some swaps?
+Rene Jones -- Chief Executive Officer
+So first of all, the--the numbers Darren gave, like that you just cited last quarter haven't changed much at all. We're -- we're pretty much the same position. But it's sort of the same topic, right? I mean, so you know, by -- by putting on swaps, you're turning a floating rate asset into a fixed rate asset. That's another way you're adding to your fixed-rate exposure and you could do the same things with securities, right? But we're really cautious about doing that.
+And as Don said, locking in at, you know, negative economic returns. So it's a good thing, I mean, another way to say it is that if you're worried about the negative economic returns, one offsetting factor is that you're actually neutralizing yourselves, right? Because we all think that rates can't go below zero but that's not true. And -- and so there is some added benefit to that. But the swap issue is the same as the securities issued to me.
+Peter Winter -- Wedbush Securities -- Analyst
+OK. And then, can I just ask about the -- the credit outlook just how are you thinking about net charge-offs with the remainder of the year especially with, you know, not expecting much loss content in the hospitality portfolio?
+Rene Jones -- Chief Executive Officer
+Yeah. I think -- I think what Darren has talked about is -- is that, you know, we'll -- we'll continue to remain at or maybe slightly above our historical average. I think our long-term averages in the mid-30s, 30 range. I think that you know, if you think about -- just to give you a sense, if you can think about gross charge-offs net of recoveries, we're -- we're about one $122 million last quarter, $123 million this quarter, pretty steady.
+What was different about this that brought us down to 31 basis points is that we had about 20 -- $23 million, $24 million more of recoveries. One of those, for example, was on a company that's a supplier to the energy business, in the fracking business, just like a supplier of services there. And that to the rest of them, we are, you know, across the board, smaller -- smaller number of recoveries. So the--the consistent trend, I think, is kind of their underlying that.
+It is hard to predict what's going to happen with recoveries. But -- but you know, I think -- I think, Darren's comments make sense maybe add or split -- split maybe slightly above and for some period of time our long-run average.
+Peter Winter -- Wedbush Securities -- Analyst
+Got it. Thanks, Rene.
+Operator
+Our next question comes from the line of Ken Usdin of Jefferies.
+Ken Usdin -- Jefferies -- Analyst
+Hi, good morning. Hey, Rene. Just one -- one question on the fee side. I think you mentioned in your prepared remarks that the residential-related fees were up and helped by higher gain on sale margins which is a nice bucking of the trend versus most industry peers.
+Can you just talk us through was that about timing or about mix resecuritization, just -- and -- and your forward thoughts on just how the mortgage business should --should act going forward. Thanks.
+Rene Jones -- Chief Executive Officer
+Yeah. You got the right timing and mix, that's the perfect statement. You know, I think, if you were to look at underlying margins as you think like purely margins to the customer, those were flat to slightly down but there was a lot of noise in volume and rates moving around in between. And so that sort of market sensitivity allowed us to capture more economics.
+And so the overall gross margin was higher. If I saw something that was slightly encouraging, it was that while we had maybe just under a 4% increase in applications, our pipeline at the end of the quarter was up 5.5%. So we kind of, you know, ended the quarter with the same momentum that we had or maybe slightly better than we did during the quarter. So you know, that should help as we move into next quarter.
+I -- I mean, it's hard to predict what's going to happen with margin but that core underlying trend was slightly negative.
+Ken Usdin -- Jefferies -- Analyst
+OK. Got it. And then just on -- on the trust income line, another good performance there, up sequentially. Did -- did you have any incremental burden from money market fee waivers and if so did you know where that stands right now in an aggregate?
+Rene Jones -- Chief Executive Officer
+Yeah. So that's a good point. So when you look at those numbers, we had a nice growth but -- but there was an offset from where the money market is. I think the total amount of waivers that we have is around $12 million or $13 million that are embedded in that today.
+And I think that increased by a million bucks quarter over quarter, yeah.
+Ken Usdin -- Jefferies -- Analyst
+OK. Last quick one in the S4, it mentioned that you guys will eventually give a $25 million donation that would be I think you said at or prior to closing. Is that more of a closing quarter number that was -- was that in this quarter is that more of a closing quarter-type of thing that you would do on the donation?
+Rene Jones -- Chief Executive Officer
+No. So, -- no. The -- what -- what -- what we did this quarter was separate from what we will do for peoples which will decide at the -- at the time of the close. So, what we did this quarter was I think, you know, we just had a slightly elevated number.
+We were -- I think, we're -- or we made contributions of $12 million and we typically have been doing about $3 million. I think last quarter was around $3 million.
+Ken Usdin -- Jefferies -- Analyst
+OK. Got it. So that $25 million you mentioned would be more closer and contiguous with -- with the -- with the closing itself?
+Rene Jones -- Chief Executive Officer
+Exactly. Exactly. Separate.
+Ken Usdin -- Jefferies -- Analyst
+Got it. OK. Thank you.
+Rene Jones -- Chief Executive Officer
+Yep.
+Operator
+Our next question comes from one of Erika Najarian of Bank of America.
+Rene Jones -- Chief Executive Officer
+Hi, Erika.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Hi. Good morning, Rene. And Darren, if you're listening I hope you feel better. Rene, my questions have all been asked and -- and answered.
+Thank you.
+Rene Jones -- Chief Executive Officer
+OK. Any other questions? There are still several more cued up.
+Operator
+Our next question comes from the line of Frank Schiraldi of Piper Sandler.
+Rene Jones -- Chief Executive Officer
+Hi, Frank. Let me guess, you're going to ask about cash.
+Frank Schiraldi -- Piper Sandler -- Analyst
+No. I was going to but after the forefront, I've decided to just stray. But I only have -- yeah, I mean, just -- just on -- on how much, you know, can you tell me how much capital might still be locked up in reserve? Not only for M&T but -- but, you know, probably down. And so, just following up on the potential -- for additional reserve release, is the best way to think about where the reserve-to-loan ratio to be flushed without -- in a more normal environment just look back at, you know, the CECL Day 1 mark for you guys and for others.
+And so, for M&T, you know, maybe 1% -- 1.3%, I think, is where you guys -- or is that still the most reasonable, you know, place to put it?
+Rene Jones -- Chief Executive Officer
+Yeah. I mean, I -- I think -- I think I'll say this. And I -- I don't -- I don't disagree with what you said, but when it -- it comes down to is what's your loan mix and what's the quality of your underwriting. And that -- that for us really hasn't changed.
+So, the, you know, today if our decision is to say -- answer the question, could we get back to, you know, our -- our -- where we were in our lows or a normal, sure. You know, we're going to still see the same cycle that'll be sharper. But in a calmer, more neutral environment, we would have, you know, we would probably look like we did in the past.
+Frank Schiraldi -- Piper Sandler -- Analyst
+OK. And then just a quick follow-up on PPP forgiveness. You know, you still have a significant level of 2020 PPP loans on the books. And just wondering your thoughts on did the majority of that went off the books in -- in the current quarter? I actually think that that's for modeling.
+Rene Jones -- Chief Executive Officer
+No, we had it running down sort of, you know, over time. It is -- there's no sort of sharp -- sharp drop in that -- in that space. So, I mean, as you're thinking about quarter over quarter and getting your way through the year and into next, that's what I would think about. As we see the -- the -- the steady drop, I don't know, did you, Mike? I think if you take Mike's comments, you'll kind of get a sense of the ins and outs.
+And so, I think we on the -- on the original PPP loans, are we 50% of the way through? That's a run-off of 50% of the original PPP loans which started at about $7 billion -- $6.5 billion. We're -- we're -- are now gone and 50% are there. So, that should give you some sense.
+Frank Schiraldi -- Piper Sandler -- Analyst
+OK. Thank you.
+Operator
+Our next question comes from the line of Mike Mayo of Wells Fargo Securities.
+Rene Jones -- Chief Executive Officer
+Hey, Mike.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Hey, Rene. Your CEO letter talks about new approaches with business banking. And, you know, from Baltimore watching, Philly, Delaware, and Virginia. You have the I heart -- I Heart Radio and interviews with 130 local CEOs.
+So, it seems like you're still revising your approach locally. My -- my question is what metrics do you track to -- to monitor your progress and have those metrics changed? And where do you hope those metrics will go? I know you're not talking about the People's United transaction but it would give a, you know, better sense for, you know. Are you looking at market share by MSA? Are you looking at average fees with business customer? Or what else are you looking at to -- to monitor your progress?
+Rene Jones -- Chief Executive Officer
+I -- I think you'll be happy to know it's not fancy. We measure the amount of checking accounts -- business-making checking accounts we open every month against the amount checking accounts that we close. On the ones that we close, we're trying to find -- find the friction points and make things easier, so that -- so that, you know, they're not, you know, leaving and transitioning out. And it's really interesting that you asked the question because we -- we've seen -- I'll just -- I'll just use the words.
+I mean, let's see how permanent is but we've seen a dramatic increase in our business banking DDA production, primarily driven by new customer acquisition. And I think what's happening is that's a combination of this idea that we've been introduced as a trusted partner through the PPP program. We've been introduced a lot more customers and at the same time, we now, you know, it's not been that long since we launched our small business online origination channel. And so, what we're seeing is that, you know, the combination of those two things, I guess, people's awareness about our capabilities and what we do have actually increased.
+So, really simple. Every quarter, you know, what's happening with checking accounts? Are we opening them or are they from existing customers, new customers? What are the MSAs they're working in? I have a real big bent on empowering our teams in the individual communities. So, the way in which we do things in, you know, Boston or New Hampshire might be different than Baltimore, but the expectation on the metrics are going to be all the same. How many quality checking accounts are we opening.
+Not necessarily. How much lending we're doing, because we think all that leads to a healthy company. We'll -- we'll -- we'll end up in the end, doing loans and things like that with us.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+And just to -- to follow up, do you have any aggregate metrics that you expect that falls out from the approach? And like I said, it -- it could be MSA -- market share by MSA or fees or just the level of growth, or is one region lagging behind and other regions it's like the southern portion a little behind?
+Rene Jones -- Chief Executive Officer
+Well, we -- I mean, a couple of things we look at. We -- we -- we look at we've talked about a lot -- we're doing a lot around net promoter score. We do a lot around the drainage work. And if you think about the drainage work underneath, it doesn't just tell you that, you know, we made a lot of loans.
+It tells you how you -- they survey your customers and they tell you where you stuck up. So, you know, our , you know, do you do business with us? Are we your lead bank? We sort of measure those things religiously. And -- and yeah, I -- I think what you'll see is usually it's the most volume of thing that we have is rank. We talked about it all the time.
+Are we the No. 1, No. 2 SBA lender? If we're not the No. 1 or 2 in our markets, then -- then why and what's happening in those spaces.
+Even that SBA rank, it's not a pure thing because it doesn't cover everything but it's a huge indicator of the activity and how engaged are our workforces if they're not in the No. 1, 2, or 3 spot in the community.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+All right. Thank you.
+Rene Jones -- Chief Executive Officer
+Yep.
+Operator
+Our next question comes from the line of Saul Martinez of UBS.
+Rene Jones -- Chief Executive Officer
+Hey, Saul. Saul, are you there?
+Operator
+Probably you're on mute.
+Saul Martinez -- UBS -- Analyst
+Well, sorry about -- sorry about that. I was on mute. Thank -- thanks for taking my question. But how much in hedging comp did you -- did during this quarter from your -- your swamp book.
+I think you said $275 million for the full year. But I -- I don't think you -- you gave a number unless the --
+Rene Jones -- Chief Executive Officer
+Please give us that number.
+Unknown speaker
+$90 million.
+It's about $90 million this quarter.
+Rene Jones -- Chief Executive Officer
+It's about $90 million.
+Saul Martinez -- UBS -- Analyst
+OK.
+Rene Jones -- Chief Executive Officer
+You know, I want to say -- and I'm sure -- I'm sure I'm, you know, I'm in this little temporary -- I get the stage for -- for-- for morning. But, you know, I tend not to worry about too much about looking at hedges on their own, because the hedge only matters in the context of the rest of the portfolio. And so, to the extent that we've decided to slow down our hedging or -- or stop the hedging, what -- but basically, you're left with is you're moving away from, you know, you've turned floating-rate assets into fixed-rate assets. You're moving them back basically.
+And the question is what's happening with the rest of the portfolio. In -- in past recessions, we would see much higher margin on our rolled-on commercial loans and that would be replacing the rundown in the hedges. And so, the real issue is loan growth in my mind. That's how I think about it.
+Saul Martinez -- UBS -- Analyst
+Right. Right. That will --
+Rene Jones -- Chief Executive Officer
+Darren will change that next week. So, you could -- you only have 30 -- 90 days to think the way I do.
+Saul Martinez -- UBS -- Analyst
+Good. Got it. Just if I could pick a bit over to capital and ask how you're thinking about your -- your -- your optimal capital position once -- once the deal closes. And, you know, I think you've talked about -- about it since CET1.
+You know, you'll be subject now to the June 20 results, so that -- that seemingly gives you a -- a healthy cushion. And I believe you talked in the past about being sort of at the lower end of your peer group. So, putting all that stuff together, like how were you thinking about capital returns and -- and capital optimization and optimal capital in, you know, as we head into '22?
+Rene Jones -- Chief Executive Officer
+No. Your construct is -- is -- is right. We think, you know, ultimately, our desire is to run, you know, toward the lower end of our peers. I think the context to think about is, you know, we went under a really, really hard stress test last fall, the -- the redo last fall.
+And we went into that test around 9-4 and we were able to survive, you know, a pretty severe space, particularly in the real estate space which we have high con --
+Saul Martinez -- UBS -- Analyst
+Yep.
+Rene Jones -- Chief Executive Officer
+Concentration in. We're 100 basis points above that today, right? So, that tells you, you know, that -- that starts to tell you the excess part. The other thing is, you know, I -- I think we're going to see a change, not immediately but over time, around real estate exposure and how we think about those things. Because to the extent that there is sort of a de-facto assumption of losses on real estate in the teens when you book it, right? Well, that begins to change the economics.
+And we have to think about our portfolios, because we believe just being efficient in use of capital is really important. So, we've thought a lot about how we might do certain things differently in the commercial real estate space. And to the extent that we do, that means that that'll even position us better to be at the lower end of our -- our peers.
+Saul Martinez -- UBS -- Analyst
+Got it.
+Rene Jones -- Chief Executive Officer
+It's really important.
+Saul Martinez -- UBS -- Analyst
+It's helpful. All right. That -- that's helpful. Thank you.
+Operator
+And ladies and gentlemen, that was our final question. I'd like to turn the floor back over to Don MacLeod for any additional or closing remarks.
+Don MacLeod -- Vice President and Director of Investor Relations
+Again, thank you, all, for participating today. And as always if clarification of any of the items on the call or the news release is necessary, please contact our Investor Relations department at 716-842-5138. Thank you and goodbye.
+Operator
+[Operator signoff]
+Duration: 65 minutes
+Don MacLeod -- Vice President and Director of Investor Relations
+Rene Jones -- Chief Executive Officer
+Ken Zerbe -- Morgan Stanley -- Analyst
+John Pancari -- Evercore ISI -- Analyst
+Dave Rochester -- Compass Point -- Analyst
+Mike Spychala -- Corporate Controller
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Matt O'Connor -- Deutsche Bank -- Analyst
+Bill Carcache -- Wolfe Research -- Analyst
+Peter Winter -- Wedbush Securities -- Analyst
+Ken Usdin -- Jefferies -- Analyst
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Frank Schiraldi -- Piper Sandler -- Analyst
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Saul Martinez -- UBS -- Analyst
+Unknown speaker
+More MTB analysis
+All earnings call transcripts

@@ -1,0 +1,320 @@
+Image source: The Motley Fool.
+United Rentals Inc (URI -0.09%)Q2 2019 Earnings CallJul 18, 2019, 11:00 a.m. ET
+Operator
+Good morning, and welcome, to the United Rentals Investor Conference Call. Please be advised that this call is being recorded. Before we begin, note that the Company's press release, comments made on today's call and responses to your questions contain forward-looking statements. The Company's business and operations are subject to a variety of risks and uncertainties, many of which are beyond its control and consequently, actual results may differ materially from those projected.
+A summary of these uncertainties is included in the Safe Harbor statement contained in the Company's press release. For a more complete description of these and other possible risks, please refer to the Company's annual report on form 10-K for the year ended December 31st, 2018 as well as to subsequent filings with the SEC.
+You can access these filings on the Company's website at www.unitedrentals.com. Please note that United Rentals has no obligation and makes no commitment to update or publicly release any revisions to forward-looking statements in order to reflect new information or subsequent events, circumstances, or changes and expectations.
+You should also note that the Company's press release and today's call include references to non-GAAP terms such as free cash flow, adjusted EPS, EBITDA, and adjusted EBITDA. Please refer to the back of the Company's recent investor presentations to see the reconciliation from each non-GAAP financial measure to the most comparable GAAP financial measure. Speaking today for United Rentals is Matt Flannery, President and Chief Executive Officer and Jessica Graziano, Chief Financial Officer.
+I will now turn the call over to Mr. Flannery. Mr. Flannery, you may begin.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thank you, Jonathan, and good morning, everyone. Thanks for joining us. Today we're taking stock of 2019 at the halfway point and giving you our thoughts on the balance of the year. And I'll start with the quarter and then Jess will cover the results and we'll spend the rest of the call on Q&A.
+We turned in a solid performance in the second quarter at both the top and the bottom lines. This included total revenue growth of 21% compared with Q2 of last year and over $1 billion of adjusted EBITDA, up more than 18%. Our pro forma margin for adjusted EBITDA was up 40 basis points and our EPS was 23% higher than a year ago. These metrics underscore the upside of the cycle and the earning power of our larger service offering.
+Fleet productivity was bolstered by the strength of rate and mix, but dampened by softer time utilization. This is partly due to a temporary drag from the Blueline integration. It's our largest acquisition in nearly a decade. And while the overall integration is going well, it's taking a little longer than we expected. As a result, we haven't been absorbing the fleet in the impacted markets as quickly as we'd like, and we'll talk more about this later.
+Other areas of Blueline, such as cost synergies, are coming along as expected. And most importantly, the teams are working really well together. Blueline is an excellent strategic move for us, one that will drive profitable growth and attractive returns for many years to come. We gained great people and increased our capacity in key geographies, and we'll update you on the integration progress again in October.
+The other short-term headwind we had throughout the quarter was project delays. Long stretches of heavy rainfall caused a number of large starts to be pushed later, but we haven't seen any cancellations. The delays were more about customers waiting out the bad weather before moving ahead. What we're not seeing, I'm happy to say, are any indications that demand is stalling.
+Non-residential construction of core end market for us continues to be strong, and our regions broadly cite infrastructure and power as major opportunities. Our sales teams have focused on the infrastructure vertical for several years now. In addition to a positive trajectory, the nature of infrastructure makes it right for cross-selling our gen-rent and specialty products, and we're making good inroads there.
+I'll share a few additional insights from our regions. Demand on both coasts continued to trend up in Q2, as it has for the past several years. Business hubs like the Carolinas are also strong with online retailers building large distribution centers. Out west, the momentum is being driven by data centers and infrastructure, especially transportation. And power is another tailwind.
+The worst of the weather seems to be behind us in the hard hit areas. We expect large projects to start back up in the central US, the Gulf, the Southeast and the mid-Atlantic. And it's important to note that the customers remain broadly optimistic about their business, regardless of geography.
+Turning to Specialty, our trench, power and fluid solutions segment continues to deliver robust growth. In the second quarter, the segment generated a 45% increase in rental revenue versus a year ago, and this includes organic growth of almost 13%. And embedded in our specialty growth is a significant contribution from cross-selling, which is a way to strengthen our customer relationships. It also moves the needle higher on returns.
+Customers want a partner capable of solving multiple challenges on a job site and our ability to provide a full range of solutions is a competitive advantage for us. As we've discussed in the past, Specialty is also key to our commitment to drive superior returns for our investors. It warrants ongoing investment in acquisitions, new equipment technologies and cold starts. And year-to-date through June, we've opened 24 specialty cold starts, bringing that network's total to 351 locations. And we're tracking just over 30 cold starts by December, which is an increase over our original forecast.
+Another area where we're forging ahead is safety. Three months ago, I told you all that our recordable rate through March was well below one, and some companies would be thrilled with that rate, but we've improved it again through June and turned it -- turned in the 18th straight quarter with a recordable rate below one. And that's particularly impressive when you realize the team improved their safety performance during the seasonal surge, while serving customers and working through multiple integrations at the same time. It's an indicator that the cultural part of our integration of our acquisitions is progressing faster than anticipated, and I attribute this to the caliber of our employees and the quality of our training.
+Turning to our guidance, as you saw yesterday, we trimmed the top end of our ranges for total revenue and adjusted EBITDA. This accounts for the two impacts I mentioned, the pace of the Blueline integration and the weather delays. We also made good on our promise to exercise discipline in capital allocation. Our branches have an opportunity to improve the utilization of the fleet they have in hand. So we lower the top of the capex range by $150 million. The biggest takeaway from the guidance is that we remain confident that our full year total revenue and adjusted EBITDA will fall within the ranges we set back in January.
+So to sum it up, our view on the cycle remains intact. The macro is healthy and the end markets are strong. We delivered solid growth in the second quarter, which kept us on track with our outlook for the full year, and we have plenty of runway to capitalize on growth opportunities. At the same time, we're continuing to position the business for enduring value creation.
+That's the best way to reward our investors for their confidence in United Rentals, by balancing short and long term growth within the framework of our strategy. We know how to manage the business to achieve this balance, and in 2019, we'll continue to deliver.
+So now, I'll ask Jess to cover the numbers and then we'll go right to your questions. Jess, over to you.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thanks Matt, and good morning, everyone. Before I jump into the numbers, on a high level, let me reiterate what Matt said. We've delivered a solid quarter behind a strong market. The team did a great job staying focused on our customers as we manage through some weather delays and as we continue to work through multiple integrations. We're well-positioned heading into the back half of the year.
+As with past quarters, while I walk you through our as reported results, I'll pivot at times to speak to our performance on a pro forma basis, which includes Blueline and Baker. Let's get into Q2 results.
+Rental revenue on an as reported basis grew 20% or $329 million to just shy of $2 billion. The increase is primarily related to the impact of both Blueline and Baker. On a pro forma basis, rental revenue was up in line with our plan at 4.8% for the quarter.
+As reported OER growth contributed about $262 million of the rental revenue increase. Ancillary added $59 million and rerent added about $8 million. The OER growth of 19% is comprised of growth in our fleet of 23.2% or about $326 million of additional revenue. We have the usual headwind of fleet inflation at 1.5% or $21 million and fleet productivity, on an as reported basis, was also an expected headwind, down 3.1% or $43 million.
+Now, as you consider the quarter's revenue results, I think it's more helpful to consider fleet productivity on a pro forma basis, which was up about 70 basis points. That came from strong rate and positive mix offset by softer time u. As Matt mentioned, we're still working through some fleet absorption, which was the biggest drag on time u in the quarter. But the team maintained discipline with a focus on profitable growth through the quarter.
+Now, while we're talking about fleet productivity, just a reminder that this is the last quarter, we will be giving discrete quarterly rate, time and mix details, consistent with our previous methodology as we transition to fleet productivity. And you can see all that detail, plus calculations supporting fleet productivity on Pages 36 through 40 of our investor presentation, which is posted on the website.
+Taking a look at used sales, used sales revenue was up just over 25% or $40 million year-over-year. The used sales environment continues to be strong. When we look versus the second quarter last year, used pricing at retail is up about 2.5% with used sales as a percentage of OEC, a robust 58%. Adjusted gross margin on used sales was 49.2%, down from 51.6%. That's largely due to the mix of equipment we sold in the quarter.
+Moving to EBITDA; adjusted EBITDA for the quarter was $1.073 billion, an increase of $166 million or 18% versus prior year. Our adjusted EBITDA margin was 46.9%, which is down 110 basis points year-over-year due mainly to the impact of bringing in BlueLine and Baker. Now, more importantly, on a pro forma basis, our adjusted EBITDA margin improved a solid 40 basis points.
+Here is the bridge on the as reported changes. The improvement to OER added about $150 million. Better ancillary contributed $25 million, and we got $4 million more from rerent. Used sales added about $15 million to adjusted EBITDA. SG&A expenses were a headwind of about $41 million and that's mostly due to adding the BlueLine and Baker cost basis, net of synergies.
+That leaves about $13 million of adjusted EBITDA benefit in the quarter, which is primarily coming from better performance in our other lines of business. Adjusted EBITDA flow through was right around 60% for the core business. Let me break that down. As reported adjusted EBITDA flow through is 42%. On a pro forma basis, adjusting for Blueline and Baker in the year ago period, flow through was about 53%.
+Add to that the impact of Western One and Thompson Pump, smaller acquisitions that are not in our pro forma results and you get a flow through of about 65%. To isolate the core from there, I'll also exclude the impact of new and used sales as well as the benefit from acquisition synergies. That leaves you with a flow through of right around 60% for the core business and points to strong cost performance for the quarter. And I have to give a shout out to the fields for keeping excellent focus on costs.
+As for adjusted EPS, a robust $4.74 in the quarter compared with $3.85 in Q2 of '18. That's an increase of 23%, primarily from better operating performance across the business, including the contribution of our recent acquisitions. Adjusted EPS also was helped this quarter from some discrete tax benefits and lower shares outstanding.
+Now let's move to capex and free cash flow. Through the first half of the year, we've brought in just over $1.1 billion in growth capex with $872 million of that having come in during Q2. As you've seen in our guidance update, we expect to trim our original plan for capex by about $150 million at the high end, so we expect to come in between $2.05 billion and $2.15 billion for the year, which compares to $2.1 billion in 2018.
+Free cash flow generated through the first six months of the year is very strong, up 11% to $796 million. And just to be clear, that number excludes about $16 million in merger and restructuring payments. So we are on track to deliver our full year expectation, which we've increased in our guidance update. As a reminder, we're now forecasting $1.4 billion to $1.55 billion of free cash flow, which compares to a little over $1.3 billion last year.
+Our ROIC for the quarter also strong 10.8%, which meaningfully exceeded our weighted average cost of capital. Year-over-year, tax adjusted ROIC was down 30 basis points. So that expected decline is primarily impacted by the timing drag from our acquisitions. That's going to moderate as we get their operations more fully integrated and synergies from the deals fully realized.
+Taking a look at the balance sheet, net debt at June 30 was $11.7 billion. That's an increase of about $2.8 billion year-over-year related to the financing of Blueline and Baker. Our total liquidity at June 30th was a very healthy $2.15 billion comprised mainly of ABL capacity. Leverage at the end of the quarter was 2.8 times. That's down 10 basis points versus where we are -- where we were, excuse me, at the end of the first quarter and we continue to work toward ending the year around 2.5 times. As a reminder, earlier in the quarter, we communicated a lower target leverage range for the Company, which is now 2 times to 3 times net debt-to-adjusted EBITDA.
+And finally, here's a quick update on our share repurchase program. We purchased $210 million of stock in the second quarter on our current $1.25 billion program, which puts us at $840 million purchased to-date. We still expect to complete this program by year end. I'll also note that our total share count at the end of the second quarter was down about 7% year-over-year.
+When we look at the business pro forma, we're pleased to have delivered a quarter of solid growth and better margins as well as robust free cash flow and strong returns. The integrations are progressing well, albeit a little slower than expected and the team did a great job managing through historically bad weather. Most importantly, the operating environment remains healthy and our customer confidence measures are positive going into the back half of the year, so why the change to guidance?
+Well with six months behind us, we would typically look to refine our initial ranges at this point in the year. As we model the impact of what was a slower fleet build than we originally expected in Q2 and we assess our fleet productivity for the rest of the year, the right thing to do was to pull back a little on the growth capex, that's exercising the capital discipline you expect from us.
+As you take that through the P&I, the highest part of our revenue and adjusted EBITDA ranges are likely out of play and we want to be clear about what we believe we can reasonably deliver for the year. We're making a modest trend that still has our full year coming in well within our original guidance, and these changes will result in our delivering higher free cash flow than originally expected.
+Now let's move on to your questions. Jonathan, will you please open the line?
+Operator
+Certainly. [Operator Instructions] Our first question comes from the line of David Raso from Evercore ISI. Your question please.
+David Raso -- Evercore ISI -- Analyst
+Hi, good morning. Given the quarter at the end appear to be a little lighter than you thought, be it the integration and/or weather, can you give us some feel how the quarter starting -- the amount that you tweaked the EBITDA down doesn't seem to be extrapolating much of the second quarter disappointment into the back half? So can you just -- maybe just update us on what you're seeing and also obviously the ramifications of the capex coming down as well on how you're reviewing your metrics the rest of the year?
+Matthew J. Flannery -- President and Chief Executive Officer
+David, this is Matt. How're you doing? As you know, we don't give inter-quarter guidance, and even though it may be in our favor at sometimes, we still try to keep that. All I will say is, we're very thoughtful and confident about the guidance that we gave here. And here we are a couple weeks into the quarter. So you can extrapolate from that what you think. We, more importantly, the disruption that we did see primarily not getting the build we expected at the end of the quarter in June, we've identified the opportunities to remediate that, to repair that and the change in guidance, as Jess have said, is really a reflection of where we're starting the second half, with the OEC on rent as opposed to any kind of change in the way that we're viewing the back half of the year. And hopefully that answers your question.
+David Raso -- Evercore ISI -- Analyst
+Well, that's -- I'm just trying to gain comfort with, if the guidance reduction is sort of second quarter related, like sort of what happened during 2Q, but not much changed how you think of the rest of the year. What are the actions to make us comfortable with that? Is that because some projects that were clearly pushed from 2Q are now showing up in 3Q or simply the impact of the reduced fleet that you were going to bring to different territories? Just to put more color on why we think this is a second quarter isolated, just the $25 million EBITDA hit at the midpoint?
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure. There is a couple of things that we've done. So first off, in the markets that were impacted and we talked a little bit, we took a look at the data and we realized that there was about a third of our markets that had multiple integrations they've been working through for the last couple of years. And what that means to us is a lot of internal focus, where you're realigning territories, merging branches, making sure you're protecting the revenue that you acquired, which the team has done a great job for.
+You're a little less externally focused on driving new opportunities, new revenue. So we repaired that in those markets where that was an issue. We've fed the specialty team who continues to show robust growth, more capital, and there has been some markets within -- whether integration related or not, impact or not, that have been showing solid growth. So we shifted the capital a little bit. Overall, we had 13 of our 15 -- even within these headwinds, we had 13 of our 15 regions -- geographic regions show positive growth in Q2.
+So this was more of maybe our expectations of how quickly we were going to move through the fleet weren't set right or maybe we executed a little softer than we wanted. Either way, the remediation is what I'm talking about and what we're focused on. And we feel good that our sales pipelines, the fleet sizes in the appropriate markets are where they need to be for us to deliver the second half.
+David Raso -- Evercore ISI -- Analyst
+Are the branch closures related to the acquisitions now behind us? Are the change in sales territory and account coverage done? We're just trying to get a sense of you now are facing your busiest season coming up, historically running all the way through October and we're just trying to get comfortable with the integration is behind us. And of course, Bakercorp anniversaries this quarter, meaning third quarter, and Blueline in the fourth quarter, so we get the mathematical benefit. But operationally is what we're trying to gain comes comfort with, what is actually truly behind us and done and what is still left to be done?
+Matthew J. Flannery -- President and Chief Executive Officer
+Great, structural changes are all the done. Sell territories are all done. Customer merges, harmonization are all done. So all the structural work is done, now it's just turning the focus back to outwardly focused after doing all that heavy lifting and so all -- there's no more distractions. Team is on-board, projects are starting up where we expected to start up, and that's what gives us the confidence for this guidance.
+David Raso -- Evercore ISI -- Analyst
+All right, thank you.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks, David.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thanks, David.
+Operator
+Thank you. Our next question comes from the line of Ross Gilardi from Bank of America. Your question, please.
+Ross Gilardi -- Bank of America -- Analyst
+Yeah. Good morning, guys. Thank you.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Hi, Ross.
+Matthew J. Flannery -- President and Chief Executive Officer
+Good morning.
+Ross Gilardi -- Bank of America -- Analyst
+Matt, do you have a sense as to how the year on year change in your time you'd compared to the rest of the industry? And kind of along with that, has the narrative changed at all, defending price versus raising price through the seasonally strong period of the year?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yeah, I don't want to comment on competitor's numbers. But you could imagine, I think one reported in April, they were down a percentage point. You could imagine the project delays had some temporary impact on utilization for some companies, if they were operating in those impacted areas. So I would expect that. I don't know it for certain. What I can say is if it was extreme or if it was something that was a bigger concern, we would not have been able -- I don't feel we would've been able to achieve that rate improvement that we did, and I don't think the industry's rate would be showing up for our intel that we have. It looks like the industry is doing a good job of managing rates. So maybe a little bit raw. I just don't -- I don't have the details to speak to it.
+Ross Gilardi -- Bank of America -- Analyst
+Okay, thanks. And then could you elaborate a little bit on the used pricing up 2.5% at retail? I mean, there's been a lot of anecdotal commentary on what's happening with used and analyzing the use market? From afar, it could be tricky because you never know if you're looking truly at apples to apples, but that seems a little bit better than the overall perception of the market. Can you comment at all like on how that's actually been trending over the last several quarters and give any granularity on that earthmoving versus aerials? Any additional color would be helpful.
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure, as you know, our largest proportion of -- I'll say an extremely large portion of our fleet will be aerial related, right, and I'll put reports [phonetic] in that category where we're over 50%. So that's a good part of our used sales. Pricing has held up very strong there. I think the only place where you heard any dampness of pricing at auctions, which is not a channel we utilized, was on some of the [Indecipherable]. I don't know what drove that, but that didn't impact us whatsoever.
+We're seeing, across the board that 2.5% that just quoted, remember, is like asset to like assets. We see this as a very robust used sales end market and we think that points to the demand that we still see in the marketplace. I think our channel mix gives us an advantage over maybe others in the industry where we're very focused on retail. And that certainly gives us a higher margin achievement.
+Ross Gilardi -- Bank of America -- Analyst
+Got it. And then, the 13 of the 15 regions are up, can you comment on which regions weren't up and how big a drag they are? And whether or not you think that was just truly weather, and if those [Speech Overlap] are super positive.
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure, the regions where we had -- where we didn't get the growth and they didn't fall off the cliff there. They just didn't get year over year growth. We're impacted by both weather and integration. So think about the Gulf States down there where we had a lot of concentration of acquisitions over the past couple of years and they really got hit hard with weather. I think their job starts should look good. There's still a lot of work on the books.
+We didn't -- as I pointed to in my comments, we didn't see or hear cancellations which -- that would be a different vibe for us if we were hearing that. We didn't see that. So I think those folks are drying out and they'll get back on track for the back half of the year.
+Ross Gilardi -- Bank of America -- Analyst
+Thank you.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thank you.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thanks Ross.
+Operator
+Thank you. Our next question comes from the line of Steven Fisher from UBS. Your question, please.
+Steven Fisher -- UBS -- Analyst
+Thanks. Good morning. So investors always get more confidence when they see some of your key metrics going in the right direction, so I guess, do you think the conditions in the market and your strategy will be supportive of an improvement in fleet productivity in the second half of the year? And is there any sort of directional color you can give us on some of the key underlying components?
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure, Steven. Yes, we absolutely feel that fleet productivity will get back to over 1.5% in the third quarter, and that's what our expectation is. That's what we're driving to. When I look at the components of fleet productivity, as we've always said, rate and time are always going to be big drivers. Rate was the good guy this quarter and we feel really good about the rate performance. Mix was, as expected, and it was -- it's where we spend a lot of our time, both in our prepared remarks and here on the call talking about the time u. And we feel once we get that in order, we'll see the fleet productivity that we'd like to target.
+Steven Fisher -- UBS -- Analyst
+Okay, great. And wondering if you could just talk a little bit maybe about AWP, specifically, supply demand. It sounded like maybe you had some concerns about some excess capacity in certain places. Can you just talk a little bit more about what's going on with that product line? How extensive is any overcapacity? How you think that plays out in the second half of the year?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yes, we're not concerned about AWP overcapacity in the market broadly overall. When you think about where we are not absorbing the Blueline fleet as fast as we want in a few of those impacted markets, you can imagine the fleet that they haven't absorbed. It's Blueline with 70% aerial. So there's some excess we have in stores, but we don't view this as a macro issue. We don't think AWP as a whole is -- and we're still growing our AWP as a company. So we don't think AWP as a whole is a problem for the industry.
+Steven Fisher -- UBS -- Analyst
+Okay, terrific. Thank you.
+Operator
+Thank you. Our next question comes from the line of Tim Thein from Citigroup. Your question, please.
+Tim Thein -- Citigroup -- Analyst
+Great, thank you. So the question is on the interplay between time and rate. It's pretty atypical, if you look at the history URI to have this sort of magnitude declines in pro forma utilization and still get rates that are at or above the rate of underlying inflation. So I'm just curious, Matt, just maybe more of a -- kind of a high level thoughts in terms of what you think is enabling that? Is it something that you've done at the branch level? Is it something that you think maybe a change in the industry structure or something else? Just maybe your thoughts in terms of how you're able to get positive rates because it's pretty significant year on year declines in terms of -- from a percentage standpoint, in terms of your time u?
+Matthew J. Flannery -- President and Chief Executive Officer
+I think it's the continuation of a strong end market and demand that's driving that rate. I think industry discipline is -- to give credit to others, not just us, industry discipline is so much improved in this cycle from the last cycle, and I think those are two big factors. And I also think that drawing the time -- time utilization were down because of demand, and maybe you would see a different issue. We don't feel our time, as we've talked about a lot here, is a result of demand.
+We think there is a little bit of delays. And then we bought $1.5 billion of fleet in, in November from our Blueline acquisition. That wouldn't be a normal cadence that we would do. So we think it's more a result of the timing of the integration and working that through the system than any kind of demand issue. And so they, they really aren't interplaying as normal because the time was not caused by a lack of demand.
+Tim Thein -- Citigroup -- Analyst
+Okay, got it. And then maybe from an end market standpoint, just your views on the energy patch more broadly, is that -- have your expectations or in terms of your model for the full year, is that -- is it changed at all, just among the different components across energy?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yeah, we're doing fine overall in energy. But when you think about upstream, so we've been saying for the past couple of quarters that every vertical we track was showing positive growth. The upstream -- the rig count in upstream throughout the first half of the year, I think rig count from January 1 to the end of June is down about 9%. So we track very closely to that. So we did see us decline similar to that in our upstream business. Remind everybody that's still less than 5% of our overall business. But to counter that in energy are refining business, our downstream business, still very strong, still seeing growth in midstream. So we're -- overall energy is OK. Upstream did have a little drop in the rig count, which impacted revenues little bit.
+Tim Thein -- Citigroup -- Analyst
+Alright, thanks for the color.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thank Tim.
+Operator
+Thank you. Our next question comes from the line of Joe O'Dea from Vertical Research. Your question, please.
+Joe O'Dea -- Vertical Research -- Analyst
+Hi, good morning. Mike, can you just expand on what it is that's driving some of the slower than expected integration with Blueline, and I think relative to seeing you know even the pro forma utilization that's down year-over-year, even if you were tracking kind of behind, maybe we could see that perform a little bit better. So, I'm just trying to understand some of the drivers of that slower progress and then know even the pro forma declines in utilization?
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure, Joe. So, when we think about that 2.2 pro forma reduction. There is about half of it that we had modeled in, and we knew it was going to take some time to work some of this fleet through the system. As I said, we wouldn't have brought in $1.5 billion worth of fleet in November in a normal case. So, about half of that was expected, half of it unexpected.
+When we think about that unexpected, we did a deep dive on some analysis of where we either needed -- it was depended on market, right. So we did a market by market deep dive. In some markets, we weren't getting enough new business in the pipeline. So we have the team addressing that. We load opportunities in there CRM. This is just normal operational blocking and tackling. In some other markets, it was more about sales coverage, we needed to add sales reps. We addressed that.
+So, nothing magical, just normal operational work that we did, and you know, maybe our expectations of this large deal, largest deal we've done in quite a while of working through this quickly, maybe our expectations were off, I don't know. But either way, the tactics that we're taking to repair are the same that we would have done regardless.
+Joe O'Dea -- Vertical Research -- Analyst
+And do some of the actions that you take now and you stepped down growth capex, does that even include then going in and instead of assessing where some of these pockets of underperformance are, and does that enable redistribution of fleet so you can actually serve other regions with some of that and in effect that that will help kind of bring the overall utilization up?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yes, absolutely. So I put that in the expected portion. So where we did expect that capital that we normally would have put in those markets as they absorb acquired capital we put into other markets. Specialty has gotten more capital throughout the year. They continue to use that well. We've had a couple of geographic regions pick up the pace and they've got a couple -- a little bit more capital. The cuts to the top end of our capital was directly correlated to that other 1%. That was unexpected.
+So if you think about we just had latent capacity that matched that $150 million that we cut off the top and we just thought it was prudent to use that. But it doesn't change the slope of our growth in the back half of the year, if you follow me, just the starting point. And we just thought it was prudent to not spend the capital on that and let the team use the dormant capital to fill that demand that we expect in the back half of the year.
+Joe O'Dea -- Vertical Research -- Analyst
+And then last one, just how has customer retention experience been as you walk through the process of navigating Blueline rates in line with URI? Is there any impact on customer retention that winds up, showing up in utilization?
+Matthew J. Flannery -- President and Chief Executive Officer
+No, no. We always model some leakage, we'll say, right, in every deal that we've ever done and churned. And think the challenge on this one was that we had seasonal churn, which is natural when you don't do integrations as you get into the winter and then some integration churn, and a few of these markets just infilled till the top of the funnel, so to speak, they didn't backfill that fast enough. But this churn is just, it's natural, we model it in every integration we do. But nothing extraordinary, nothing that's outside of what we expected.
+Joe O'Dea -- Vertical Research -- Analyst
+Got it. Thanks very much.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Seth Weber from RBC Capital Markets. Your question, please.
+Seth Weber -- RBC Capital Markets -- Analyst
+Hey, guys. Good morning.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Hi Seth.
+Seth Weber -- RBC Capital Markets -- Analyst
+I just wanted to tie together a couple of the answers that I've heard so far. I think to Steve's question, you talked about fleet productivity being above 1.5% in the third quarter, which I think suggests these Blueline issues are kind of in the rear view. But same time, Matt, I think -- I think you're saying like -- it sounds like some of this stuff is still in process and it's going to -- it could bleed into third quarter. So I'm really just trying to understand the cadence of how quickly you think these integration issues can get -- will get fixed or are they fixed already? I'm just trying to tie these two different data points together. Is productivity going to be above 1.5% in the third quarter, I guess.
+Matthew J. Flannery -- President and Chief Executive Officer
+So we were never very good at forecasting rate and time. So we stopped doing that a couple of years ago. So now I'm going to try to forecast the interplay of rate, time and mix. I could say that what we've seen in the repairs of markets that were challenged and then the growth of markets that we fed more fleet to make us feel comfortable that our target of 1.5% is in play.
+We don't want to get into the business of starting to forecast because then I might as well forecast rate and time to the 10 bps, and we don't want to do that. But I think more the color of the demand environment, the reparations to the -- to the handful of markets where we had challenges, we feel good about where we're trending. And that's why we gave the guidance that we gave today or last night.
+Seth Weber -- RBC Capital Markets -- Analyst
+Okay. I thought you specifically said, to Steve's question, that you thought it would be above the 150 as all. So...
+Matthew J. Flannery -- President and Chief Executive Officer
+Yes, that's -- if you played with our -- if you messed around with the midpoint of our guidance, it wouldn't come out with that implication. But...
+Seth Weber -- RBC Capital Markets -- Analyst
+Okay.
+Matthew J. Flannery -- President and Chief Executive Officer
+I'm not going to -- we don't want to forecast a number.
+Seth Weber -- RBC Capital Markets -- Analyst
+Fair enough.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+And that is -- Hey, Seth, it's Jess, I just want to add just one thing. You know that 1.5% that we talked about, it kind of goes back to when we introduced fleet productivity; the concept is that we want to make sure that we're being as productive as possible with the fleet, but at least covering that 1.5% of inflation, right. So our goal in any quarter is to get that fleet productivity to be greater than the 1.5% inflation that we expect is going to come on the fleet.
+Seth Weber -- RBC Capital Markets -- Analyst
+Yes, make sense totally, thank you. And then maybe Jess for you. Appreciate the color on the adjusted pull through 60% excluding synergies and, you know, some of the headwinds and things like that. But as we think about 2020, I mean, it seems like these issues should be in the rearview. So is there anything that we should think about that would not allow a 2020 pull through margin to be in that 60% range?
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+So there is nothing right now that we can see. We're going to start the 2020 planning process, call it late August and obviously work through. But to your point, a lot of what you see as adjustments to that 60% is the acquisition dynamic that plays against that number. Absent that, there's nothing that we're seeing right now that would take us off of 60% on the core business.
+Seth Weber -- RBC Capital Markets -- Analyst
+Okay. Super. Thank you very much guys. Appreciate it.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thank you, Seth.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thank you, Seth.
+Operator
+Thank you. Our next question comes from the line of Jerry Revich from Goldman Sachs. Your question, please.
+Jerry Revich -- Goldman Sachs -- Analyst
+Yes, hi. Good morning, everyone.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Hi, Jerry.
+Matthew J. Flannery -- President and Chief Executive Officer
+Good morning, Jerry.
+Jerry Revich -- Goldman Sachs -- Analyst
+You folks had really strong free cash flow performance given the negative EBITDA revision. I'm just wondering, how much more room do you have to pivot capex lower if you need to. How far out are you committed? Because, Matt, to your point earlier on the call in terms of latent capacity, given where utilization was in the quarter, you have to go back a while before we see, you know, utilization at these levels in 2Q, So presumably I would imagine you folks can turn harder on capex if you find that as you head through 3Q, the ramp is at the low end of our expectations. Can you just talk about it, please?
+Matthew J. Flannery -- President and Chief Executive Officer
+Well, as we've talked about before, we have a lot of flexibility in our capital spend. We're very well aligned with our partners, and that's what's allowed us to make this trim relatively easy. It's not in our calculus right now to go lower than the range that we're in. We want to reiterate, we feel good about the demand environment and the opportunities that are there. So once we absorb the extra 1% that we didn't expect and then work the rest of the fleet through our system, we think this is the right capital allocation for the end market that we'll be working in for the rest of the year. So is the opportunity there in a different environment? Yes, but I don't want anybody take away that that's where our heads are at.
+Jerry Revich -- Goldman Sachs -- Analyst
+Okay. And in terms of -- has the calculus shifted at all in terms of what's the optimal level of utilization we're trying to work toward, given the changing fleet mix, has evolved at all, as we look at the actual time utilization reported for the quarter, given all of the differences we've seen in terms of the move toward specialty in the business? Should we be thinking about a different calculus when we're looking at maximizing returns as it relates to what utilization that ultimately translates to?
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Jerry, that's an excellent question and thank you for asking it, because the change in the calculus is really this shift for us to fleet productivity and it's less about targeting a particular time utilization number or a particular rate number or a particular mix number even, but rather going out in the field and getting as much rate as we possibly can, utilizing the fleet to the highest level we possibly can in a way that makes sense.
+And to the point you're making about specialty, continuing to optimize mix that would come through more profitable fleet and more profitable fleet that's going to consistently meet the demands of our customers. So that calculus shift is fleet productivity and really the interplay that's going to come from continuing to optimize that profitable growth and return that we're after.
+Jerry Revich -- Goldman Sachs -- Analyst
+All right. Thank you.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Scott Schneeberger from Oppenheimer. Your question, please.
+Scott Schneeberger -- Oppenheimer -- Analyst
+Thanks. Good morning, everyone.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Hi, Scott.
+Scott Schneeberger -- Oppenheimer -- Analyst
+It's interesting; we haven't talked too much about the macro. And it sounds like that was pretty solid. And some of the issues you had were largely integration and weather related, so somewhat unique to the Company. Could you address? It sounds like you feel pretty comfortable with the back half of the year, but the ABI has been a little bit soft. You mentioned some of your customer discussion that sounds solid. So this is more of a 2020 question. But what lends comfort, particularly in non-res, but overall?
+Matthew J. Flannery -- President and Chief Executive Officer
+So we -- as Jess had mentioned, we're not -- we haven't even started our 2020 planning process. But when you look at the -- even the contractor backlog out nine months, right? So there's still work there. When you look at construction employment numbers, I think highest of all time. You look at other indicators, including our customer confidence index and the feedback from our 1200 locations out in the field and the managers and the sales reps that get paid to do this every day, we feel good about the end markets. How much that plays in and where that ends in 2020? We'll spend a lot of time in the fall taking a look at, and obviously that'll be influence to our guidance. But we do feel good about the end markets.
+Scott Schneeberger -- Oppenheimer -- Analyst
+Alright, thanks, appreciate that. And then just on, from the early June press release about the leverage level, and you touched a little bit on it again today, but how should we consider the M&A pipeline, given this new target? And any material changes as to, you think you're going to slow down or might there even be expansion and looking internationally perhaps, just kind of the big level picture on M&A from here in that light?
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure Scott, it's been pretty consistent with the way our thoughts have been when we talked about at the end of Q1, whereas we're in much more of an absorb and leverage mode in the gen rent general business. As you can see, we've spent a lot of time talking about that today. But we certainly have a lean to -- for specialty. If the right deal comes up, we're very, very interested in any kind of specialty acquisition that can meet our threshold, right, very high bar, both culturally, strategically and most importantly, financially.
+But we really like the space. And if we can get some new products or build out of the footprint that we think would be more efficient for us to do it through M&A versus -- and add that to the organic growth we're showing. I would say that's where our lean would be.
+Internationally, we're still moving very slow. We've got a great team that's there. We are international now with the 11 stores we got from the Baker acquisition. They're doing a great job, but we're going to continue to take a watch and learn mode before we go dive to the deep end of the pool. And we'll update folks once we feel that there's a pivot from that position.
+Scott Schneeberger -- Oppenheimer -- Analyst
+Thanks very much.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks Scott.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thanks Scott.
+Operator
+Thank you. Our next question comes from line of Courtney Yakavonis from Morgan Stanley. Your question, please.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Thanks. I just was curious how cross-selling performed this quarter relative to your expectations. It sounds like a lot of the comments on the integration had been -- were really about protecting some of the acquired revenues. So I'd just be curious if you did see cross-selling perform in line with expectations?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yes, we did. We saw a double-digit growth in cross-selling, still strong performance. I think that's one of the areas we can pick up as part of the revenue opportunity that we have. We've got obviously some new reps on the team that weren't as familiar with the full offering and that's part of the training that we've been focused on here in the past quarter to get folks trained on what the full value prop that we have as we've added new players to the team, whether they'd be just growth or through M&A.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+And Courtney, the only thing I'd add there is that's a big component of the leveraging of the acquisitions that we've done is to really focus on cross-selling and bringing that broader breadth of products and service to our customers.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+And then along those same lines, you guys increased your specialty cold starts from 27 to 30. One, if you can just comment on how the mix of growth capex has been altered because of your reduction, if it's going to be more focused on specialty now or if any specialty capex was reduced? And then also just what's the capex impact from additional cold start just per unit?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yeah, that's not a big for the additional three cold starts. It's not a big change in the capex, but we did increase specialty as a whole number and then obviously as a percentage, because none of the cut, regardless of where we end up in that range is going to come out of specialty, we actually upped their capex for the full year based on the growth that they show.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Okay, great. And then, just lastly, I think you just talked about some of the training associated with the sales force as part of the territory realignments. Can you just give us a little bit more color on what specifically is being done to retrain the sales force?
+Matthew J. Flannery -- President and Chief Executive Officer
+I couldn't hear you too well.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+I think she said training of this -- did you say training, Courtney?
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Yes, yes.
+Matthew J. Flannery -- President and Chief Executive Officer
+Okay. Yeah, I mean, ongoing we have a very broad and deep curriculum of training for both new employees and then for higher level sales professionals. So we have a training tailored to them all. I would just say that part of the biggest opportunity that folks new to the organization, even if they were in the business before, is the breadth of products that you have to sell. And how do you [Technical Issues] and product specialist we have to solve more problems for your customers to get more share of wallet, deeper penetration, that's more of what our focus is on a go forward basis. And it's part of why we continue, as you brought up in your first question, such strength in cross-sell and growth in our specialty business.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+And sorry, just one last one, in any of the markets where you could do an acquisition, have you become the sole provider? And is that having any impact on customers who might want a second provider of equipments?
+Matthew J. Flannery -- President and Chief Executive Officer
+Yeah, we -- these are all at-will contracts other than when you do three bids and a buy for like a large petro-chem plant or anything. None of our customers are beholden to any of us in the industry to be a sole provider. So if someone told me they were, I don't know that I could tell you definitively on a live call that we are the only provider. But we are fortunate that because of the breadth of our product offerings and our network, there is very few areas of North America or pieces of equipment that we can't supply to our customers. So we think that gives us a really strong share of wallet.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Thank you.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Steven Ramsey from Thompson Research. Your question, please.
+Steven Ramsey -- Thompson Research -- Analyst
+Good morning. Thinking about specialty, are you adding much fleet to the Baker branches and how is fleet absorption at Baker and is the integration on pace there?
+Matthew J. Flannery -- President and Chief Executive Officer
+The integration of -- for Baker is doing well, and in addition to our Fluid Solutions team, we added Thompson pump. So you can imagine we're pretty well set with pumps already. Baker was already the leading tank provider in the industry. So what we're adding to that are additional products and services like filtration and really building a comprehensive fluid solutions business as we pull together a great pump business and a great tank business.
+Steven Ramsey -- Thompson Research -- Analyst
+Great. And then -- and also leverage range at this juncture, where we are in the cycle, your optimism about the cycle and the free cash flow profile? What at this point, when things are good, would cause you to lean to operating at the low end of the leverage range?
+Matthew J. Flannery -- President and Chief Executive Officer
+Well, we've talked about when we made the change to reduce the range to 2 times to 3 times, two things. The first was, we were still planning to come in somewhere around 2.5 times by the end of this year. So that is, you know, coming down from, call it 3 times post the Blueline deal at the end of last year. So we have made conscious decisions to continue to get that leverage down through 2019.
+As we look forward into 2020, we're going to continue to focus on moving more toward the end of our new leverage range. I'm not sure exactly where we'll fall, but it'll be a focus for us as we think about the free cash flow in 2020 that we expect will be, again, another robust year of free cash flow generation. As we think about how much of that will go to leverage, it'll be a priority for us to continue to take the leverage down.
+Steven Ramsey -- Thompson Research -- Analyst
+Excellent. Thank you.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thank you.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks, Steve.
+Operator
+Thank you. Our next question is our final question for today. And it comes from the line of Chad Dillard from Deutsche Bank. Your question, please.
+Chad Dillard -- Deutsche Bank -- Analyst
+Hi, good morning guys.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Hi Chad.
+Matthew J. Flannery -- President and Chief Executive Officer
+Hi Chad.
+Chad Dillard -- Deutsche Bank -- Analyst
+So, sorry to beat a dead horse here, but just wanted to go back to the under absorption of 1%, and just wanted to understand, just like what's baked into the balance of the year. So I think you talked about a plus -- more than 1.5% fleet productivity number of for 3Q. I just want to figure out if that's actually contemplating that as well as like the back-end of the guidance. And to kind of get that under-absorption taken care of, is the case that some of the pent up, I guess, demand from 2Q with the delays kind of come through and then take care of that or is it more about some of the sales force, that was more inwardly facing on the integration, move more outwardly facing and used to win more work?
+Matthew J. Flannery -- President and Chief Executive Officer
+Sure. So, it's both. And in addition to the absorption in the markets where we needed the sales force to fill the top of the funnel as I say, to utilize that dormant capacity they had is one fix. But it's also shifting assets to the markets where we have robust growth and where we have opportunities and not just specialty, but other geographic markets where they weren't as impacted.
+We talked about the California in the first quarter and then we talked about how they rebounded, where they had real slow start to the first quarter. They've had robust growth on the West Coast here in the second quarter and we forecast that to be beyond. So it's really just management of our business is normal cadence for us. The only reason we called out these specific drags is because they were abnormal and the opportunity to repair them exists because of the demand that's out there.
+So that's the real good news. Otherwise, if we were in a strong demand environment, there'd be a different play called altogether. I just want to reiterate the strong demand environment, the strong rate, the opportunity for growth in the back half of the year that we -- that we're guiding to is our opportunity to remedy that. And then the output will be that fleet productivity targets that we talked about.
+Chad Dillard -- Deutsche Bank -- Analyst
+That's helpful. And then you mentioned at the top of the call that infrastructure was a source of strength. So just trying to understand, I guess how much bigger does that part of the business grow as we look toward the balance of the year and 2020? And like, how do you think that potential mix shift would impact your rate? I guess like all else, equal. Yes, I'll end it there.
+Matthew J. Flannery -- President and Chief Executive Officer
+So I -- we think, first of all, the infrastructure growth isn't so much that there's great tailwinds, although that the end markets growing, it's also our focus on it. So we started focusing on infrastructure as a vertical and tailor to go-to-market strategy for that as well as product strategies, because we knew there was just such demand for and need for infrastructure improvements throughout the country. So that's paying off, and this -- it's a great example of opportunities where even as end markets may have slower growth, as we vertically focus our sales teams and our product offering to the end markets where we think our offerings benefits more than the competition. We could actually swim upstream in some of these markets and we did that for a little while in infrastructure and now there's some tailwinds. How much it ends up. What size of our business is really in the focus, it's more of -- we have the core products like trench, like fluid solutions to go along with our gen rent products to really support that customer base.
+Chad Dillard -- Deutsche Bank -- Analyst
+Great, thanks . I'll hand it back.
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+Thanks, Chad.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thanks, Chad.
+Operator
+Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand the program back for any further remarks.
+Matthew J. Flannery -- President and Chief Executive Officer
+Thank you, operator, and thanks to everyone for joining us today. And to remind everyone, our Q2 investor deck is available for download. And as always, please reach out to Ted Grace, our Head of Investor Relations, if you have any questions. And we look forward to talking with you again in October. Goodbye.
+Operator
+[Operator Closing Remarks]
+Duration: 56 minutes
+Matthew J. Flannery -- President and Chief Executive Officer
+Jessica T. Graziano -- Executive Vice President and Chief Financial Officer
+David Raso -- Evercore ISI -- Analyst
+Ross Gilardi -- Bank of America -- Analyst
+Steven Fisher -- UBS -- Analyst
+Tim Thein -- Citigroup -- Analyst
+Joe O'Dea -- Vertical Research -- Analyst
+Seth Weber -- RBC Capital Markets -- Analyst
+Jerry Revich -- Goldman Sachs -- Analyst
+Scott Schneeberger -- Oppenheimer -- Analyst
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Steven Ramsey -- Thompson Research -- Analyst
+Chad Dillard -- Deutsche Bank -- Analyst
+More URI analysis
+All earnings call transcripts
+
+
+
+
+

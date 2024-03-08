@@ -1,0 +1,286 @@
+Image source: The Motley Fool.
+Gardner Denver Holdings, Inc. (IR -0.29%)Q3 2019 Earnings CallOct 29, 2019, 8:00 a.m. ET
+Operator
+Good morning and welcome to the Gardner Denver's Third Quarter 2019 Earnings Conference Call. [Operator Instructions]. After today's presentation, there will be an opportunity to ask questions. [Operator Instructions]. I would now like to turn the conference over to Vikram Kini, General -- Gardner Denver's Investor Relations Leader. Please go ahead, sir.
+Vikram Kini -- Head of Investor Relations
+Thank you, and welcome to the Gardner Denver 2019 third quarter earnings call. I am Vik Kini, Gardner Denver's Investor Relations Leader and with me today are Vicente Reynal, Chief Executive Officer, and Neil Snyder, Chief Financial Officer. Our earnings release, which was issued yesterday and a supplemental presentation, which will be referenced during the call are both available on the Investor Relations section of our website, gardnerdenver.com.
+In addition, a replay of this morning's conference call will be available later today. The replay number, as well as access code can be found on slide two of the presentation. Before we get started, I would like to remind everyone that certain of the statements on this call are forward-looking in nature and are subject to the risks and uncertainties discussed in our previous SEC filings, which you should read in conjunction with the information provided on this call.
+For more details on these risks, please refer to Gardner Denver Annual Report on Form 10-K filed with the Securities and Exchange Commission, which is available on our website at gardnerdenver.com. Additional disclosure regarding forward-looking statements is included on slide three of the presentation.
+In addition, in today's remarks, we will refer to certain non-GAAP financial measures. You may find a reconciliation of these measures to the most comparable measure calculated and presented in accordance with GAAP in our slide presentation and in our earnings release, which are both available on the Investor Relations section of our website.
+Turning to slide four, on today's call we will review our third quarter highlights and 2019 guidance as well as an update on the pending transaction with Ingersoll Rand. We will conclude today's call with a Q&A session. As a reminder, we would ask that each caller keep to one question and one follow-up to allow for enough time for other participants.
+At this time, I will now turn it over to Vicente Reynal, Chief Executive Officer.
+Vicente Reynal -- Chief Executive Officer
+Thanks, Vik, and good morning to everyone. Turning to slide five, let me start with a brief overview of the third quarter. Overall, Q3 was a good example of the team's ability to utilize the principles of the Gardner Denver Execution Excellence process or GDX in order to be nimble in the face of a softening economic environment. Despite continuing headwinds in the upstream energy market and a slowdown in core industrial markets particularly toward the end of Q3, we delivered solid results.
+In addition, the team pivoted to focusing on items within their control, resulting in solid working capital performance and free cash flow generation, as well as the execution of an incremental restructuring action. Let me provide a bit more color on the financial highlights in Q3. From a total Company perspective, FX adjusted revenue and orders declines of 11% and 8% respectively were heavily impacted by the known softness in the upstream energy business, as well as strong prior year comps across the majority of our businesses.
+As you will remember, Q3 of last year was our strongest quarter in the upstream business with $186 million of revenue including our strongest quarter of original equipment pumps shipments.
+As we have indicated, we expect the demand environment in upstream to be sluggish in Q3 including minimal original equipment pump shipments and that was largely what we saw. Encouragingly, the remainder of the business, including Industrials, mid and Downstream Energy and Medical, saw collectively FX adjusted revenue growth of 1% and orders growth of 3% despite the tough macro environment.
+The Company delivered adjusted diluted earnings per share of $0.41 and adjusted EBITDA of $142 million with an overall margin of 23.8%. The team continues to do a good job navigating a dynamically change in environment as shown by the 30 basis point improvement in margin versus the second quarter despite $32 million less revenue. This improvement is due in part to continue execution on operational initiatives like Innovate-to-Value and restructuring to offset market headwinds.
+I'm particularly pleased with the rapid action the teams have taken to identify an incremental restructuring opportunity across the total business to prudently control cost in light of market conditions. The action was executed in September and is expected to deliver $10 million in annualized savings with $2 million expected to be realized in 2019.
+From a balance sheet perspective, free cash flow in the quarter was $105 million. Free cash flow conversion to reported net income was 254%, as the team continues to make strong progress on working capital improvements; including over $50 million of cash generation within the quarter from AP, AR and inventory. The progress in the inventories particularly highlight as we have historically noted this as an area for improvement.
+Inventory improved over $10 million from prior year levels and approximately $40 million when excluding the impact of upstream energy. By leveraging GDX to install inventory growth rooms, we believe there is considerable opportunity ahead of us. The strong cash performance led to net debt leverage of 1.9 times at quarter-end, an improvement of 0.1 times as compared to Q2.
+Looking ahead, due to expectations for continued sequential declines in the upstream energy as well as the continuous softening in the overall market, which we expect to have impacts on both the base business, as well as the timing of larger project shipments. We are updating full-year guidance to a range of $550 million to $570 million.
+Turning to slide six, before we get into the specific components of the revised guidance, I think it is important to ground everyone on the expected year-over-year performance of the Company. At the midpoint of our revised 2019 guidance, we are expecting adjusted EBITDA to decline by $122 million versus prior year.
+The performance in our Industrials, mid and downstream Energy and Medical businesses is expected to be quite solid. Despite persistent market headwinds for much of the year, these businesses are expected to deliver FX adjusted year-over-year revenue growth of mid single digits and EBITDA improvement of nearly $30 million.
+Upstream Energy accounts for nearly all of the expected year-over-year decline as market conditions coupled with lower spending levels from customers, particularly on larger capex items like original equipment pumps is driving approximately $110 million of expected year-over-year declines.
+Important to highlight that nearly 85% of our 2019 revenues in the upstream business are expected to come from high-quality aftermarket parts and services; which carry high margin profile and tend to be comparatively less lumpy than original equipment. Also, at current levels, upstream energy is expected to be less than 10% of the revenue of the combined Gardner Denver and Ingersoll Rand Industrial's business, which should mitigate this business' impact on profitability looking forward.
+Finally, the balance of the year-over-year movement is driven by higher corporate costs due to the drivers we outlined at the beginning of the year and increased FX headwinds due to continued weakening of the euro and British pounds. When I step back and access the performance of the Company, I am quite pleased with how our Industrials, Mid and Downstream and Medical businesses are performing. And despite the year-over-year EBITDA decline in upstream, the team continues to take proactive steps to rightsize the cost structure while at the same time deliver further on innovation, particularly in areas like consumables, to expand our growing base of aftermarket parts and services.
+Turning to slide seven and guidance for 2019, we are revising total year guidance for adjusted EBITDA to a range of $550 million to $570 million, from $610 million to $630 million. The revision is largely attributable to three main areas. First is upstream energy. While Q3 performance was largely in line with expectations, feedback from our customers lead us to believe that completions activity may be lower than in the fourth quarter of last year, leading to a larger than usual sequential decline.
+In addition, our customers are lowering their capital investments. And we do expect an extended holiday season this year. In total, we're expecting an approximately 40% sequential decline from Q3 to Q4. Second is FX, as we have seen continued currency headwinds, particularly from the euro and British pound. Since the prior guidance, FX is now contributing approximately $3 million to $4 million of anticipated incremental headwinds to adjusted EBITDA in the fourth quarter alone.
+Third is that we're not expecting the normal Q4 seasonal uplift that we typically see in Industrials and downstream, due to the continuous softening of the market sequentially. In addition, we expect that several large projects will be deferred as we saw these already happening in September; particularly in our Runtech and downstream businesses. The positive news is that these projects are not being canceled, and they're just moved out as customers continue to manage their timelines.
+In total, we're expecting Gardner Denver revenue growth excluding FX to be down mid-single digits and down high single-digits when including the impact of FX. Also, we're expecting year-end net debt leverage to be approximately two times. And in addition, we expect a slight improvement in the tax rate to approximately 20% driven largely by geographic profit mix.
+From a cash flow perspective, we continue to target greater than 100% free cash flow to reported net income conversion. We are revising our capex expectations to the bottom end of our previous range as we continue to be prudent due to market conditions, as well as the Ingersoll Rand integration in order not to duplicate investments.
+However, we will continue to fund high return investments, particularly those focused on innovation and growth. And in total, we are expecting to deliver approximately $275 million of free cash flow for the total year. Moving to slide eight, I will provide more color on operating performance of our segments. I will start with Industrial segment where we saw a positive FX adjusted orders and revenue performance, although below our original expectations.
+The Industrial segment third quarter order intake was $313 million, which was up 3% to prior year excluding FX. Revenues in the quarter were $316 million, up 1% excluding FX. From a geographic perspective, the Americas saw positive FX adjusted orders and revenue growth. While Americas' growth was below our expectations, it is worth noting that industry reports indicate that we had outperformed the market growth rates for several quarters. And we're coming off some very large comps including Q3 or prior year where revenue growth was in excess of 10%.
+In addition, the same third party industry reports also show that in the oil lubricated rotary screw compressor line, which is a core product offering for the US market, our performance for both Q3 and total year is above the industry, in terms of both units and dollars. And we feel pretty good about where we stand from a competitive perspective on our relative performance. In Europe, despite the continued tough macroenvironment, both orders and revenue grew low single-digits.
+Asia-Pacific saw negative performance driven mainly by project delays in our Runtech business. These projects are related to several large durable vacuum installations that are awaiting final commissioning at the customer site, and which we believe will defer into 2020. In terms of the product lines, we continue to see solid performance in core compressors, as well as blowers which were up low-single digits on an FX adjusted basis.
+Vacuum continue to see slight declines driven particularly in Western European markets and China, where the business is more aligned with industrial process oriented OEMs. As the market continues to soften across most major geographies, we are firm believers that continued product innovation will lead to a differentiated growth. We're very encouraged by the momentum we are seeing in our oil-free product lines.
+And a recently installed compressor system at a food processing plant in the US including our Ultima oil free compressor equipped with the iConn IoT platform is delivering nearly 10% to 15% energy savings in both electricity and natural gas consumption. And these savings are in excess of $300,000 on an annual basis at the customer location.
+Moving to adjusted EBITDA, Industrial delivered $70 million in the quarter, which is flat excluding FX. Third quarter adjusted EBITDA margin was 22.2%, down 30 basis points versus prior year. The year-over-year margin decline was largely attributable to the weakness in Asia Pacific, as well as a large project deferrals and this was the reason for higher detrimental margins than usual.
+Despite the overall segment margin decline, Americas and Europe combined margin expansion was positive, benefiting from initiatives like pricing, aftermarket and i2V to offset known headwinds such as tariffs. Looking ahead to Q4, we expect decremental margins to be better than what we saw in the third quarter due in large part to the cost actions we have taken.
+Moving next to the Energy segment on slide nine. The Energy segment's third quarter order intake was $205 million, down 20% excluding FX, driven largely by the expected downturn in upstream energy, partially offset by a low double-digit increase in mid and downstream. Revenues in the quarter were $209 million, down 29% excluding FX, with upstream revenues down 46% and mid and downstream revenues collectively down 1% excluding FX.
+Addressing the components of Energy, let me first start with upstream. Orders were down 37%, and revenue was down 46%, both excluding FX, and very much in line with the expectations at approximately $100 million each. From an orders perspective, we saw minimal orders for original equipment frac pumps, which was not surprising given market capacity utilization levels and customers stacking fleets.
+We were pleased that aftermarket increased 10% sequentially as we continue to see good momentum on many of our parts and services, while pricing levels remain relatively flat. In terms of revenue, it was a very similar story as over 90% of our revenue composition came from aftermarket parts and services.
+This high concentration of revenue on healthy margin aftermarket components as well as prudent cost control, allowed our upstream business to deliver adjusted EBITDA margins in excess of the total Energy segment average, further demonstrating the financial resiliency of the business.
+In addition, decremental margins in the quarter were below 45%, which was improved versus the level seen through the first half of the year, and much lower than the 50% plus incremental seen in many quarters, when the business was ramping up. As we look ahead to the fourth quarter, we expect to see continued improvement on the decremental margins for the upstream business, due to continued productivity initiatives. One of the many areas we have focused on in terms of ongoing productivity in the business is continued improvement in our manufacturing processes.
+On the bottom of the slide, you will see that we've recently hit a landmark in our consumables manufacturing plant as we crossed over 1 million parts produced for valves and seats in the last 12 months. This has been largely attributable to investments in state-of-the-art machine tools and automation. Combined with lean manufacturing principles which allows for improved performance.
+From a market outlook perspective, we continue to see a challenging environment heading into the fourth quarter. We expect that lower completions activity and customer capital spending reductions will drive negative sequential growth in the fourth quarter.
+As a result, we will continue to look at prudent cost measures to optimize our cost position. On the mid and downstream side, orders were collectively up 10% and revenue was down 1%, both excluding FX. We're encouraged by the year-over-year growth in orders, which is largely helping to fill the funnel for 2020 and the overall project funnel remains very active. However, much like what we saw in the second quarter, we have seen the project quote-to-order cycle extended. From a revenue perspective, we did have a few large projects in Asia Pacific that differ from Q3 partially into Q4 and the balance into the 2020.
+We're expecting a similar dynamic to happen in the fourth quarter. The positive news again here is that these projects are now being canceled and are just moved out. The Energy segment delivered adjusted EBITDA of $55 million in the third quarter, which was down 41% to prior year excluding FX. As a percentage of revenue, third quarter adjusted EBITDA was 26.6%, down 520 basis points from prior year due to the decline in upstream energy while mid and downstream collectively margin performance was relatively stable.
+Moving next to Medical segment on slide 10. Order intake was $66 million, down 8% excluding FX. The orders performance came on top of very strong prior year comps in excess of 20% growth. In addition, the decline was due almost entirely to the timing of a large prior year frame order, which the customer is now placing in small quarterly installments. Backlog remains healthy and in line with levels we have seen through much of 2018 and early parts of 2019. Revenues in the quarter were $72 million, up 5% excluding FX, despite strong prior year comps of 19% growth excluding FX.
+The business continues to execute well on innovation and design wins. One such example is highlighted on the bottom of the slide. Our team recently won and delivered an order for an automated liquid handling solution for a chemical laboratory in Western Europe. The system is comprised of multiple technologies from our medical segment, including robotic liquid handling solutions, as well as syringe pumps to deliver a more efficient and reliable solution for the customer.
+This example highlights an area that I am very excited about, as we are now able to bundle multiple technologies from the portfolio to meet customer needs. The ability to bundle technologies and provide innovative solutions for our customer has been an explicit component of our M&A strategy, as we have diversified into liquid pumps and liquid handling solutions. And I'm very encouraged by the growth opportunities that lie ahead of us.
+Medical adjusted EBITDA performance for the quarter was $22 million, up 12% excluding FX. Margins were 31% up 190 basis points versus prior year and marked the fifth consecutive quarter of triple-digit margin expansion, due largely to strong flow-through from volume increases and continued operational efficiencies driven by execution through the use of GDX.
+Turning to slide 11, let me spend a few minutes looking ahead to our exciting future. Our simple four point strategy provides a powerful foundation underpinned by GDX, which allows for nimble execution even in changing economic conditions. As I have mentioned previously, talent is at the center of everything we do and having the best team is core to the strategy.
+I have gotten the chance to spend time with the Ingersoll Rand industrial team over the past few months and I see a lot of similarities in the cultures between the two companies, which gives me confidence in our integration efforts.
+In addition, we're making great steps on completing the leadership team for the combined Company; comprised of members from both organizations. As you probably saw a few weeks ago, we announced the transition of the CFO role. Emily A. Weaver will be joining Gardner Denver in December and comes to us from Fortive Corporation, where she most recently served as the Chief Accounting Officer.
+Emily has an extremely strong background in finance and accounting and her performance driven mindset and operational focus will make her a perfect slate for Gardner Denver and the future combined Company with the Ingersoll Rand Industrial segments. Emily has been involved in several large transformational transactions during her time with both Fortive and Danaher. And will make her an ideal candidate to lead both the finance and IT functions of the combined organization. I look forward to having Emily as my partner as we move ahead.
+I will also like to personally thank Neil for his leadership and partnership over the last several years. Neil has been a key driver in building and deploying our strategy and making Gardner Denver the performance-driven Company that it is today. And I wish him the best in his future endeavors. Turning to slide 12, another core component of our strategy is ongoing margin expansion. We have stated that we expect to deliver $250 million in cost synergies by the end of year three after the close of the deal. And our confidence in achieving that target remains unchanged.
+On our last earnings call, we provided a framework on how the integration planning is happening with workstreams, building charters, blueprints and work plans to define the future state organization and how we will deliver synergies across the enterprise starting on day one. A key takeaway here is that we are not waiting until the deal closure to start building out the synergy funnel.
+On the slide you will see an example of how we are approaching the procurement workstream. As we have previously mentioned, the largest area of saving expectation from the combined Company is in operations and supply chain. With procurement savings comprising a large piece of that equation. Soon after the deal signing back in April, both Gardner Denver and Ingersoll Rand Industrials provided their full repository of both direct and indirect spend to a third party advisory group that we referred to as clean team. This clean team is able to analyze the data on behalf of both companies and create what we refer to as a local room for RFQs that are ready to go starting on day one.
+Each one of these lockers [Phonetic] contains in a specific commodity RFQ that is tied to a quantified savings opportunity along with a timeline for execution. At this time, the clean team has analyzed approximately 90% of the $2 billion plus of combined direct material spend and 60% of the indirect spend. Overall, the funnel is progressing very, very well.
+Similarly, the remainder of the work streams are utilizing the principles of GDX and the toolkit of growth rooms to manage the integration planning process and build out the funnel for synergies. Turning to slide 13, we continue to progress well in terms of the timeline of the transaction.
+As a reminder, since the deal announcement back in April, we have already completed the US antitrust process and the initial submissions for all international regulatory filings. As we look ahead, we expect all of the required SEC filings to occur in the fourth and first quarters with a shareholder vote and other final steps occurring in Q1 of 2020.
+This should continue to push us right on track for the anticipated early 2020 deal closure timeline. In conclusion, while we continue to navigate a challenging market environment, I am very pleased with the proactive steps the teams are taking to manage those areas within their control.
+GDH remains at the center of how we operate as a Company, and we're using the tool kit to drive targeted growth initiatives while at the same time, prudently managing cost and cash. Looking ahead to 2020, well, we will not be providing explicit guidance at this time, we do expect a slow-growth environment and we'll continue to manage the business accordingly.
+In addition, I continue to be encouraged by the progress the teams are making on the closure of the pending Ingersoll Rand transaction. As the long-term prospects for the combined Company and the value creation opportunity both remain very positive and more exciting than ever.
+With that, I will turn the call over to the operator and open it for Q&A.
+Operator
+Yes, thank you. We will now begin the question-and-answer session. [Operator Instructions]. And the first question comes from Andrew Kaplowitz with Citi.
+Andrew Kaplowitz -- Citi -- Analyst
+Hey, good morning guys.
+Vicente Reynal -- Chief Executive Officer
+Good morning, Andy.
+Andrew Kaplowitz -- Citi -- Analyst
+Vicente, how would you compare the current upstream downturn to the downturn in '15 and '16? You obviously have a much more robust business now given your consumables exposure, serviceability, improved relationships with large customers, but it seems, you're still been a bit surprised by the decline even with the -- in your aftermarket business. So how do you confidence that the upstream business is nearing the bottom at this point, could you give us any thoughts on how to think about the business in 2020?
+Can you sustain the order rates that you've spoken about in the past that's $30 million or so a month and aftermarket related orders?
+Vicente Reynal -- Chief Executive Officer
+Yeah, no -- Andy thanks. We -- the big difference is exactly as you said in a sense today when you look at the business, it is -- most of it aftermarket and consumables. As we said, revenues roughly 90% of it are aftermarket and that is kind of comprised of the line of consumables that we did not had that type of consumable line back at the last down cycle.
+So I think that is definitely providing us a much better margin profile as well as a much better revenue profile as we have seen in these down cycle. When you look at a year-over-year comparison of the upstream business, the biggest change here has been the original equipment pumps that you could argue is roughly anywhere between $100 million to $150 million less revenue on a year-over-year basis.
+So, and we said that, that was definitely not going to -- going to occur into 2019, and it is proving to be exactly correct. In terms of your question, you know, what we have seen and many of you have read too as well is that the past weeks, there have been plenty of announcements from pressure pumpers, and many of them announcing that they're cutting up and pairing the old capacity.
+Our estimates of public and private companies is that approximately 2 million of horsepower, it's been impaired and are retired. And I think that's good news for the industry as this helps to bring supply and demand back into the balance.
+In addition, you know, you have several other customers that are stacking up fleets and cannibalizing the equipment and while we don't expect this trend to change in the fourth quarter, I mean we know this is unsustainable over the short to medium term as the equipment does need to get maintained and eventually replaced.
+So we continue to keep an eye close into this. We think it would definitely provide some perhaps pent-up demand and as we are not providing 2020 guidance at this time, it is worth noting that a couple of the major pressure pumping companies are expecting Q1 2020 activity to tick up from Q4 '19 levels and others are saying that rebound may happen at some point in time next year, but again it's too early to tell.
+So we will see as we exit 2019, and we have more conversations with our customers on their 2020 spend and capex expectations. But needless to say, I mean, I think as we said on the earning -- on the remarks, we continue to be excited in the sense that this business in the third quarter delivered above EBITDA margin profile than the energy and even with these lower revenue still in the fourth quarter, we expect it to be above 20% EBITDA margin business.
+Andrew Kaplowitz -- Citi -- Analyst
+Vicente, thanks for that. And then can you talk about the cadence in the quarter for the rest of your business? As you mentioned, your expected quarter end ramp up in industrial and mid and downstream especially in the US didn't happen, and the conditions actually softened for you as the quarter went on. But some of your industrial peers have seen a bit of improvement toward the end of the quarter, in Europe for example or here in October. So do you continue to see deferrals of orders or has there been any stabilization in regional end markets?
+Vicente Reynal -- Chief Executive Officer
+Yeah, what we have seen here in the month of October is, I would say, stable compared to the exit rate that we saw in the third quarter and I think October is largely in line with expectations. So -- And as we kind of think about it too as well and in the third quarter as we expected Industrials to be mid-single digit. We did low single digit ex-FX, and the drivers in that case were Americas and as you -- as you pointed out and we said on the remarks, due to the lack of the ramp.
+But also keep in mind that we also mentioned that some of the change that we're doing in the guidance and what we saw in the third quarter, it had to do with some project push outs. And these are kind of meaningful large projects that got pushed out to Q4 and 2020.
+Andrew Kaplowitz -- Citi -- Analyst
+Thanks, Vicente.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Andy.
+Operator
+Thank you. And the next question comes from Mike Halloran with Baird.
+Michael Halloran -- Robert W. Baird -- Analyst
+Hey. Good morning, everyone.
+Vicente Reynal -- Chief Executive Officer
+Good morning, Mike.
+Michael Halloran -- Robert W. Baird -- Analyst
+So just kind of continuing on the train [Phonetic] of thought, Vicente, are the end markets, you're serving right now growing on in an organic basis and if the sequential trend continues from what you saw in the third quarter and through October here, does that imply the end markets themselves can grow in 2020? Probably some greater challenges in the front half of 2020 versus the back half, but just trying to understand the cadence in the underlying end markets, as you look this year and then in the next year a little bit?
+Vicente Reynal -- Chief Executive Officer
+Yeah. So a couple of things there, Mike, first of all to answer your question, yes, that's kind of our expectation and if you, what we said also is that still core oil lubricated compressor, kind of the core business is still seeing growth low -- low single-digit growth and that is across most of the kind of core markets that we have including the US, where we continue to see even in the third quarter some pretty good growth on core oil lube and this is on top of some pretty tough comps from 2018.
+So I think when you look at our data points, I think it's better to think about it more from a kind of a two year period in the sense that we're still growing, but we are growing on top of some very [Phonetic] comps and to re -- kind of reground everyone is that we're still going to see a year-over-year growth in the industrial market.
+So yes, I mean that's the way you frame that up, it's correct.
+Michael Halloran -- Robert W. Baird -- Analyst
+And then when you think about the restructuring side of things, obviously some incremental restructuring announced this quarter, you've had other actions going in place this year. Could you just help provide a cumulative sense for where -- what kind of actions you've taken this year on a whole, what that means in terms of savings implied for 2019? And then what the run rate of savings on top of kind of call it the incremental run rate for savings going into next year would be from all the actions you've done?
+Vicente Reynal -- Chief Executive Officer
+Sure. So, so far into the year we spent approximately I think $60 million in restructuring actions. Early in 2019, the actions that we took were largely in the upstream business and that's why you're seeing that the decremental margin have improved sequentially even though the revenue sequentially has declined, kind of accelerated. So again it proves that the actions we did in the upstream side are really impacting the business positively.
+And the team continues to work on a few more actions here in the fourth quarter particularly on productivity improvements and the action that we just recently took of roughly $10 million annualized savings, we expect that $2 million of that will be in 2019 benefit of that in the P&L and roughly $8 million of carry over into 2020.
+Michael Halloran -- Robert W. Baird -- Analyst
+Appreciate it. Thank you.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Mike.
+Operator
+Thank you. And the next question comes from Nathan Jones of Stifel.
+Nathan Jones -- Stifel Financial Corp -- Analyst
+Good morning, everyone.
+Vicente Reynal -- Chief Executive Officer
+Good morning, Nathan.
+Nathan Jones -- Stifel Financial Corp -- Analyst
+Vicente, you talked about the industrial market ex-FX or Industrial business being up low-single digits. I think it's probably down maybe 2% or 3% on an organic basis, which is down from the mid-single digits in the first half. Maybe could you talk a little bit more about the sub-markets in there where you've seen those weakening. I think you said the core oil compressor market is still up low-single digits. Where are [Phonetic] the parts of the market that you're seeing the softness?
+Vicente Reynal -- Chief Executive Officer
+Sure, Nathan and let me just kind of reframe you. The organic growth has been kind of less than negative 1%, so down about 1% organic. And yes, the markets have slowed down. You know what, in the third quarter we saw low single-digit growth in compressors and blowers, ex-FX, which we're very quite pleased with this performance. And this is actually a good performance and as third-party reports in the US report, we're outperforming the market in the third quarter and year-to-date for oil lubricated compressors.
+Now the vacuum, industrial vacuum, we have seen that is kind of more co-related with OEMs. That has continued to be softer than the other two kind of core product lines.
+Nathan Jones -- Stifel Financial Corp -- Analyst
+Okay, that's helpful. And I think it's pretty clear that you are outperforming the sub markets. Interesting discussion there about the pre-acquisition work you're doing on IR. I think typically you would say some of these cost synergies be more year two weighted or year three weighted, does the work you're doing here maybe accelerate the expectation of some of that $250 million of cost savings? And is there any directional kind of guidance you could give us on how you think those will be realized?
+Vikram Kini -- Head of Investor Relations
+Yeah, Nathan potentially, I mean we're still doing obviously the integration planning, and as we get to close, we will have a varied [Phonetic] visibility on how much we could potentially accelerate based on macroeconomic environment. But the phasing that we're thinking right now is 10% to 15% realized and visible in the P&L in year one with the ramp-up from there with the actions taken by end of year three to see the savings in the P&L.
+Nathan Jones -- Stifel Financial Corp -- Analyst
+Okay, that's helpful. Thanks very much.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Nathan.
+Operator
+Thank you. And the next question comes from Julian Mitchell with Barclays.
+Julian Mitchell -- Barclays Investment Bank -- Analyst
+Hi, good morning.
+Vicente Reynal -- Chief Executive Officer
+Good morning, Julian.
+Julian Mitchell -- Barclays Investment Bank -- Analyst
+Good morning, and thanks Neil for all the help and wish you all the best in future. Maybe just a first question around the mid and downstream energy piece. I think it looks as if that's implied in Q4 to be down double-digits just given you're saying the year is sort of flattish and you had a very, very strong Q1.
+I just wanted to check if that's right. I mean, if so, what's really driving that big downturn in the market? Is there any particular geographic presence there or type of customer, which is driving that shortfall and whether you think that, that downturn in the mid and downstream markets in particular could last through some time through next year as well?
+Vicente Reynal -- Chief Executive Officer
+Sure, Nathan. And so we're seeing mid and downstream actually closer to flattish in the fourth quarter, and it's going to be up sequentially from Q3. And if you remember, we talked a lot about some pretty large projects that are scheduled in the fourth quarter.
+Now in our new guidance, we're assuming some of them still kind of facing to 2020 as we saw some push outs from Q3 to Q4. We assume and as we went through with the teams through project by project, we assign the probability based on what current market conditions are saying on some projects that will then get pushed to 2020.
+But we expect mid and down to be flattish in the fourth quarter. The good thing I guess on the mid and down as you saw we did low -- we did double-digit order growth in the third quarter. We continue to build the funnel for 2020. And in terms of the regional aspect, similar to what we saw in Industrials, Asia Pacific tends to be the region where we're seeing most of the push outs here in the fourth quarter into 2020.
+And this is -- the positive news here is that these projects are just getting deferred, they're not getting canceled. In many of these projects, the customer prepays already certain amount of cash and I think when they get commission and installed, that's when they need to do the last payment and in some cases, we think that some customers are just managing their cash.
+Julian Mitchell -- Barclays Investment Bank -- Analyst
+Thank you very much. My second question, just looking at the balance sheet leverage, so initially, I think you had said at the time of the IR deal close, you'd be about 2.3 times net debt-EBITDA ex-synergies. That was when you were thinking year-end this year would be about 1.6 times at GDI. GDI itself is now up to two times levered at the year-end. So just wondered what your view or how your view has changed of the pro forma leverage as of the deal close date early next year?
+Vicente Reynal -- Chief Executive Officer
+Yeah, I think Nathan [Phonetic], as we kind of close -- get closer we'll be able to see what we would be [Indecipherable] I mean I think mid-twos is still probably within the range, and -- but we're still waiting to get a lot of the carve-out financials and everything else to kind of have a better perspective and a better view on what that might be.
+Julian Mitchell -- Barclays Investment Bank -- Analyst
+Great, thank you.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Julian.
+Operator
+Thank you. And the next question comes from Nicole DeBlase with Deutsche Bank.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Yeah, thanks. Good morning guys.
+Vicente Reynal -- Chief Executive Officer
+Good morning, Nicole.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+So first question just around the cost actions that you're taking. You talked about how a lot of this is obviously happening within upstream energy, but I think you also mentioned that you expect decremental margins within Industrials to improve in the fourth quarter. So, just curious if there is a sense of how much restructuring payback goes into Industrials relative to upstream energy and what gives you confidence around that improvement in decremental margins within Industrials?
+Vicente Reynal -- Chief Executive Officer
+Sure Nicole. So the comment I made about the restructuring of the upstream that was really more related toward the beginning of the year. The $10 million of annualized savings that we just executed here in the third quarter, you can actually spread it roughly, same as kind of a percentage of revenue.
+So you can think about that roughly 50% of that will be in Industrials and even when you think about the $2 million that will be generated in 2019 of savings from that restructuring that we did in the third quarter about 50% of that kind of coming into the Industrials.
+So I think that, that in combination with the impact of price, i2V and some of the cost actions that continue to accelerate through the year that is what will give us the confidence of having a better decremental as we go into the fourth quarter for Industrials.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Okay, got it. Thanks Vicente. And then just maybe a little bit more on the drivers of the midstream and downstream order shrink that you called out, I think the general perception is that midstream capex is going to be pretty weak in 2020. So just curious where that strength is actually coming from?
+Vicente Reynal -- Chief Executive Officer
+Nicole, I think what we have seen the strength is really coming from, when we're able to combine multiple technologies to offer a kind of unique solutions. And in some cases we're uniquely positioned in the sense that we have liquid ring compressor with our GARO business with, liquid ring vacuums, with the Nash business and when you combine those two, it really offers some pretty unique solutions to customers to ensure that they see productivity gains in their factories and processors. So that is really where we're seeing most of the good momentum coming through.
+It's really from highly engineered solutions that combine multiple technologies.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Got it, thanks. I'll pass it on.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Nicole.
+Operator
+Thank you. And the next question comes from Joe Ritchie with Goldman Sachs.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Thanks, good morning guys.
+Vicente Reynal -- Chief Executive Officer
+Good morning Joe.
+Joe Ritchie -- Goldman Sachs -- Analyst
+And so, Vicente, maybe just touching on Upstream for a second, if I heard you correctly, the 4Q run rate is going to be roughly $60 million, I know we've been kind of holding this $100 million line on a quarterly basis throughout the year. I guess, how do you think about, you know, $60 million improving as we head into 2020. Are we going to be at this kind of $60 million run rate for a few quarters?
+Vicente Reynal -- Chief Executive Officer
+Yes, Joe, we don't believe that this is a new run rate. Keep in mind that Q4 is being negatively impacted by customers stacking [Phonetic] fleets, cannibalization, lower activity level and what we expect to be an elongated holiday season and this is why we're expecting roughly the $60 million revenue in the fourth quarter with almost all of it being aftermarket.
+And while it is always difficult to call a trough or bottom in the oil and gas market, we do believe that the levels you will see in the fourth quarter are levels that we will consider to be pretty close to the trough and so, at least that's kind of the way we are thinking about it.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Okay. And then maybe if I kind of think about a longer-term question, Vicente, and you think about the upstream business and some of the dynamics that are occurring in the space today where you have E&P is being a lot more disciplined from a capital perspective, we have reserve lending drying up. I'm just trying to understand like how do you guys think about this business then? What's the new normal for this business? Can we ever get back to prior peaks in this business or should we be thinking about this business from a normalized perspective as being somewhere lower than where you guys have peaked before?
+Vicente Reynal -- Chief Executive Officer
+So I think -- so -- I mean, I -- we still see continued opportunity for multiple levels of -- multiple levers of growth. Think about it that this year we have seen on the frac side, basically almost no original equipment pumps. I mean the pumps are still working out pretty harsh in the field. So that cycle is still [Phonetic], is yet to come. As we were finishing up 2018, many people thought that we were going to see an OE replacement cycle that obviously has not come through in 2019, that still needs to happen. And as customers are stacking up fleets, cannibalizing fleets and in many cases also impairing or pairing all capacity of fleets, it is expected that, that original equipment replacement will come.
+The second lever for growth is this year, we're seeing basically in zero drill business right now from the drill pumps or consumables from drill pumps. So that is again another one that could expect it to be coming up back in the future.
+And the third lever is, our team does not stop innovation even in this year. So we're pretty excited with a few new innovations that we're working with basically taking our pumps and really utilizing that for other non oil and gas applications, and I think it's going to be pretty exciting that, while the team is doing a lot of strategic work here on how to diversify it and take the same technology of the high pressure reciprocating pump and apply that to other processes that, that we feel could create a great benefit by having these type of technology.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Okay, thanks guys.
+Vicente Reynal -- Chief Executive Officer
+Thank you, Joe.
+Operator
+Thank you. And the next question comes from Josh Pokrzywinski with Morgan Stanley.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Hi, good morning guys.
+Vicente Reynal -- Chief Executive Officer
+Hey, Josh.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Just a question on the Industrial business. I know you've covered a lot of ground, kind of on upstream and I guess projects in general, but thinking about the combined compressor offering with yourselves and Ingersoll Rand, I think, organically, orders in that business were down a little bit too.
+Do you think about those combined businesses as being on any kind of offsetting cycle, obviously they're both weak right now or weaker, but are they on the same cyclicality where we should expect more of the same when they get combined or are there other niche markets in there where maybe one plus one kind of flattens out a little bit in terms of kind of that cyclical amplitude.
+Vicente Reynal -- Chief Executive Officer
+So a great question, Josh. You know, when you think about it and obviously as we sit here, we'll listen to the Ingersoll Rand earnings to -- for more detail. But you could actually look it in from an Atlas Copco earnings report, where they talked a lot about about good booking momentum on the large compressors.
+That is a technology that at Gardner Denver, we don't have. That is a technology that is complementary to what we have that -- that we know in the combined Company, we can really leverage all the technologies.
+So if we think that these kind of large gas process compressors, combined with the commentary that we still made about oil lubricated core compression technology is still doing well for us, we're -- we get excited that the combination continues to be within what we call out the thesis to be, which is complementary technology that gives us better lever and better leverage for long-term value creation.
+There is also kind of also some niche products around vacuums and specialty pumps. I mean, obviously, if you go beyond the pumps, the compressors what Ingersoll Rand has done with PFS acquisition, it really creates a very highly complementary technology for some of our other spaces like the Medical segment.
+So yeah, I mean I think there could be a possible combination here where the combination of technologies provides better -- or kind of call it less cyclicality as we go forward.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Great. That's helpful. And then just following up on the earlier question about kind of day one leverage, maybe being a little bit higher on an EBITDA basis, just as a function of kind of the recent step down on the core business. Does that make you rethink at all kind of some of the portfolio optionality on the combined organization, maybe some non-core businesses that could be more closely examined. I guess the point would be, you know, to accelerate that journey into kind of compression M&A and to the extent the de-levering slows that down, looking at the portfolio may be an accelerant there.
+Vicente Reynal -- Chief Executive Officer
+Sure, Josh. I would say, it doesn't change our thinking dramatically. We still like the portfolio. But -- I mean, having said that, we love the portfolio optionality that we have. We're still going to be very prudent and I think this is the exciting portion is that, we're combining two of great companies, then we're going to be very focused on the synergy creation on the $250 million and from there, we have just incremental optionality to do different things.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Okay. Thanks for the detail.
+Vicente Reynal -- Chief Executive Officer
+Thank you Josh.
+Operator
+Thank you. And the next question comes from John Walsh with Credit Suisse.
+John Walsh -- Credit Suisse -- Analyst
+Hi, good morning.
+Vicente Reynal -- Chief Executive Officer
+Good morning, John.
+John Walsh -- Credit Suisse -- Analyst
+Just wanted to kind of put a couple of answers together here, obviously you know, you don't want to talk about 2020 guidance yet, but I want to make sure it sounds like in a response to an earlier question, energy absolute dollars is closer to trough than not. You have restructuring savings that will carry over into next year. I think you said you expect your end markets at least to grow or at least that's the best expectation today. I mean, should we assume that EBITDA growth happens next year?
+Vicente Reynal -- Chief Executive Officer
+Yeah, John, I think it's -- we're definitely expecting that it's going to be a slow-growth environment into 2020. We're clearly really focused on our prudency around cost and restructuring. We're going to see the first half of the year have some tough comps. I mean, as you have seen here in the first half of the year, we're doing really well on basically all the cylinders: upstream, midstream, medical and industrial.
+So there will be some tough comps in the first half of the year. And in terms of the growth of the EBITDA, I mean we -- that's what we always want to be able to achieve, and that's what we're driving our teams. We're basically saying that, hey, slow growth this year, but we need to continue to do margin expansion and we'll continue to execute our proven playbook on margin expansion with i2V sourcing, restructuring and price and keep very focused on the items that are within our control.
+John Walsh -- Credit Suisse -- Analyst
+Okay, thank you for that. And then, you know, I guess you talked a little earlier about price cost, but kind of what are your expectations there on kind of a go-forward or we -- how green are we and how do you expect that to kind of trend as input costs arguably can come down?
+Vicente Reynal -- Chief Executive Officer
+Sure. If I take maybe the last quarter here in terms of the proof point, in industrial price cost it still is positive, I mean we saw about 2% price improvement year-over-year, which offset the impact of tariffs and other costs and also offset what we saw in the third quarter the offset here was really due to Runtech on some kind of these large project deferrals.
+So we expect that pricing in Industrials continues to be in that kind of range; 1% to 2%. We have always said that we like to have better. The quality of earnings are obviously more important for us. We compete -- we don't compete on price, we compete on technology and innovation and that will lead us to combine that better pricing points.
+John Walsh -- Credit Suisse -- Analyst
+All right. Thank you.
+Vicente Reynal -- Chief Executive Officer
+Thank you, John.
+Operator
+Thank you. And the next question comes from Igor Levi with BTIG.
+Igor Levi -- BTIG Research -- Analyst
+Hey, guys.
+Vicente Reynal -- Chief Executive Officer
+Hey, Igor.
+Good morning.
+Igor Levi -- BTIG Research -- Analyst
+On the US frac market, how long can the industry potentially go on cannibalizing fleets before they run out? Have you -- have we done that kind of analysis or spoken with customers on that topic?
+Vicente Reynal -- Chief Executive Officer
+Igor, not necessarily, I mean, but you can imagine that we do the same thing that many other people do, I mean we actually many of our sales guys when they drive to customer location, they see the fleets that are parked in the graveyard or in the yards, and they do see, I mean, they do kind of inventory around the number of fluid ends that are not on the pumps or the pump or the trucks that don't have any pumps.
+So we do that on a kind of a weekly basis with our sales teams going to customers. I prefer not to quantify it, I mean we quantified our sales internally, but don't express those numbers. But it is happening and it is real.
+And it is similar to what -- I don't think it to the point to the last downturn, but it's kind of getting there.
+Igor Levi -- BTIG Research -- Analyst
+Great. And then given the weakness we're seeing in upstream energy, could this open up opportunity for consolidation? I mean, I know you're looking to reduce upstream exposure, not the other way around, but I wonder if there is some opportunities that could be too good to pass up?
+Vicente Reynal -- Chief Executive Officer
+Yeah, yes [Phonetic] and no I mean I potentially, I mean, we do hear that, there could be a lot of consolidation from our customer base. We actually like that, because if you think about it -- when we look at our platinum accounts, our key relationship customers those are Tier 1 and Tier 2, really pressure pumper customers, that they know and really understand total cost of ownership and we're very uniquely positioned to be able to provide that whereas other independent sellers for, let's say single fluid end or single parts, they just cannot provide the total equation that we can provide.
+So consolidation happening on the customer base, we hear about it. We have seen some of it, right, with Keen [Phonetic] and C.J. and hopefully there is more to come on that.
+Igor Levi -- BTIG Research -- Analyst
+Great, thank you. I'll turn it back.
+Thank you, Igor.
+Operator
+Thank you. And at this time, I would like to return the floor to management for any closing comments.
+Vicente Reynal -- Chief Executive Officer
+Thank you. Thank you everyone for your interest in Gardner Denver. I will say also quite important, I just want to thank you -- thank all of our employees at Gardner Denver for the continued execution even in these tough macroeconomic environments, and we're very pleased with how our teams continue to progress through the integration planning and we're very excited to continue to work with the Ingersoll Rand Industrial segment team. And we look forward to get into a close and continue to execute here through the end of the year, but at the same time, in parallel, continue to work on the integration planning.
+So with that, thanks everyone and look forward to seeing many of you over the next few weeks or months.
+Operator
+[Operator Closing Remarks].
+Duration: 59 minutes
+Vikram Kini -- Head of Investor Relations
+Vicente Reynal -- Chief Executive Officer
+Andrew Kaplowitz -- Citi -- Analyst
+Michael Halloran -- Robert W. Baird -- Analyst
+Nathan Jones -- Stifel Financial Corp -- Analyst
+Julian Mitchell -- Barclays Investment Bank -- Analyst
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Joe Ritchie -- Goldman Sachs -- Analyst
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+John Walsh -- Credit Suisse -- Analyst
+Igor Levi -- BTIG Research -- Analyst
+More GDI analysis
+All earnings call transcripts
+
+
+
+
+

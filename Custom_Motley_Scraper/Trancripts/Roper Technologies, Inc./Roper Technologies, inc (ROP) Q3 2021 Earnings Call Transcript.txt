@@ -1,0 +1,292 @@
+Image source: The Motley Fool.
+Roper Technologies, inc (ROP 0.55%)Q3 2021 Earnings CallOct 22, 2021, 8:30 a.m. ET
+Operator
+Good morning. The Roper Technologies Conference Call will now begin. [Operator Instructions]
+I would now like to turn the call over to Zack Moxcey, Vice President, Investor Relations. Please go ahead.
+
+Zack Moxcey -- Vice President, Investor Relations
+Good morning, and thank you all for joining us as we discuss the third quarter financial results for Roper Technologies. Joining me on the call this morning are Neil Hunn, President and Chief Executive Officer; Rob Crisci, Executive Vice President and Chief Financial Officer; Jason Conley, Vice President and Chief Accounting Officer; and Shannon O'Callaghan, Vice President of Finance.
+Earlier this morning, we issued a press release announcing our financial results. The press release also includes replay information for today's call. We have prepared slides to accompany today's call, which are available through webcast and are also available on our website.
+Now, if you'll please turn to Slide two. We begin with our Safe Harbor statement. During the course of today's call, we will make forward-looking statements, which are subject to risks and uncertainties as described on this page, in our press release and in our SEC filings. You should listen to today's call in the context of that information.
+And now, please turn to Slide three. Today, we will discuss our results for the quarter primarily on an adjusted non-GAAP basis. During and subsequent to the third quarter Roper signed definitive agreements to divest it's TransCore, Zetec, and CIVCO radiotherapy businesses, results for these businesses are reported as discontinued operations for all periods presented. Unless otherwise noted, the numbers shown in this presentation are on a continuing operations basis. For the third quarter the difference between our GAAP results and adjusted results consists of the following items: Amortization of acquisition-related intangible assets; purchase accounting adjustments to commission expense; and lastly, income tax restructuring associated with our pending divestitures. Reconciliations can be found in our press release and in the appendix of this presentation on our website.
+And now if you please turn to Slide four, I'll hand the call over to Neil. After our prepared remarks, we will take questions from our telephone participants, Neil?
+Neil Hunn -- President and Chief Executive Officer
+Thanks, Zach and good morning everyone, thanks for joining us. We're looking forward to sharing with you the details of our solid quarter performance, as well as summarizing the acceleration of our portfolio transformation. As we look at the sequence of our call this morning we'll start with our quarterly highlights and our recent divestiture activity. I'll then turn the call over to Rob, who will share the details of our financial performance and our bridge to continued operations. I'll then walk everyone through our segment by segment performance and our outlook for the balance of the year. As usual, we'll leave plenty of time to talk to you all of your questions toward the end.
+Next slide please. As we turn to Page five, this is another quarter of solid operational and excellent financial performance. On a continuing ops basis we grew revenue, EBITDA and DEPS north of 20% in the quarter. It is important to highlight and characterize the underlying strength of these results. Revenue on an organic basis grew 12% in the quarter, end market and customer demand was very strong across our portfolio within both our software and product businesses.
+Importantly, our software segments were strong operationally with 10% growth in one segment and 17% in the other. Our software businesses recurring revenue grew low double-digits in the quarter, highlighting the underlying strength, stability and increasing quality of our revenue base. To remind everyone about 80% our software revenues are recurring in nature.
+It's also worth noting that our 2020 acquisition cohort, led by Vertafore, continues to perform very well. As it relates to our product businesses like most other companies we are experiencing supply chain and logistical challenges, but the businesses nevertheless, performed very well during the third quarter. As mentioned customer demand was very strong throughout the quarter and backlogs are up over 50% versus last year. Given the strong operational performance we continue our disciplined deleveraging of our balance sheet with net debt at 3.5 times trailing EBITDA. Also, we are improving the outlook for the year, which we will detail later in the call.
+Earlier this morning we announced two new additions to our Board of Directors, Irene Esteves and Tom Joyce. The addition of Irene and Tom to our Board is part of our long-term Board refreshment process both are tremendous additions to our Board. Finally, we've been active over the last few months working to accelerate the transformation of our portfolio through the announced divestiture of three businesses.
+Let's turn to the next slide, Page six, to walk through those details and highlights. Next slide please. During the last several weeks, we entered into definitive agreements to divest three of our businesses, TransCore, Zetec, and CIVCO radiotherapy, the last of which we announced this morning. We agreed to divest TransCore to ST Engineering for $2.68 billion.
+In our view, this is the right time and the right buyer for TransCore given their forward strategy and growth outlook. Taken together we are divesting these three businesses for $3.15 billion or about 20 times this year's EBITDA. Following the completion of these deals Roper will be improved. We will have a higher quality portfolio characterized by having higher proportions of recurring revenue, a higher organic growth profile and be significantly more asset light.
+Finally, we are and will be very active in deploying these after-tax proceeds. Together with our internally generated cash flow we will have about $5 billion of available M&A firepower to deploy between now and the end of 2022. None of which is included in our current financial outlook. Our enterprise will be even further enhanced once we complete this activity.
+Before I turn it over to Rob, I wanted to take a moment and highlight Roper's ability to govern, build and improve businesses over the long-term. As part of these transactions, we are retaining our DAT and Loadlink network software businesses, which are purchased together with TransCore in 2004 and we are retaining our CIVCO Medical Solutions business. Given we do not usually get clean book-ins to transaction activity, this provides a unique opportunity to talk about the business buildings that occurs within Roper.
+Specifically just after the acquisition of TransCore we established DAT and Loadlink as stand-alone businesses with independent strategies and management teams, who operate within Roper's governance and incentive system. Over the course of the last 15 years, these businesses have consolidated freight networks, continuously innovate their product solutions, built go-to-market capability and grown revenues high single-digits on a compounded organic basis. Similarly, the retained CIVCO Medical Solutions business has grown high single-digits on an organic basis over the last 15 years as well.
+During this period of time CIVCO Medical Solutions has continually innovated their product solutions, including the recent gel free ultrasound products and fundamentally restructured their go-to-market strategy. Net [Phonetic] Roper we buy great businesses and provide an environment and incentive system where they get even better over a long arc of time.
+Now let me turn it over to Rob to walk through the details of our financial performance.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Thanks, Neil. Good morning, everyone. Turning to Page seven, on this page we will review some Q3 financial metrics on a basis that includes the discontinued operations in order to compare our Q3 results to our previous guidance on an apples-to-apples basis. Including, the business is now classified as discontinued operations, we generated $1.621 billion of revenue and $602 million of EBITDA. Total DEPS was $3.91, which exceeded our Q3 DEPS guidance of $3.80 to $3.84. Free cash flow for the quarter was $431 million, down 2% versus prior year. Year-to-date free cash flow is now up 29% through three quarters.
+Now turning to Page right. Here we will review some of the key income statement metrics on a continuing operations basis, revenue increased 22% to $1.463 billion. Q2 organic revenue increased 12% with strong growth across all four reporting segments, led by 17% organic growth in our Network Software segment. EBITDA increased 21% to $558 million. Net earnings grew 24% to $384 million and DEPS also grew 24% to $3.60.
+Next slide. Turning to Page nine, this slide will update you on the latest instalment in our successful deleveraging story. Year-to-date, we have reduced our net debt by nearly $1.3 billion and our total debt reduction is now $1.8 billion, since completing the last of the 2020 acquisitions approximately one year ago. We continue to benefit from our excellent cash conversion as the nearly $2.3 billion of total EBITDA we generated over the last four quarters has converted to $1.94 billion of free cash flow, representing EBITDA to free cash flow conversion of 85%.
+At the end of September, our net debt to EBITDA has decreased to 3.5 times. We are on track to be near 3 times by the end of 2021 and therefore well positioned to return to capital deployment even before accounting for the divestitures. The proceeds from the divestitures further amplify our capacity with $5 billion plus available for deployment through 2022 as Neil highlighted earlier.
+Next slide. Moving now to Page 10, a quick look here and how the divestitures meaningfully improve our working capital position moving forward. This page repeat the working capital numbers we showed last October and as the Q3 '21 column, which shows the enterprise, including the removal of the three businesses being divested. We are now at negative 12% net working capital to revenue, compared to negative 6% in the same quarter last year and negative 3% back in Q3 2019. Divesting TransCore reduces our net working capital by approximately $200 million with the majority coming out of our unbilled receivables balance. This structurally lower net working capital positions us very well for continued high cash conversion moving forward.
+So with that, I'll turn it back over to Neil to cover the segments.
+Neil Hunn -- President and Chief Executive Officer
+Thanks, Rob. Let's turn to Page 12, and walk through our Application Software segment. Revenues in this segment were $603 million, up 10% on an organic basis. EBITDA margins were 44.4% in the quarter. Across the segment, we saw organic recurring revenue, which is a touch north of 75% of the revenue for this segment increased approximately 10%. This recurring revenue strength is based on strong customer retention, continued migration to our SaaS delivery models, cross-selling activity and new customer adds. Across this group of companies, the financial strength was broad.
+To highlight a few businesses Deltek our enterprise software business that serves the US federal contractor, architect, engineering, and other services end markets had another good quarter. During the quarter demand was particularly strong and enterprise GovCon and construction end markets. Importantly during the quarter Deltek also had success at the top in the market with their cloud or SaaS solutions.
+Vertafore our agency management cloud software business focused on P&C insurance agencies also had a nice quarter with very strong new bookings and nice expansion activity in some of their largest customers. Aderant our legal software business continued its momentum and market share gains. As we talked about last quarter Aderant is gaining momentum for their SaaS solutions this quarter setting a record for SaaS bookings activity.
+Consistent with the theme of this segment PowerPlan was strong as well, both in terms of new bookings and ads to the recurring revenue base, it's nice to see PowerPlan's refocused strategy start to pay dividends. As it relates to our healthcare IT businesses, Strata, Data Innovations and CliniSys were rock solid in the quarter. For Strata their recurring subscription-based software solutions continue to perform well and grew nicely. Strata's integration of EPSi is on track and nearly complete. The customer base continues to demonstrate excitement for this combination. Finally CliniSys continues to gain market share in the UK lab market and has been established as one of the four strategic IT partners for the NHS.
+As we turn to the outlook for the fourth quarter, we expect organic recurring -- excuse me, we expect organic revenue growth to be similar to that of the third quarter as recurring revenue growth rates are expected to remain strong. A solid quarter here for sure.
+And with that let's turn to the next slide. Turning to Page 13, the financial performance for this segment, as well the next to MAS and PT are shown on a continuing ops basis. Revenues in our network segment were $343 million, up 17% on organic basis, and EBITDA margins remained very strong at 51.6% in the quarter. The software businesses and this segment are now greater than 90% of the segment's revenue. Our NSS software growth was broad-based and driven by organic recurring revenue growth of approximately 17%.
+At the business level, our Freight Match businesses, both in the US and Canada continue to be solid growers. As a reminder, our Freight Match networks are critical and necessary helmets to help organize and transact the trucking, shipping, spot markets. Strength in our businesses have been on both sides of the network brokers and carriers with continued strength in the quarter on the carrier side of the network. In addition, these businesses had improving revenue per customer ARPU as a value of the network continues to increase with higher levels of network activity.
+Foundry our Media and Entertainment Software business, which enables the combination of live-action and computer generated graphics to be combined into a single frame demonstrated continued recovery and growth in the quarter. Worth pointing out as Foundry's continued commitment the product innovation and the recent release of their AI-enabled Nuke features that allow for more automated workflow steps within the video compositing process.
+Our businesses that focus in and around the US long-term care markets MHA, SHP and SoftWriters did particularly well in the quarter. iTradeNetwork our perishable food supply chain network business had a nice quarter as bookings growth was very strong and demonstrate this followed recovery in their end markets.
+Finally, we saw growth across the two product businesses within this segment, RF IDeas and Inovonics with particular strength and our Health Care end markets. As we look to the fourth quarter outlook, we expect to see low double-digit growth in this segment, again on a continuing ops basis.
+Please turn to the next slide. As we turn to Page 14 revenue in our MAS segment were $392 million, up 9% on organic basis. Organic growth in this segment excluding Verathon was again north of 20%. Notably, this is the last quarter for the very difficult Verathon COVID comp and we expect Verathon's return to growth in Q4. EBITDA margins for this segment were 32.4% in the quarter. The EBITDA margins in this segment were consistent with our expectations, but lower than prior year, due to Verathon's extraordinary prior-year quarter and the cost impacts of certain businesses is navigating their supply chain challenges. Again, these results are on a continuing ops basis.
+Before getting into business specific details across this segment demand can be characterized as being very strong. The demand was across all businesses and across both capital and consumable products. Product backlogs are up over 50%, as compared to a year ago. Our businesses, each of which were impacted by supply chain challenges navigated through the quarter. As it relates to individual business performance Verathon coming off unprecedented demand for their intubation family of products a year ago is roughly 40% larger today versus 2019. The momentum within this business continues given the larger installed base of intubation capital equipment, which enables recurring consumable pull through volumes.
+In addition Verathon is experiencing impressive growth when their Bronchoscope product family and sustained growth across their bladder scan ultrasound franchise. Our other medical product businesses accelerated nicely in the quarter, with particular strength that NDI and CIVCO medical solutions.
+Strong demand at Neptune continued in the quarter. Neptune's end markets continue to open up and improved, but have not fully recovered, especially in the Northeast US and Canada. Demand across our industrial business was robust as well and performance was strong, but somewhat impacted by supply chain challenges. For the fourth quarter we expect low double-digit organic growth for this segment. This is based on continued encouraging market conditions both in medical and industrial markets and easing prior year comps for Verathon.
+Now let's turn to our final segment Process Tech. As we turn to Page 15, revenues in our Process Tech segment were $124 million, up 16% on organic basis. EBITDA margins were 31.6% in the quarter. These results are also reported on a continuing ops basis. The short story here is we're seeing improving end market conditions across virtually every one of our businesses in this segment and strong demand both orders and backlog were up approximately 50% in the quarter versus a year ago. Recovery in our upstream oil and gas businesses accelerated in the quarter. Cornell continues to perform well for us. This is particularly pass excuse me this is partially based on market conditions, but also based on Cornell's product innovation as they're seeing very nice demand pickup for their IoT connected pumping solutions.
+Similar to that of our MAS industrial businesses, the businesses in this segment are being impacted by supply chain challenges, but continue to navigate through these issues. As we turn to the outlook for the fourth quarter, we expect high-teens organic growth based on improving market conditions.
+Now please turn to Page 17, where I'll highlight our increased outlook for 2021. Based on strong year-to-date performance and expected continued momentum we're establishing full-year 2021 guidance on a continuing ops basis, a $14.08 to $14.12. As you read on this table you will note that the full-year DEPS impact for the businesses being divested is $1.18. If you combine this with our newly established continuing ops guidance you will note, we are raising our full-year outlook on an apples-to-apples basis by $0.26 in the low-end and $0.10 on the high end. As it relates to the fourth quarter, we're establishing again on a continuing ops basis guidance in the range of $3.62 and $3.66.
+Now let's turn to our summary and get to your questions. As we turn to Page 18 and our closing summary, our third quarter was a solid quarter from both an operational and financial perspective. Simultaneously, we undertook significant work to further the transformation of our business portfolio. Revenue, EBITDA and DEPS grew 20% plus, organic revenue was up 12%. Across our enterprise end market and customer demand was strong in terms of software, product capital items and consumables. Throughout the quarter, our product businesses navigated through the market based supply chain challenges. Given all of this, we're able to increase on an apples-to-apples basis, our outlook for the full-year.
+We also continue to deleverage our balance sheet by $1.8 billion since the 2020 acquisitions with net leverage now coming in at 3.5 times trailing EBITDA. As it relates to the strategic governance of our enterprise we're excited to be announcing the addition of Irene and Tom as new members of our Board of Directors. As part of our long-term Board refreshment strategy these two new Directors will complement our existing Directors and help enable Roper to continue our track record of long-term cash flow compounding.
+Over the last decade, we have worked to enhance the quality of our portfolio. To this end, recently we took actions to meaningfully improve the quality of our portfolio by agreeing to divest TransCore, Zetec and CIVCO Radiotherapy. Once complete Roper will be a better version of Roper. We'll have higher proportion of recurring revenue, higher organic growth prospects and be significantly more asset light.
+In addition, we expect to have roughly $5 billion of capital available to deploy between now and the end of 2022. And as it relates to our M&A pipeline it is and always has been characterized as having many high-quality opportunities. So we're clear, we are 100% back on offense when it comes to our capital deployment portion of our strategy and have fully resumed our usual process oriented and disciplined M&A activities.
+And with that, let's open up to your questions.
+Operator
+We will now go to our question-and-answer portion of the call. [Operator Instructions] Our first question is from Deane Dray from RBC Capital Markets. Please go ahead.
+Deane Dray -- RBC Capital Markets -- Analyst
+Thank you, good morning everyone.
+Neil Hunn -- President and Chief Executive Officer
+Hey, good morning, Deane.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Good morning, Deane.
+Deane Dray -- RBC Capital Markets -- Analyst
+Hey, look when I look at free cash flow, organic revenue growth, recurring revenue everything checks the boxes, and there's a lot of moving parts this quarter and I really appreciate all the reconciliation of previous guidance versus revised with the divestiture. So just set that aside, and the first question I want to ask is for Neil to help put in contacts these recent portfolio moves. And I don't want to parse your words, but you know, the slides is accelerating a portfolio transformation you're not saying optimize, you know, you're not trimming at the edges, but you are making some sizable moves here in a cluster, and it just begs the question, what is the strategic transformation? Is it more just making Roper a better Roper? Or is there a more sizable change in portfolio composition coming and what the timing might be? Thanks, will start there.
+Neil Hunn -- President and Chief Executive Officer
+Yes. Thanks, Deane. So, hey, the -- it's all about Roper being a better version of our self. Our strategy, as you know and most people listening know for the last 20-years has been fundamentally based on improving the quality of our enterprise, you know, historically that's been characterized as being a more asset light, more recently it's not just that, but increasing mix toward recurring revenue, increasing mix toward higher or slightly higher organic growth businesses.
+So that strategy has been in place and will remain in place, nothing has changed there relative to the -- these three transactions, it's really a result -- these three are a result of really two different decisions Zetec was really an opportunistic situation with a strategic buyer, who offered a compelling price and it was just made sense and our view for our shareholders to let that go to that buyer and reduce a little bit of cyclicality and exposure to those Zetec end markets.
+As it relates to CIVCO Radiotherapy and TransCore, those were -- while there were independent decisions, the result of a single process, which was our, sort of, our new and revised, sort of, deep strategic review of all the businesses.
+We do this with each business on a rolling sort of three-year basis, the CIVCO Radiotherapy and TransCore reviews were late last year, early this year and we just felt given their future growth prospects, which are interesting and likely robust, but also capital intensive. In both cases we're going to just -- would be a sub optimized with us as an owner, you overlay that where the valuations we'll get for the businesses, you know, the three together, roughly 20 times this year it just made sense from all vectors for us.
+Deane Dray -- RBC Capital Markets -- Analyst
+Is there just circle back for the timing and just like what's ahead. How far down the road, are you on this optimization? Are there other bigger pieces coming? What kind of timing should we expect?
+Neil Hunn -- President and Chief Executive Officer
+Yes, I think the -- again it's -- I wouldn't -- I would call it, the acceleration of the transformation, transformation has been slow and evolutionary over 20-years as we've gone from 40% cyclical to now 10% or 15% cyclical going from more asset intensive, less asset intensive gone from products to software. I mean this has been an evolutionary approach and we expect that to continue.
+Deane Dray -- RBC Capital Markets -- Analyst
+Good. Well, just -- I really appreciate the specifics you provided, each one of these divestitures makes sense. You're getting good valuation for them so kudos to you guys. And then the second question, and this feels more like some that would ask at an Analyst Day. But just it jumped off the page here on your Board additions today adding Tom Joyce from Danaher, Irene from CFO of Time Warne. Yes, I presented to your Board last November, I've got a appreciation for our high-powered the group already is and how hands on they are. Could you just talk about the partnership with the Board, the dynamics, especially at this stage of the evolution of the portfolio. And where the priorities for the Board is in our -- at this time?
+Neil Hunn -- President and Chief Executive Officer
+Yes, appreciate the opportunity. Any opportunity to talk about our Board, because it is absolutely an undeniably a strategic asset for our business. The Board we highly engaged with 5 times a year, three days each time. So it's a Board that works hard. They enjoy working hard, it's a Board in that amount of time that we spend, it's not just a series of presentations there is space to have conversation, deliberation, challenge one another, and then form a point of view on the forward direction of our enterprise, highly collaborative group, but one where people express their points of view, open and freely. So it's a great environment.
+Also as in governance here is the refreshment process that goes with that. You know, the Board Chair that became the Board Chair at Brian's passing, Will Prezzano just aged off the Board, hence so we have a sort of that requirement to refresh the Board and we're super fortunate to have Irene and Tom join us. Irene will bring just a tremendous -- she is most recently professionally as a Executive of Time Warner, but a long track record in financial institutions just a very astute and financially savvy Executive, understands risk and risk management and also a very experienced Board member at this stage in here career.
+Tom, this will be as first public outside public company Board and everybody here listening those Tom very well, but just the combination of what he has done his 30-year career at Danaher, combination of business building and capital deployment, leader development is core to what we are all about. And I think both will just bring tremendous new thoughts to our Boardroom as we continue to evolve and build our business.
+Operator
+Our next question comes from Allison Poliniak from Wells Fargo. Please go ahead.
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+Hey, good morning guys.
+Neil Hunn -- President and Chief Executive Officer
+Hey, Allison.
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+Just wanted to talk the CRA metric, obviously core to your M&A strategy, and I suspect going forward, but with some of that asset intensive business coming out elevating Roper's on CRA, I guess, one is that, is it more challenging in terms of pool potential properties that you want to acquire? And I -- just maybe any thoughts on, does that CRA metric relative to Roper, kind of, shift going forward? Just any color there?
+Neil Hunn -- President and Chief Executive Officer
+Yes, cash return for us is our north star right? It is how we not just you don't -- it's just not only guides our capital appointment strategy guides, every operational decision in the business. It defines for us, for instance what good organic growth is versus just growth at any cost, right? Is how do you and CRA for those in our intimate with it is really just a measure of business quality. Do you have a cash flow relationship with their customer if you will, we're able to provide value -- capture value for that and have an underlying business model that doesn't require a lot of assets to deliver that value. That's what cash return is. It is our north star, it will continue to be our north star, it's just -- it's core to our culture here.
+And Allison in terms of your question about the number of targets, you know, mathematically, yes, it's the number of targets or fewer as we're looking to buy companies that are have CRA that aren't higher than our existing, but it's not a limp, it's not a limiter to our strategy, right? There is a vast ocean of software informatics data enabled business models that are out there that we've been fishing in for the last 10-years and it's not a practical constraint or capital deployment strategy.
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+Got it. That's helpful. And then just a quick question on Measurement & Analytical Solutions at core without Verathon, obviously up 20% plus. But then you talked about EBITDA some headwinds there, one being Verathon, but the other being supply chains. Is that just a headwind in terms of growth? Is it cost you can pass through just any incremental color there to help me reconcile that?
+Neil Hunn -- President and Chief Executive Officer
+Hey I'll start and I'll pass over to Rob. And so, first, I would say our business is more broadly like most businesses maybe around the world, certainly as country over the last 20-years who built their supply chain to optimize on the lowest cost and less so on resiliency, you know, a nice thing that our businesses did starting a couple of years ago is build some resiliency with the China, sort of, tariff situations that was a precursor, it helped us a bit.
+For us relative to the headwinds, yes, I was -- growth was limited a bit certainly across all of our product businesses, and then also the choice that our business is made when there is an opportunity to either expedite apart or go into a spot market or an alternative source for apart and pay incrementally bit more they did that. And so there is a little bit of gross margin headwind, hard to notice in a macro sense, but a little bit of headwind on GP percentage and then certainly some impact on the revenue side.
+Rob, anything you want to add there?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, just about 25% of the MAS segment or the industrial businesses. And so that's where you see some of this, and I think we mentioned earlier that backlog is up 50%, so that we have great orders and that bodes well for the future. But yes, I think, what Neil said there's spot on.
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+Great, thank you.
+Operator
+The next question is from Julian Mitchell from Barclays. Please go ahead.
+Trish Gorman -- Barclays -- Analyst
+Hey, good morning. This is Trish Gorman on for Julian. Just maybe following up on that last question regarding the supply chain constraints. Can you just talk more about what your assumptions are, kind of, embedded import guidance for when those might be?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes. So we're not expecting that they're going to ease really anytime soon. So we're expecting what we saw in the third quarter similar to what we'll see in the fourth quarter. And then as we get into next year, we'll update that next quarter, but we're continuing to build backlog that customer relationships are great. As Neil said we're expediting wherever we can to get products to customers. And so I think long-term it's a great story, short-term it's hard to say what's going to happen.
+Trish Gorman -- Barclays -- Analyst
+Got it. Thank you. That's helpful and then just maybe a follow-up, kind of broader we've been seeing industrial companies paying, kind of, anywhere from 30 to 100 times EBITDA for software assets now. And for this Roper, I think you will have to pay this kind of price too or can they still buy software assets for 20 times EBITDA less as it did with Vertafore? Thanks.
+Neil Hunn -- President and Chief Executive Officer
+Yes. I appreciate the question. Certainly valuations for higher quality software businesses are high, they've been hyper, while they remain high. It's -- I think, I said a couple of quarters ago, it feels like they may be stabilizing at a level. I think that still may be the case. But that level is very high. That said Roper buys businesses that are tried and true. The competitive forces in the market are observable, the market growth is observable, the forward growth outlook is diligenceable and understandable and the growth drivers can be clearly modeled.
+When you get those businesses that are in small markets, that are leaders that have mid to high single-digit organic growth and our 30% to 40% plus EBITDA margin businesses. Those trade and that we call it circa 20 times, maybe 18 times maybe 22 times. But they're sort of in that zone, and that's why we think that we'll continue to play and focus.
+Trish Gorman -- Barclays -- Analyst
+Great, thanks.
+Operator
+Next question comes from Christopher Glynn from Oppenheimer. Please go ahead.
+Christopher Glynn -- Oppenheimer -- Analyst
+Yes, thanks, good morning. So given the comment that the number of targets is not a practical constraint, I appreciate repeating that, which we've heard previously. I'm wondering, if the expectation is actually to at least replace the divested earnings in EBITDA in fairly short order. And can you under head of receiving those proceeds in terms of your negotiations with agencies and such?
+Neil Hunn -- President and Chief Executive Officer
+Yes, so appreciate the question. So first, I mean, we said it in the prepared remarks is on the slides is worth mentioning, we take the proceeds from these two transactions added to our cash flow we're generating in our current balance sheet leverage, there's about $5 billion of M&A firepower between now and the end of next year. So that's all good. The balance sheet's in good shape.
+Well, as we mentioned, we're super active in the M&A markets. But we always have been and always will be patient and disciplines, right? I mean, this is every deal matters, we're buying these businesses with the very long-term in mind to never sell them. So you have to buy the very best asset you can find and sometimes that takes time. So I'm not -- we're sort of putting out this mathematical marker of $5 billion, but I would not associate any specific timeframe with that, it's just were to dip patient, disciplined, focused, but active in the M&A markets.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+And I would say we do have flexibility in terms of the timing on when that capital is deployed, I don't think you have to wait for the proceeds to come in the door, but as Neil said we're going to be very, very disciplined, and we don't feel like we're rushing in anyway.
+Christopher Glynn -- Oppenheimer -- Analyst
+Okay, and just wanted to dive into the backlog, up 50% plus at the MAS segment. I'm curious the play of medical versus industrial and how Verathon factors into it?
+Neil Hunn -- President and Chief Executive Officer
+So it was the backlog were up over 50% in both MAS and PT, I'll certainly turn it over to Rob here at a second, but the backlog was strong at medical products, Verathon Northern Digital MMI, it was strong at Neptune and was strong at industrial. So...
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, it's very broad base, it really is across all the businesses, and again that's getting a lot of orders in and then being able to get the products out the door.
+Christopher Glynn -- Oppenheimer -- Analyst
+Okay. Last one from me, any estimate on the after tax impact of the $3.15 billion?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, I think we want to wait until we get the deals closed to comment on that. I mean, there certainly will be some tax leakage, but we'd rather wait till next year we get the deals closed and then we can give you a good number.
+Christopher Glynn -- Oppenheimer -- Analyst
+Thanks guys.
+Neil Hunn -- President and Chief Executive Officer
+Yes.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Thanks, Chris.
+Operator
+Next question comes from Joe Giordano from Cowen. Please go ahead.
+Joe Giordano -- Cowen & Company -- Analyst
+Hey, good morning guys.
+Neil Hunn -- President and Chief Executive Officer
+Good morning, Joe.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Good morning.
+Joe Giordano -- Cowen & Company -- Analyst
+So does this mean that I -- we're not going to be able to ask you guys about New York City deal and the [Speech Overlap].
+Neil Hunn -- President and Chief Executive Officer
+You can add it, we are under contract and not disclose a lot of details about that going forward.
+Joe Giordano -- Cowen & Company -- Analyst
+I will be sadly missed. Yes, I just wanted to ask on Neptune, a lot of like, kind of, different things being set out there in that market. Can you talk about where that business is this year like is that business growing this year or is it still down? How much did it declined last year? Just kind of curious to see and what's really going on in that metering market right now?
+Neil Hunn -- President and Chief Executive Officer
+Yes. So I'll give you a little bit color and turn it over to Rob. So it's -- for Neptune this year will be like really close to '19 just from a size perspective, it absolutely is growing this year. In the very short-term we're actually, we believe it's hard to measure in the very short-term, but the reports from the company Neptune as we picked up a little bit of market share this quarter, because we were able to deliver product on a much shorter lead time than some of the people we compete with. The thing that's about the market itself, the markets are opening, but nowhere close to fully recovered, especially in Canada and less so, but certainly not opened in the Northeast United States and the US Northeast.
+Final thing I'd say about Neptune is the strategy here is, I mean, it's very clear. And it appears to be working, if you will, having traction around the strategy on the product with the static meter product that were introduced to the market. The way we read the data off the meter and importantly now the software and analytics that play that Neptune is developing around what do you do with all the data once you captured off the meter in a more frequent basis. So it's -- the strategy is certainly got traction in marketplace and the business is growing and they have record levels of backlog as we sit here at the end of the quarter.
+Joe Giordano -- Cowen & Company -- Analyst
+Can you just remind me how much of the product in Neptune are you guys manufacturing like in-house and how much is contract?
+Neil Hunn -- President and Chief Executive Officer
+It's virtually all in-house. I mean, certainly there is -- if the supply chain and there are certain pieces that come, but between that two facilities in Neptune that it's a vertically integrated business.
+Joe Giordano -- Cowen & Company -- Analyst
+Okay and then my last question and I promise next quarter I'll ask software question. So this is like the first half, but the process got -- is that I mean slightly less growth expectation than previous? Is that just supply chain limiting your ability to deliver? Or does the market changed at all?
+Neil Hunn -- President and Chief Executive Officer
+No 100% supply chain related across all the businesses and incrementally the markets more favorable. We talked about the backlogs, but obviously, you know, that the US frac market is more favorable, energy price is more favorable. The project work at CCC is going well. So, yes, it's all supply chain related.
+Joe Giordano -- Cowen & Company -- Analyst
+Okay, awesome. Thanks guys.
+Neil Hunn -- President and Chief Executive Officer
+Thank you.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Thanks.
+Operator
+The next question comes from Jeff Sprague from Vertical Research. Please go ahead.
+Andrew Shlosh -- Vertical Research Partners -- Analyst
+Hey, good morning guys. It's Andrew Shlosh on for Jeff. How are you?
+Neil Hunn -- President and Chief Executive Officer
+Hey, Andrew, good morning.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Hey, Andrew, good morning.
+Neil Hunn -- President and Chief Executive Officer
+Andrew, are you there?
+Andrew Shlosh -- Vertical Research Partners -- Analyst
+Hey, sorry about that is unmute. So just firstly you said Vertafore was strong in the quarter and really good bookings there. Are you able to quantify the growth on a sales basis?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, it's right on track with the numbers that we laid out last year when we acquired the business. They're doing very, very well.
+Neil Hunn -- President and Chief Executive Officer
+Yes, and it's -- at the time of the acquisition we said it was a mid single-digit organic grower and it's -- that's where it is.
+Andrew Shlosh -- Vertical Research Partners -- Analyst
+Awesome. No, that's great color. And the other thing I was kind of thinking about, so Measurement & Analytical Solutions was up 9% organic, 20% organic, excluding Verathon. We talked a little bit about the growth there and I know revenues significantly above 2019 levels. How do we think about the growth going into 2022?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, I mean, we'll guide 2022 in beginning January, February when we announce earnings. So I think the trends are very, very good. And all those businesses we talked about the movement at Verathon to these -- to the equipment that has been critical to COVID fight and now has become more common, and so that leads to consumables and so I think it's a great long-term growth story at Verathon all those businesses, but we'll wait till next year to give you numbers on that.
+Neil Hunn -- President and Chief Executive Officer
+Yes, the only thing I'd add is, we're going to carry a very high backlog going into next year, there is momentum and demand. We'll see to the extent it's going to -- we expected to carry through for the full-year. But we'll certainly start strong.
+Andrew Shlosh -- Vertical Research Partners -- Analyst
+Great, thanks for the color. I'll pass the baton on.
+Neil Hunn -- President and Chief Executive Officer
+Thanks.
+Operator
+Our next question comes from Alexander Blanton from Clear Harbor Asset Management. Please go ahead.
+Alexander Blanton -- Clear Harbor Asset Management -- Analyst
+Hi, good morning.
+Neil Hunn -- President and Chief Executive Officer
+Good morning [Indecipherable].
+Alexander Blanton -- Clear Harbor Asset Management -- Analyst
+Yes, very interesting quarter. I wanted to ask about the organic growth was 12% average and 10% for application, 17% for network, 13% -- 9% for our measurement, 16% for processes and numbers that are way above historical rates of organic growth for this company and it's really stunning. And one comment that I had from our group this morning as well. Last year was depressed, so that we believe won't continue. Could you comment on that, how much of that growth is just due to a depressed base if any? And do you expect these kinds of things to continue? Is this organic growth rates?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes. So these businesses when we acquire them, I think, we're pretty consistent that their mid single-digit organic growth businesses sometimes they are high, we work hard to get them from mid to high. I think if you look at the double-digit certainly last year was down low single-digits and now we're up double digits. And so if you take the sort of the two-year run rate here in that mid to high single-digit organic, which I think is the natural run rate for those businesses, which we're always looking to accelerate.
+Alexander Blanton -- Clear Harbor Asset Management -- Analyst
+Yes, we're mid to high single-digit is somewhat above what Roper did for many, many years, which was more like the mid single-digits, not the high. So there is pickup?
+Neil Hunn -- President and Chief Executive Officer
+Yes, Alex, it's, Neil. I mean, I would say a couple of things there. I mean, we certainly -- we're going to carry momentum from this year into next year. So if you just look across the portfolio, I think next year we haven't done the guidance yet, it will probably be a little bit better than trend -- trend sort of mid single-digits over a long arc of time, next year it might be a touch better than that we'll see your guidance next year. But what we're trying to do from an -- for three years now as CEO, we've been trying to increase the organic growth rate of this business of the portfolio through a very structured, process oriented way that focus on strategy, the execution of strategy and really building a world-class teams and team effectiveness. And we're starting to see that, sort of, work in pockets of our organization that's a bit more mature. So the final story -- chapter hasn't been written on that story for us yet, it's got another several years to play out, but certainly encouraged by the early signs.
+Alexander Blanton -- Clear Harbor Asset Management -- Analyst
+Yes. Second question is on the outlook for acquisitions. You mentioned a very robust pipeline in the -- in your release -- in the earnings release, which was unusually, we don't use a comment on the pipeline in that location. But could you give us a little more color on that, what kind of timing can we look forward? Should we look for acquisitions right away in the next year? Or is it going to be later on and so forth?
+Neil Hunn -- President and Chief Executive Officer
+So I'll give you a very generic answer on the timing which is -- it's the pipeline always has a lot of deals in it. The pipe we're able to, because of our approach, you know, filter that pipeline where it's high quality and which we're spending our time on, sort of, high impact things, but you know the deal business, you can have a deal where you think you are the winner until you're not at the finish line. And so the timing is always a little bit subject to a handshake if you all between the buyer and the seller, it's not just a one-way thing. And so we're going to be very patient and very disciplined, and we don't feel any sense of urgency to get this $5 billion deploy just fair to say getting it deployed, we're going to do it in the way we've done for the last 20-years. And so it's hard to handicap the specific timing of when anything would happen. But we're going to be busy at work trying to get it done.
+Operator
+Our next question comes from Rob Mason from Baird. Please go ahead.
+Rob Mason -- Robert W. Baird -- Analyst
+Yes, good morning, thanks for the question. I just wanted to speak on the software businesses a minute. The growth was very good to see across both Application and Software Network, and Neil sprinkled throughout your commentary, it was frequently the strength around SaaS bookings and I know you have several businesses where you have SaaS conversions underway. So, just given the overall strength typically, you start to -- there is a little bit of headwind as you're converting some of those on-prem business does over to subscription. I'm just curious what that -- what does that headwind and buried in, in the growth that you're putting up
+Neil Hunn -- President and Chief Executive Officer
+Appreciate, Rob, the opportunity to talk about this. Just to level set everybody, the vast majority of the revenue on the network side of our business is already in the cloud and are recurring, it's 90% plus. So the vast, vast majority of the cloud conversions, Rob, what you're talking about shows up in our Application Software segment and is centered at Deltek, Aderant, PowerPlan, a little bit at Seaport. As you mentioned, when you convert, you know, the punch line of all this is, as we convert we believe it's a modest net growth driver, not a headwind.
+The reason it's a growth drivers, as you have two competing factors: one is the bad guy, you're referring to the J-curve, when you instead of selling a perpetual deal you sell our recurring revenue deal in the year of that deal, that's a bad guy, right? Because instead of getting 100% of revenue, when you ship the perpetual license, you get some small percentage of that depending on what month the subscription is booked. However what counters that is when you have these large installed base of customers that are paying annual maintenance on the historical perpetual. We are actively lifting and shifting those customers to the cloud.
+And when you do that, because what you're doing for them carries more value, right? You're on the current release, you are managing the infrastructure, managing cyber security, you're managing -- there is a greater value proposition. You're able to charge a higher recurring revenue base and so the uplift on the recurring overwhelms the negative headwind on that upfront sale and that becomes a modest net growth driver for us. Happy to talk about that offline in more detail, if you like.
+Rob Mason -- Robert W. Baird -- Analyst
+And is there a time frame that you're thinking about where these conversions largely complete themselves for the existing businesses?
+Neil Hunn -- President and Chief Executive Officer
+It's going to be -- it's elongated. In our case companies or -- can make a decision, they can either like some companies do just force it like we're taking you to the cloud this year, and it becomes that -- if the company's perspective, in our case for allowing our customers to pace that. So our customers are the one who are saying I'm ready to go to cloud, and we're going to meet them where they are. So in that case, it's going to be any elongated period of time, you know, certainly five plus years, it might be as long as 10. So it's going to be a slow throttle to get fully cloud enabled.
+Rob Mason -- Robert W. Baird -- Analyst
+How do you think about balancing, I guess, internal investment into support both sides of that?
+Neil Hunn -- President and Chief Executive Officer
+Yes, so it's the way that architecture of -- as our companies have become more cloud enabled, the architecture allows them with a service orientation to make invest, make one investment and deploy it to both platforms. So it's not really an either or it's a and.
+Rob Mason -- Robert W. Baird -- Analyst
+I see, I see. Thanks for the color. Appreciate it.
+Neil Hunn -- President and Chief Executive Officer
+Yes, my pleasure.
+Operator
+The next question comes from Steve Tusa from JPMorgan. Please go ahead.
+Steve Tusa -- JPMorgan -- Analyst
+Hi, hey guys, good morning.
+Neil Hunn -- President and Chief Executive Officer
+Good morning, Steve. Thanks for joining.
+Steve Tusa -- JPMorgan -- Analyst
+Yes, on the organic you guys didn't provide an update to the 7% plus. I know like there is some noise around disc ops and continuing ops. What is that number now for the year? I mean, I could, kind of, add up all the segments, but again there is a lot of noise in the numbers just moving stuff around. So, just an update to that 7% plus now on the continuing ops for the year, total [Speech Overlap]
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, I think on continuing ops basis for the year, the 8% on an apples-to-apples basis, the 7% is unchanged.
+Steve Tusa -- JPMorgan -- Analyst
+Okay, got it. So then why next year if you kind of have some supply constraints and stuff, kind of, pushing revenue into next year, and is ridiculously strong backlog. Why would that slow next year, I mean, is there any particular reason why that would slow?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+I mean, I think we'll guide next year in January and after we do all of our business reviews. But I don't see a reason why there should be a challenge.
+Steve Tusa -- JPMorgan -- Analyst
+Okay. And then just one last one, just on margins. What do you expect kind of this year for this continuing ops, kind of, roughly EBITDA margin range? And then in particular for A&S -- total company and then A&S EBITDA margins, just for a baseline for next year?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+So I think the total company margins are -- we sort of just gave you Q3, Q4, similar. And you know, and like I said, we'll guide next year after we do all our views.
+Steve Tusa -- JPMorgan -- Analyst
+Okay and then A&S any comments there?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+You mean, application software?
+Steve Tusa -- JPMorgan -- Analyst
+Yes, yes. The A&S margin just where you're going to end up for the year in the fourth quarter?
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Yes, I mean, I think generally similar to the third quarter.
+Steve Tusa -- JPMorgan -- Analyst
+Okay, great, thanks a lot.
+Neil Hunn -- President and Chief Executive Officer
+Thanks, Steve.
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+This concludes our question-and-answer session. We will now return back to Zack Moxcey for any closing remarks.
+Zack Moxcey -- Vice President, Investor Relations
+Thank you, everyone, for joining us today and we look forward to speaking with you during our next earnings call.
+Operator
+[Operator Closing Remarks]
+Duration: 54 minutes
+Zack Moxcey -- Vice President, Investor Relations
+Neil Hunn -- President and Chief Executive Officer
+Robert Crisci -- Executive Vice President and Chief Financial Officer
+Deane Dray -- RBC Capital Markets -- Analyst
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+Trish Gorman -- Barclays -- Analyst
+Christopher Glynn -- Oppenheimer -- Analyst
+Joe Giordano -- Cowen & Company -- Analyst
+Andrew Shlosh -- Vertical Research Partners -- Analyst
+Alexander Blanton -- Clear Harbor Asset Management -- Analyst
+Rob Mason -- Robert W. Baird -- Analyst
+Steve Tusa -- JPMorgan -- Analyst
+More ROP analysis
+All earnings call transcripts
+
+
+
+
+

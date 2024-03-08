@@ -1,0 +1,277 @@
+Image source: The Motley Fool.
+WEC Energy Group Inc (WEC 0.78%)Q4 2020 Earnings CallFeb 4, 2021, 2:00 p.m. ET
+Operator
+Good afternoon and welcome to WEC Energy Group's conference call for fourth quarter and year-end 2020 results. This call is being recorded for rebroadcast and all participants are in a listen-only mode at this time. Before the conference call begins, I remind you that all statements in the presentation, other than historical facts, are forward-looking statements that involve risks and uncertainties that are subject to change at any time.
+Such statements are based on management's expectations at the time they are made. In addition to the assumptions and other factors referred to in connection with the statements, factors described in WEC Energy Group's latest Form 10-K and subsequent reports filed with the Securities and Exchange Commission could cause actual results to differ materially from those contemplated. During the discussion, referenced earnings per share will be based on diluted earnings per share unless otherwise noted.
+After the presentation, the conference will be open to analysts for questions and answers. In conjunction with this call, a package of detailed financial information is posted at wecenergygroup.com. A replay will be available approximately two hours after the conclusion of this call.
+And now it's my pleasure to introduce Gale Klappa, Executive Chairman of WEC Energy Group.
+
+Gale Klappa -- Executive Chairman
+Good afternoon, everyone, and thank you for joining us today as we review our results for calendar year 2020. First, I'd like to introduce the members of our management team who are here with me today. We have Kevin Fletcher, our President and CEO; Scott Lauber, our Chief Operating Officer; Xia Liu, our Chief Financial Officer; and Beth Straka, Senior Vice President of Corporate Communications and Investor Relations.
+As you saw from our news release this morning, we reported full-year 2020 earnings of $3.79 a share. John will provide you with more detail on our financial metrics in just a few minutes. But first, I'm pleased to report that we delivered a record year on virtually every meaningful measure of performance, from customer service to network reliability to earnings per share, despite the challenges posed by the Covid19 pandemic. Our focus on efficiency and financial discipline and an encouraging rebound in energy demand during the second half of the year resulted in the highest net income from operations, and the highest earnings per share in Company history. And throughout the difficulties of a pandemic year, we also accelerated our support for the communities we serve. In total, our companies and foundations donated more than $20 million dollars to non-profits across our service area, including more than $2 million to direct Covid19 relief efforts.
+We also made significant progress on diversity and inclusion. We spent a record $303 million with diversifiers during the year, and through our Board refreshment, 46% of our Board members now are women and minorities. In addition, we set new aggressive goals as we continue to improve our environmental footprint. In fact, I'm pleased to report that based on preliminary data for 2020, reduced carbon dioxide emissions by 50% or (technical difficulties) 2005 levels. And we have, as you know, a well-defined plan to achieve a 55% reduction by the end of 2025. Over the longer term, expect to reduce carbon emissions by 70% by 2030, and as we look out to the year 2050, the target for our generation fleet is net-zero carbon. Our new five-year capital plan lays out a roadmap for achieving these goals, we call it our ESG progress plan. The largest five-year plan in our history. It calls for investment in efficiency, sustainability, and growth, and it drives average annual growth in our asset base of 7% with no need for additional equity.
+Highlights of the plan include 1,800 megawatts of wind, solar, and battery storage that would be added to our regulated asset base in Wisconsin. And we have allocated an additional $1.8 billion to our infrastructure segment, where we see a robust pipeline of high-quality renewable projects, projects that have long-term contracts with strong creditworthy customers. All in all, our plan positions us to deliver among the very best risk adjusted returns our industry has to offer. And now, let's take a brief look at the regional economy. There was, of course, an unusual year for everyone, but many of our commercial and industrial customers proved to be quite resilient, providing essential products and services such as food, plastics, paper, packaging, and electronic controls.
+The latest available data show Wisconsin's unemployment rate of 5.5%. That's more than a full percentage point better than the national average. And as we look to the year ahead, we see positive signs of continued growth. For example, Green Bay Packaging is building a major expansion of its mill in northeastern Wisconsin, the $500 million addition, and is expected to be completed later this year.
+The Foxconn Komatsu Mining, Haribo, and Milwaukee Tool projects that we've reported to you in the past are all moving forward as well. So, we remain optimistic about the strength of the regional economy and our long-term sales growth. Finally, I know many of you are interested in our rate case calendar for the year ahead. As you know, under normal circumstances, our Wisconsin utilities would be filing rate reviews later this spring for energy rates that would go into effect on January 1, 2022. Of course, we're in the middle of anything but normal times, and I can tell you that we've begun discussions with the Commission staff and we'll be talking with other major stakeholders to determine whether a one-year delay in the filing would be in everyone's best interest. I expect the final decision on this around the end of the first quarter.
+And now I'll be happy to turn the call over to Scott for more detail on our sales results and our forecast for 2021, as well as an update on our infrastructure segment and our O&M performance Scott, all yours.
+Scott Lauber -- Chief Operating Officer
+Thank you, Gale. Turning now to sales. We continue to see customer growth across our system. At the end of 2020, our utilities were serving approximately 11,000 more electric and 27,000 more natural gas customers compared to a year ago. Retail electric and natural gas sales volumes are shown beginning on Page 17 of the earnings packet. Overall retail deliveries of electricity, excluding the iron ore mine, were down 2.1% compared to 2019, and on a weather normal basis, deliveries were down 2.9%. Natural gas deliveries in Wisconsin decreased 7.9% versus 2019. And by 2.4% on a weather normal basis. This excludes gas used for power generation.
+On the electric side, you'll note the positive trend that we've seen in residential sales has continued. Importantly, it has counterbalanced the weakness in small commercial and industrial sales caused by the pandemic. Meanwhile, large commercial industrial sales excluding the iron ore mine were down 7.1% for the full year compared to 2019, on a weather normal basis. However, these sales were only down 4.6% for the fourth quarter. A notable positive trend reflecting the recovery of Wisconsin's economy. Now, I'd like to briefly touch on our 2021 sales forecast for our Wisconsin segment. We are using 2019 as a base for 2021 retail projections. We're using 2019 because it represents a more typical year. We are forecasting a decrease of 1.5% in weather normal retail electric deliveries, excluding the iron ore mine compared to 2019. This would represent a 1.4% increase compared to 2020.
+We expect large commercial and industrial sales to continue to improve and anticipate the same positive offsetting relationship between residential sales and small commercial industrial sales. For our natural gas business, we project weather normalized retail gas deliveries to decrease by 2.4% compared to 2019, this leaves the projected sales outlook compared to 2020, relatively flat. With this in mind, we remain focused on operating efficiencies and financial discipline across our business. We lowered operations and maintenance cost by more than 3% in 2020 and we continue to adopt new technology and apply best practices. We plan to reduce our operations and maintenance expense by an additional 2% to 3% in 2021.
+I also have an update on our infrastructure segment. The blooming Grove and Tatanka Ridge projects are in-service now and came in ahead of time and on budget. As a reminder, our Thunderhead Wind investment is projected to go in service by the end of the third quarter. We accept -- expect [Phonetic] this segment to contribute an incremental $0.08 to earnings in 2021.
+And now I will turn it over to Kevin for his update on utility operations.
+Kevin Fletcher -- President and Chief Executive Officer
+Thank you, Scott. Throughout 2020, we kept the energy flowing to our customers safely and reliably. Our largest utility, We Energies, was named the most reliable electric company in the Midwest for the tenth year running, and our Peoples Gas subsidiary was named the most trusted brand and a customer champion for the second year in a row by Escalent, a leading behavior and analytics firm. Now, I'll review where we stand on current projects in our ESG progress plan. As you heard in our last call, the Two Creeks Solar Farm is now operating. As we've mentioned, the very large project, in fact, just days after achieving commercial operation this past November, our share of this project accounted for more than 20% of the solar output in the entire MISO generation market. Also, in Wisconsin, We Energies is making progress in the approval process for two liquefied natural gas facilities, which would provide enhanced savings and reliability during our cold winters. If approved, we expect to be in construction in the fall of this year and to invest approximately $370 million in total to bring the facilities in operation in 2023. And as Gale just mentioned, our ESG progress plan includes 1,800MW of wind, solar, and battery storage. Filings with the Wisconsin Commission for a number of these projects will begin in the first quarter. Turning to Illinois. As you may recall, we were in the midst of a rate review for one of our smaller subsidiaries, North Shore Gas, which serves approximately 160,000 customers in the northern suburbs of Chicago. Rates for North Shore Gas were last set more than five years ago before we acquired the company. Since then, we have consistently invested capital to serve our customers while reducing operating costs. The Illinois Commerce Commission has set a schedule for concluding the case. Meetings are expected to begin in late April, with the final order in September.
+And with that, I'll turn it back to Gale.
+Gale Klappa -- Executive Chairman
+Kevin, thank you very much. We're confident that we can deliver our 2021 earnings guidance in the range of $3.99 a share to $4.03 a share. This represents earnings growth of between 7% and 8% of our 2020 base of $3.73 a share. And you may have seen the announcement that our Board of Directors at its January meeting raised our quarterly cash dividend to $0.6775 a share for the first quarter of 2021. That's an increase, folks, of 7.1%. The new quarterly dividend is equivalent to an annual rate of $2.71 a share and this marks the 18th consecutive year that our company will reward shareholders with higher dividends.
+We continue to target a payout ratio of 65% to 70% of earnings, right smack dab in the middle of that range now, so I expect our dividend growth will continue to be in line with the growth in our earnings per share. Next up, Xia will provide you with more detail on our financials and our first quarter guidance. Xia?
+Xia Liu -- Chief Financial Officer
+Thanks, Gail. Our 2020 earnings of $3.79 per share increased $0.21 per share compared to 2019. Our favorable 2020 results were driven by a number of factors, these included the execution of our capital plan rate adjustment at our Wisconsin utilities, ROE improvement at American Transmission Company, production tax credit in our infrastructure business, and continued emphasis on operating efficiency. These factors helped us to overcome the sales impact of Covid19 and mild winter weather, and all of our utilities met their financial goals in 2020.
+The earnings packet placed on our website this morning includes a comparison of 2020 results on page 21. I'll walk through the significant drivers impacting our earnings per share. Starting with our utility operations, grew [Phonetic] our earnings by $0.22 compared to 2019. First O&M expenses were favorable. This includes $0.08 from lower day-to-day O&M expenses and $0.09 from lower sharing amounts in 2020 at our Wisconsin utilities. Second, despite the impact of Covid19 and reduced wholesale and other margins, rate adjustments at our Wisconsin utilities continue -- continued capital investment, and fuel drove a net 21% increase in earnings. Third, we had $0.12 of higher depreciation and amortization expense and an estimated $0.05 decrease in margins related to mild winter weather year-over-year.
+These factors partially offset the favorable items we discussed. Overall, we added $0.22 year-over-year from utility operations. Earnings from our investment in American Transmission Company increased $0.08 per share compared to 2019. Recall that $0.07 of the $0.08 were driven -- were due to ROE changes from FERC orders issued in November, 2019, and May, 2020. $0.04 resulted from the November 2019, order and $0.03 from the May 2020, order. The penny came mainly from continued capital investment. Earnings at our energy infrastructure segment improved $0.05 in 2020 compared to 2019, primarily from production tax credits related to wind farm acquisitions. These include the Coyote Ridge Wind Farm placed in service at the end of 2019. Additional 10% ownership of the Upstream Wind Energy Center and the Blooming Grove Wind Farm came online in early December.
+Finally, you'll observe that we recorded a $0.09 charge in Corporate and Other to account for the make-whole premiums we incurred in the fourth quarter as we refinanced certain holding company debt to take advantage of lower interest rates. The remaining $0.05 decrease is related to some tax and other items, partially offset by lower interest expense. In summary, WEC improved on our 2019 performance by $0.21 per share.
+Now I'd like to update you on some other financial items. Our effective income tax rate was 15.9% for 2020, excluding the benefit of unprotected taxes flowing to customers, our rate was 20.2%. Looking to 2021, we expect our effective income tax rate to be between 13% and 14%. Excluding the benefit of unprotected taxes flowing to customers, we project our 2021 effective tax rate to be between 19% and 20%. Adding past years, we expect to be a modest taxpayer in 2021. Our projections show that we will be able to efficiently utilize our tax position with our current capital plan.
+Looking now at the cash flow statement on page 6 of the earnings packet. Net cash provided by operating activities decreased $149.5 million. Our increase in cash earnings in 2020 more than offset by higher working capital requirements, primarily related to Covid19 and by higher pension contributions. Total capital expenditures and asset acquisitions were $2.9 billion in 2020, a $345 million increase from 2019. This reflects our investment focus in our regulated utility and contracted renewable businesses at our energy infrastructure segment.
+In terms of financing activities, in the fourth quarter of 2020, we opportunistically refinanced over $1 billion of holding company debt, reducing the average interest rate of these notes from 3.3% to 1.5%. We continued to demonstrate our commitment to strong credit quality. As expected, our FFO to debt ratio was 15.4% in 2020. Adjusting for the impacts of voluntary pension contributions and customer arrears related to Covid19, our FFO to debt was 16.9% in 2020. At the end of 2020, our ratio of holding company debt to total debt was 28%, below our 30% target.
+In addition, as Gale mentioned, we have no need for additional equity over the five-year forecast period. Finally, let's look at our guidance for the first quarter of 2021. Last year we earned a $1.43 per share in the first quarter. We project first quarter 2021 earnings to be in the range of $1.45 per share to $1.47 per share. We have taken into account mild went -- weather to-date and this forecast assumes normal weather for the rest of the footer. For full year 2021, we are reaffirming our annual guidance of $3.99 to $4.03 per share.
+With that, I'll turn it back to Gale.
+Gale Klappa -- Executive Chairman
+Xia, thank you so much. All, we're on track and focused on delivering value for our customers and our stockholders.
+Operator, we're ready to open it up for a little trash-talking and the Q&A portion of our conference call today.
+Operator
+Thank you very much. Now we will take your questions. The question and answer session will be conducted electronically. [Operator Instructions]
+Your first question comes from Shar Pourreza with Guggenheim. Your line is open.
+Gale Klappa -- Executive Chairman
+I can roll, Shar. How are you today?
+Unidentified Participant
+Hey, sorry to disappoint. It's actually James for Shar.
+Gale Klappa -- Executive Chairman
+That's all right. Better looking in younger.
+Unidentified Participant
+Yeah, exactly. The easier question. So, I guess, if we could start on the infrastructure side. You've laid out $2.2 billion going forward, how should we sort of think about the cadence of that, and does the extension of tax credits earlier this month kind of change any of your timing or thoughts there? Or any changes in the opportunity set?
+Gale Klappa -- Executive Chairman
+We're happy to answer those questions. First of all, for the five-year plan, we've laid out $1.8 billion of additional capital, in that five-year plan. As I mentioned in our -- in the prepared remarks, we're going through due diligence on a number of projects right now. We've got a robust pipeline that we're looking at and because we are so far ahead of schedule on our infrastructure segment right now, we can afford to be very selective, and really cherry-pick only the very best projects that meet or exceed our criteria. So, long story short, the cadence will continue, wouldn't surprise me if we have one or two more announcements during the calendar year 2021. And then regarding the -- regarding the change in the tax credits, the extension of the tax credits, really all of that -- all that does, I think, is give us even more to look at in the pipeline. It certainly does not in any way diminish our opportunity set, and remember that we are really utilizing our tax appetite here as a way to continue to grow earnings, continue to improve our environmental footprint, and build optionality for down the road when we're certainly going to need in our retail rate base, a more carbon-free energy. [Speech Overlap]
+Unidentified Participant
+Just so there is no confusion, it is $2.2 billion in the fve-year plan. $400 million of that is the Thunderhead project that has been announced already, that the additional $1.8 billion is just what hasn't been announced yet. Just so there is no confusion?
+Gale Klappa -- Executive Chairman
+Yeah. We have $1.8 billion to look at, Thunderhead is on its way. We hope by the end of the third quarter.
+Unidentified Participant
+Perfect, thanks. And I guess, just kind of following on the clean resources side. Since you and Shar last spoke, we've seen NextEra formally file at the NRC to extend the life of Point Beach. Have you had any conversations with them yet? Are there any general updates there to think about potential recontracting or retirement?
+Gale Klappa -- Executive Chairman
+Well, first of all, they are in the very early stages of thinking through what they might want to put together for a life extension at Point Beach and we have had some very preliminary discussions. But one thing is very clear, from our standpoint and NextEra standpoint, we are going to make the best decision possible from the standpoint of economics for our customers, whether that includes an extension to Point Beach, whether that includes an investment opportunity, but either way, I see us having a robust investment opportunity set as we get into the next decade, one way or another.
+Unidentified Participant
+Got it. Thanks, guys, and congrats on a strong finish to a tough year.
+Gale Klappa -- Executive Chairman
+Thank you for your questions. Appreciate it. Tell Shar to behave, OK?
+Unidentified Participant
+Will do.
+Operator
+Your next question comes from Durgesh Chopra [Phonetic] with Evercore. Your line is open.
+Gale Klappa -- Executive Chairman
+Hi, Durgesh.
+Durgesh Chopra -- Evercore ISI -- Analyst
+Hey, Gale. Good afternoon. Thanks for taking my question. Just, I'm clear on the quarter. Thanks for the update on '21. Just on the rate case front, Gale, just -- have you been here before? So have you done this in Wisconsin before, can you just remind us? And what might the options look like? Could you differ the rate increase or if I'm thinking about 2022, could you accelerate your cost savings to sort of stay on target with your 5% to 7% EPS growth rate? Just any color around that would be helpful. Thanks, Gale.
+Gale Klappa -- Executive Chairman
+Sure. Thank you, Durgesh. I appreciate the question. I mean, the short answer is, yes, we have had stay outs before. In fact, if you think about what occurred after the acquisition of INTEGRIS in 2015, we were out of a rate case for four years. Again, in constructive discussions with the commission staff and the intervener groups. So again, as I mentioned to you, we're in early stages of discussion right now with the commission staff. We will be talking with all the stakeholder groups. The concept would be rather than potentially filing a rate case on a normal schedule this year, the concept would be, is it in everyone's best interest to have a one-year delay in the filings for our Wisconsin utilities? And so, we're working on what the outline of that looks like and whether or not again everyone would agree that it's in the best interest of all parties involved, for us to push out, given where we're at with the economy, etc., for us to push out a rate filing for one year.
+And I do believe those conversations are constructive and we should have a final decision. I would think around the end of the first quarter.
+Durgesh Chopra -- Evercore ISI -- Analyst
+You got it. Thanks, Gale. That's all I had. Thank you.
+Gale Klappa -- Executive Chairman
+Thank you. Take care.
+Operator
+Your next question comes from Julien Dumoulin-Smith with Bank of America. Your line is open.
+Gale Klappa -- Executive Chairman
+Julien, how you doing?
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Hey. Okay, great. Thanks for the time, guys. Afternoon. So, I -- listen, incredible cost reductions, right? And so, here's what I want to know, how are you guys continuing to reduce costs as you think about this 2% to 3% after a year, where so many of your peers already brought down costs. And the question is the sustainability of those cost reductions. So if you can elaborate on that? And then separately, just to follow up on the last one, I'll throw it in there, you've already articulated some benefits on O&M, you've talked about your refinancing activities here that certainly have some tailwinds, what other pieces in this -- what other ingredients are there in terms of the stay out here that are relevant in these conversations, if you mind?
+Gale Klappa -- Executive Chairman
+Okay. Great questions as always, Julien. Well, first of all, related to the sustainability of O&M reductions, let me be very clear, we have continued runway, and I believe strong sustainability for continued O&M reductions. And let me give you three reasons why. The first is: we're pretty damn good at it, number one. Number two, we continue to benefit from putting in common systems across our footprint. Remember we had the acquisition of INTEGRIS at the end of 2015, since then we have -- we have done an enormous amount of work to basically put everybody on the same platforms. We put in a new general ledger for every one of the companies. Just Kevin -- just 10 days ago, 12 days ago, we completed a major conversion to a brand-new customer information and billing system, where all seven of our customer-facing utilities are now on that system. That is going to drive optimization of our call centers, significant cost reduction.
+So, number one, we are very, very good at financial discipline. Our operating folks are just terrific. Every single area of the company has a cost -- has a cost initiative for 2021 and beyond. And it really is more than a cost initiative, it's an efficiency initiative. So, I feel very good about, basically, our DNA, in terms of continuing to drive efficiency and best practice across the enterprise, number one. Number two, just the continued ability to optimize the organization, we still have a runway to go there, post the acquisition of the INTEGRIS, and the example I gave you, of a common customer information and billing system, I think is a very good example of that.
+And then thirdly, we've announced, as you know, the retirement of a number of older, less efficient coal-fired power plants. There are significant O&M savings that will derive with the retirement of those plants, particularly over 2023, 2024, and 2025. The retirements are really going to come in that timeframe, but there are millions of dollars of cost savings as we retire those plants going forward, and replace that capacity with much more efficient -- with much more efficient technology. So, it's a long answer to your question, but I hope it gives you some color on, first of all, our success at continuing to drive efficiency, but also our -- the reason why we feel that that's sustainable and ongoing.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Right. And then, in terms of the rate case itself, I mean, it sounds like you've got the key ingredients to justify not going in for a rate increase, I suppose?
+Gale Klappa -- Executive Chairman
+Well, Julien, if we didn't, we'd be talking a whole different story here. [Speech Overlap] That would -- we feel -- we feel good about depending upon everyone's view of whether or not it's in -- it's in the best interest of the state to us -- for us to stay out for another year. We feel very good about our ability to do that again, for both our customers and our shareholders.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Yeah, absolutely. Thanks. So, and then comment on '23 through '25 that relates to Columbia here, just to meet the -- the take and tie thing?
+Gale Klappa -- Executive Chairman
+Oh, gosh. It relates to the four older units at our Oak Creek site, it relates to Columbia, that was our -- that was our player to be named later in our investor deck. So -- so that's -- because our Wisconsin Public Service subsidiary's a minority at Columbia and it relates to a unit as well in Wisconsin Public Service.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+So, it's across the fleet? Excellent. All right. We'll leave it there. Thanks, guys.
+Gale Klappa -- Executive Chairman
+Take care, Julien.
+Operator
+Your next question comes from Jeremy Tonet with JP Morgan. Your line is open.
+Gale Klappa -- Executive Chairman
+Greetings, Jeremy. How are you today?
+Jeremy Tonet -- JP Morgan -- Analyst
+Good. Good afternoon. Thanks for having me.
+Gale Klappa -- Executive Chairman
+Oh, you're -- nice being had.
+Jeremy Tonet -- JP Morgan -- Analyst
+Just wanted to kind of start off with a high-level question if I could. The Biden administration has some new emission reductions goals out there, and I was just wondering if you had any thoughts on them? And if this becomes law, how this might impact WEC?
+Gale Klappa -- Executive Chairman
+Are you thinking, Jeremy, specifically about the aspirational goal of a carbon-free grid by 2035, is that your thought process?
+Jeremy Tonet -- JP Morgan -- Analyst
+Yeah.
+Gale Klappa -- Executive Chairman
+Okay, all right. Well, first of all, I think if you asked anyone in our industry, you never say never, but that is one tall order. I would kind of analogize it to a moon shot actually when you think about what it would take. And again, the pace of technology development can change all of this. When you think about what it would practically take to get to a full carbon-free grid by 2035, you would frankly have to have enormous technological change. If you think about what levers could you pull to get there and there are probably four. One might be huge advancement in modular nuclear, one might be continuing advancement in the cost-effectiveness of carbon capture, one might be a breakthrough in long-duration battery storage, and the other would be hydrogen.
+Again, when you look at where hydrogen is that in terms of its stage of development, hard to think that that could be widely available as a tool in 2035. Modular nuclear is a long way away -- being widely available. So that kind of leaves you with carbon capture, that also leaves you with can there be some more significant advancement in battery technology for longer duration storage. I think, those are the elements that we would continue to look at. If I were a betting man, I would say carbon capture is probably further along, but long story short, it's a tall order. And in the meantime, I think the good news is: our industry has done so much already. Our Company has done so much already in emission reduction, that we are -- our goals are a mirror to the goals in the Paris Climate Accord.
+So regardless of whether we're totally there in 2035, I think we can continue on the path of reducing emissions. We don't need any change at technology to hit our 2030 goal of a 70% reduction. So, I'm still optimistic about the path of -- the path of emission reductions. And we'll see about 2035. But, I guess, my bottom line message is: never say never, but it would take very significant technology evolution.
+Jeremy Tonet -- JP Morgan -- Analyst
+That's a very helpful economic context. I appreciate that. Thank you.
+Gale Klappa -- Executive Chairman
+You're welcome.
+Jeremy Tonet -- JP Morgan -- Analyst
+And just one last one if I could, just to clarify here, I might have missed it here, but could you confirm if the guide, the 7% to 8% guide is based off the $3.73 [Phonetic]? If that's how we should be thinking about the CAGR here?
+Gale Klappa -- Executive Chairman
+Yes, it's based off the midpoint of our 2020 original guidance, which was $3.73.
+Jeremy Tonet -- JP Morgan -- Analyst
+That's great. Thanks so much.
+Gale Klappa -- Executive Chairman
+You're welcome. Good questions, Jeremy.
+Operator
+[Operator Instructions] Your next question comes from Michael Weinstein with Credit Suisse. Your line is open.
+Gale Klappa -- Executive Chairman
+Hello, Mike. How are you doing today?
+Michael Weinstein -- Credit Suisse -- Analyst
+All right. I am doing good. Hey, just of [Technical Issues]
+Gale Klappa -- Executive Chairman
+Well, your technology may not be doing so good, Michael. Operator, unfortunately, I think Mike cut off there.
+Operator
+Okay, thank you. Your next question comes from Michael Lapides with Goldman Sachs. Your line is open.
+Michael Lapides -- Goldman Sachs -- Analyst
+Hey, Gale. Thanks for taking my question.
+Gale Klappa -- Executive Chairman
+You're welcome. How you doing?
+Michael Lapides -- Goldman Sachs -- Analyst
+I'm OK. I have two for you. One is -- well, one may be for others on the team, one for you. Just curious for you. There are lots of states that are talking about or putting out restrictions on gas distribution customer demand growth or that would impact gas distribution volumetric growth. I guess, my question for you is, A, what's your view on that, in general? It's clearly had an impact on kind of the pure-play gas utilities out in the market, but also, just how investors and how policymakers are thinking about gas distribution businesses? And are you seeing any of that type of activity in the states you serve?
+Gale Klappa -- Executive Chairman
+Short answer -- and it's a good question, Michael. Short answer is: no. In fact, I believe, in one of the states we serve, there's -- someone is drafting legislation to make sure there is never a ban on the use of natural gas, particularly for home heating. Couple of thoughts along those lines, and I'm happy to have Kevin, Xia, Scott give you their view or add anything to that I might say. First of all, of the region we serve, our four-state area with natural gas, well, let me give an example, it's going to get, according to the weather forecast, 32 below in International Falls, Minnesota, this Sunday. There is not a heat pump in the world or one under development that could keep you warm at 32 below, so the market share for natural gas heating in each of the four states where we provide natural gas, is huge.
+And on average, in Michigan, Wisconsin, Minnesota, and Illinois, on average, it's almost a 70% market share. So natural gas for home heating has about a 70% market share and there is a reason for that. It's cost-effective, it's convenient, it's clean, and in these kind of climates, natural gas is really the best alternative. Now, looking way down the road, and some have said, well, maybe, hydrogen will take the place of natural gas.
+Well, you still have to get the hydrogen from -- you still have to get the hydrogen to the customers, and as difficult as it would be, as difficult as permitting it is, as difficult as it is to build infrastructure in this country, today, I can't imagine it's practical to develop an entirely new distribution network. And technologically, we believe -- we believe with some slight changes, natural gas distribution network could carry hydrogen fuel. So my sense is that the fear about the future of natural gas is a bit overblown, maybe way overblown. But in a climate like ours, in the upper midwest, natural gas is going to be an important product, I believe, for many years to come.
+And, Scott, we're still seeing very strong customer growth on the natural gas delivery side of the business.
+Scott Lauber -- Chief Operating Officer
+Yeah, that's correct, Gale. In fact, we are still seeing, especially in Wisconsin, Michigan, and Minnesota, about 1% new customer growth, and we saw a large customer even switchover in the fall from using coal in their industrial process over to natural gas. So we're still seeing a really good growth on the customer side in natural gas.
+Kevin Fletcher -- President and Chief Executive Officer
+[Speech Overlap] We're seeing conversions from propane still as well. So our geographic area, gas will be a part of our future, the near future.
+Gale Klappa -- Executive Chairman
+That's a good -- that's a very good point. If you look at market share, I mentioned, about a 70% market share for natural gas. Propane is in our four states, the next most used fuel source. So, yeah, and people are moving off of propane over to our gas distribution network. Michael, I hope that responds
+Michael Lapides -- Goldman Sachs -- Analyst
+No, that's super helpful. Just one quick follow-up. Whether organically, meaning via growing the rate base faster within your current plan or inorganically, would you be willing to help the mix of the earnings power of the company even more toward being -- more toward gas versus electric?
+Gale Klappa -- Executive Chairman
+Michael, you never say never, but when I think about capital allocation, and when the four of us, when Xia, and Scott, and Kevin, and I look at our opportunities with our team, we see so many significant investment opportunities on the electric side, that I don't -- practically, I think our set of investment opportunities is even greater as electrification continues, and as the push toward renewables continues. So again, you never say never, but our investment opportunity set, I think, is even more significant on the electric side. That's where -- that's where our capital allocation will continue to grow.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. And then, last one, if you'll, pardon me. Have you all ever disclosed or would you disclose what you think your excess balance sheet capacity is, meaning how much incremental more investment, whether on the -- on the Infrastructure segment or at the core utilities, in Wisconsin, or Illinois, or elsewhere, how much incremental investment could you make with your current balance sheet and expected balance sheet before it would require you to seek other external financing, and that's not just debt financing?
+Gale Klappa -- Executive Chairman
+So how much more can we do if we were to issue more equity or not issue more equity?
+Michael Lapides -- Goldman Sachs -- Analyst
+Yeah, I guess not issue equity, like do you have excess balance sheet capacity? Do you have the ability to raise your capital plan without actually having to issue?
+Gale Klappa -- Executive Chairman
+Well, I'm going to ask Xia to give her review on this as well. I'll give you my overall kind of high-level opinion, and that is that we try to marry our capital plan against three very important criteria. The first is: what is the need? I mean, we're in a -- most of our assets are regulated assets, you have to prove the need to make those investments. So, number one, what is the need? Number 2, how do you finance it and maintain the solid credit metrics that we strive to maintain and have maintained. As you know, we have one of the stronger balance sheets in the industry and we intend to keep it that way. And then, number three, if there were an opportunity, would it require more equity? But long story short, we really try to balance the need and the financing to maintain the kind of credit quality.
+Xia?
+Xia Liu -- Chief Financial Officer
+Yeah, I totally agree. I think, I would just add two more thoughts. One is: WEC, you heard me say all the utilities met their financial goals in 2020, actually that has been a track record. So, in terms of putting money to work, and we deploy $3 billion a year, we earn our allowed ROEs at the utilities, and you generate very healthy internal cash as a result. So that's number one. Number two, you heard us say that for the WECII [Phonetic], the WEC Infrastructure investment, we very much focused on using our own tax appetite, we focused on the time horizon, when we could get the cashback, and we just try to take advantage, not only the investment opportunity but also the cash flows. So, I think overall, the combination of strong utility performance and the ability to recover the cash from the WECII -- infrastructure investment, I think, really allows us to continue to be on the trajectory that we haven't -- have been on.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Thank you, guys. Much appreciated.
+Gale Klappa -- Executive Chairman
+You're welcome, Michael. Take care.
+Operator
+Your next question comes from Steve Fleishman with Wolfe Research. Your line is open.
+Gale Klappa -- Executive Chairman
+How are you doing, Steve?
+Steven Fleishman -- Wolfe Research -- Analyst
+Yeah, hi. Hi, Gale, everyone, good afternoon. So, just a question within Wisconsin, related to the coal shutdowns and regulatory treatment. Could you just remind us what you've done so far with that and would something related to that potentially be in your stay-out agreement? And how you're kind of thinking about that overall?
+Gale Klappa -- Executive Chairman
+Yeah, good question, Steve. First of all, if we were to come to a stay-out agreement, it would not involve any discussion or any delineation of a retirement of coal plants because it's outside of the rate case window right now. So again, we're talking about 2023, 2024 for the majority of the retirements that we're talking about, including the one of Columbia that was just announced by Alliant.
+So, there would be no need to address the coal plant retirements in the -- in any kind of a stay out arrangement, if I'm making any sense to you. Secondly, if you think about what we have done, so we've retired a fair amount of capacity already. We've retired, I think, 65% of our coal-fired capacity, since about 2015. And, in essence, the unrecovered book balance of those plants has been fully recovered, with the exception of $100 million of unrecovered book balance at Pleasant Prairie, which a large coal-fired power plant in Southeastern Wisconsin. That was our most recent retirement. And that $100 million is being securitized, in fact, expect to be -- to have a securitization offering this year.
+Steven Fleishman -- Wolfe Research -- Analyst
+Got it. Okay, great. And just one other question is on, we're going to have a new FERC, ultimately. Democrat majority. And I'm just curious if you have any thoughts on whether there could be another change in transmission policy or ROEs? Or do you think it will stay relatively stable?
+Gale Klappa -- Executive Chairman
+Steve, I'm guessing relatively stable, if not up, and the reason for that is, when you talk to as we have, when you talk to people, early now at the Biden administration, there is enormous focus on incentivizing renewable development, as you know, an enormous focus. And I think, the point is that we will see that the Federal Energy Regulatory Commission, I'm guessing, will fully understand that you're not going to reach the administration's goals for renewable development without further incentivizing transmission development. Those two go hand-in-hand, chicken and egg, I mean, it's got to be done.
+So it would be almost counter to a huge tailwind to public policy to try to do anything from here that would not continue the return incentives for needed transmission. So, my guess is that the overriding public policy will keep things stable, or at least -- at least stable if not positive at FERC.
+Steven Fleishman -- Wolfe Research -- Analyst
+Great. Thank you very much.
+Gale Klappa -- Executive Chairman
+You're welcome, Steve. Appreciate your call.
+Steven Fleishman -- Wolfe Research -- Analyst
+You bet.
+Operator
+Your next question comes from Neil Kalton with Wells Fargo. Your line is open.
+Gale Klappa -- Executive Chairman
+Hey, Neil. How are you doing?
+Neil Kalton -- Wells Fargo -- Analyst
+I'm doing great. St. Louis is lovely this time of the year.
+Gale Klappa -- Executive Chairman
+Well, you're invited to International Falls this weekend.
+Neil Kalton -- Wells Fargo -- Analyst
+All right. So anyway, just, I'm just curious, EVs have been a pretty hot topic recently, right? All in the news, and I'm wondering how you guys are thinking about your investment opportunity around EVs? How soon you need to start planning for the system? Is this, you know, eight to ten years out? Are there going to be quicker needs? Just any kind of insight into how you're thinking about it?
+Gale Klappa -- Executive Chairman
+Okay, great question, Neil. Well, first of all, the current governor and the current gubernatorial administration here in Wisconsin has a very keen understanding that in order for the State to continue to make progress on CO2 reductions, there has to be a much stronger pick-up in terms of electric vehicle penetration. I've heard that. I mean, we've -- I've had, probably, three discussions with the governor about this, and he really, really believes that's the case. So do I. So long story short, we have -- there are two things going on. First of all, we have filed a modest proposal for EV infrastructure that's pending before the Wisconsin Commission right now. And in addition to that, the Wisconsin Commission has opened up or is opening up a generic proceeding on what is that they should be broadly looking at to try to advance the Governor's objective of an accelerated pickup in electric vehicle market share.
+So very early right now, but we do have -- we do have a pilot that we've suggested, that's getting regulatory review, right now. And, Scott, do you want to give a couple -- just couple of details on that filing?
+Scott Lauber -- Chief Operating Officer
+Yeah. So, we've got a pilot out there. It's about a $50 million. We provided a couple of alternatives on how to also support some of the lower-income areas of the state that may be able to help put some of that infrastructure or support that, whether it's through buses or some other ideas there. So, it's in the really early stages, but it'd be somewhat of a rebate program that would help actually put some chargers in individual houses.
+Gale Klappa -- Executive Chairman
+So early -- early days. Kevin?
+Kevin Fletcher -- President and Chief Executive Officer
+We're looking [Phonetic] at some of our larger customers who are looking at the EVs and looking at what they want to do in their fleet longer term. So we've got a close relationship with them and we'll continue doing that in the days ahead.
+Gale Klappa -- Executive Chairman
+And Kevin makes a good point. We've actually seen a pickup and we're advising a number of our larger commercial customers, who are either thinking about switching over to an all-electric fleet, or who have other needs as EV penetration begins to pick up. So again, very early days.
+I don't think you'd see any major impact on our earnings in terms of EV penetration in our region, probably, until very late in the -- very late in the 2020s.
+Kevin Fletcher -- President and Chief Executive Officer
+And I'll add [Indecipherable] a statistic that I've looked at here, recently, you know. Present-day electric CO2 emissions at 34%. Transportation, which we're just talking about is 37%. So, just a little bit more already today.
+Gale Klappa -- Executive Chairman
+Yeah. Kevin's making a good point. Both in our region and nationally, the utilities have done so much that, essentially, transportation is now the largest contributor to CO2. It has surpassed, or we've cut more, and so, transportation is now the largest contributor, not the utility industry. I'm sorry, Neil, go ahead.
+Neil Kalton -- Wells Fargo -- Analyst
+No, no. That was perfect. That was -- that was it from me.
+Gale Klappa -- Executive Chairman
+Terrific. All right. Thank you, Neil.
+Operator
+And your final question comes from Michael Weinstein with Credit Suisse. Your line is open.
+Gale Klappa -- Executive Chairman
+Welcome back [Speech Overlap]
+Michael Weinstein -- Credit Suisse -- Analyst
+Guys, can you hear me this time? Sorry about that.
+Gale Klappa -- Executive Chairman
+We can. That's all right.
+Michael Weinstein -- Credit Suisse -- Analyst
+Great, great. Hey, a quick question about the extension of the ITC and the PTC that just get passed in December, and it looks like it, there's a decent chance you might have any further extensions going forward. Could -- could the -- I guess, the increased economic benefits from tax credit extensions, could that change your view on the targeted [Technical Issues] your desire for the -- more projects?
+Gale Klappa -- Executive Chairman
+It's a great question, Michael. I will tell you this, we have really tailored up to now -- we've really tailored our appetite, no pun intended, for growing the Infrastructure business. We've tailored that to two things: the availability of very high-quality projects with strong credit quality off-takers, but also our own tax appetite. So, to the extent that our tax appetite is what we projected it to be, then the pace of that business growth will be exactly what we've talked about.
+On the other hand, we were just talking about this the other day, actually, if we see an increase in the corporate income tax, which some have proposed, as you know, as part of the Biden plan, then we might have a stronger tax appetite. And if you couple that, meaning a stronger tax appetite with the extension of these ITCs and PTCs, there may be a greater opportunity there. But long story short, all of that would have to fall in place. Right now, we're working on the plan we laid out.
+Michael Weinstein -- Credit Suisse -- Analyst
+That makes total sense. Hey, one other question too. If you do get a one-year delay for the rate filing, would that -- could we expect to see like an increased target for O&M savings this year, beyond what Scott laid out earlier in the call?
+Gale Klappa -- Executive Chairman
+No, nope. Because remember that the -- remember that is all about 2022.
+Michael Weinstein -- Credit Suisse -- Analyst
+Gotcha, gotcha. That's right. Okay. Okay, thank you very much.
+Gale Klappa -- Executive Chairman
+All right. Hang in there, Michael. Thank you.
+Michael Weinstein -- Credit Suisse -- Analyst
+Yeah.
+Gale Klappa -- Executive Chairman
+All right. Well, I believe, that's our final question for the day. We really appreciate you taking part in our conference call. I thank you again for participating, And if you have any more questions, feel clear to contact Beth Straka for a direct line, which she gives out to only a few of you. Her direct line: 414- 221-4639. Thanks, everybody. Take care. Bye-bye.
+Operator
+[Operator Closing Remarks]
+Duration: 55 minutes
+Gale Klappa -- Executive Chairman
+Scott Lauber -- Chief Operating Officer
+Kevin Fletcher -- President and Chief Executive Officer
+Xia Liu -- Chief Financial Officer
+Unidentified Participant
+Durgesh Chopra -- Evercore ISI -- Analyst
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Jeremy Tonet -- JP Morgan -- Analyst
+Michael Weinstein -- Credit Suisse -- Analyst
+Michael Lapides -- Goldman Sachs -- Analyst
+Steven Fleishman -- Wolfe Research -- Analyst
+Neil Kalton -- Wells Fargo -- Analyst
+
+More WEC analysis
+All earnings call transcripts
+
+
+
+
+

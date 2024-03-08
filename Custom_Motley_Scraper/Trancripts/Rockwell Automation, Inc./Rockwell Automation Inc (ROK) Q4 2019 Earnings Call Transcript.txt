@@ -1,0 +1,353 @@
+Image source: The Motley Fool.
+Rockwell Automation Inc (ROK 0.68%)Q4 2019 Earnings CallNov 12, 2019, 8:30 a.m. ET
+Operator
+Thank you for holding and welcome to Rockwell's Automation's Quarterly Conference Call.
+[Operator Instructions]
+Later in the call, we will open up the lines for questions.
+[Operator Instructions]
+At this time, I would like to turn the call over to Jessica Kourakos, Head of Investor Relations. Please go ahead.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Good morning and thank you for joining us for Rockwell Automation's Fourth Quarter Fiscal 2019 Earnings Release Conference Call. With me today is Blake Moret, our Chairman and CEO. And Patrick Goris, our CFO.
+Our results were released earlier this morning and the press release and charts have been posted to our website, both the press release and charts include reconciliations to non-GAAP measures. A webcast of this call will be available at our website for replay for the next 30 days. Before we get started, I need to remind you that our comments will include statements related to the expected future results of our company and are therefore forward-looking statements.
+Our actual results may differ materially from our projections due to a wide range of risks and uncertainties that are described in our earnings release and detailed in all of our SEC filings. So with that, I'll hand the call over to Blake.
+Blake Moret -- Chairman and Chief Executive Officer 
+Thanks, Jessica and good morning everyone. Thank you for joining us on the call today. I'll start with some key points for the quarter. So please turn to page 3, in the slide deck.
+Organic growth of 1.4% was better than expected with growth seen across a broad range of industries and across all of our core platforms, despite a challenging macro environment. Going a little deeper into our vertical sales performance, oil and gas and mining, each had another strong double-digit growth quarter.
+Life sciences continued to show solid momentum with sales growing mid-single digits and very strong bookings. Our offerings in cyber security, modular control and PharmaSuite MES coupled with FactoryTalk innovation suite are extremely well positioned and aligned with industry trends. Food and beverage was slightly up, led by strength in EMEA that was partially offset by other regions.
+Automotive grew mid-single digits, with growth in all regions except Latin America and with some important competitive conversions. In the quarter, we also saw increasing activity within electric vehicles, including a strategic win in North America that we look forward to talking more about at our Investor Day on November 20th.
+Semiconductor, which is about 5% of our sales was down over 10%, but flat sequentially. Our Logix business grew 3%, even against the tough comparison last year where it grew 7%. Logix growth was broad based across most regions and end markets. Adjusted EPS was $2.01, including a $0.14 impact from a restructuring charge and a $0.04 impact from Sensia setup costs in the quarter that were not included in our July guidance. Finally, free cash flow was very strong.
+Turning to slide 4, and our regional sales performance in the quarter. North America declined 1%, continued strength in oil and gas and mining was offset primarily by softness in semiconductor and power generation. Auto improved sequentially and was up year-over-year. EMEA sales were up 4% versus prior year with strong growth in life sciences, food and beverage and mining.
+Asia was flat and China sales were down 4% versus last year. China weakness in semiconductor, metals and automotive was partially offset by continued strength in infrastructure spend. Latin America was up 17% in the quarter, a great finish to a strong year. Most countries in this region, including Mexico contributed to growth. Very strong oil and gas and life sciences sales performance, more than offset weakness in automotive in this region.
+Now, moving to the full year, let's turn back to slide 3. While fiscal 2019 was marked by uncertainty related to trade, it was a year of progress for Rockwell, with strong operating performance and strategic investments, setting the stage for our continued success. Here are some highlights of our financial performance.
+Our diverse industry exposure enabled us to deliver 2.8% organic growth even with automotive and semiconductor down over 10%. Segment operating margins of 22% expanded 40 basis points and adjusted EPS was up 7% year-over-year. We had another good year of 100% free cash flow conversion and we deployed $1.5 billion to dividends and share repurchases.
+We also continue to make solid progress in our long-term growth initiatives. These include share gains in our core platforms, faster growth in process, double-digit growth in Information Solutions & Connected Services and growth in EMEA and Asia. For example, we saw core platform growth with strong contribution from products like PowerFlex drives and Stratix Network switches. This makes sense when you consider that industrial companies can't transform their operations without data from smart secure devices.
+This is also Rockwell's home-field advantage. We saw a double-digit growth in process industries like oil and gas, mining and pulp and paper. Recurring revenue streams grew double-digits, with increases in project size and enterprise rollouts of our Information Solutions and Connected Services contributing approximately one percentage point for organic growth for the year.
+We capped off the first year of our alliance with PTC by delivering a very strong sequential increase in new deals in Q4. And for the full year, our alliance enabled strategic wins around the world, across the broad range of vertical markets. Importantly, many of these wins were on top of competitive control platforms.
+Finally, we grew faster outside the US. Patrick will elaborate further on our fourth quarter and full-year financial performance in his remarks. Let's move on now to the macro environment and our outlook for full year fiscal 2020. Our outlook balances geopolitical uncertainty with confidence in our differentiated portfolio and ability to gain share.
+Global trade tensions continue to create uncertainty and industrial production is decelerating, heading into fiscal '20, which we expect will have some negative impact on customer capex. However, we are excited about new product introductions across our portfolio. Also, given our pipeline of projects for our customers' digital transformation plans, which are often funded kind of opex budgets and not capex, we believe we will have another good year in Information Solutions and Connected Services.
+Taking all this into account, we are expecting flat organic sales at the midpoint of our fiscal ‘20 guidance. We expect our reported sales to be up approximately 3.5% year-over-year at the midpoint of guidance. This includes approximately 4 points of inorganic growth coming from our investments in Sensia and MESTECH, partially offset by currency.
+Turning now to earnings, as you've seen in our fourth quarter results, we took restructuring actions to help drive $40 million [Technical Issues] allow us to both reinvest in our highest growth initiatives and help deliver earnings growth in this environment. Including the impact of acquisitions in currency, our guidance for sales is about $7 billion. Our adjusted EPS guidance range is $8.70 to $9.10 with a midpoint of $8.90.
+Now, I'll turn it over to Patrick to provide more detail around our Q4 and full year results and our fiscal 2020 sales and earnings guidance.
+Patrick Goris -- Senior Vice President & Chief Financial Officer 
+Thank you, Blake, and good morning everyone. I'll start on slide 5, which provides our key financial information for the fourth quarter. As Blake mentioned, fourth quarter reported sales were flat, organic growth of 1.4% was better than expected, largely benefiting from better performance in automotive and food and beverage.
+Currency translation reduced sales by 1.5 points. Our fourth quarter results include a $20 million restructuring charge as well as $6 million of Sensia setup costs, neither of which were included in our July guidance. The restructuring charge is split about evenly between both segments with about 25% in cost of goods sold and the remainder in SG&A. We are reinvesting the majority of the $40 million savings associated with the restructuring charges towards our highest priorities, including commercial resources and increased software development.
+We continuously look for ways to streamline processes and drive internal simplification and productivity, enabling us to increase investments to fund profitable growth. Segment operating margin was 20.2%, down 60 basis points compared to last year, primarily due to the restructuring and Sensia setup costs that I referred to.
+General corporate net expense of $36 million was up $18 million compared to last year. As you may recall, we had a large favorable insurance settlement in the fourth quarter of fiscal '18. Adjusted EPS of $2.01 was down about 4% compared to the fourth quarter of last year. Excluding the restructuring charge and Sensia setup costs, adjusted EPS was up about 4% compared to last year.
+As Blake mentioned, we have very good free cash flow performance in the quarter, $451 million or over 190% of adjusted income, reduced working capital contributed $150 million in the quarter. A few additional items that are not shown on the slide, average diluted shares outstanding in the quarter were $117 million, down $6.5 million from last year. We repurchased 1.4 million shares in the quarter at a cost of $224.9 million.
+For full year fiscal ' 19, repurchases totaled $1 billion. At September 30, we had about $1.1 billion remaining under our existing share repurchase authorizations. Slide 6 provides key financial information for full year 2019. After a good start to the fiscal year, our rates of organic growth slowed in the second half as a result of the weakening macro environments, particularly for industrial companies.
+Organic growth for the year was 2.8%. Blake covered most of what is on the slide, so I will just provide a few additional comments. Growth in segment margin and adjusted EPS was mainly due to higher organic sales. The full year adjusted effective tax rate of 17.9% reflects the full year benefits of US tax reform passed during our fiscal 2018.
+We had another year of 100% or more free cash flow conversion and return on invested capital remained above our target of 20%. The year-over-year reduction in return on invested capital reflects the mark-to-market adjustment of our investment in PTC. Turning to tariffs, I'd like to recognize the great work done by many of our colleagues. We neutralize the impact through supply chain actions, including negotiations with vendors and targeted price increases on affected products.
+Slide 7 provides the sales and margin performance overview of our two operating segments. Architecture & Software Organic sales were up 2.3% in the quarter, segment margin of 26.2% was down 190 basis points compared to the same period last year, mainly due to restructuring charges and lower volume leverage affecting this segment.
+Control Products & Solutions organic growth was 0.7%, our product businesses in this segment were about flat year-over-year and our solutions and services businesses were up about 1%. Segment operating margin expanded 40 basis points, mainly as a result of good margins in our Solutions business. The restructuring charge was about a 1-point headwind to segment margin.
+The book-to-bill performance in our solutions and services businesses in the quarter was 0.93 and our backlog for solutions and services was up about 1% compared to last year. This takes us to slide 8, guidance. As Blake mentioned, we are expecting sales of about $7 billion in fiscal ‘20. We expect organic sales growth to be in a range of minus 1.5% to plus 1.5% and flat at the midpoint of our range.
+The Sensia and MESTECH inorganic investments, both of which closed in early October are expected to contribute approximately 4 points of revenue growth and we expect the headwind from currency of about 50 basis points, consistent with currency rate forecast for the next 12 months.
+We expect segment operating margin to be approximately 21.5%. Excluding the impact of Sensia, we expect segment margin to be about flat year-over-year. We believe the full year adjusted effective tax rate will be about 16%, which includes a 200 basis points discrete tax benefit from Sensia. Our underlying adjusted effective tax rate is expected to be about 18%, the same as fiscal '19.
+Our adjusted EPS guidance range is $8.70 to $9.10 and the midpoint -- at the midpoint this represents about 3% of adjusted EPS growth on about 3.5% higher reported sales. A few additional items about fiscal '20, general corporate net is expected to be about $100 million. Net interest expense is also expected to be about $100 million, we're dialing in about $400 million of share repurchases and assume average diluted shares outstanding of about 116 million shares.
+We will share more details with you on our capital deployment and capital structure plans at our Investor Day next week. And finally, we expect full-year 2020 free cash flow conversion of about 100% of adjusted income. This includes $160 million of capital expenditures.
+From a calendarization point of view, we expect first half revenues to be down low-single digits compared to fiscal ' 19, followed by a stronger second half, mainly due to easing comps. The next slide 9 provides an adjusted EPS walk from fiscal '19 to fiscal '20 guidance midpoint. Going from left to right, core performance contributes about $0.20. We benefit from the savings generated from the fiscal '19 restructuring charge, about $15 million of the $40 million savings is dropping through the bottom line.
+Fiscal '20 also benefits from the absence of the fiscal ' 19 restructuring charge and incentive compensation at the midpoint of our fiscal '20 guidance is a bit lower than the prior year. We expect Sensia to contribute about $0.05 of adjusted EPS. Within that, the benefit of the discrete tax item I referred to earlier and incremental earnings are partially offset by non-recurring setup costs and transaction fees, as well as intangibles and non-controlling interest adjustments.
+Sensia is expected to have an EBITDA margin profile of about 20%. It will be closer to low teens in fiscal '20, given non-recurring set of costs. Net interest expense, operating pension expense and currency are all expected to be headwinds. Net interest expense is expected to be higher as a result of the capital deployment activities in fiscal '19 and those planned for fiscal '20. The lower interest rate environment is increasing our operating pension expense and currency forecasts project a stronger US dollar.
+Finally, a lower share count is expected to contribute about $0.25 to adjusted EPS. In summary, the net impact of Sensia is about neutral year-over-year and we are offsetting pension and currency headwinds with productivity and the benefit of a lower share count to deliver adjusted EPS growth.
+So with that, I'll turn it back over to you, Blake.
+Blake Moret -- Chairman and Chief Executive Officer
+Thanks, Patrick. Before we move to Q&A, I want to make some additional remarks. In fiscal 2019, we executed well and made good progress in our long-term initiatives. Looking to fiscal '20, we have another exciting year ahead of us. We will continue to provide new value with the connected enterprise, which gives us more ways to win. As a pure play, our entire focus is on helping industrial companies and their people, be more productive and sustainable.
+We have no competing priorities and our relentless focus allows us to grow revenue and efficiently deploy our resources to deliver high margins and increased earnings. Our strategy also generate strong sustainable cash flow that we will continue to direct-to-value creating opportunities.
+An example is Sensia, our joint venture with Schlumberger. Sensia officially opened for business on October 1st and is off to a great start. This joint venture is positioned to be the most innovative provider of process automation, measurement and IoT solutions to the oil and gas industry and we are very excited by the initial customer reception.
+In its first month of operation, we have already secured several large project wins from around the world as oil and gas customers look to drive additional operating efficiency. In addition, we announced the acquisition of MESTECH last month, which augments our delivery capabilities for Information Solutions and Connected Services implementations, particularly in the automotive and life sciences industries.
+As we look ahead, our acquisition pipeline continues to be very robust. Our key areas of focus for inorganic investments remain Information Solutions and Connected Services, process expertise and market access in EMEA and Asia. While the size, amount and timing of deals can never be predicted with certainty, we continue to target a point or more of our annual growth from acquisitions.
+In fiscal 2020, we will exceed that goal. Turning now to slides 10 and 11. We are making some changes to the way we segment our served industries. Going forward, we will be focusing our commentary on our performance in discrete, hybrid and process industries and we'll continue to provide color on individual end markets like food and beverage and automotive.
+Slide 12 provides the end market growth assumptions that align to the midpoint of our fiscal ' 20 organic revenue guidance. This Industry segmentation more effectively reflects our performance and progress we are making in executing our strategy. For those of you coming to our Investor Day next week, I look forward to seeing you there. As usual we will hold Investor Day at Automation Fair, our main customer event which is in Chicago this year.
+Customers from around the world will see how we are bringing the connected enterprise to life. We will showcase our innovation and that of our partners and what will be an especially important event. We are on track for this to be our biggest and most exciting Automation Fair yet.
+Finally, I'd like to thank each of our employees and partners for their efforts to bring the connected enterprise to life within Rockwell and at our customers. I'm especially grateful for the way our employees are embracing change and demonstrating our company's values every day.
+We are truly converging IT and OT and have added new talent at all levels of the organization who are contributing to the innovation we’ll be featuring at Automation Fair. With that, let's turn the call over to Jessica to begin Q&A. Jessica.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Before we start the Q&A, I just want to say that we would like to get as many of you as possible, so please limit yourself to one question and a quick follow-up. Thank you. Marcelo, let's take our first question.
+Questions and Answers:
+Operator
+Your first question comes from the line of Scott Davis from Melius Research. Your line is open.
+Scott Davis -- Melius Research -- Analyst
+Hi, good morning. Blake, Patrick and Jessica.
+Blake Moret -- Chairman and Chief Executive Officer
+Good morning.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Good morning.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Good morning.
+Scott Davis -- Melius Research -- Analyst
+Thanks for the update and the new segmentation seems to make a lot of sense too. But I just want to talk a little bit about China, I mean, China has been a pretty volatile market. I think some of your competitors have seen results meaningfully worse than yours. And so you're doing reasonably well, but what's the visibility that you think you have into 2020? I mean is – does some of these infrastructure projects fall off and then they need to be replaced by other things, more substantive or are there other infrastructure projects that come in right after them? I mean just give us a little – little bit of color on China?
+Blake Moret -- Chairman and Chief Executive Officer
+Yes. So Scott, from a broad sense, I mean China is obviously the world's largest manufacturing economy and we have low share in China. And so we are relatively less impacted by the ups and downs of their volatility on the surface, because there's so much more that we can pick up. We serve a broad range of the industries, and there's a lot of infrastructure to be built in China, so we expect that to continue, but also importantly a lot of the spend in China is on the Information Solutions and Connected Services, drawing insights from the basic automation. And that's relatively less impacted by capex spending, that's more operational spending and we expect to continue to grow there. So the long-term trends are still positive in China.
+Scott Davis -- Melius Research -- Analyst
+Okay. And you guys didn't mention anything about the GM strike in your comments. Was there any negative impact this quarter or should we build in for the first quarter of 2020?
+Blake Moret -- Chairman and Chief Executive Officer
+Scott, there was a little bit of a delay in MRO spend from GM, but not a lot, and we expect that to recover.
+Scott Davis -- Melius Research -- Analyst
+Okay, very good. Thank you. See you guys next week.
+Blake Moret -- Chairman and Chief Executive Officer
+Thanks again Scott, see you then.
+Operator
+Your next question comes from the line of John Inch from Gordon Haskett. Your line is open.
+John Inch -- Gordon Haskett -- Analyst
+Good morning, everybody.
+Blake Moret -- Chairman and Chief Executive Officer
+Hi, John. Good morning.
+John Inch -- Gordon Haskett -- Analyst
+Hey. Blake in the guide, Blake and Patrick, in the guide process, you're expecting to sort of soften to flat. How would that translate into sequential trends and maybe you could sort of give us a sense of what's happening kind of regionally in process? And I make the comments in the context but Honeywell and Emerson, they had pretty good results actually in process, pretty good project activity in Asia-Pac and so forth. What, what are you guys seeing?
+Blake Moret -- Chairman and Chief Executive Officer
+Well, I'll make a couple of comments and then Patrick will add to that. In North America, we continue to see strength in oil and gas, mining and pulp and paper. We do see some moderation in the coming year. I should point out that when we talk about oil and gas, that's excluding Sensia which we expect, as we've talked about before, to grow double-digits, which is a smaller part of the overall oil and gas market, focused primarily at the digital oilfield, which we think will continue to grow double-digits and we obviously expect to grow faster than the market.
+In terms of the sequential performance, ask Patrick to make some comments there.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yeah, we don't expect big swings by quarter, John, from a process point of view. And we didn't process – say again.
+John Inch -- Gordon Haskett -- Analyst
+I think relatively stable, Patrick. Is that how you're thinking about it?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+That's what we believe. Yes.
+John Inch -- Gordon Haskett -- Analyst
+Okay. I'm sorry, you were saying something…
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+No.
+John Inch -- Gordon Haskett -- Analyst
+Okay and then just out of that in that sort of, it's part of this discussion, oil and gas. How are you guys actually putting up such strong results? Do you think in oil and gas, especially on the land side, I mean, peers depending on sort of their activity interactions with oil and gas, you're seeing, are there any significant pressures there which you guys were not seeing that? Is it specific program share wins, what -- what do you think is going on here?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yeah, we do think, and particularly with Sensia, we think that there's big opportunity to continue to gain share. Remember, a lot of our participation is with more exposure to opex, so our exposure is not as much in drilling new wells as in getting efficiency from the wells once they've started producing. And so they’re not going to be as affected by volatile capex spend. And then again, with Sensia we think we have an opportunity to meaningfully accelerate our gains in oil and gas, particularly onshore upstream.
+John Inch -- Gordon Haskett -- Analyst
+Just last, Blake, how would you characterize your level of conservatism in this guide? I think it -- a number of us. I mean to your credit off guard, based on how sort of strong it is? If you go back a year ago, right, you are guiding for a midpoint of $9.05 and you did $8.67. So maybe you could, people sort of view Rockwell as a conservative company particularly your guidance. You missed your guidance last year. How do you sort of put in the context of conservatism and what makes you sort of comfortable with this ranges, and also going to prevent – potentially be a repeat of fiscal ' 19?
+Blake Moret -- Chairman and Chief Executive Officer
+Yeah, I mean, John, I think fundamentally Rockwell Automation remains a conservative company, but John, there is a lot of uncertainty out there and we're balancing that with what we know within our own four walls we are producing and what we're hearing from customers around the world in terms of their plans and the ability that we have to participate there. So we think that the flat organic growth is an appropriate balance between those two broad opposing forces.
+John Inch -- Gordon Haskett -- Analyst
+Got it. Thanks very much. We'll see in a week.
+Blake Moret -- Chairman and Chief Executive Officer
+See you soon. John
+Operator
+Your next question comes from the line of Jeff Sprague from Vertical Research. Your line is open.
+Jeff Sprague -- Vertical Research -- Analyst
+Thank you. Good morning, everyone.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Hey, Jeff. Good morning.
+Jeff Sprague -- Vertical Research -- Analyst
+Hey, good morning. Hey, just a couple from me, please. First, just tend to level set on kind of the exit rate here on 2019, did the dial back in investment spend and compensation in the fourth quarter, the curve as you, as you suggested and kind of what is the exit rate on those items?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yes. Jeff, from a spend point of view, we ended the year where we expected it to be, a little less than up, little less than 2% year-over-year. The fourth quarter was down a little compared to last year, again as expected. From an incentive comp point of view compared to what we shared with you in -- in July, incentive comp expense was higher than fiscal ' 19 given that we outperformed our expectations. And so the expense in fiscal ' 19 was closer to $75 million compared to the $60 million that I shared with you in July.
+Jeff Sprague -- Vertical Research -- Analyst
+Okay, and then you're suggesting from that $75 million, you are stepping down modestly in 2020. Correct?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yeah. At the midpoint, about $10 million, yeah.
+Jeff Sprague -- Vertical Research -- Analyst
+Okay. And just looking at Latin America, a little bit more closely, obviously an extraordinarily strong quarter. How do you see that playing out over the balance of the year, was there anything in particular unusual in the quarter there?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Actually, Latin America was strong in some of the consumer verticals, but particularly oil and gas was very strong, mining, pulp and paper, water-wastewater all up double digits in the quarter. We do expect some of that to moderate in -- in fiscal ' 20. You may recall Jeff, we also had a large Codelco mining project in Latin America. So we’ll have some tough comps next year. And so for next year, we expect that growth in Latin America to moderate a bit.
+Blake Moret -- Chairman and Chief Executive Officer
+I would also say that earlier in the year, we saw continued growth from Brazil and that continued to have positive growth through the year, but Mexico picked up partway through the year and we saw a strong contribution as we exited from Mexico, which has good exposure to a broad range of the industries that we serve. It's obviously, oil and gas, but it's food & beverage, automotive really across the board.
+Jeff Sprague -- Vertical Research -- Analyst
+And just one last one to clarify the, the first half down low-single digit, that's an organic number or a reported number?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+That is organic, Jeff.
+Jeff Sprague -- Vertical Research -- Analyst
+All right, thank you.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Thank you.
+Blake Moret -- Chairman and Chief Executive Officer
+Thank you. Thanks, see you soon.
+Jeff Sprague -- Vertical Research -- Analyst
+See you next week.
+Operator
+Your next question comes from the line of Julian Mitchell from Barclays. Your line is open.
+Julian Mitchell -- Barclays -- Analyst
+Hi, good morning.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Good morning.
+Julian Mitchell -- Barclays -- Analyst
+Good morning.
+Just wanted to circle back on this notion of perhaps conservatism in the revenue guide and how you're thinking about that sales guide. Because I guess three months ago, you'd guided organic sales to be down low to mid single digit in Q4. You just printed slight growth, now you're guiding for the first fiscal half to be down low-single digit. So just trying to think versus three months ago, do you genuinely feel worse about the macro environment? Do you view the Q4 performance is just a bit of a blip because of some movements in the automotive sector, maybe just try and characterize why you're guiding there for a decline, now if it's just because of low visibility or there's genuinely something you've seen that deteriorated in the last month or two?
+Blake Moret -- Chairman and Chief Executive Officer
+I think, there is -- as we talked about before, there is a balance between what is undeniably continued uncertainty. We continue to see decelerating macro indicators, industrial production and so on, but then on the other side, we are very optimistic about our ability to gain share regardless of what those numbers are. But we are informed by to some extent what we saw in the fourth quarter, but also what we're expecting the year ahead to show backlog a little bit up but not a tremendous amount and we think it's a balanced outlook on fiscal '20.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Julian. I would just add that we've had one quarter of better than expected sales performance in Q4 after two quarters where we had weaker performance than we expected. And the macro indicators that we track, PMI and IP are still weakening. And so we think that we're balancing all of these things out.
+Blake Moret -- Chairman and Chief Executive Officer
+I'd also say that we – we’re happy with the ability to have inorganic growth contributing to the year. It fits very well with our strategy and it's a meaningful contribution to our reported growth in the coming year.
+Julian Mitchell -- Barclays -- Analyst
+That's helpful and thanks also for the color in the slides. My second question would be on the segment margin guidance. So I think it's guided to be flat ex-Sensia in 2020 for the year as a whole on the segment margin line. That's despite flattish sales not down, lower restructuring costs and net restructuring savings of $15 million coming in.
+So maybe just beyond incentive comp, talk about any other moving parts in that margin bridge. For example, it looks as if you're dialing in a mix headwind, perhaps because discrete is losing as a share of the total pie, is that a fair summary or is there something else moving around margins in 2020?
+Blake Moret -- Chairman and Chief Executive Officer
+I think the way you can think about it is on the margin side, as there is no organic growth, but there is some pricing that’s being realized. So there is some uptick there. As you mentioned, mix is somewhat of the -- of a headwind next year, then the restructuring and then bonus expense clearly is a little bit of a tailwind. But our spend next year, our overall spending crease is not flat, actually we are investing some next year. And so our spend is up low-single digits. A couple of points next year, a little bit less than that. And so the net of that is flat margins, so tailwind from price, headwinds from -- as I mentioned, some of the reinvestments that we're doing in mix.
+Operator
+Your next question comes from the line of Steve Tusa from JP Morgan. Your line is open.
+Steve Tusa -- JP Morgan -- Analyst
+Hey guys, good morning.
+Blake Moret -- Chairman and Chief Executive Officer
+Good morning.
+Steve Tusa -- JP Morgan -- Analyst
+So, given the kind of better than expected performance in the quarter, I totally acknowledge that your business is, the majority of it, vast majority of it is short cycle in nature. How much kind of came towards the end of the quarter and then to the extent you have a backlog or front-log, how much was like more of the kind of the quickest turn short cycle, if you will?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yes, Steve. Patrick here. Actually we, the sales improved through the quarter, September was our strongest month, but that is not unusual for September. So I’d say improvement through the month, and as always, particularly September tends to be the strongest month for the quarter.
+Steve Tusa -- JP Morgan -- Analyst
+So, you were already kind of you saw the trends through August and you're already kind of at the high end or above kind of the range at that stage of the game?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+No. September was the strong month.
+Steve Tusa -- JP Morgan -- Analyst
+Okay. Were there any targeted pricing measures with regards to any of the business, projects etc. where you pushed a little harder to get the install on a price basis in the quarter?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+No, I wouldn't say, I wouldn't say that Steve at all. Our annual price increase, went into effect in August; so if we ever see a little bump in volume due to price like pre-buy that’s nothing unusual there at all. And we don't [Technical Issues] price to get volume.
+Steve Tusa -- JP Morgan -- Analyst
+Got it. What is your price expectation for ‘20 now? What kind of – what’s embedded?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+About a point Steve. Last year we did a little bit less than 2 points, including the impact of pricing associated with the tariffs. And so for fiscal '20 we're targeting a little less than a point -- about a point.
+Steve Tusa -- JP Morgan -- Analyst
+Got it. Great. All right, thanks guys, I appreciate the color as always, thank you.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Thank you, see you soon.
+Operator
+Your next question comes from the line of Richard Eastman from Baird. Your line is open.
+Richard Eastman -- Baird -- Analyst
+Yes, good morning. Patrick, could you just speak to the 4 points of inorganic growth that you forecast for 2020? Could you split that between Sensia and MESTECH, a little bit about $275 million in revenue. And is there any seasonality to think about with -- with Sensia?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+The way you can think about it is the vast majority of that 4 points, meaning more than -- well more than 3 points comes from Sensia closer to 3.5 points. Of course, the most of that comes out from Sensia. And then in seasonality, I would probably say a little bit more second half weighted than first half weighted, also because we are expecting to deliver revenue synergies as a result of the joint venture.
+So obviously starting October 1st, we're reporting all the sales, but we expect sales to accelerate in Sensia given the synergies that we expect of the combined offering.
+Richard Eastman -- Baird -- Analyst
+And that's captured in the 3 -- call it 3.5 points, that's captured in the synergies?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Absolutely.
+Blake Moret -- Chairman and Chief Executive Officer
+Yes. I don't think on a go-forward basis, I don't expect meaningful calendarization of the results of either of those investments.
+Richard Eastman -- Baird -- Analyst
+Okay. And then, Blake. Could you just spend a second, just around the dynamics. I think, when you mentioned the PTC kind of wins, the dynamic there that I don't know if you said a majority or many coming on competitor platforms, just kind of mention the sales strategy around that. And if that is going to provide some leverage here down the road on to the hardware side of your business?
+Blake Moret -- Chairman and Chief Executive Officer
+Yes. So happy to. So for many years, our fundamental play was providing an integrated control architecture to our customers. So typically our Logix control was at the heart of that and we would have operator interface, smart products like drives and servos and so on that would connect easier than anybody else in that architecture.
+On top of that we now have a greater capacity than we ever had to add information processing software that allows you to take the data from that control and you turn it into insights to drive additional productivity and it works great when it is sitting on top of a Rockwell control architecture. But it doesn't have to, it takes data very well from our competitors as well.
+And what we're finding, really to our delight, is that almost half of the sales are putting that software on top of someone else's control system. And so it allows us to go into a brownfield, they’re not ready to change out their controllers yet, but it gives us a reason for being there and to add value into their operation. So it gives us more ways to win, more customers to have a reason for being in their facility, talking about their business problems.
+Richard Eastman -- Baird -- Analyst
+Great, thank you.
+Blake Moret -- Chairman and Chief Executive Officer
+Thanks, Rick.
+Operator
+Your next question comes from the line of Josh Pokrzywinski from Morgan Stanley, your line is open.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Hi, good morning everyone.
+Blake Moret -- Chairman and Chief Executive Officer
+Hey, Josh.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Just want to kind of step back a little bit, Blake, if you don't mind. I think looking back over the last couple of years, there are points in time when I think people would have said, gosh, old Rockwell if you want to call it that, might have grown a little faster and now with this quarter, I think people would have assumed probably a bit more cyclicality than what you guys put up. So is the case that because of some of these Information Services pushes and maybe some less cyclical end markets like food and beverage, which is obviously your largest end market. Is it that the cyclicality is coming down or do you think that kind of cycle to cycle growth accelerate because I guess they are two different elements. I guess what's the objective there?
+Blake Moret -- Chairman and Chief Executive Officer
+We're going after both Josh. And, you know, as we've talked before and we'll talk more next week in detail, the ways that we are increasing our resilience to volatility involves the things that you've mentioned, it's more recurring revenue in the form of subscriptions and as a service business models from Information Solutions, and Connected Services. So we get a double benefit there. It's growing double-digits but there is also a very high component of that that's recurring in nature. We're also decreasing our volatility by greater exposure to process industries, which are typically later cycle than our traditional discrete areas and then lifecycle services being able to provide ongoing services after commissioning the initial projects and we're doing that with more urgency than I'd say ever before.
+And then finally, some of the inorganic investments as we talked about in a period of low or no organic growth, it's nice to have 4 points or more from -- from inorganic growth. So it's going to address both. It's early, we got a lot of work yet to do, but I'm very happy with the results so far.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Understood. And then just a follow-up question around Sensia, obviously that $0.05 and guidance has a lot of moving pieces, if you wouldn't mind just kind of snapping the line, if we were one year forward and all the noise comes out, whether it's tax or some of the kind of one-time costs, what would that $0.05 look like?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Josh, Patrick here, the $0.05, if I look at what's in there, they’re about $0.05 of fees instead of costs that are in there. And so we would expect that to go away. And the way we're thinking about it internally is Sensia is expected to be in a 20% EBITDA business. This year, overall, the adjusted EPS impact is about neutral. We expect that to start contribute to adjusted EPS next year. From a free cash flow point of view, it's contributing to us in fiscal '20.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Got it. But there is also, call it $0.20 of tax in there as well, right? [Indecipherable] for the fees and
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+We can think about the tax, $0.20 is the overall tax impact, the tax impact to Rockwell Automation share owners is only 53% of that. So within the $0.05 it is only $0.11 of tax. We have to adjust out the part that does not go through Rockwell Automation share owners. And maybe this is an opportunity to provide a little bit more color on the $0.05 of Sensia on the bridge. Within that are obviously incremental earnings associated with Sensia adjusted for the part of the earnings that no longer go to Rockwell Automation share owners. So the incremental earnings are a little bit over $0.05, say between $0.05 and $0.10. We just talked about the tax benefit that's about -- about $0.11 benefit in fiscal '20, but offsetting that are intangibles of about $0.10 and then the fees and setup costs that are about $0.05, as I mentioned. So those are the different moving pieces there.
+In essence, the tax benefit is offset by -- by intangibles. They’re, basically the same.
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+Got it. That's helpful color. Thanks for that. See you all next week.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Thank you.
+Operator
+Your next question comes from the line of Andrew Obin from Bank of America. Your line is open.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Good morning. This is David Ridley Lane on for Andrew. What gives you confidence that automotive will be flattish in 2020 and how important are electric vehicles, within your automotive trend?
+Blake Moret -- Chairman and Chief Executive Officer
+Yes. So -- so we saw starting with Q4, we saw some recovery in MRO. We also saw continued spend from some of the projects that we've been talking about in internal combustion vehicles where we have line of sight to those projects and that was a meaningful part of our performance in Q4. But, a really bright part of the picture is the continuing importance of electric vehicle drivetrains. And for instance in Asia, we had some good project activity at OEMs in electric vehicle powertrain. And we expect that to be a larger and larger part of our overall powertrain business going forward as a lot of manufacturers are going straight from internal combustion engines to full EV. It doesn't look like there's going to be as much demand as maybe was first thought for hybrid. People are going to total EV and we are very well positioned to play in that.
+Because it's less subtractive manufacturing processes as REIT, CNC and metal cutting. It's a really good fit for our current portfolio and we're winning some important competitive business there, and it's growing fast. It grew strongly in the fourth quarter and we expect it to continue to grow next year.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+And then just following up on a comment that you had around digital transformation project, I know that a lot of your clients have set up offices and dedicated staff to those. Roughly what portion, would you say of your sales are driven by opex budgets today versus capex? Thank you.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yes. We've estimated it, we think about 65% of our sales are mostly driven by capex to balance opex and -- and you can think about some of the Information Solutions and Connected Services. Some of these sales, we think will come more out of opex budgets and capex budgets.
+Blake Moret -- Chairman and Chief Executive Officer
+That's right. A lot of times the digital transformation that our customers are going through are on top of existing capital intensive assets in the field. So the lines are out there. They've already got the basic automation in place that came with the original equipment, but now they're looking to drive additional productivity out of those existing assets and it can be meaningful double-digit increases in OE and other metrics of productivity, by adding the software to be able to analyzed what's going on on the line. But often those expenditures can be made out of opex and not capex.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Thank you very much.
+Blake Moret -- Chairman and Chief Executive Officer
+Thank you. Thanks, David.
+Operator
+Your next question comes from the line of Robert McCarthy from Stephens. Your line is open.
+Robert McCarthy -- Stephens Inc -- Analyst
+Can you hear me?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+We can. Rob. Good morning.
+Robert McCarthy -- Stephens Inc -- Analyst
+Good morning. Two questions. One that is a little different is, can you talk about geography where you're gaining share because it's clear from the growth rates we're seeing abroad that you're gaining share and talk about the key verticals where you're doing that?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+We think Rob for -- for a long time hybrids has been a great place for us. It's where a lot of manufacturers are going. And so when you think about the trend toward smaller but continuous process lines and life sciences, where the control is tightly integrated with the software, that's an area that we continue to have double-digit performance and – because it's just such a great fit for what we're doing.
+In powertrain for electric vehicles, that is another area that I just mentioned that we have a very high readiness to serve. And I'll tell you that there is some opportunities around the world where we think that we're gaining share in some of the installed base that might be a little bit older from competitive system. So GE, for instance, is an area where we've had some nice wins in converting out some of that installed base.
+Robert McCarthy -- Stephens Inc -- Analyst
+And could you just comment on the share repurchase in the quarter and the average share price if you already have? And just any hints about 2020 aside from the $400 million of share repurchase, kind of the state of play in the balance sheet?
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Yeah. Robert Patrick here, the share repurchase were pretty, pretty much the same each quarter of fiscal '20. I don't have the average price we paid in the fourth quarter here handy. I think it's going to come out later today you will see that in the K. In terms of repurchase for next year, again the $400 million, we expect that to be pretty stable across the fourth quarters.
+Robert McCarthy -- Stephens Inc. -- Analyst
+Congrats on a great quarter. Thanks.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Thanks, Rob.
+Operator
+Your next question comes from the line of Joe Ritchie from Goldman Sachs. Your line is open.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Thanks, good morning, everyone.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Good morning Joe.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Can you maybe just touch on food and beverage, a little bit -- a little bit more. It's switch from being slightly negative last quarter to slightly positive this quarter and obviously you're expecting it to stay positive for next year. So, any other color around what's happening in that end market?
+Blake Moret -- Chairman and Chief Executive Officer
+Sure. Food and beverage, we continue to see some subdued capital spending, across food and beverage. On the other hand, it's one of the verticals that we're seeing particularly high investment across worldwide fleets and IoT. So they're going in and they're looking at benchmarking, lines across their Worldwide Operations and finding ways to bring the lower efficient lines up to higher levels of efficiency and the software being added on top of existing iron is a good way to do it.
+Also interestingly, packaging OEMs in Europe picked up a bit for us in the quarter and, while again we need to watch how that plays out, that contributed to some of the good performance in Europe and some of the better than expected performance in food and beverage, in general.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Interesting, that's helpful color Blake and maybe just a quick follow-on on Sensia. I know when you guys press released it last month, you referenced roughly $400 million in annual revenue. And now the expectation for 2020 is closer to $230 million to $240 million. What am I -- What's the disconnect between those 2 numbers; is the $400 million a longer-term number or what's the difference between the two?
+Blake Moret -- Chairman and Chief Executive Officer
+Oh, it’s a very good question. The way you can think about it is, Sensia's overall revenues are expected to be over $400 million in fiscal '20. The 4% that we referred to is the part that is contributed by our -- by Schlumberger through the joint venture. The part that is contributed by Rockwell Automation is already part of our sales so that 4% that we call inorganic growth only represents the contribution of Schlumberger.
+Patrick Goris -- Senior Vice President & Chief Financial Officer 
+Yeah, so for the one-year for fiscal '20 only, it will be -- the total contribution to the revenue will be split between organic and inorganic.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Got it. That makes sense. Thanks guys. See you next week.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Operator, we'll take one more question.
+Operator
+Your last question comes from the line of Andrew Kaplowitz from Citi. Your line is open.
+Andrew Kaplowitz -- Citi -- Analyst
+Hey, good morning guys.
+Blake Moret -- Chairman and Chief Executive Officer
+Hey Andrew.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Good morning, Andrew.
+Andrew Kaplowitz -- Citi -- Analyst
+Thanks for fitting me. So, Blake, last quarter you had said that you expect the downturn, you're seeing to last that long. And while several of your peers are talking about a more prolonged downturn, your results were relatively strong, with your own expectation, so how, at this point, are you measuring the weakness you're seeing out there versus previous downturns? You mentioned you were concerned about push outs in capex, but are you seeing, as we push out some projects versus what you expected. Are you generally seeing projects move forward albeit slowly?
+Blake Moret -- Chairman and Chief Executive Officer
+Yeah, we, we did not see the same degree of project push outs in Q4 as we -- as we did in Q3. That being said, the macro indicators show deceleration in fiscal '20 and we need to see more than the one quarter of performance to draw a line between those points. So we remain cautious, but obviously we're pleased with the better performance in Q4 and again our ability to compete win for the business that is out there.
+Andrew Kaplowitz -- Citi -- Analyst
+That's helpful. And Blake, I wanted to ask the auto question maybe a different way. You were thinking that auto could be down about 10% for FY19, but obviously up mid single digits. And auto was a strong result in Q4. We know you're projecting flat for FY20, but are you seeing the core auto markets stabilizing faster than you expected and could then -- could these EV projects that you talk about actually lead to some upside for that flat auto forecast that you have for FY20?
+Blake Moret -- Chairman and Chief Executive Officer
+Yeah, I think over a longer period of time there is -- there is absolutely upside with EV as you have all of these companies, the traditional brand owners, as well as new companies. And they have to bring vehicles to market to get a revenue stream. So we are working with them and all the ones that started a couple of years ago won't make it to the finish line, but there is a lot of exciting innovation out there that we're participating in.
+We're not expecting the industry as a whole to turnaround, we're not expecting SAAR counts to -- to jump back up but stabilization may be an appropriate word there.
+Andrew Kaplowitz -- Citi -- Analyst
+Thanks, Blake, see you next week.
+Blake Moret -- Chairman and Chief Executive Officer
+Yes, see you soon.
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Let me quickly answer the question that Rob had. Rob, in Q4, the average price we paid for our shares was $158 and for full year fiscal '19 the average share price we paid was $165. So with that, Jessica.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Thanks, Patrick. I think I'll turn it now over to Blake for a few final comments.
+Blake Moret -- Chairman and Chief Executive Officer
+Thanks, Jessica. So just to summarize, fiscal 2019 was a good year. We grew adjusted EPS 7%. We grew our core platforms and Information Solutions and Connected Services continued to grow double-digits. We also made some important investments. With this foundation, we are well positioned for the future and we look forward to seeing you all in Chicago next week.
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Okay. That concludes today's call. Thank you for joining us.
+Operator
+[Operator Closing Remarks]
+Duration: 60 minutes
+Call participants:
+Jessica Kourakos -- Vice President of Investor Relations and Treasurer
+Blake Moret -- Chairman and Chief Executive Officer
+Patrick Goris -- Senior Vice President & Chief Financial Officer
+Scott Davis -- Melius Research -- Analyst
+John Inch -- Gordon Haskett -- Analyst
+Jeff Sprague -- Vertical Research -- Analyst
+Julian Mitchell -- Barclays -- Analyst
+Steve Tusa -- JP Morgan -- Analyst
+Richard Eastman -- Baird -- Analyst
+Joshua Pokrzywinski -- Morgan Stanley -- Analyst
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Robert McCarthy -- Stephens Inc -- Analyst
+Joe Ritchie -- Goldman Sachs -- Analyst
+Andrew Kaplowitz -- Citi -- Analyst
+More ROK analysis
+All earnings call transcripts
+  
+

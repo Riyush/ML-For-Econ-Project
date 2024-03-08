@@ -1,0 +1,233 @@
+Image source: The Motley Fool.
+Marsh & McLennan (MMC -0.33%)Q2 2022 Earnings CallJul 21, 2022, 8:30 a.m. ET
+Operator
+Welcome to the Marsh McLennan's second quarter 2022 financial results conference call. Today's call is being recorded. Second quarter 2022 financial results and supplemental information were issued earlier this morning. They are available on the company's website at marshmclennan.com.
+Please note that remarks made today may include forward-looking statements. Forward-looking statements are subject to risks and uncertainties, and a variety of factors may cause actual results to differ materially from those contemplated by such statements. For a more detailed discussion of those factors, please refer to our earnings release for this quarter and to our most recent SEC filings, including our most recent Form 10-K, all of which are available on the Marsh McLennan website. During the call today, we may also discuss certain non-GAAP financial measures.
+For a reconciliation of these measures to the most closely comparable GAAP measures, please refer to the schedule in today's earnings release. [Operator instructions]. I'll now turn this over to Dan Glaser, president and CEO of Marsh McLennan.
+Dan Glaser -- President and Chief Executive Officer
+Good morning, and thank you for joining us to discuss our second quarter results reported earlier today. I'm Dan Glaser, president and CEO of Marsh McLennan. Joining me on the call today is John Doyle, our group president and COO; Mark McGivney, our CFO; and the CEOs of our businesses, Martin South of Marsh, Dean Klisura of Guy Carpenter, Martine Ferland of Mercer, and Nick Studer of Oliver Wyman. Also with us this morning is Sarah Dewitt, head of investor relations.
+Marsh McLennan's second quarter was outstanding. Top line momentum continued across our business, extending our strongest run of quarterly underlying growth in over two decades. We generated robust top and bottom line results, topping tough comparables in the prior year. Underlying growth of 10% in the quarter reflects considerable strength across our organization.
+
+It represents the fifth consecutive quarter of 10% or higher top line growth, building on 13% growth a year ago. Adjusted operating income of $1.3 billion was a second quarter record and grew 8% on top of 24% in the second quarter of 2021. Adjusted EPS growth of 8% is notable, given our 33% growth in the second quarter of 2021, costs related to our strategic talent investments and the rebound of expenses such as T&E. We also completed the highest level of quarterly share repurchases in over a decade, buying back $600 million of stock.
+Overall, our second quarter performance reflects the strength of Marsh McLennan, the relevance of what we do and the expertise of our colleagues. I'm pleased with the momentum of our second quarter results, especially when viewed in the context of a macroeconomic and geopolitical backdrop that has become increasingly tense over the course of the year. And during 2022, the outlook was cautiously optimistic, reflecting expectations for above-average GDP growth. Fast forward to today, and we hear more about the rising risk of recession, the highest inflation in two generations, geopolitical tumult, central bank hawkishness, and bear markets in risk assets.
+We have proven to be a resilient firm, and we are prepared to act as conditions warrant. However, in the current environment, we believe it is worth noting some nuances to the macro story that remains supportive of our growth. While the real GDP growth outlook has softened, the outlook for inflation has risen. These two factors have somewhat offsetting impacts on insurance premiums.
+Even if GDP growth softens as predicted, higher inflation will increase insured values and likely cause higher loss costs. Additionally, P&C insurance pricing conditions remain firm. We are helping clients navigate in an environment where underwriters remain cautious about where and how they deploy capital and terms and conditions are tight in some product lines. Insurers also continue to account for the rising frequency and severity of catastrophe losses, the risk of social inflation and a firmer reinsurance market.
+Looking at the health benefits and workforce sectors, the U.S. labor market remains among the tightest employment environment of the past half century, even if it has tempered at the margins. The U.S. unemployment rate is back to pre-pandemic lows, and yet over 11 million jobs remain unfilled.
+And short-term interest rates are rising due to Central Bank tightening, which will be a benefit to fiduciary income. Importantly, we are in the business of risk, strategy, and people. When the world is unsettled, demand for our services rises. We are helping our clients adapt to this rapidly changing landscape and navigate long-term challenges as well as opportunities.
+We are increasingly harnessing the collective power of our firm to guide clients as they deal with issues such as geopolitical risk, the pandemic, cyber threats, global supply chain disruptions, capital markets volatility, climate change, tight labor markets, and new ways of working. Even if a recession does emerge, Marsh McLennan is well positioned to perform through the economic cycle. Since we went public in 1962, we have grown EPS during all recessionary periods, most notably in the severe recessions that accompanied the global financial crisis and the pandemic in 2020. We have demonstrated our ability to manage the expense base in both good and tough times and run our business to grow revenues faster than expenses.
+We have reported adjusted operating margin improvement for 14 consecutive years. We also have a track record of delivering today while investing for the future. This includes generating attractive financial performance while at the same time investing in our talent and capabilities. Overall, I am proud of how we are executing and delivering for clients today.
+And we continue to believe that over the long term, demand for our advice and solutions will remain strong given rising levels of complexity, volatility and uncertainty across the business landscape. With that, let me turn it over to John for his comments on the quarter. 
+John Doyle -- Group President and Chief Operations Officer
+Thanks, Dan, and good morning, everyone. Our second quarter results were outstanding. We had 10% underlying revenue growth with momentum across the business, and our adjusted operating income set a second quarter record. I'm pleased with our performance and grateful to our colleagues for the value they deliver to our clients, communities and shareholders.
+Before I discuss market trends and our performance, I want to comment on the ways in which we are harnessing the collective strength of Marsh McLennan. We are finding the intersections where we bring unique capabilities to serve our clients. Earlier this year, I mentioned that I was meeting with our colleagues to identify areas where we can have greater client impact as well as accelerate our growth. These conversations have yielded a range of ideas to drive innovation, deliver critical client solutions, become more agile and efficient, and create growth and value for shareholders.
+Year-to-date, we have generated a significant number of wins involving two or more Marsh McLennan businesses. And every day, we see more potential to succeed together. Let me share a few recent examples. Marsh and Oliver Wyman helped a regional healthcare client with a broad enterprise risk management strategy.
+Knowing Marsh has this capability, Oliver Wyman involved them in the engagement. The client was so pleased with the value the team delivered that a further opportunity was created for Mercer to consult on workforce issues. Marsh and Mercer engaged a higher education client in the United States about enterprise risk management. The client valued our expertise and ability to facilitate conversations about total risk across all lines of insurance.
+As a result, Marsh was awarded the property and casualty insurance program, and Mercer secured the student health, travel, and athletics business. The client has since engaged the joint team about expanding additional lines of coverage. Guy Carpenter and Oliver Wyman also came together recently to help a large U.S. insurer with strategic advice to reposition a core product.
+The successful collaboration is expected to lead to additional business and further opportunities to partner on future projects. These are just a few examples of the ways we are helping clients grow faster and become more resilient. Now let me provide an update on current P&C insurance market conditions. Rate increases in the marketplace persist along with continued concerns around the impact of inflation on loss cost and a tightening reinsurance market.
+The Marsh Global Insurance Market Index showed price increases of 9% year over year. This marks the 19th consecutive quarter of rate increases in the commercial P&C insurance marketplace. Looking at pricing by line, the Marsh market index showed both global property insurance and global casualty rates up 6% on average. Global financial and professional lines, excluding cyber, increased low single digits, while cyber rates rose nearly 80% in some geographies.
+As a reminder, our index skews to large account business. However, small and middle market insurance rates continue to rise as well although less than for large complex accounts. Turning to reinsurance. Guy Carpenter's U.S.
+property catastrophe rate online index showed increases of approximately 15% through midyear, the largest increase since 2006. Midyear renewals reflected one of the most challenging property markets in many years with pricing driven by inflation, escalating geopolitical risk, and loss experience. Throughout the first half of the year, we saw some reinsurers take tougher positions on specific terms and conditions and shift portfolios to limit capacity in certain lines of business or geographies. We remain focused on helping our clients navigate these challenging insurance and reinsurance markets and the heightened risk environment.
+Turning to our performance in the quarter. As I noted earlier, Marsh McLennan had excellent results. In the second quarter, we had 10% underlying revenue growth with 9% in RIS and 10% in consulting. This is a fantastic result considering the prior year second quarter underlying growth was 13%.
+Bottom line results were strong as well, with adjusted operating income growth of 8% in the quarter, compared to 24% growth a year ago. Looking at risk & insurance services. Second quarter revenue was a record $3.3 billion, up 5% compared with a year ago or 9% on an underlying basis. Adjusted operating income increased 9% to a second quarter record of $1 billion, and our adjusted operating margin expanded 40 basis points to 32.8%.
+At Marsh, revenue in the quarter was $2.8 billion, up 5% compared with a year ago. Revenue growth was 9% on an underlying basis and supported by strong renewal growth and new business. U.S. and Canada had 10% underlying revenue growth.
+This marks U.S. and Canada's fifth consecutive quarter of double-digit underlying revenue growth. International was also strong with underlying growth of 9%. Latin America grew 14%.
+Asia Pacific was up 11%, and EMEA was up 7%. Guy Carpenter's second quarter revenue was $522 million, up 9% on an underlying basis driven by strong retention and new business as well as rate increases, which continued at midyear. Guy Carpenter has now achieved underlying revenue growth of 9% or higher in four of the last five quarters. In the consulting segment, revenue was $2.1 billion and up 10% from a year ago on both a reported and underlying basis.
+This is consulting's fifth consecutive quarter of double-digit underlying revenue growth. Adjusted operating income increased 4% to a second quarter high of $369 million. The adjusted operating margin was 19.3%, down 20 basis points versus a year ago. Mercer's revenue was $1.4 billion in the quarter, up 7% on an underlying basis.
+Career grew 17% on an underlying basis, a record since we began reporting this line of business. We continue to see robust demand for solutions linked to workforce transformation and compensation and rewards. Health underlying revenue growth was also excellent at 10% in the quarter, reflecting growth across all geographies. This quarter's results continue to benefit from strong demand for our solutions, accelerating new business, higher retention, increased enrolled lives from a strong labor market, and medical inflation.
+Wealth increased 1% on an underlying basis, reflecting modest growth in defined benefits, which offset a modest decline in investments. Our assets under management were $346 billion at the end of the second quarter, down 12% from the prior year, reflecting capital market and foreign exchange headwinds. In May, Mercer announced an agreement with Westpac to acquire BT Super Trust and Advance Asset Management in Australia. This will create a $45 billion Mercer fund, helping more than 850,000 Australians invest for retirement.
+The transaction is expected to be completed in the first half of 2023. Oliver Wyman's strong momentum continued. Revenue in the second quarter was $695 million, an increase of 16% on an underlying basis. This follows a 28% comparable in the second quarter of 2021 and reflects continued strong demand across all geographies.
+Overall, I'm proud of our second quarter performance, which demonstrates the continued momentum across our business despite a more uncertain macro environment. Now I'll turn the call over to Mark for further detail on our financial results and a discussion of our outlook for the rest of 2022.
+Mark McGivney -- Chief Financial Officer
+Thank you, John, and good morning. As Dan and John mentioned, our strong financial performance in the second quarter reflects continued momentum across our business. We saw another quarter of double-digit underlying revenue growth and meaningful earnings growth despite tough prior year revenue and expense comparisons. We generated GAAP EPS of $1.91 in the quarter and adjusted EPS of $1.89, up 8% from a year ago.
+This comes on top of adjusted EPS growth of 33% in the second quarter of last year. Operating income was $1.4 billion, and adjusted operating income was $1.3 billion. Our adjusted operating margin was 26.7% in the second quarter, up 30 basis points year over year. John covered our business operating results, so I'll cover some of the other aspects of our performance and outlook.
+Adjusted corporate expense was $62 million in the second quarter. Based on our current outlook, we expect approximately $142 million for the second half of the year. Foreign exchange was a headwind of $0.03 to our adjusted EPS due to the strength of the U.S. dollar against most major currencies.
+Year-to-date, foreign exchange represents a $0.07 headwind. Assuming exchange rates remain at current levels, we expect FX to be a headwind of $0.01 in the third quarter and $0.05 in the fourth quarter. Our other net benefit credit was $59 million in the quarter. For the full year 2022, we expect our other net benefit credit will be about $240 million.
+Investment income was $2 million in the second quarter on a GAAP basis and $3 million on an adjusted basis and mainly reflects gains in our private equity portfolio. Interest expense in the second quarter was $114 million compared to $110 million in the second quarter of 2021. Based on our current forecast, we expect interest expense to be about $118 million in each of the third and fourth quarters. Our adjusted effective tax rate in the second quarter was 23.7%, compared with 24.4% in the second quarter of last year.
+The lower rate this quarter was driven by a decline in our underlying tax rate to 25% from 25.5% a year ago. Our tax rate in the quarter also included a benefit from favorable discrete items, the largest of which related to stock compensation. When we give forward guidance around our tax rate, we do not project discrete items, which can be positive or negative. Based on the current environment, it is reasonable to assume an adjusted effective tax rate of around 25% for 2022.
+Turning to capital management, our balance sheet. We ended the quarter with total debt of $11.8 billion. Our next scheduled debt maturity is March of 2023 when $350 million of senior notes mature. We continue to expect to deploy approximately $4 billion of capital in 2022 across dividends, acquisitions, and share repurchases.
+The ultimate level of share repurchase will depend on how our M&A pipeline develops. Last week, we raised our quarterly dividend 10%, marking our 13th consecutive year of dividend increases. In the second quarter, we bought back 3.8 million shares of our stock for $600 million, reflecting our strong financial position and outlook for cash generation. Our acquisition pipeline remains active.
+As John mentioned, we recently announced Mercer's agreement with Westpac to combine the BT and Mercer Super Trust in Australia. We are also looking forward to Mercer's acquisition of Advance Asset Management from Westpac. We are excited about these deals and how they extend Mercer's leading position in OCIO. Our cash position at the end of the second quarter was $909 million.
+Uses of cash in the quarter totaled $1.1 billion and included $275 million for dividends, $232 million for acquisitions, and $600 million for share repurchases. For the first six months, uses of cash totaled $1.9 billion and included $547 million for dividends, $273 million for acquisitions, and $1.1 billion for share repurchases. Regarding the outlook for the rest of 2022, we remain on track for a terrific year. Our top line comps get tougher in the second half, and there is greater uncertainty in the macro outlook.
+However, with our strong first half, we see underlying growth at the upper end of our full year guidance of mid-single digits or higher. We also continue to expect margin expansion for the full year and solid growth in adjusted EPS. And with that, I'm happy to turn it back to Dan.
+Dan Glaser -- President and Chief Executive Officer
+Thanks, Mark. Richard, we're ready to begin Q&A.
+Operator
+[Operator instructions]. And our first question on line comes from Elyse Greenspan from Wells Fargo.
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+Hi. Thanks. Good morning. My first question, I was hoping to just get some color on the impact of the new hires this quarter.
+I think last quarter, you started to see an impact in Guy Carpenter. Did that continue? And did Marsh also see a benefit in the second quarter?
+Dan Glaser -- President and Chief Executive Officer
+Yes. I mean, as I've said before, Elyse -- and good morning to you as well. Marsh McLennan, we're largely focused on building our capabilities and building our talent. It's all about the talent.
+It's not necessarily all about, well, what kind of book of business or what kind of production does that individual drive and how quickly can they get there. We know with our distribution, our client base, the prospects that we go after and the complexity of the world that there will be plenty of opportunities to get our talent engaged. Now having said that, yes, last year, we had a strategy to build our talent base for a variety of different reasons. We arrived at that strategy.
+So it's a little bit more acute in terms of how does it translate to revenue. And obviously, you're seeing higher revenue from us right now across the firm. But, John, do you want to give a little bit more detail about what you're seeing from the new hires?
+John Doyle -- Group President and Chief Operations Officer
+Sure, Dan. Yes, Elyse, we're very, very pleased with the hiring we did last year. As you know, we capitalize on our brand as -- our strong brand as an employer in the marketplace and some market dislocation, and it's worked out exceedingly well for us. Our focus this year has been onboarding that talent in a successful way and bringing them to a level of productivity.
+As we noted last quarter, Guy Carpenter -- the impact on Guy Carpenter was a bit earlier as expected then it will be at March. But the talent we brought in has been very, very helpful at Marsh as well. We serve our clients and teams. And I think one of the things that feels particularly good about it is just the cultural fit of these new colleagues.
+It's worked out very, very well. So we're on target from a productivity perspective or slightly ahead. And we feel terrific about the investments we made.
+Dan Glaser -- President and Chief Executive Officer
+And I think it's really important John's comment about that we serve clients and teams. That's what we do. So there's not a number on an individual's back of what they have to produce in a given time frame. We've built the capabilities of the firm, and that is a lasting basis of increasing value that we provide to clients.
+Do you have a follow-up, Elyse?
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+Yes. Thanks. My follow-up, so, Dan, you kicked off the call discussing the potential impact of a recession. You also highlighted that inflation could be a benefit as well as the still good commercial pricing.
+So if we do enter into a recession, whether that's later this year or in 2023, is that an environment when you think about those moving pieces that Marsh McLennan can still continue to hit that mid-single-digit or greater organic growth target?
+Dan Glaser -- President and Chief Executive Officer
+Yes, I'm not going to give you a guidance about our revenue next year or later. I mean, I do think it's important to note that in all past recessions since 1962, we grew adjusted EPS. And we know how to run a business in good times and in bad times. And we've proven to be a very resilient firm.
+Now there is certainly uncertainty about the economic outlook. And there's a great deal to be concerned about on a macro basis and a geopolitical basis in the world today. I mean, that's to be sure. But as I noted in the script, there are other factors which tend to support our growth.
+And it's whether it's strong demand for our services in difficult times, whether it's inflation, as you mentioned, higher interest rates, which are direct benefits to fiduciary income and profitability. And the insurance market is firm and remains firm. And if anything, reinsurance on the property side is even tightening. So we feel good about where we are positioned.
+Now as we've seen in past recessions, you could see the most discretionary parts of our business are Oliver Wyman and Mercer career. You take them together, it's about 16% or 17% of the total firm. And they tend to be impacted the quickest in downturn. However, right now, their performance has been remarkably strong in both Oliver Wyman and Mercer career, and their pipelines remain strong.
+So the red flag is not going up quite yet and -- but we watch it carefully.
+John Doyle -- Group President and Chief Operations Officer
+Yes, Dan, maybe one more thing to throw in. Elyse, you talked about inflation and pricing in the commercial P&C market a bit or you asked about that. But our revenue line is also exposed to medical inflation. I noted that in my prepared remarks, but medical inflation also is a tailwind for us.
+Dan Glaser -- President and Chief Executive Officer
+That's a good point. Next question please.
+Operator
+Thank you. [Operator instructions]. Our next one comes from Mr. Robert Cox from Goldman Sachs.
+Robert Cox -- Goldman Sachs -- Analyst
+Hey. Thanks for taking my question. My first one, I just wanted to ask about the environment and noting that some notable companies have come out and said things like they're being more cautious and with respect to hiring and maybe slowing spend on professional fees. So I mean, you just touched on it a little bit, but are you seeing any of that in the impact on your runway for project-related work, I guess, particularly with respect to Oliver Wyman?
+Dan Glaser -- President and Chief Executive Officer
+No. I mean, we -- I'll hand off to Nick in a second, but Oliver Wyman's performance has been very strong. Pipelines still look good. They're getting a lot of looks across different areas, everything from efficiency plays to growth plays.
+And so, Nick, do you want to give us a little bit more?
+Nick Studer -- President and Chief Executive Officer of Oliver Wyman
+Yes, Dan, I mean, I think you summarized it well. Robert, thanks for the question. We are delighted with the continued progress. Really across all four of our regions, we've been in double-digit growth, and the pipeline looks robust in all four of them.
+We have 12 different industry practices. The majority of those have been in double-digit growth led by energy, by healthcare and life sciences, by retail banking, automotive, and manufacturing and private capital. And Dan gave the nod to the broad range of capabilities that we're seeing work in, again, led by some of our organizational effectiveness and operational efficiency work but also restructuring, also finance and risk. And there's quite a few countercyclical offerings in there.
+So we do think, over time, that sort of mid- to high single-digit growth will be all through the cycle average, and it's obviously been faster recently. But the pipeline still looks good as Dan noted.
+Dan Glaser -- President and Chief Executive Officer
+And, Robert, one thing that I'll just mention in your question around hiring or the caution around hiring within our client base, I mean, as you can see, it's been a very tight labor market, particularly in the United States. Companies are very focused on how to attract and retain colleagues, and they engage Mercer regularly in that. And in respect to Marsh McLennan specifically, our hiring last year where we had 6,000 net hiring, the timing of that, in retrospect, is really pretty perfect entering the environment that we are in today. And we have gone back to our more normal pattern of hiring.
+It's not caution, I would say. It's just a recognition that we had a large degree of hiring last year. And our hiring pace this year is very consistent with our hiring that we did in, say, 2017, 2018, 2019 if you look at those in the aggregate year by year on a CAGR basis. And so it's kind of back to normal on the hiring front.
+Do you have a follow-up, Robert?
+Robert Cox -- Goldman Sachs -- Analyst
+Yes. So just with respect to those comments, as you think about a potential recession, those hires that you made in 2021, there's certainly some tailwinds for the brokerage business right now. Is that -- are those tailwinds enough to kind of have that talent base hold their own in a recessionary environment? Or would you look at that and say, "This is going to be a margin headwind?"
+Dan Glaser -- President and Chief Executive Officer
+We've grown our margins in good times and in bad times. And certainly, this is our -- this will be our 15th year of margin expansion because it's fundamentally philosophically the way we run the business. We grow revenues at a faster pace than we grow expenses. And so our margins will go up on that basis.
+Now our underlying levels of growth have a big impact. The higher the levels of growth that we see next year or the year after, the more we'll be able to think about margins. So the tighter levels of growth would make those things more difficult. But we're a company that can perform in good times and in bad times.
+And so things like recessions, they're a natural form of the economic cycle in a capitalist society. So we don't fret over that, and we don't plan all that much around it. We'll run our business, and we'll deliver fine results. And we'll continue to invest as we go.
+Next question, please.
+Operator
+Thank you. Our next question comes from Mr. Jimmy Bhullar from J.P. Morgan.
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+Hey. Good morning. So first, I just had a question following up on your comments on the pricing environment. Are you seeing any changes on the part of your clients in response to higher pricing, both in the primary side and also in reinsurance?
+Dan Glaser -- President and Chief Executive Officer
+So, John, why don't you take that one?
+John Doyle -- Group President and Chief Operations Officer
+Sure, Jimmy. Just a little bit of background, and then I'll ask Martin and Dean to talk about some of the marketplace, some observations they have around the current marketplace. So as I said earlier, prices ran up in both insurance and reinsurance. Insurers and reinsurers remain concerned about elevated cat losses over the last several years, including secondary perils.
+They're spending a lot of time better modeling and understanding secondary perils. Inflation, both core inflation, but there are concerns about social inflation as well and then the frequency of large losses. Insurers led the turn in the market several years ago. Now reinsurers are pressing on price and terms and conditions.
+So the things have changed a bit. But as I mentioned, retail pricing, insurance pricing remains up. Martin, maybe I'd ask you to share some observations first, and then we'll ask Dean to talk about what's going on in the reinsurance market.
+Martin South -- President and Chief Executive Officer of Marsh
+Thank you, John. Well, the risk of repeating things just to get some numbers squared away. Pricing is strong in second quarter, which is very challenging for our clients as the question noted. Rates continue to moderate, though, in the quarter, which is good news for our clients.
+FINPRO rates are up 16%, which is really driven by cyber. Core FINPRO is actually flattish, and cyber is driving growth there. Property, up 6%; casualty, up 6%, which is just upper take over the prior quarter. And so those are the real drivers for it.
+It's difficult to see any inflationary impacts in the rates, although it's possible that we got a declining rate increase, which would have been faster in a normal inflationary environment. And of course, our clients have some options. We manage some captives, and they're able to retain more risk in the captive to deal with those issues.
+John Doyle -- Group President and Chief Operations Officer
+Thank you, Martin. And, Dean, as I noted in my prepared remarks, there's some segments of the reinsurance market are capacity constrained. So maybe you could touch on that as you share some observations for Jimmy.
+Dean Klisura -- President and Chief Executive Officer of Guy Carpenter
+Yes. Thanks, John. Jimmy, I would say in terms of the reinsurance renewal, the first half, as John noted, was the most challenging property market we have seen in a number of years. John noted U.S.
+property cat rates increasing 15% on average through the first half of the year, the largest increase we've seen since 2006. The June 1 midyear renewal was particularly challenging as we saw property cat capacity really constrained globally with particular challenge in the U.S. and London wholesale market. John and Dan both noted many of the macro influences impacting the reinsurance market on the property side, including rising inflation, uncertainty from the Russia-Ukraine war, climate change anxiety on behalf of our clients and reinsurers, the continued increase in global cat losses and certainly reduced retrocession protections on behalf of our reinsurers.
+That being said, to your question, demand for our advice and solutions remains very strong as our clients try to manage volatility on their balance sheets. And our clients are seeking strategic advice on systemic risk. John mentioned climate, cyber, ESG and the emergence of secondary perils. Every day, we read about wildfires, convective storms, floods throughout the world.
+Our clients are asking us to build tools to help them manage through that volatility and understand how they manage their businesses moving forward.
+John Doyle -- Group President and Chief Operations Officer
+Thanks, Dean.
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+Just as a follow-up, there's been a lot of concern in the market about Oliver Wyman and the consulting business with an economic slowdown. Obviously, you're not showing that in your results. But what's driving the momentum there? And what's your outlook for the business as the economy does, in fact, slow down a little bit?
+Dan Glaser -- President and Chief Executive Officer
+Yes. So we've talked to you over many years about how Oliver Wyman over long stretches of time tends to be our fastest growing segment. And we've been dramatically pleased. I mean, there's nothing that I could say negatively right now about Oliver Wyman posting a 16 on top of a 28 in the year before on the top line.
+But, Nick, how do you see things?
+Nick Studer -- President and Chief Executive Officer of Oliver Wyman
+Yes. I mean, I think sort of broad, broad growth and robust pipeline. We are prepared in terms of our client offerings. It's important that when the cycle changes and the questions change, we are prepared with answers for those new questions.
+And so we've been preparing those offerings for quite a few years now. I'd also say that the pandemic created very different market conditions in each of the sectors we serve. So some of our client segments have been having a very tough time for quite a long time, and others have been booming. But overall, we see no slowdown in the pipeline to date.
+Dan Glaser -- President and Chief Executive Officer
+Sure. And, Martine, you want to talk about what you're seeing in Mercer generally and Mercer career specifically?
+Martine Ferland -- President and Chief Executive Officer of Mercer
+Yes, absolutely. Thank you, Dan and Jimmy, for the question. In a very similar fashion, we see pipeline being strong in the career business, career services, in particular. And as Nick just mentioned, the pandemic instigated and accelerated so much change around the way that we work.
+We see the labor shortages. So we currently don't see any slowdown or any evidence of it. We certainly are cautious in looking at the red flags when and where they will pop up. But there is these conditions in the market right now different questions, as Nick was saying, that our expertise can help clients answer.
+John Doyle -- Group President and Chief Operations Officer
+Thank you. Next question, please.
+Operator
+Thank you. Our next question on line comes from Mr. David Motemaden from Evercore ISI.
+David Motemaden -- Evercore ISI -- Analyst
+Hi. Thanks. Good morning. Dan, you mentioned you're prepared to act as economic conditions warrant.
+Could you maybe just elaborate a bit on some of these actions and how far away you are from putting some of those in place, what sort of you're looking for in the environment before you start to take some of these actions?
+Dan Glaser -- President and Chief Executive Officer
+Yes. I mean, ultimately, there are several things that we are working on, I would say, in over both throughout short term, midterm and long term as a way to become a more efficient organization. And that touches upon technology modernization, real estate rationalization, different ways of working for our colleagues, looking at a number of factors on operational excellence. I mean, I think in general, we're still in the early to mid stages of being able to create operational improvements within the firm, which deliver higher levels of client service and lower levels of internal cost.
+And that's something that we're certainly very focused on. One of the things that we're looking at as well is you don't want to get too cautious too early. Our business is doing significantly well. We've been investing throughout both through the pandemic in -- as well as in 2021.
+And we continue to invest today. We're still in a hiring mode, although the hiring pace is more similar to 2019 than it would have been in 2021, where we had a real surge in strategic hiring. Most of our costs are pretty identifiable. You have compensation and benefits.
+You've got technology. You have premises or real estate, and you have T&E. So the levers that you can utilize are available. And I have to say we have a very large variable compensation pool driven by profitability.
+And so it is dramatically larger than it was a decade ago or five years ago because our profitability is dramatically larger. And that gives us tremendous flexibility of protecting shareholders in the event that we hit some headwinds on growth or macroeconomic factors. So you never want to be sanguine about macro environment, and we're not. But on the other hand, I don't think there's a more resilient organization that you could actually invest in.
+David Motemaden -- Evercore ISI -- Analyst
+Got it. No --
+Dan Glaser -- President and Chief Executive Officer
+Do you have any follow-up?
+David Motemaden -- Evercore ISI -- Analyst
+That makes sense. And then I guess -- just, I guess, sort of an expense-related question but more focused on the margins. So the first half is supposed to be tougher comps. I think we just got out of the first half pretty good expansion, 20 basis points of expansion in the first half of '22.
+Should we expect a tick up in that as we sort of get into the back half as some of these tougher comps are no longer as tough from an expense standpoint? Or were there any -- was there anything sort of one-off in the expense load this quarter or in the first quarter that might mean that there's a little bit shifted to the back half of the year?
+Dan Glaser -- President and Chief Executive Officer
+Yes. I mean, to be clear, we are super pleased with our modest margin expansion year-to-date. I mean, come on, we hired 6,000 people on a net basis last year. And we've been able to grow our business and deliver some modest margin expansion and all the growth benefit -- and I shouldn't say all.
+Most of the growth benefit is in our future as opposed to in our past. So if we look at the back half of the third quarter, the headwind on comp and ben expense from all of the hiring begins to abate. And so there'll be -- and the growth benefit will continue. And so we don't give margin guidance by quarter, but we give it by year.
+And we're saying our margins are going to go up this year. We're going to have strong EPS in 2022. And so we feel good about where we are on margins. We don't run the business obsessing about margins, frankly.
+We run the business looking at growing our top line and growing our profitability. And margins are an outcome of growing our revenue faster than growing our expense. But right, our -- the back half of the year will play out, and we'll deliver a strong year. We think it will be a very good year.
+Next question, please.
+Operator
+Thank you. Our next question on line comes from Weston Bloomer from UBS.
+Weston Bloomer -- UBS -- Analyst
+Hi. Good morning. Thanks for taking my question. My first one is on your free cash flow growth.
+Growth was OK in the 2Q, but one half has been a little bit lower it looks like mostly to higher crude comp. My question is, how should we think about free cash flow growth in the second half of the year? And are there any notable headwinds or tailwinds to point out?
+Dan Glaser -- President and Chief Executive Officer
+Sure. Mark, why don't you take that?
+Mark McGivney -- Chief Financial Officer
+Sure. As we consistently say, we try not to focus too much on free cash flow growth in a particular quarter, even over the course of a particular year because there can be a lot of volatility. But when we look back over a long stretch of time, going back a decade or more, we've delivered double-digit growth in free cash flow. And our outlook for free cash flow growth is that we'll continue to deliver strong free cash flow growth.
+You pointed out the comparison challenge. The early part of the year is our seasonal low for cash generation because of our variable comp payouts. And the first half of this year has a tough comparable. Our variable comp pools were up substantially last year based on our significant good performance.
+And so you have that tough comp against the low base, and that's been the drag early in the year. As you pointed out and not that I want to focus on cash flow in a particular quarter, but our -- in the second quarter, we were up 8%. And so -- but I think the bottom line is our outlook for cash generation remains strong.
+Dan Glaser -- President and Chief Executive Officer
+Thanks. Do you have a follow-up?
+Weston Bloomer -- UBS -- Analyst
+I do, yes. My second question is on your capital allocation throughout the year. I guess how much of the second quarter allocation for higher repurchases was maybe due to a lower share price or less opportunities or richer multiples in M&A? I was hoping you could kind of expand on the M&A environment, what you're seeing from a multiple perspective and where you could see opportunities and kind of how we should think about repurchase versus M&A in the second half? Thank you.
+Dan Glaser -- President and Chief Executive Officer
+Sure. Well, clearly, multiples have gone up over the last few years. And certainly, when you look at longer stretches of time, they've gone up materially. And so we have to be more diligent in deciding as we go through pro forma statements of private companies what's really real and what will remain and how we think about the business.
+Our pipeline is pretty good. What we announced with regard to Westpac in Australia, though, has cash out the door next year, not this year, even though that is a commitment that we've made in terms of acquiring a business. So our pipeline remains strong, but we have no budget with regard to acquisitions. Acquisitions are a core part of our competency and what we do as a firm.
+And you're very right to focus on share repurchase as being somehow a duo with acquisitions. If we have a year that's particularly light on acquisitions, then we would have a stronger year of share repurchase. We favor share repurchases over building cash on the balance sheet. So you look at our dividend, which went up by 10%.
+That's the first call. Then we look at acquisitions. But we don't have a budget on acquisition, and we don't press on acquisitions. They occur when they occur.
+Then share repurchase goes in front of building cash on the balance sheet. And so yes. So, so far, first half of this year has favored share repurchase. It doesn't mean the second half will.
+We'll just have to see how it plays out. 
+Weston Bloomer -- UBS -- Analyst
+Thanks for taking my questions.
+Dan Glaser -- President and Chief Executive Officer
+Sure.
+Operator
+Thank you. Our next question comes from Katie Sakys from Autonomous Research.
+Katie Sakys -- Autonomous Research -- Analyst
+Hi there. Thank you so much for taking my question. This is Katie on for Ryan Tunis of Autonomous. I had a question about your guidance on foreign currency headwinds, which seems rather moderate despite foreign currency moves.
+Could you give us some further color on your confidence in the modest EPS impact you've guided to, particularly in the third quarter? Is it a matter of the timing of the recognition of international revenue or mix or perhaps just Marsh's recognition of international revenues in USD versus local currencies?
+Dan Glaser -- President and Chief Executive Officer
+Thanks, Katie. Mark, why don't you take that?
+Mark McGivney -- Chief Financial Officer
+Yes, sure. And when you look at our guidance over the course of the full year, so $0.07 in the first half and then $0.06 across the back half, the pretty meaningful impact when you look back over the last several. And actually, tracks pretty well with our 10-K disclosure of a 10% move in the dollar against major currencies, what that means. For the third quarter, though, and we've talked about this in the past that there is a modest impact, and that is what we are modeling, assuming that rates stay where they are today.
+Really what you see in the third quarter is because of dollar placement activity in London, a weak pound actually acts as a bit of a hedge against a strong dollar relative to the other currencies. And that pound impact, that natural hedge impact, if you will, is most significant in this coming third quarter. And so what you see is a benefit from the weak pound offsetting some of the other currencies. But as we get to the fourth quarter, that's when that benefit as strong, and then we see that $0.05 in the fourth.
+Katie Sakys -- Autonomous Research -- Analyst
+Got it. And as a quick follow-up, are you expecting any margin tailwind from foreign currency in the back half of the year?
+Dan Glaser -- President and Chief Executive Officer
+Mark, do you want to talk about that at all?
+Mark McGivney -- Chief Financial Officer
+Yes. Generally, not significantly. Most of our margin is going to be driven by our operating performance.
+Dan Glaser -- President and Chief Executive Officer
+Thanks. Next question, please. Next question.
+Operator
+My apologies, I was muted. I would now like to turn the call back over to Dan Glaser, president and CEO of Marsh McLennan for any closing remarks.
+Dan Glaser -- President and Chief Executive Officer
+Terrific. And I'd like to thank everyone for joining us on the call this morning. I want to thank our 83 colleagues for their commitment, hard work and dedication to Marsh McLennan. Look forward to speaking with you all next quarter.
+Goodbye.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Dan Glaser -- President and Chief Executive Officer
+John Doyle -- Group President and Chief Operations Officer
+Mark McGivney -- Chief Financial Officer
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+Robert Cox -- Goldman Sachs -- Analyst
+Nick Studer -- President and Chief Executive Officer of Oliver Wyman
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+Martin South -- President and Chief Executive Officer of Marsh
+Dean Klisura -- President and Chief Executive Officer of Guy Carpenter
+Martine Ferland -- President and Chief Executive Officer of Mercer
+David Motemaden -- Evercore ISI -- Analyst
+Weston Bloomer -- UBS -- Analyst
+Katie Sakys -- Autonomous Research -- Analyst
+More MMC analysis
+All earnings call transcripts

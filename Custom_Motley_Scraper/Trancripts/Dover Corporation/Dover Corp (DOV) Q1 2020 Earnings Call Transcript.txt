@@ -1,0 +1,330 @@
+Image source: The Motley Fool.
+Dover Corp (DOV 0.62%)Q1 2020 Earnings CallApr 21, 2020, 10:00 a.m. ET
+Andrey Galiuk -- Vice President of Corporate Development and Investor Relations
+Hello, good morning and welcome to Dover's First Quarter 2020 Earnings Conference Call. Speaking today will be Richard Tobin, President and Chief Executive Officer; Brad Cerepak, Senior Vice President and Chief Financial Officer; and myself, Andrey Galiuk, Vice President of Corporate Development and Investor Relations.
+[Operator Instructions] This call will be available for playback through May 12th and the audio portion of this call will be archived on our website for three months.
+Dover provides non-GAAP information and reconciliations between GAAP and adjusted measures, are included in our investor supplement and presentation materials, which are available on our website. We want to remind everyone that our comments today may contain forward-looking statements that are subject to uncertainties and risks, including the impact of COVID-19 on the global economy and on our customers, suppliers, employees, operations, business liquidity and cash flow. We caution everyone to be guided in their analysis of Dover by referring to our Form 10-K and Form 10-Q for the first quarter, for a list of factors that could cause our results to differ from those anticipated in any forward-looking statement. We undertake no obligation to publicly update or revise any forward-looking statements except as required by law.
+With that, I will turn this call over to Rich Tobin.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks, Andrey. Good morning, everyone. We're going to take some sage advice and briskly go through what was a solid first quarter and get straight to where we are from a market demand perspective and what actions we are taking with our operations, cost structure and balance sheet to adapt ourselves to this extremely challenging environment.
+I'm not going to read the next slide, but will mention that the urgency and magnitude of the present challenge is not lost on us and we are working through these times with resolve and a sense of responsibility to our employees, customers, partners, shareholders and local communities where we operate. We understand our role as a supplier into many critical societal functions like food packaging and retail, fueling, waste removal and many others. Moreover, our businesses supply directly into projects aimed at fighting the outbreak, such as commercial cleaning, masks, hospital bed and ventilator production as well as bio-pharmaceutical therapy development.
+Let's go to slide 4 of the quick summary of the first quarter results. We recognize that these results are looking into the rearview mirror, given the pace of change in the last few weeks, rest assured that despite solid Q1 results, we have zero complacency given the progressively challenging outlook into Q2. To sum up Q1, our ability to remain largely operational coupled with the work we did on our cost structure and productivity initiatives more than offset the beginning headwinds of COVID-19 which largely impacted our businesses in China and Italy in the quarter.
+Let's go to slide 5 and briefly look at segment performance. Engineered Products organic sales declined 2% as demand and auto-exposed businesses slowed down, the vehicle aftermarket business also experienced operational interruptions in our China and Europe-based facilities. Waste handling continue to grow, operating strong backlog, digital sales in the waste business were up nearly two times on a year-over-year basis. Price and cost containment in response to lower volumes as well as productivity actions result in higher adjusted EBIT for the segment.
+Moving on to Fueling Solutions, our robust activity in North America driven by demand for EMV compliance solutions, where as Europe and Asia declined due to open related production and supply chain interruptions and project deferrals. Additionally manufacturing our vehicle wash segment in the US were shutdown in March due to local government mandates. Segment delivered 500 basis point margin improvement as a result of favorable geographic and product mix, productivity actions and cost controls as well as pricing. Imaging & ID declined organically 4% in the quarter. Marking and Coding was approximately flat on strong demand for consumables due to surge in production volumes of consumer goods. In March, which offset the challenging conditions in Asia in Q1, our digital textile printing business had a difficult quarter as all of our operations are in the Lombardy region of Italy, which bore the brunt of the COVID-19. This was further exasperated by the sudden and significant impact of the crisis on the global textile and apparel markets. Margin in the segment declined only 80 basis points since our cost containment actions and favorable mix impact of consumables largely offset the significant volume drop in our digital printing business.
+Pumps & Process Solutions' top line declined 1% organically. Strong performance in our hygienic and biopharma pumps as well as in plastics and polymer systems and components largely offset slowing market conditions in industrial pumps and downstream oil and gas complex. The segment delivered another quarter of strong margin improvement driven by cost containment and restructuring actions as well as pricing more than offsetting negative impact of COVID inflation and FX translation.
+And finally in Refrigeration & Food Equipment, organic sales declined 4% primarily driven by weaker demand for heat exchangers and foodservice equipment, both as a result of governmental actions to combat the COVID around the world. Core food retail business declined less than 1% as grocers began to postpone remodel projects later in the quarter. Segment margin declined due to COVID related production curtailments in Asia and in Europe in SWEP as the volume reduction -- and as volume reduction in food equipment.
+From there, I'll pass it on to Brad.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Thanks, Rich. [Technical Issues] All right, let me go to slide 6. On the top is the revenue bridge. As you will know, FX was a meaningful headwind in Q1, reducing top line by 1% or $23 million, driven primarily by the dollar appreciating against the euro and also Brazilian, Swedish, and Chinese currencies. Bookings were up 1% organically and were similarly negatively impacted by FX and positively supported by acquisitions. Performance by geography, unfortunately reflects the quarter's coronavirus outbreak around the world. All of Asia declined 19% organically, while within Asia, China posted a 36% decline due to significant mid-quarter disruption. Europe was down 7%, principally driven by Fueling Solutions in Engineered Products. US, our largest market grew 4% organically with four out of five segments posting organic growth. We expect Q2 to reflect a year-over-year drop in demand in the US and Europe as COVID expanded into April. Also we are watching cautiously for relative stabilization in China although start-up has -- although start-up has been slow in some markets.
+Let's go to the earning bridge on slide 7. I'll refrain from going into detail on these bridges for the quarter, with three of five segments posting triple-digit basis margin improvement, further helped by reduced corporate expenses. In addition to cost actions, margins were generally supported by mix pricing and impacted negatively by first and foremost, lower volumes, inefficiencies associated with operational disruption, FX and inflation. Outside of steel and fabrications which started to trend positive, we have seen material cost inflation in the quarter.
+Now, on slide 8, cash flow is top of mind as we move into Q2. We are pleased with the first quarter cash generation, with free cash flow for the quarter of $36 million, a $48 million improvement over last year. Recall the first quarter is traditionally our lowest cash generating quarter and typically shows negative cash flow. Our teams have done a good job managing free cash flow, more actively in this uncertain environment, and we expect to continue to proactively manage working capital into the second quarter. Capital expenditures were $40 million for the quarter, slightly increased versus comparable period, as we continued to execute our in-flight growth and productivity capital project started in 2019. Most of these projects are slated for completion in the second quarter.
+Lastly, let me update you on our financial position on slide 9. We believe Dover's financial standing is strong and positions us well to navigate the unfolding period of uncertainty. First, we have been targeting a prudent capital structure in our leverage at 2.2 times EBITDA, places us comfortably in the investment grade rating with a margin of safety. Second, we don't have long-term debt maturities until 2025, thanks to the refinancing effort we undertook in Q4 last year, which shifted out the maturities and reduced our interest expense.
+Lastly, we are operating with approximately $1 billion of current liquidity which consists of about $500 million of cash and another $500 million of unused revolver capacity. We drew $500 million of our revolver in the first quarter out of abundance of caution when commercial paper markets experienced volatility in late March. Proceeds were used to principally pay off maturing commercial paper. We are back in the commercial paper market in April and will use cash from the program to potentially pay the revolver, if conditions remain stable.
+So in summary, at this time, we expect free cash flow to remain strong for the Company as we move into the second quarter. With that, I'm going to pass it back to Rich.
+Richard J. Tobin -- President and Chief Executive Officer
+Okay, let's try not to put each other on mute. Sorry about that, Brad. Let's go on to slide 10. Since we suspended full year guidance, we will dive deeper into current trading conditions and our actions over the next few slides. Slide 10, we will cover the current demand outlook as of mid-April and projected status of our operating footprint for the quarter.
+First, Engineered Products. As previewed in our Q1 results, industrial automation and vehicle aftermarket as well as industrial winch markets have slowed and continued trending weak, with material deceleration in March after positive January and February. We are taking capacity management actions in Q2 across these businesses to rightsize our cost and working capital. Waste handling continues to be constructive as our waste municipal fleet customers operate as essential businesses and are seeing large increases in residential volumes, which are more truck intensive.
+In Fueling Solutions, Fueling Solutions is a bit of a bright spot. Order trends have been robust on US EMV and the business saw good trends in March, with some sequential slowing in April. Customer base is operational as retail fueling is generally considered essential business worldwide and record high fuel margins on low oil price help operators offset the reduction in volume and traffic. On the downside, transportation of vehicle wash markets are likely to see delays in capital outlays during this near-term uncertainty. We are largely up and running in the segment, except one vehicle watch [Phonetic] facility in Michigan, and a few smaller dispenser sites in Brazil, Italy and India.
+In Imaging & ID, digital textile printing will be challenged in 2020 as fashion and apparel markets deal with an unprecedented shutdown of apparel retail globally. Marking and coding has held up in Q1, with strong orders in February and March, and we expect it to be relatively resilient, as 40% of the sales are driven by consumables tied directly to current production volumes in fast-moving consumer goods, which surged in Q1 and should sustain as consumers shift to home-based consumption of packaged goods.
+Parts of this business are not immune, notably industrial end markets and printer and service sales as our customers delayed planned maintenance due to peak utilization or visitation and/or travel restrictions. We expect to recover such delayed sales at a later time. We are progressing with the integration of Systech, which is responsible for the majority of the backlog increase you can see in the segment.
+In Pumps & Process Solutions, while we're seeing sequential slowdown in the oil and gas markets served primarily by our precision components business, trends appear constructive in military chemicals, food and beverage, power generation and some industrial verticals, while biopharma and hygiene are areas of strong growth. Maag, plastics and polymer equipment has not seen material project cancellation and continues operating with a solid backlog that equal -- that equates to nearly half of their annual revenue base. We have a substantial spare parts business in the segment and large share revenue is derived from consumables or installed base replacement versus first fit capital construction. These should be supportive factors.
+And in retail, Refrigeration & Food Equipment, this segment is facing the largest near-term demand headwind in our portfolio and it's spread across several businesses within the segment. In the core food retail business, orders trended positive in February and March, but starting in March, many retailers are forced to postpone remodeling and construction projects due to peak traffic volumes, local restrictions and inability of contractors and technicians to gain site access. The backlog in this business is solid, but the shipment timing remains uncertain. We expect that increased wear and tear of store equipment will result in a surge of volume of frozen and refrigerated products being sold will create substantial pent-up demand and we will be well positioned to capture the rebound when it comes. Overall, we expect several quarters of mix to potentially variable performance in this business.
+Our heat exchanger business has faced both operational disruptions in Asia and demand reduction in HVAC industry globally, with material sequential slowing in March. Backlog has improved in the quarter, but we do see uncertainty at here as we must wait for our customers to come back online. Our commercial foodservice business is facing significant demand challenges as the restaurant segment only partially offset by opportunities in the institutional market. There's no hiding here, March has seen unprecedented decline in order trends, we will manage capacity aggressively through the year with significant curtailments already begun in Q2.
+Let's go to the next slide. We have taken a proactive cost containment stance early in Q1. As you can see, our SG&A cost has declined in absolute terms in Q1, mainly driven by travel curtailment and lower incentive compensation costs. And the quantum of these actions accelerates in Q2, which I'll cover on the next slide.
+We are progressing on our $50 million center-led cost out program as planned with $13 million achieved in Q1, primarily from IT and a variety of other cost items. For clarity sake, the charts are not fully additives as both include SG&A as you can see from the footnote. On the cash flow side, we are cutting capex related demand environment. We view $100 million as committed in non-discretionary spend, which shows you, we have additional flex we have, should the downturn be deeper and longer than expected. We carry over $1 billion of working capital in the business, which we scaled down with revenue or better primarily driven by inventory management.
+After all that, let's get onto the most important slide in the deck, let's not sugar coat this, Q2 is going to be tough. Despite a healthy backlog, we will be curtailing or adjusting capacity down across a large proportion of our portfolio companies, driven by the following. In some locations, government mandates prevent us from operating. You can see in the business that this impacts the most. In several end markets that I've touched on earlier, weak demand warrants curtailed capacity. In food retail, we expect a significant portion of our backlog to shift to H2 as retailers continue facing operational challenges in executing their projects as a result of heavy traffic and inability of contractor access.
+And then category 4 is driven by proactive working capital management and hedge against weaker demand environment than forecasted. We have capacity to catch up that deferred production in the second half. In addition to the lost margin on lower revenue, these capacity reductions in curtailments will cause year-over-year comparative material fixed cost under-absorption of approximately $35 million to $40 million in the quarter. We estimate that our variable cost reduction levers and flow through on in-flight programs will positively contribute to approximately $65 million in the quarter, which would take you back to the previous slide of the offsets that we had in Q1. On the cash flow side, we expect inventory management to contribute positively in the quarter. We do intend to pay the dividend that's scheduled in June and will fund the bolt-on acquisition of Em-Tech in Q2.
+So to wrap up, let's put some directional guide posts out there for the year in the absence of formal guidance. The year can unfold in with a variety of different scenarios, but almost certainly be negative revenue change of yet unknown magnitude. We will focus on what we can control best, our costs. We target full year decremental margin of 25% to 30%, of which we have a variety of actions to offset volume under-absorption. You saw a glimpse of the levers in the prior two slides and we're prepared of a full arsenal of actions for the remainder of the year. On the cash flow side, we will reduce our capital spend, the flexibility to defer more. We are targeting cash flow conversion in excess of 100% of adjusted earnings for the year. We have suspended our share repurchases, but intend to continue to paying a dividend and lastly, our M&A posture remains opportunistic. We will continue pursuing logical bolt-on acquisition -- acquisitions at rational valuations.
+In summation, I want to thank everyone at Dover for their perseverance in these difficult times and let's open it up to Q&A.
+Operator
+[Operator Instructions] Your first question comes from the line of Jeff Sprague with Vertical Research.
+Jeff Sprague -- Vertical Research -- Analyst
+Thank you. Good morning, everyone. Hope everyone is faring OK through this situation. Rich, I missed the first 15 minutes or so of the call, but I'm just wondering a couple of things. Your comments on refrigeration and the difficultly of getting jobs done, are you seeing any other situations where it's the opposite? I mean fueling comes to mind, where there's less traffic at the gas station, perhaps it makes sense to actually kind of accelerate and get some of this work done if the capital is already been budgeted. That's first question. I just have a follow-up on that.
+Richard J. Tobin -- President and Chief Executive Officer
+Okay. On the first question, you -- I can't answer it any better than the way you stated it. I mean, the fact of the matter is that, on the retail fueling side, that's outdoor work. So there is more flexibility, and it is an industry that is, I forgot what they described them as important, I guess or essential. So we've seen obviously no slowdown or any real material issues in terms on the -- on the retail fueling side. On the refrigeration side, it's more in-door work, and because of traffic restrictions and everything you see in the supermarkets going on, I think it's understandable, what's happening there.
+Jeff Sprague -- Vertical Research -- Analyst
+And then just to be clear on what you're saying on restructuring, so you are not increasing kind of the active that's $50 million bucket, so to speak, but you're doing these other actions on variable cost, T&E and the like. Is that correct? Are you actually stepping up restructuring and what's your scope to pull forward actions you may have had on the table for '21 and beyond?
+Richard J. Tobin -- President and Chief Executive Officer
+Okay. While the $50 million is solid. So you saw the benefit, I think it was $13 million in Q1. We expect that to be relatively even through the four quarters of the year. If you want to do the mathematics by that, the balance of it is not restructuring, it's cost containment actions of variable costs and unfortunately, the direct labor costs of when we're furloughing and then curtailing our operations. So I wouldn't put it in the restructuring bucket, because it's more volume-related as opposed to permanent cost takeout.
+Jeff Sprague -- Vertical Research -- Analyst
+And then, maybe along those lines, other things that are not going to come back with the -- with volume recovery. There is other things you're doing in corporate or your view on travel in the future, those sorts of things or should we expect all those kind of volume-related savings to also swing the other way, when we do get on the good side of the swing.
+Richard J. Tobin -- President and Chief Executive Officer
+Hard to say, I think what happens with travel going forward from here, but I would expect that '21 will probably be lower than '19, if you want an opinion on it. We are -- as we mentioned that we -- when we established the $50 million for this year, that we are building up plans for another $50 million for next year, we'll see how we progress on that, because the fact of the matter is, with everybody at home, we're working on some of our productivity plans, that's become a little bit difficult and we've really had to turn the chart here, to deal with immediate cost actions as opposed to longer term ones. So I understand your question, I think let's get further into the year and I think that we can probably put some brackets around that.
+Jeff Sprague -- Vertical Research -- Analyst
+Great. Thanks a lot. Good luck.
+Richard J. Tobin -- President and Chief Executive Officer
+Yeah. Thanks.
+Operator
+Your next question comes from the line of John Inch with Gordon Haskett.
+Ivana Delevska -- Gordon Haskett -- Analyst
+Good morning, guys. This is Ivana on for John.
+Richard J. Tobin -- President and Chief Executive Officer
+Good morning.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Good morning.
+Ivana Delevska -- Gordon Haskett -- Analyst
+So I just wanted to clarify, so the 6% SG&A cost that would be incremental to the $50 million of cost cuts, and could you give us a sense of how much would that be in Q2 and Q3 and how are you thinking about it versus the volume decline?
+Richard J. Tobin -- President and Chief Executive Officer
+I would turn your attention to slide 12, in the bottom left hand corner of the presentation that we posted, where it gives you our cost actions for Q2. We're not going to comment on Q3 yet. Let's see how Q2 progresses. Other than the fact that the $50 million of structural costs takeout, you can divide by four, if you want to model into quarters.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+And just for clarity, as we said on the chart, the $50 million is inclusive in the 6% down.
+Ivana Delevska -- Gordon Haskett -- Analyst
+The $50 million. Okay, I get it. Okay. And then one follow-up, could you give us the breakdown of your fixed versus variable cost structure, ideally for both...
+Richard J. Tobin -- President and Chief Executive Officer
+It's not a meaningful metric in consolidation. If there is follow up -- because the operating companies are so different in their profile. I think I'd recommend that you get back with Andrey for some follow-up questions there.
+Ivana Delevska -- Gordon Haskett -- Analyst
+Okay. Thank you.
+Richard J. Tobin -- President and Chief Executive Officer
+Thank you.
+Operator
+Your next question comes from the line of Scott Davis with Melius Research.
+Scott Davis -- Melius Research -- Analyst
+Hi. Good morning, guys.
+Richard J. Tobin -- President and Chief Executive Officer
+Hi, Scott.
+Scott Davis -- Melius Research -- Analyst
+I know it's early, but is it impossible to think about -- start thinking about M&A here and particularly perhaps, if there's distressed assets, like food equipment affect that.
+Richard J. Tobin -- President and Chief Executive Officer
+It's not impossible to think about it. Distressed assets is really, I don't know, if that's our bailiwick. I'm not taking it off the table. But if we were to go, kind of what the timeline is in situations like this, the first things that come available are distressed assets. Everybody is going to hold on for a v-shaped recovery to see if, what happens to asset values or some of the things that we were looking at last year. So our expectation is, what we will see early on are going to be distressed. It's going to have to be really attractive for us to pursue something like that, Scott.
+Scott Davis -- Melius Research -- Analyst
+Yeah. And just -- and if you said it, I apologize, I didn't hear it, but how much down are the food equipment business orders? Is it 92% -- like 90% or something?
+Richard J. Tobin -- President and Chief Executive Officer
+We didn't...
+Scott Davis -- Melius Research -- Analyst
+Extra ordinarily high number like that or.
+Richard J. Tobin -- President and Chief Executive Officer
+Yeah. We didn't size it during the comments, but it's very material.
+Scott Davis -- Melius Research -- Analyst
+Okay, fair enough, thanks. Good luck.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks.
+Operator
+Your next question comes from the line of Joe Ritchie with Goldman Sachs.
+Ronny Scardino -- Goldman Sachs -- Analyst
+Hi, good morning, guys. This is Ronny Scardino on for Joe Ritchie.
+Richard J. Tobin -- President and Chief Executive Officer
+Good morning.
+Ronny Scardino -- Goldman Sachs -- Analyst
+So just first on restructuring, curious does the backdrop wherein make it easier for you to execute on rolling out Dover Business Services faster to operating companies? Thank you and just one follow-up.
+Richard J. Tobin -- President and Chief Executive Officer
+Well, I think that anytime that you go into a situation like this, that it heightens everybody's focus on cost structure for sure, but having said that, implementation becomes more difficult with the stay at home. So it's a little bit more difficult. As I mentioned in my comments about deploying some of the people around to our businesses to start working on that. But having said that, in part of our year-over-year cost savings, DBS is a foundational pillar. So we don't expect it to slow down at all going into the -- going through this year. What's your next question?
+Ronny Scardino -- Goldman Sachs -- Analyst
+And then, where across your portfolio, do you think there could be more resilience in this downturn?
+Richard J. Tobin -- President and Chief Executive Officer
+Well, I think if you go back and you look at the slide that we prepared, on slide 10, gives you the best window of how the business is performing, both from a demand point of view and what our operational stances, I think that should answer your question. That's more granular than generally speaking, we give an intra-year comment.
+Ronny Scardino -- Goldman Sachs -- Analyst
+Thanks, guys.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks.
+Operator
+Your next question comes from the line of Julian Mitchell with Barclays.
+Julian Mitchell -- Barclays -- Analyst
+Hi, good morning. Maybe just help us understand what's happening in Fueling Solutions? The extent to which that Q1 bookings number, the strength was maybe something of a blip, have you seen much in the way of push-outs or cancellations around US EMV investments or are you expecting those to occur?
+Richard J. Tobin -- President and Chief Executive Officer
+We have not. And right now, we don't expect that -- we expect some slowing in Q2, because we had to curtail our US operations at the beginning of April, mostly due to the COVID issue where we had to shut the plant down. Otherwise, we would be up and running on the above ground side based on the backlog, that you can see.
+Julian Mitchell -- Barclays -- Analyst
+I see. So on the demand front, you haven't seen too much disruption in the US, even with miles driven collapsing and so forth.
+Richard J. Tobin -- President and Chief Executive Officer
+No, I mean, I think that, again as we mentioned at the close of last year, we said that there was one area with potential upside, it would be that EMV adoption is actually been accelerating into Q4 and that it continued into Q1. Unless that stance changes, we don't have any reason to believe for a material slowdown. Now, it's not going to be absolutely the same quarter-by-quarter, it's going to move based on orders, order intake and everything else, but right now, we'd go into the quarter with a robust backlog. I think that will have less production performance in Q2, but that's on us only because we've had to take the sites down as I mentioned.
+Julian Mitchell -- Barclays -- Analyst
+Thank you. And then my second topic would be around the DII segment. There is a very large amount of European demand exposure in that business. Maybe just help us understand how the short-cycle trends in European DII or that segment globally? How have those been trending in the very recent past?
+Richard J. Tobin -- President and Chief Executive Officer
+Well, I think that we need to split that business between the Printing & ID and then the textile side. The textile side is under enormous pressure, so much so that I would expect that, that is going to have a difficult full year, just what's going on in retail operations on textile demand. On the Printing and ID side, it had a good quarter, including Europe, because of fast-moving consumer goods production and the amount of consumables that we are shipping. It's difficult in terms of the actual printers themselves. And on the maintenance side, but as you'd recall -- may recall, that was a business that we expected to have a significant improvement in year-over-year productivity because of management cost actions taken in Q4.
+Julian Mitchell -- Barclays -- Analyst
+Great. Thank you very much.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks.
+Operator
+Your next question comes from the line of Andrew Obin with Bank of America.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Good morning. This is David Ridley-Lane on for Andrew Obin. What's been your experience on sort of the recovery in the supply chain and then, the early demand recovery in China?
+Richard J. Tobin -- President and Chief Executive Officer
+We have, I would say non-material issues in our own supply chain side. I think that, that had manifested itself earlier in Q1 when China was down, it took a little bit for the freight side of it to unlock. We have some challenges, but they are not insurmountable. And China is recovering, but it's a slow recovery in terms of the demand function.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+And then on the potential for other curtailments during this quarter, just sort of trying to understand how large or meaningful that could be in terms of the margin impact as you -- as you think about it?
+Richard J. Tobin -- President and Chief Executive Officer
+Well, I can't give you more information than we gave on slide 12, right? The curtailments are going to cost us between $35 million and -- estimated between $35 million and $40 million of fixed cost absorption alone. So that should give you an idea of the significance of the capacity curtailments we're going to take out in Q2. So I'm not going to size it more than that, but we are going to manage, this is not hoping for -- we're not burning down relative strength in backlog in Q2. We're going to make some bets on the linearity of the demand and in certain cases, actually proactively cut production to manage the working capital impact.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Understood. Thank you very much.
+Richard J. Tobin -- President and Chief Executive Officer
+Thank you.
+Operator
+Your next question comes from the line of Nigel Coe with Wolfe Research.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks. Good morning. Can you hear me guys?
+Richard J. Tobin -- President and Chief Executive Officer
+We can.
+Nigel Coe -- Wolfe Research -- Analyst
+Look, I apologize if some of these questions have been asked before, I'm trying to manage two calls here, but what -- have you addressed free cash flow, Rich in terms of expectations for the full year and sources of cash from working capital and how that plays out through the year? Just wondering, obviously no guidance right now, but how do you expect cash to perform versus earnings?
+Richard J. Tobin -- President and Chief Executive Officer
+If we go, we'd take a look at the deck that we posted on 13. We expect free cash conversion to be a 100% of adjusted net earnings for the full year of 2020 and that is going to be influenced by depending on market conditions, a liquidation of the balance sheet.
+Nigel Coe -- Wolfe Research -- Analyst
+Okay. And would you expect that to be, a bit more back-end loaded to liquidate that balance sheet? So do you think that can be a bit -- more so Q2 onwards?
+Richard J. Tobin -- President and Chief Executive Officer
+Not as -- well, again, let's think positive for a moment, not as back-end loaded as in previous years because hopefully we're beginning to ramp up production in the second half of the year. So it may be a little bit more inverted because we're cutting production mid year which we generally are not, that's usually what our highest capacity utilization is. So we expect it to be more cash generative on from a working capital point of view, in the middle two quarters and let's think positive about Q4 and hopefully we're, we're ramping up production in Q4.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+And if you've missed it earlier, we did take down our capex spending expectation for this year and as it says, you're on page 13, there is further flex there as well. So in our prepared comments, we talked about our ability to continue to manage our free cash flow through this year with an expectation that we're going to deliver 100% against adjusted earnings. So how that falls now will depend on how fast we liquidate across the balance sheet.
+Nigel Coe -- Wolfe Research -- Analyst
+Right. Thanks, Brad, I think, thanks guys. I did see the capex. So I'm not completely blind. But the -- in terms of pricing, you did 0.7% pricing this quarter. Just wondering if you could maybe just give a little bit of color in terms of what you've seen across the portfolio on pricing? And if you have any concerns that maybe pricing can flip [Phonetic] deflationary toward the back half of the year?
+Richard J. Tobin -- President and Chief Executive Officer
+I think that we are concerned about it, but we haven't seen any kind of crazy pricing in the marketplace as a general comment.
+Nigel Coe -- Wolfe Research -- Analyst
+Okay, thank you very much.
+Richard J. Tobin -- President and Chief Executive Officer
+You're welcome.
+Operator
+Your next question comes from the line of Andy Kaplowitz with Citigroup.
+Andy Kaplowitz -- Citigroup -- Analyst
+Hey, good morning, guys.
+Richard J. Tobin -- President and Chief Executive Officer
+Hi, Andy.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Good morning, Andy.
+Andy Kaplowitz -- Citigroup -- Analyst
+Rich, just like following up on RF&E and just sort of the progress you've made there with the automation project, then talking about the second half of the year, about sort of a stat, I think sort of talking about the comment you made, you expect some mixed results in the business, but obviously stronger demand. So how does that mean over time, so you've got a good backlog, how does that all sort of go together here as you go into the second half of the year, I think you started strong Belvac, which is good margin. So I guess instead of continuing to ramble, can you still do that mid-teens margin in this business or is it just tougher because of the mixed demand environment?
+Richard J. Tobin -- President and Chief Executive Officer
+The answer is, Andy, I don't know yet, right? At the end of the day, we've got a backlog in the Refrigeration business that we could run out in Q2 and get all the production performance and do decently on margins in advance of the automation benefit, which is in the second half of the year. But based on the signals that we're getting from the marketplace and the inability for our customers to actually do these projects, we are proactively taking down production, it's down now as a matter of fact, in our principal sites because it just doesn't make sense to get the production performance and build all the inventory, right?
+So we'll see in the back half of the year, we believe that there is pent-up demand in this business, it's unfortunate because this is the year we were hoping to kind of turn the corner and this COVID messes has really put a nail through it. So over the longer term, we are going to continue to work on the automation. So that doesn't stop. It's very difficult for me to say we're sitting here today what happens with the demand function, meaning did we just lose a quarter here and that volume is going to bleed over into '21. It's hard to say at this point, but I think it's a better than even bet.
+On the balance of the portfolio, sure, on Belvac, we said was going to be second-half loaded. And we believe that to be the case. The ones that are more difficult to predict right now is SWEP, which is -- there's been some earnings releases on HVAC already. So you know what's going on there. the industrial footprint of HVAC in Europe has been largely down during the month of March and into April. So we need that to come back, so we can resume deliveries. And in Food Equipment, I think that we are just going to have to retrench for a period of time until all of this lock down goes away because of the detrimental impact on the restaurant business.
+Andy Kaplowitz -- Citigroup -- Analyst
+Rich, that's helpful. And then I didn't hear your comments on Engineered Products, but may be you can sort of talk about, obviously a lot of business is in there. So how is the, for instance, VSG doing in the sense that, it seems like a more difficult business in this kind of environment, COVID impacted. So you've got a lot about half of that business that's auto focused in some way. So maybe talk about because there's a difference between that business versus waste handling and how the overall DP [Phonetic] business is doing?
+Richard J. Tobin -- President and Chief Executive Officer
+Look, VSG being objective, had a significant portion of their production shut in Q1 in Italy. So the performance in Q1 from a margin point of view is excellent. But having said that, it is not those repair shops and everything else are not critical industries for the most part, and are dealing with this whole stay at home phenomenon. So I think the management is proactively taking down production in VSG in Q2 to manage its working capital itself. But having said that, that's aftermarket business, it's basically miles driven and everything else. So we would expect that to not to be bad in the second half. That are our expectations right now. Some of the smaller businesses like winches -- as far as winches and things like that, that's more tied to capital goods and that's going to go through a tough year.
+Andy Kaplowitz -- Citigroup -- Analyst
+Got it. And on the waste handling side, relatively, I mean you still have good backlog there?
+Richard J. Tobin -- President and Chief Executive Officer
+Backlog is good. I think that we're going to manage our capacity down in Q2. As I mentioned about burning down backlog until you get a line of sight, I expect that business to perform well this year. But I think we're going to take production performance down comparatively a little bit in Q2.
+Andy Kaplowitz -- Citigroup -- Analyst
+Thank you, guys.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks.
+Operator
+Your next question comes from the line of Josh Pokrzywinski with Morgan Stanley.
+Richard J. Tobin -- President and Chief Executive Officer
+Or maybe not.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Josh, we can't hear you. Let's go to the next...
+Richard J. Tobin -- President and Chief Executive Officer
+Let's go to the next one.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Yeah.
+Operator
+Okay. Your next question comes from the line of Patrick Baumann with JPMorgan.
+Patrick Baumann -- JPMorgan -- Analyst
+Hi, good morning guys. Thanks for taking my questions. Real quickly on the curtailments for the second quarter. The 10-Q mentioned that 7% of your major global facilities are shut completely as of April 17th and 11% are partially closed or have lower capacity. And I know it's tough, but is that a reasonable way to think about second quarter organic sales down maybe low-double digit, or could it be much worse than that for any reason, like is there a big destock in the channel that would impact you kind of more than what we're seeing in industrial production, like I'm just curious any color you can provide on that?
+Richard J. Tobin -- President and Chief Executive Officer
+Yeah, that's a good college try to get Q2 revenue. Look, clearly the deteriorating conditions at the end of Q1 would say that the -- and the fact that we came out and said, I think on one of the first bullet points that we expect Q2 to be the most difficult quarter of the year, would imply that revenue is going to be down exasperated by the fact that we're going to cut production so significantly, but I'm not going to size it for you.
+Patrick Baumann -- JPMorgan -- Analyst
+Okay. And on the free cash flow maybe, could you mention -- I mean, we talked about capex coming down and you're managing working capital in a few different areas. And then the filings also indicated something about tax payments being pushed out. Maybe if you could address sustainability of the actions you're taking and how, how we should expect some of this to revert on the other side when things get better? Like is the capex cut just a deferral of certain things that ultimately come back, kind of separate...
+Richard J. Tobin -- President and Chief Executive Officer
+I think that the demand environment would have to change in excess of our forecast for the second half of the year for the capex to come back. So in a certain way, I hope that we have to reforecast capex back up at some point during the year, but unless the demand environment changes, more than our forecasted are positive, I would expect it not to come up.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Yeah, and the cash flow on the deferrals. I mean, I think every company is going to see that type of activity related around the act. So it's not a major number. It's not a big number, but it is something advantage just so to speak. There is also -- so even on your personal taxes, there is deferral of timing, but it's still within the year. So there's going to be some aberration on that but nothing, nothing that changes our view on free cash flow for the year.
+Patrick Baumann -- JPMorgan -- Analyst
+Okay and then just, sorry to follow up that first question, since I didn't really get an answer, the scheduled curtailments, you said $35 million to $40 million of the reduction in fixed cost absorption, and then underneath that on slide 12, it says $50 million of offset actions on controllable costs, so is the net number then a $15 million, you might have take the $50 million minus that $35 million to $40 million to think about the year-over-year impact. Like, so you're fully offsetting those curtailment hits?
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Yeah, at the end of the day is what's the revs down, you still got to come up with that -- that's the number you're missing there.
+Richard J. Tobin -- President and Chief Executive Officer
+So the fixed cost absorption will offset.
+Patrick Baumann -- JPMorgan -- Analyst
+Yeah.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+But you lose income on the revs down obviously, right?
+Patrick Baumann -- JPMorgan -- Analyst
+Yeah, understood. Okay.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+And you know, [Indecipherable] to expand, so that's a point in time, that changes every day. So you're trying to interpolate something there. I mean, I think if we update that a week from now, it will be a different number either up or down, depending on what the situations in fact are in any geo around the globe.
+Patrick Baumann -- JPMorgan -- Analyst
+Yeah, totally understood. I appreciate the color. Thanks so much guys. Good luck.
+Operator
+Your next question comes from the line of Deane Dray with RBC Capital Markets.
+Deane Dray -- RBC Capital Markets -- Analyst
+Thank you. Good morning, everyone.
+Richard J. Tobin -- President and Chief Executive Officer
+Good morning.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Hi, Deane.
+Deane Dray -- RBC Capital Markets -- Analyst
+Hey, Rich, I know it's still early, but I was hoping you could look ahead and talk about what you think might be some of the secular changes from the pandemic on how it would impact Dover's businesses? Any specifics come to mind? We've heard some general commentary about more reassuring. I'm not sure that makes sense maybe carrying more buffer inventory, but how do you think this changes the structure of the organization and some of the emphasis on working capital and so forth?
+Richard J. Tobin -- President and Chief Executive Officer
+Yeah, I think Deane that we -- Dover is made up by a collection of medium-sized companies that don't really have the longest supply chains. So I think that some of the anecdotal comments about what's going to happen from bigger vertical industrials really don't apply to us, to the extent that there is reassuring and in a certain way, I hope so -- because that's to our benefit and in a lot of cases for some of our components businesses.
+Deane Dray -- RBC Capital Markets -- Analyst
+But then on Dover specifics, do you see any longer-term changes in retail fueling on like commuter behavior as well as the supermarkets, maybe shifting to more warehouse type operations for food delivery, anything along those lines?
+Richard J. Tobin -- President and Chief Executive Officer
+Not anything different than we would have thought going into this crisis now. I think that -- I don't think there's anything secular other than what we've been always watching at the end of the day. And I would argue that on the -- at least on the food retail, we would think that we're turning the corner, that it's more in our favor going into the future, but we'll see.
+Deane Dray -- RBC Capital Markets -- Analyst
+Got it. And just last one for me, no surprise that you're maintaining the dividend and maybe if you could just expand on the buyback decision on stopping for now, how much of that is in consideration of liquidity preservation, are you influenced at all at some of the political backlash that's associated with buybacks here?
+Richard J. Tobin -- President and Chief Executive Officer
+It's all liquidity.
+Deane Dray -- RBC Capital Markets -- Analyst
+Okay. Thank you very much.
+Richard J. Tobin -- President and Chief Executive Officer
+So -- and when we get to these next few quarters, you know what, hopefully that everything is fine and then we can go back to capital returns.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+We just think it's a smart thing to do right...
+Richard J. Tobin -- President and Chief Executive Officer
+Right.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Frame it.
+Deane Dray -- RBC Capital Markets -- Analyst
+Got it. Thanks guys. Best of luck.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Thank you.
+Operator
+The last question comes from the line of Mig Dobre with Baird.
+Mircea Dobre -- Robert W. Baird -- Analyst
+Great. Thanks for squeezing me in. Good morning, guys. Rich, I want to go back to the disclosure you provided on slide 6, where you talked about the geographic detail and just sort of a big picture wondering here, I mean this whole COVID issue started in Asia, started moving westward from there hitting Europe, impacting US now. When you sort of look at your business, is it fair to expect that the US could be following a pattern similar to Europe or maybe even down the line, your Asia business in terms of growth? Or do you think that there is some particular offsets in your business mix or operations that would -- that would make you look different than the other geographies?
+Richard J. Tobin -- President and Chief Executive Officer
+I would think that it will follow the same pattern, but I'd be careful about using the quantum of the percents only because of our participation in different regions. Like the law of small numbers, but without question and we were talking about when we put the slide together, it's like that you can almost watch this COVID-19 travel the world and we would expect that with the lockdowns that we had late in Q1 that are in exist today that, that same pattern would come to the US or North America.
+Mircea Dobre -- Robert W. Baird -- Analyst
+So, sorry to be pressing on this, but I'm trying to understand, if Europe right now is a better benchmark, for thinking about the...
+Richard J. Tobin -- President and Chief Executive Officer
+I know.
+Mircea Dobre -- Robert W. Baird -- Analyst
+US Business maybe Asia [Phonetic].
+Richard J. Tobin -- President and Chief Executive Officer
+You can't only because the numerator and the denominators are all different, so to be careful about just using the percentages and saying, well, which one should I pick the 19% or the 7%.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+It's as we talked about, even the fueling business in the US has showed strength and continues to show strength. So it's not the same in every geo in terms of the different sects [Phonetic].
+Richard J. Tobin -- President and Chief Executive Officer
+But I'd go back to the comment I made before. Make no mistake, Q2 is going to be tough.
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Right.
+Richard J. Tobin -- President and Chief Executive Officer
+And that's why we're intervening on the production base. So what I mean we don't know what you could put on it, but it's going to be a different one.
+Mircea Dobre -- Robert W. Baird -- Analyst
+We all understand that, we're just trying to do our best from the outside to try to get a number as close as we can. And sticking with fueling here, your orders were up nicely, your backlog is up nicely. As you sort of think about your business versus the initial expectations that you set up for the year of being up 0% to 2%, I'm just sort of wondering what has worked out different than your expectations and where do you think we are right now in terms of the EMV upgrade cycle in terms of penetration? Thanks.
+Richard J. Tobin -- President and Chief Executive Officer
+You know what, we haven't had the time to run those penetration numbers. I think when we put the forecast together for '20, we said if there was one segment that we thought had some upside, it was going to be Fueling Solutions because of the order trends that we saw in Q4 about EMV adoption, clearly that is held in Q1. So it's better than we would have expected, but it was within the window of our forecast. But as you know, we've always been -- we spent a year trying to push this adoption rate out and now it seems to be accelerating whether that holds for the year, I hope so -- but we'll see. But that's what's driving the backlog.
+Mircea Dobre -- Robert W. Baird -- Analyst
+No, I understand that part. I'm just wondering if we're in the third, the fifth or the seventh inning of this adoptions like?
+Richard J. Tobin -- President and Chief Executive Officer
+I don't know, I don't know. Like I said, we haven't had time to -- with everything that's going on, we haven't had time to size it from a total market and as we've said numerous times from a revenue point of view, it's all over the map, depending on whether you're doing full dispenser units or just kits.
+Mircea Dobre -- Robert W. Baird -- Analyst
+All right. Thank you, guys.
+Richard J. Tobin -- President and Chief Executive Officer
+Thanks.
+Operator
+[Operator Closing Remarks]
+Duration: 54 minutes
+Andrey Galiuk -- Vice President of Corporate Development and Investor Relations
+Richard J. Tobin -- President and Chief Executive Officer
+Brad M. Cerepak -- Senior Vice President and Chief Financial Officer
+Jeff Sprague -- Vertical Research -- Analyst
+Ivana Delevska -- Gordon Haskett -- Analyst
+Scott Davis -- Melius Research -- Analyst
+Ronny Scardino -- Goldman Sachs -- Analyst
+Julian Mitchell -- Barclays -- Analyst
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Nigel Coe -- Wolfe Research -- Analyst
+Andy Kaplowitz -- Citigroup -- Analyst
+Patrick Baumann -- JPMorgan -- Analyst
+Deane Dray -- RBC Capital Markets -- Analyst
+Mircea Dobre -- Robert W. Baird -- Analyst
+More DOV analysis
+All earnings call transcripts
+
+
+
+
+

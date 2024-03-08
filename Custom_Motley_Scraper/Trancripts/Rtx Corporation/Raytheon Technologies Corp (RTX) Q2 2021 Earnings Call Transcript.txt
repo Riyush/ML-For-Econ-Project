@@ -1,0 +1,321 @@
+Image source: The Motley Fool.
+Raytheon Technologies Corp (RTX -0.04%)Q2 2021 Earnings CallJul 27, 2021, 8:30 a.m. ET
+Operator
+Good day, ladies and gentlemen, and welcome to the Raytheon Technologies' Second Quarter 2021 Earnings Conference Call. My name is Tabitha and I'll be your operator for today. [Operator Instructions]
+On the call today are Greg Hayes, Chairman and Chief Executive Officer; Neil Mitchill, Chief Financial Officer; and Jennifer Reed, Vice President of Investor Relations. This call is being carried live on the Internet and there is a presentation available for download from Raytheon Technologies' website at www.rtx.com.
+Please note, except where otherwise noted, the Company will speak to results from continuing operations excluding net non-recurring and/or significant items and acquisition accounting adjustments often referred to by management as other significant items. The Company also reminds listeners that the earnings and cash flow expectations, any other forward-looking statements provided in this call are subject to risks and uncertainties. RTC's SEC filings including its Forms 8-K, 10-Q and 10-K provide details on important factors that could cause actual results to differ materially from anticipated in forward-looking statements. [Operator Instructions]
+With that, I'll turn the call over to Mr. Hayes.
+
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thank you, Tabitha, and good morning, everyone. I'm on the Slide 2 of the of the deck for those of you following along. So, a couple of months ago, we held our first Investor Day as Raytheon Technologies and that day we laid out our 2025 goals to deliver strong top line growth, margin expansion and at least $10 billion in free cash flow by 2025, all while continuing to invest in our businesses and return significant cash to our shareowners. We continue to be confident in the future because of our strong franchises, the resilient markets in which we operate, our innovative technologies, and our relentless focus on operational excellence and cost reduction, which will drive margin expansion and strong cash flows into the future.
+And we continue to see encouraging trends across our market. Our confidence in our ability to achieve these targets remain strong and as you saw at the end of May, the Department of Defense released the fiscal year '22 budget request, which was generally in line with our expectations with respect to our portfolio of products and the investments we're making in differentiated technologies, including missile defense, space-based systems, next-generation propulsion and hypersonics.
+Major RTX programs fared well as -- overall as modernization funding remains at near historic highs. Requested funding for these programs is favorable to the overall DoD modernization request when compared to last year's plan for fiscal year '22. It's also worth noting that the overall classified funding request, which supports a significant part of our Intelligence & Space portfolio was also very well supported. So I'd say we're well positioned with the administration's priorities, driven by our innovative technologies and capabilities to address the evolving threat environment. This is demonstrated of course by the significant awards we received this quarter, which included over $1 billion in classified bookings at RIS and two important franchise wins in our Missiles & Defense business where we were awarded almost $2 billion for the Long-Range Standoff weapon or LRSO, and $1.3 billion for the Next-Generation Interceptor.
+A thing also we should note that the Patriot franchise remains robust as evidenced by Switzerland becoming the 18th partner nation to select the Patriot air defense system. At the same time, commercial air traffic demand continues to gain momentum across many of our domestic markets as global economies reopen and vaccinations increase. In the U.S. daily travelers throughout the TSA checkpoints have averaged over $2 million per day in July, and that's more than doubled since January of this year. That said, we are monitoring the COVID variants and the impact on travel and there's still work to do on global vaccinations and on international border reopenings.
+All right. With that, let's turn to Slide 3 and just talk about Q2 for a moment, if we can. As you saw from our press release, strong performance during the quarter with sales at the high end of our expectations and adjusted EPS and free cash flow exceeding those expectations that we laid out for you last quarter. Strong execution against an increasingly favorable backdrop enabled us to deliver top and bottom line growth on both a year-over-year and a sequential basis.
+So given our performance year-to-date and the recent trends across our end markets, we're going to raise the low end of our full year sales outlook by $500 million to a new range of $64.4 billion to $65.4 billion. And we're also going to raise and tighten our adjusted EPS outlook with a new range of $3.85 to $4 per share and we're increasing our free cash flow outlook to a range of $4.5 billion to $5 billion for the year. I'm pleased with the strong orders we saw in the quarter, which grew our company backlog to a record $152 billion and that's a 3% increase since the first quarter. Our defense book-to-bill was a strong 1.12 resulting in a defense backlog of over $66 billion and commercial backlog increased by $3.5 billion in the quarter.
+On the capital allocation front, we repurchased $632 million on shares bringing us to over $1 billion in share repurchase year-to-date and we're on track to meet our commitment of buying back at least $2 billion of shares for the year. We also continue to execute on the merger integration activities and given our substantial progress and the robust pipeline of opportunities, we're going to raise our gross cost synergy target by another $200 million to $1.5 billion and that $1.5 billion will be realized in the four -- first four years following the merger. That's now 50% more than our original synergy commitment and there's great execution by the team but I would tell you, we're not done yet. Like everything, there's always more to do.
+In addition to making good progress in our synergy targets, we're also making significant progress on our structural cost reduction projects, which you've heard about back in our May meeting. We have a pipeline with hundreds of opportunities including the previously announced actions that we're working across the business. Let me just give you a couple of examples of what we are doing. And our Collins Aerostructures business has scheduled over 125 lean events this year, and they're focused on specifically reducing the takt time, labor time for the A320neo nacelle. We've invested in lean events such as these throughout the pandemic because they've allowed the Aerostructures business to reduce nacelle manufacturing time by over 75%. Of course, though our normal goal here is about an 87% learning curve, these lean events allow us to exceed that in incredible ways.
+At Pratt, we continue to build on the overhaul capability and drive turnaround time across the geared turbofan network. The team has made good progress this year, demonstrated a 15% turnaround time, an improvement over the past year. But importantly, they're on track to drive a 30% reduction by the end of this year. These improvements are the direct result to repair infrastructure development and additional productivity improvements across the network, including the application of lean principles in their sharp design as well as automation.
+Our strong culture of operational excellence is enabled of course, by the core operating system and significant investments in digital technology and other strategic projects. Altogether, these initiatives will save over $5 billion in cost through 2025. So you can see the market fundamentals are strong, we're laser focused on operational excellence and our key franchises are driving strong financial performance.
+So with that, let me turn it over to Neil and Jennifer to take you through Q2 and the next -- and the year. Neil?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Thanks, Greg. I'm on Slide 4. As you could expect, I'm pleased with where we landed for the quarter. We exceeded our expectations for both adjusted earnings per share and free cash flow. Sales were $15.9 billion, which was at the high end of our outlook range and up 10% organically versus prior year on an adjusted pro forma basis and up 4% sequentially. Our strong performance was driven by the momentum in commercial aerospace and continued growth in defense.
+Adjusted earnings per share of $1.03 was ahead of our expectations, primarily driven by commercial aftermarket and contract-related settlements at Collins but also better than expected performance at Pratt, RIS and RMD. On a GAAP basis, earnings per share from continuing operations was $0.69 per share and included $0.34 of acquisition accounting adjustments and net significant and/or nonrecurring items. Free cash flow of $966 million exceeded our expectations primarily due to the continuation of better than expected collections and lower than expected capital expenditures.
+Before I hand it over to Jennifer, let me give you a little color on our synergy progress. We achieved $185 million of incremental gross cost synergies in the quarter, bringing our year-to-date savings to $390 million and given the pace that we realize these synergies on to-date, we're increasing our 2021 cost synergy target by $50 million, which brings our new target to the year -- for the year to $660 million. Collins also achieved nearly $50 million of further acquisition synergies in the quarter, bringing total Rockwell Collins acquisition-related savings to nearly $560 million since the deal closed in November of 2018, and we now expect Collins to meet their $600 million acquisition synergy target in 2021, a year ahead of schedule. So great work by the Collins team on that front.
+So with that, I'll hand it over to Jennifer to take you through the segment results, and I'll come back and talk a bit about the outlook. Jennifer?
+Jennifer Reed -- Vice President of Investor Relations
+Thanks, Neil. Starting with Collins Aerospace on Slide 5. Sales were $4.5 billion in the quarter, up 6% on an adjusted basis driven primarily by the recovery of the commercial aerospace industry, and up 11% on an organic basis. By channel, commercial aftermarket sales were up 24% driven by a 30% increase in parts and repair, a 16% increase in modification and upgrades, and a 15% increase in provisioning. Sequentially, commercial aftermarket sales were up 15% with growth in all three channels most notably provisioning, which grew at 40% and parts and repair, which grew 14%.
+Commercial OE sales were up 8% from the prior year, driven principally by the recovery of the commercial aerospace industry. Growth in narrow body, regional and business jets was particularly offset by expected declines in wide-body sales. And military sales were down 7% on an adjusted basis to the prior year divestitures and down 1% organically on a tough compare. Recall Collins military sales were up 10% in the same period last year.
+Adjusted operating profit of $518 million was better than expected and was up $494 million from the prior year, driven primarily by higher commercial aftermarket and OE sales, the benefit of continued cost reduction actions as well as favorable contract settlements that were worth about $50 million. Looking ahead, we continue to expect Collins full year sales to be down-mid to down-low-single digit with higher expected commercial aftermarket volumes offsetting slightly less than expected OE deliveries. And given the favorable mix in the first half of the year, the commercial recovery and the benefit of cost containment measures, we are increasing Collins full-year operating profit outlook to a new range of up $100 million to $275 million versus prior year.
+Shifting to Pratt & Whitney on Slide 6. Sales of $4.3 billion were up 19% on an adjusted basis and up 21% on an organic basis, primarily driven by the recovery of the commercial aerospace industry. Commercial aftermarket sales were up 41% in the quarter with legacy large commercial engine shop visits up 56% and Pratt Canada shop visits up 18%. As expected, we also saw a continued ramp in GTF shop visits in the quarter. Commercial OEM sales were up 30% driven by higher GTF deliveries within Pratt large commercial engine business and general aviation platforms at Pratt Canada.
+Military sales were down 3% also on a tough compare given Pratt's military sales were up 11% in the same period last year. A continued ramp in the F135 sustainment was more than offset by lower material inputs on production program. Adjusted operating profit of $96 million was slightly better than expected and was up $247 million from the prior year, driven primarily by higher commercial aftermarket sales and favorable shop visit mix. Looking ahead, we continue to expect Pratt's full year sales to be up low to mid-single digit. And we are increasing the low end of Pratt's full-year operating profit outlook by $25 million to a new range of down $50 million to up $25 million versus 2020.
+Turning now to Slide 7. RIS sales were $3.8 billion, up 12% versus the prior year on an adjusted basis and adjusted pro forma basis, including the pre-merger stub period, sales were up 6% driven by strength in Airborne ISR Program within sensing and effects as well as strength in the classified cyber programs within cyber training and services. Adjusted operating profit in the quarter of $415 million was slightly better than expected and was up $86 million year-over-year on an adjusted pro forma basis, driven primarily by program efficiencies. The quarter also benefited from a gain on a real estate transaction.
+RAF had $4 billion of bookings in the quarter resulting in strong book-to-bill of 1.13 and a backlog of $19.4 billion. Significant bookings included approximately $1.1 billion on classified programs as well as several other notable awards, including the STARS follow-on award for the FAA to implement a terminal automation system in their airports, and our first production award for the U.S. Navy Next Generation Jammer Mid-Band system that utilizes RTX industry-leading gallium nitride technology. It's worth noting that we continue to expect RIS full year book-to-bill to be about 1. Turning to RIS full year outlook, we continue to expect sales to grow low to mid single digit, and we are increasing the low end of RIS' operating profit outlook by $25 million to a new range of up $150 million to $175 million versus adjusted pro forma 2020.
+Turning now to Slide 8. RMD sales were up $4 billion up 15% to prior year on an adjusted basis and adjusted pro forma basis, which again includes pre-merger stub period. Sales were up 9% driven primarily by higher volume on the international Patriot program and on StormBreaker program, both which included liquidation of pre-contract costs. Adjusted operating profit of $532 million was slightly better than expected and was up $121 million versus prior year on adjusted pro forma basis due to favorable mix and higher program efficiencies.
+RMD had $6.1 billion of bookings in the quarter resulting in an exceptionally strong book-to-bill of 1.55, and a backlog of $29.7 billion. In addition to the franchise awards that Greg discussed, RMD also had a number of other notable awards in the quarter. We also continue to expect RMD's full year book-to-bill to be about 1. Turning to RMD's full-year outlook, we continue to expect sales to grow low to mid single digit, and we are increasing the low end of RMD's operating profit by $25 million to a new range of up $50 million to $75 million versus 2020 on an adjusted pro forma basis.
+I'll turn it back to Neil to provide some color on the rest of the year.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Thanks, Jennifer. I'm on Slide 9. Let me update you on how we see the current environment as we look to the second half of the year. Starting with our commercial end markets, as I've discussed many times before, the shape of the commercial recovery remains critical to our outlook. That said, we are encouraged by the pace of the vaccine distribution and continued signs of improving air travel demand in many domestic markets. However, we continue to see international air traffic and border reopenings recover slower than we had expected around the world. Keep in mind about 65% of 2019 air travel was international.
+And while the first half of the year was a little stronger than expected and we're seeing signs of strong summer travel, we still need to see the reopening of international borders and the return of long-haul routes to drive continued sequential aftermarket growth in the second half of the year. Looking longer term, we continue to expect commercial air traffic to return to 2019 levels by the end of 2023 with domestic and narrow-body fleets recovering before International and wide-body fleets.
+Moving to our defense end markets. We were pleased with what we saw in the fiscal year '22 defense budget request and we remain confident in our ability to grow our defense businesses as we look ahead. Shifting to operational excellence. As Greg mentioned, we're increasing our gross merger cost synergy target to $1.5 billion and that's driven by higher savings from the corporate and segment consolidations as well as additional procurement and supply chain savings. At the same time, we're maintaining a focus on implementing our core operating system and driving structural cost reduction across the businesses. And finally, our financial flexibility is underpinned by our strong balance sheet, which supports our investments in the business and our capital deployment commitments.
+So let's turn to Slide 10. Following our strong first half, we're confident in our full year outlook. As Greg discussed, we're bringing up the low end of our sales range by $500 million and we're raising our adjusted earnings per share range to $3.85 to $4 per share or up about $0.33 from the midpoint of our prior outlook. About half of the increase comes from the segments, primarily Collins and the other half is from $0.13 of tax improvement and about $0.03 of lower corporate tax items. The $0.13 tax benefit is driven by the ongoing optimization of the company's legal and financing structure that we expect to realize discretely in the third quarter.
+On the cash side, given the improved earnings outlook, we now expect free cash flow in the range of $4.5 billion to $5 billion for the year. And finally, it's worth mentioning that we've included an updated segment outlook as well as an updated outlook for some of the below -- the line items in the webcast appendices.
+With that, I'll hand it back to Greg to wrap things up.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Okay. Thanks, Neil. So we're on the final slide here, Slide 11. I just want to reiterate our priorities for 2021 and again, no surprises here. These priorities remain the same that is first and foremost to continue to support our employees, our customers and our suppliers and communities during the pandemic, and to keep our employees safe. Our team is dedicated to solving our customers' most complex problems by investing in differentiated technologies to capitalize on our strong franchises. At the same time we're going to continue to execute on the integration and deliver the cost synergies and we're committed to operational excellence to drive further structural cost reduction across all of our businesses.
+And finally, as Neil said, we have a very strong balance sheet combining our cash generation -- combined with our cash generating capabilities provides financial flexibility to support investments in our business and our commitment to returning capital to shareowners including at least $20 billion to shareowners in the first four years following the merger.
+So with that, let me go ahead and open it up for questions. Tabitha?
+Operator
+[Operator Instructions] First question comes from the line of Myles Walton with UBS.
+Myles Walton -- UBS Investment Bank -- Analyst
+Hi, good morning. Hey, Greg, you mentioned the GTF improvement that you're doing on the cost side. I was just curious, could you talk about the losses that you're currently incurring per unit? How much of an improvement the cost reduction efforts are actually translating to unit costs? And then maybe just as you look at the glide slope of losses on the engine, and I think the prior comments were around peaking in 2025 and maybe size how far off you are from that peak? Thanks.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Sure, Myles. Thanks. I'll take this one. It's Neil and good morning. First of all, if you think about the second quarter, the Pratt & Whitney large commercial engine business saw a very slight year-over-year decline in the OE operating profit. So we're making really good progress driving cost out of the engine in spite of much lower volumes than we had previously expected, so I feel good about that. And as you look at the rest of the year the team continues to drive down the cost curve, and we'll see slight cost improvement year-over-year. And again, in spite of some significant absorption headwind that we're dealing with relative to today's volumes versus what we were expecting pre-pandemic.
+Looking a little bit further out, we do continue to see some upward pressure on negative engine margin as the volumes increase, but we do see that as a positive sign. Frankly, those are investments we're making in the future aftermarket. I'm not going to get into quantifying that today, but we do see OE volumes going up in the 2025 time period. And the Pratt & Whitney team is aggressively working cost reduction actions to contain that negative engine margin at an appropriate level.
+Myles Walton -- UBS Investment Bank -- Analyst
+All right.
+Operator
+Okay, your next question comes from the line of Ron Epstein with Bank of America.
+Ronald Epstein -- Bank of America -- Analyst
+Yes. Hey. Good morning, guys. How are you?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning.
+Ronald Epstein -- Bank of America -- Analyst
+Can you speak a bit about what you're thinking on mid-term growth on defense for the business. I mean, we saw in the quarter, in particular in Europe foreign military sales for the industry did well and you guys did well with the order on the Patriot, but what are you thinking mid-term for the defense business growth, so if we step out a couple of years from now, not just next year but if we go out maybe three, four years from now?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yes. I think it's pretty much what we had talked about back in May, Ron, which is we're going to probably see low to mid single digit organic growth across all the defense businesses, and as you know, that's a mix of both U.S. defense spending as well as international. And obviously on the international side, we've seen a little bit of an impact this year with the pandemic and the havoc that's wreaked on, on budget but at the same time, I think we continue to see strong backlog there. I mean, interestingly Switzerland bought both F-35s and the Patriot defense system. So defense business internationally remains good. The backlog as we said remain strong over $66 billion at the end of the quarter. So I think we easily see that kind of 3% to 5% growth.
+On the mid-term, I'll call it out through 2025 because who knows beyond that. But again it's all about having the right technology for, I would say, the next conflict not the last conflict, and that means having space-based technologies, it means hypersonic weapons, it means cyber weapons, all those things are going to enable us to help the warfighter in whatever that next conflict might be.
+Ronald Epstein -- Bank of America -- Analyst
+Thank you.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Ron.
+Operator
+Your next question comes from the line of Sheila Kahyaoglu with Jefferies.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Good morning, guys. Thank you for the time.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Sheila.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Morning, Sheila.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+So the better outlook at Collins, $225 million of the $275 million seems to be core productivity, how do we think about what drove that, given the top line it really hasn't changed? And just on first half margins ex the contract settlements are about 9% and it implies second half margins are 8%, so why the contraction in the second half, and how do we to think about the improvement off that base?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Sheila, I'll start. First of all, I think on the Collins side, the way I would think about the second quarter profit was really driven by higher aftermarket drop through in part. I'd say substantially it was due to that. We also did realize about $35 million of cost reduction, the drop to the bottom line combined with some -- above the same number from productivity and mix. So those are really the key drivers. The reason you're not seeing the overall sales go up for RTX is recall, we had a very, very broad range on the sales coming end of the year. Most of that range was attributed to aftermarket risk. We're halfway through the year now, we're de-risking that, we've taken up the bottom and $1 billion six months into the year. As you think about that $500 million increase, about $200 million of that I would attribute to Collins, a little bit less than that to Pratt & Whitney, and then we also are seeing some improvement on the bottom end probably 30-or-so-million dollars at RIS and the rest at RMD.
+So, as I look at the rest of the year and you think about the margins, there's a couple of things I just want to highlight for you. We had about $0.05 of, I'd call it, one-time items in the second quarter that I don't expect to repeat in the second half of the year. $0.03 were at Collins, those contract settlements that we called out. We also had about $0.01 in RIS related to a land sale and then another $0.01 within RMD as well given some contract -- pre-contract liquidations that went through driving about 70 basis points of margin expansion at RMD.
+So as you think about the second half of the year at Collins in particular, probably $75 million to $100 million of E&D headwind in the second half. Remember, we have been cautious in terms of the phasing of our discretionary spending. We'll see that ramp up now that we're seeing the strength from the aftermarket and we had furloughs in place for the first half of the year at Collins. Those are now expired and so, they'll have that incremental cost as you head into the second half of the year.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Thanks so much.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+You're welcome.
+Operator
+Your next question comes from the line of Robert Stallard with Vertical Research.
+Robert Stallard -- Vertical Research Partners LLC -- Analyst
+Thanks so much. Good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Morning, Rob.
+Robert Stallard -- Vertical Research Partners LLC -- Analyst
+Good morning. Maybe just to follow-up on Sheila's question, you did see a very big sequential increase in the Collins aftermarket in Q2 compared to Q1, but it seems like you're a little bit cautious about extrapolating that going forward. So maybe -- going to a little bit more color of what you actually saw in Q2 and why you're perhaps a little bit squishy about this continuing in the second half?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Let me start there, Rob. I think what surprised us in Q2 was how quickly the commercial aftermarket came back, especially in China and in the U.S. and you've heard us talk historically about expecting typically a six month delay from the time we start seeing RPMs recover until the time we start seeing the aftermarket recover. The anomaly this year is the airlines are actually spending money ahead of the recovery in anticipation of a resurgence in demand, which was exactly what they have been seeing. And so the second quarter was much, much better I think than anybody had expected going into this, especially as we think back to January as we were already putting the plans together for the year.
+And so as we think about the back half of the year, a lot of that pent-up demand we think has already been satisfied here in Q2. But I would also tell you the bigger part on Collins you got to remember is 40% to 45% of their aftermarket is wide-body and that is the piece that we do not see recovering here in the back half. Again you'll see some reopenings. We hope some Transatlantic routes reopen here in the third quarter and into the fourth quarter but Transpacific is pretty well still shut down, the Interasia long haul routes are pretty well still shut down. And so that's kind of the governor, I would tell you, on the back half at Collins is the long-haul, wide-body marketplace.
+So again, strong domestic demand in the U.S., strong domestic demand in China, starting to see some of that in Europe now, but it's really the wide-body that is, I would say, the overall governor on the back half yeah.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Yes. Let me just add a couple of other points too. I think one of the things that was very notable in the second quarter was the 40% sequential growth in provisioning. So again, I think that's all the airlines getting ready for the expected increase in demand here in the second half of the year, so that's the last item as we kind of think about the back half.
+On the aftermarket side, and I'm talking Collins in particular, we had 15% sequential growth as you pointed out, really strong growth here in the second quarter. As we look at the next two quarters think more about 5% sequential growth, and again that's off of a higher base here in the second quarter. It's still ahead of what we were talking about back in January. So we're seeing that improvement but that's sort of what we're calibrating in our forecasting as we look at things today.
+Robert Stallard -- Vertical Research Partners LLC -- Analyst
+That's very helpful. Thank you.
+Operator
+Your next question comes from the line of Noah Poponak with Goldman Sachs.
+Noah Poponak -- Goldman Sachs -- Analyst
+Hey. Good morning, everybody.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Morning, Noah.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning.
+Noah Poponak -- Goldman Sachs -- Analyst
+Hey, just in the legacy Raytheon Defense segment margins, those have improved notably over the last few quarters. I understand you had the acquisition accounting reset there, we can see that they were higher in the past before that, and we can see what your future targets are. I'm just wondering how linear that improvement can continue to be? The guidance implies they step down in the back half versus the second quarter, but given what you're doing on the cost side and given the steady recovery from the acquisition accounting input and again where that long-term target is, it's not clear to me why that would happen.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+So, Noah, let me try to share a little bit of perspective on that. First, I think as we think about the first half of the year, the margins both in RIS and RMD are strong, stronger than we had expected. You'll recall in the first quarter I commented on a couple of items in RMD, we had the pension tailwind, we also had some international mix. We also, here in the second quarter at RMD, had some contracts that were awarded that resulted in us liquidating some costs that had accumulated on the balance sheet, now we can recognize revenue and profit on that. So those couple of things at RMD are providing some uplift in the first half of the year that we don't expect to repeat in the second half of the year.
+And at RIS, I pointed out that asset sale that we had in the second quarter as well, if you take that out for RIS you'll see margins in the back half of the year that are fairly consistent with what we just saw in the second quarter. Now from a productivity perspective, we are seeing improved productivity and it's about $50 million each in those two segments. So where that goes as the year continues, we will see. That's a function of hundreds of EACs being done each quarter, but we are seeing that improvement in the underlying productivity in a net favorable way.
+But keep in mind at RMD, as we've talked about back at our Investor Day, you will see a mix shift in the products and the margins in the second half of the year as we get into more more DoD FMS sales. So that's sort of the margin story on the defense business. We're very pleased with where they're heading and still see longer term, the targets that we set out in May, achieving those.
+Noah Poponak -- Goldman Sachs -- Analyst
+Thank you.
+Operator
+Your next question comes from the line of Carter Copeland with Melius Research.
+Carter Copeland -- Melius Research -- Analyst
+Hey. Good morning, gentlemen.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Hey, Carter.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning, Carter.
+Carter Copeland -- Melius Research -- Analyst
+Hey, Neil, just so I can make sure we're all speaking the same language here when you refer to productivity across the two segments, the $50 million, do you -- are you saying that the growth or -- excuse me, the net cumulative adjustments to the EACs were $50 million in each of those two segments?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+On a year-over-year basis, yes.
+Carter Copeland -- Melius Research -- Analyst
+Okay.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Net EAC is year-over-year. Yes.
+Carter Copeland -- Melius Research -- Analyst
+And is the big driver of that you up the synergy target, you realize some incremental cost out for all the reasons you stated earlier, and you're just putting that into the EACs and we're just getting that flowing into Q2 because that's when we sort of put in the plan?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Yes, that's right. And you're seeing sort of that play through and then the natural evolution of us getting further along the percent complete since we had to reset that back in April of 2020. But that goodness, net goodness is dropping through in the form of EAC favorability. There's a lot of EACs that get done every quarter, and so sort of that's the net effect of everything. But generally speaking we're seeing good productivity in both RIS and RMD's businesses.
+Carter Copeland -- Melius Research -- Analyst
+Okay, great. Thank you for the clarification.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+You bet.
+Carter Copeland -- Melius Research -- Analyst
+I'll stick to one.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Thanks, Carter.
+Operator
+Your next question comes from the line Doug Harned with Bernstein.
+Douglas Harned -- Bernstein Research -- Analyst
+Thank you. Good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Doug.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning.
+Douglas Harned -- Bernstein Research -- Analyst
+When you talk about how you're looking at -- how you're modeling traffic trends and I think you said by the end of 2023 for traffic to be back, how do you think about your aftermarket recovery in Pratt and Collins with respect to that trend? In other words, how do you see those lining up on that traffic recovery? And perhaps in Collins maybe if you could break it down by what I would say traditional UTAS Collins avionics and interiors that would be really helpful.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Well, I guess if you think about, Doug, originally -- well, our forecast would say that we don't see a complete return of air traffic to pre-COVID levels until 2024. We had expected pretty much to see, as we have historically, that kind of six month delay from -- with aftermarket recovery tracking RPM recovery. That's obviously not the way we've seen it play out this year again because people that didn't come back, there's a lot of pent-up demand. And I expect we will see the aftermarket pretty with -- pretty much relying online with RPM growth here over the next couple of years as we see that recovery.
+Again, I think the various pieces of the business we'll see, I would say, a different trajectory. If you think about the interiors business for instance, while it's still up sequentially a little bit that business is still suffering from the dearth of wide-body departures. And so we're not seeing great traction in interiors. On the avionics front though we're seeing kind of a normal as expected recovery. The same with, I would say, some of the legacy UTAS businesses as you call them are power and controls business, landing gear, wheels and brakes, all of those things recovering pretty much in line with what we're seeing for traffic.
+So again, I think -- if I think about the two, the weakest link in the Collins business is probably interiors but it will come back. We're convinced that we're going to see wide-body traffic recover, it's just going to take some time. And again that's a relatively high margin business. It's all customer furnished equipment. So that will play out into the recovery of the margins at Collins as well probably into that '23, '24 timeframe.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Yes. Let me add a little more color too, Greg. I agree with all that. Maybe making some comments about 2021 here what we see for the rest of the year. I'll focus on ASMs. I mean we saw about a 22% increase in ASMs in -- from Q1 to Q2. And as I think about going from Q2 to Q3, that's probably more in the 30%, 35% range. And then starting to level out, call it mid single-digit 5% kind of growth from Q3 to Q4. Getting back to what Greg said, our aftermarket should start to trend with those ASMs as we look further out through the recovery.
+Operator
+Okay. Your next question will come from the line of Peter Arment with Baird.
+Peter Arment -- Robert W. Baird & Co. -- Analyst
+Good morning, everyone. Nice results.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks.
+Peter Arment -- Robert W. Baird & Co. -- Analyst
+Hey, Neil, on working capital can you maybe just talk about the progress you're making on the kind of inventory levels at Collins and Pratt and I believe that's kind of the best opportunity for you to show gains going forward, and is there any kind of change here you're thinking on long-term goals? And then maybe just expectations around free cash flow cadence in the second half. Thanks.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Yes. Yes, thanks. Thanks, Peter. So actually I'm very pleased with what we're doing on inventory at both Pratt and Collins. With the significant increase in sales that we're seeing, known ramp that we're facing, inventory levels have stayed pretty much in line. They're, at the company level, about $50 million higher than we exited the first quarter with. And obviously, some work to do to drive that down in the back half of the year. As we see the markets strengthen here, we'll be making sure that we have that inventory in place. Could there be a little bit of pressure on that? I suppose but I'm very happy to see that we're still forecasting inventory turn improvements as we exit the year, and good focused on working capital management.
+As you think about our $4.5 billion to $5 billion of free cash flow, at the midpoint of that range I'd say that increment comes from the improved profit. If we're able to get to the higher end that will likely be on slightly improved capex, and we'll be watching the working capital. But we got the right focus on it. I want to make sure we're ready for the recovery, ready for our customers but at the same time not bringing in inventory that we don't need.
+In terms of calendarization for the second half of the year, as I think about the third quarter profile probably about the same increase in free cash flow that we saw from Q1 to Q2. So again we're very happy with the collections that we're seeing and right now that's sort of how I see third quarter playing out.
+Peter Arment -- Robert W. Baird & Co. -- Analyst
+Appreciate the color. Thanks. Thanks, Neil.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+You bet.
+Operator
+Your next question comes from the line of Kristine Liwag with Morgan Stanley.
+Kristine Liwag -- Morgan Stanley -- Analyst
+Hi. Good morning, guys.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning, Kristine.
+Kristine Liwag -- Morgan Stanley -- Analyst
+Neil, earlier you mentioned the variable $75 million to $100 million E&D in Collins for the back of the year, can you provide more details on what that is and how much more flexibility you have in deferring the spend?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Sure. That really is across the Collins portfolio. We did a very deep dive last year as you'd probably expect on where were spending our E&D. And especially through the pandemic, we wanted to make sure that we're focused on the next generation technologies where we can insert our upgrades into the existing Collins platforms. I'd say there's always flexibility around the allocation of those dollars to specific investments, but it's really in our interest to make sure that we spend the money. We want to make sure that we do not starve any of our businesses. I think we're a long ways from doing that.
+You heard Steve Timm talk about investing about 6% of sales over the next several years, and I think our spending is about right. We're poised to invest about $6 billion of our own money between capital and E&D over the -- each of the next four years. So there's some flexibility, Kristine, there but I do know that we've got a long list of important projects that Collins' team is aggressively working.
+Kristine Liwag -- Morgan Stanley -- Analyst
+Thanks, Neil.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+You bet.
+Operator
+Your next question comes from the line of David Strauss with Barclays.
+David Strauss -- Barclays Bank PLC -- Analyst
+Thanks. Good morning, everyone.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Hey, David.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Hey, David.
+David Strauss -- Barclays Bank PLC -- Analyst
+Neil, you highlighted the sequential ASK growth that you're expecting in Q3. I guess in light of that maybe talk about what you're seeing so far in terms of July on the aftermarket side? And then Greg since the Investor Day Airbus came out with much higher potential narrow-body production rates as we look out to '23, '24, '25, I guess what do you think of those potential rates and how could that change when you've guided Collins and Pratt to look like in 2025? Thanks.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Sure. I'll start. Obviously we haven't even closed the month of July yet but we do look at that data regularly. We're seeing continued growth as we head into July consistent with the forecast that we've got baked into our outlook. What I would say as we think about Pratt, for example, I think a big piece of the second half is in the shop visits. We were really happy to see 56% year-over-year large legacy shop visits. As I think about Q3 will be probably north of 30%, 35% and even over 20% growth year-over-year in the fourth quarter. So some good indicators there, we've got pretty good line of sight as we look at the back half of the year particularly on the Pratt shop visits side.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+So, David, as we think about the narrow-body ramp, if you will, I think you'll see both Boeing and Airbus are starting to ramp up production. We were a little surprised, I would tell you, but we have been talking to Airbus. I know Guillaume and company are laser focused on trying to take some market share, and so they've been pretty aggressive by showing that 70 to 75 aircraft a month figure out in 2025. I would tell you, while we're working with Airbus, that remains a challenge to -- for us to get to those levels. Right now we're capacitized to, I think, it was rate 63 was the latest high point. Obviously, we will do whatever we need to support our customers.
+Now whether or not that rate actually materializes, I guess will be the question. Obviously with the XLR coming along, that's the A321XLR, I think Airbus has got a great aircraft and they want to take advantage of that in the marketplace, but we'll see. Again, as I think about this the air traffic is going to grow 4%, 5% a year. So you're going to continue to see plenty of demand out there for narrow-body, and the question will be is it A320s or is it 737s? We're positioned on both. Obviously a little bit different content on the A320 with the neo engines, but we're keeping an eye at all of this. And I think we'll work with the supply chain, we'll make sure that we're adequately capacitized to be able to serve our customer there and we'll see what happens. But there's plenty of time between now and then to get ready if the ramp actually occurs as quickly as what Airbus hopes.
+David Strauss -- Barclays Bank PLC -- Analyst
+Thanks very much.
+Operator
+Your next question comes from the line of Robert Spingarn with Credit Suisse.
+Robert Spingarn -- Credit Suisse -- Analyst
+Hi, good morning.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning.
+Robert Spingarn -- Credit Suisse -- Analyst
+Greg, you talked about the surprising second quarter narrow-body aftermarket demand and you also talked about the lagging wide-body recovery, but maybe a year from now or even sooner, if we end up with the vaccines getting traction and we see more long-haul traffic strength could we have a surge in demand, both for maybe wide-body and narrow-body at the same time? And given the head count reductions, do you have the capacity to address it? In other words, could the demand curve turn into a sine wave at some point here?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+From your lips to God's ears. Let's -- I think, in fact, we are optimistic that we could see a faster recovery should we get a more robust vaccine rollout. Keep in mind in the U.S. about half of the population is vaccinated, it's going to be the same in Europe. China, vaccine is also taking hold. But globally it's only about 9%. So we've got a long way to go, I think. The good news is, most of the air traffic of course is between China, the U.S. and Europe, so we could see a quicker recovery.
+I would tell you that the -- we are more than adequately capacitized to take advantage of that recovery from an aftermarket perspective. As we took all those cost cuts last year, that kind of $2 billion of cost take out, what we didn't do was close a lot of factories or eliminate a lot of capacity. As Neil mentioned before, one of the overhangs of course in -- at Pratt are from a cost standpoint as you got all this unabsorbed overhead. Well that's because we still have the facilities, we can -- we're still facilitized to do 1,000 of these if we saw the -- that kind of a ramp. This year we'll probably do 550 of these overhauls, but the capacity still exists.
+It's the same on the GTF, and it's really the same across the Collins portfolio. We haven't closed factories and we can bring folks back, we can work extra shifts to pick up on the demand. So I'm not actually worried if we were to see that kind of a recovery. It would be good. Certainly not what we expect today but we are ready for it.
+Robert Spingarn -- Credit Suisse -- Analyst
+Thank you.
+Operator
+Your next question comes from the line of Seth Seifman with J.P. Morgan.
+Seth Seifman -- J.P. Morgan -- Analyst
+Hey. Thanks very much, and good morning, everyone.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Seth.
+Seth Seifman -- J.P. Morgan -- Analyst
+Greg, I was wondering if you could may we put on your business roundtable hat and talk a little bit about we're getting into the second half of the year and there still no resolution on the R&D tax issue for next year, and so wondering if you could talk about A, the prospects for that in the Congress and B, the prospects to get some relief from that outside of Congress maybe with some kind of IRS interpretation of the law that removes customer-funded R&D from the equation?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yes. That's a great question, Seth. As we -- we were very hopeful, I would say, three or four months ago as we were thinking about the infrastructure bill as it was winding its way through Congress. And clearly as we were having discussions on the Hill, both the Senate and the House side, people are very sympathetic to the fact that this R&D amortization language that was in the 2017 Jobs Act is not helpful in terms of driving the kind of investments that we want to see in technology. And so we have been pressing folks to include relief on the R&D amortization formula in any infrastructure bill that's out there.
+Obviously there's pressure to take the corporate rate up we'll see where that goes, but I think we're still hopeful that we will see a -- some type of a relief. And maybe it comes in December as is typical with the tax extenders that we get some relief here. It's just hard to imagine if you want to stop folks from investing in R&D as the economy comes back from the pandemic. So again, we're still hopeful. Folks of business roundtable are doing a good job educating the Congress on this, and we'll see where it goes. But we're not going to give up hope. I think this is something we just have to get done.
+Seth Seifman -- J.P. Morgan -- Analyst
+Right. And anything outside of Congress?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+We haven't actually explored a regulatory ruling. I haven't seen a pathway for IRS or Treasury to change the statutory language of the 2017 Jobs Act. So right now, I think it's going to require an act of Congress.
+Seth Seifman -- J.P. Morgan -- Analyst
+Right. Thank you very much.
+Operator
+Your next question comes from the line of Cai von Rumohr with Cowen.
+Cai von Rumohr -- Cowen and Company -- Analyst
+Yes. Thanks so much. So could you comment on the biz jet trends at legacy UTX, and also you didn't have much of an uptick in commercial OE at Collins, what do you see going forward for the pick up in rates on the MAX and the 787 where Boeing's been having their own problems? Thanks.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Let me start with some biz jet context. Cai, how you doing today? Obviously biz jet has rebounded very quickly, and so whether that's at -- affecting the Collins business or the Pratt Canada business, we're seeing very good performance there, that I'd say, combined with general aviation. Both are at or near or even slightly above where we were in 2019. So that is a major contributor here. It's a part of the Collins Q2 performance, we're seeing it within the Pratt aftermarket as well.
+As I think about OE we're certainly seeing that OE growth at both Collins and Pratt, and as I think about the back half of the year we will start to see 737 MAX start to be a bigger contributor. We had talked about being aligned with Boeing's production schedule but having delivered about a third of their requirements for this year already. And so as we pick up on that second-third, if you will, or two-thirds rather that will start to ramp up as we go through the third quarter and more heavily into the fourth quarter. And then of course another step as we get into '22, which we'll talk more about later in the fall.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yes. You obviously picked up also, Cai, on the 787. That's down to I think 5 a month. In fact it's -- because of some of these production delays we think it might be even a little bit slower than that, so there is a -- there is some impact there. You'll recall revenue on that's about $10 million a shipset for the Collins business. So there is a little bit of a governor, I would say, on Collins OE even here into the third quarter.
+We expect again, as Neil said, once 737 production rates pickup here as well as we get some of these production issues behind us at the Boeing line on 787, that should help the toward the end of the year and into next year.
+Cai von Rumohr -- Cowen and Company -- Analyst
+Thank you.
+Operator
+Your next question comes from the line of Mike Maugeri with Wolfe Research.
+Michael Maugeri -- Wolfe Research, LLC -- Analyst
+Hey. Good morning, everyone, and thanks for the time.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Mike.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning, Mike.
+Michael Maugeri -- Wolfe Research, LLC -- Analyst
+Greg, you mentioned having the right technology for the next conflict, so can you talk about the longer term sort of supply demand balance in your missile business as the DoD customers' priorities shift back toward peer adversaries from asymmetric threats?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yes, Mike, that's an interesting discussion. If you think about what the -- as I say, we talk about having the right technologies for the next conflict. As we see this, right, the next war, and I said this before, it could start in the cyberspace and outer space initially. You aren't going to see land wars in Asia or tank battles across Europe. What you are going to see is cyber attacks, you're going to see attacks against strategic assets in space to compromise communications and sensing systems, and being able to defend those assets, being able to project or -- and to replenish those assets is really what we're focused on across the the RTX portfolio.
+The other piece of this of course, is how do you have assured communications, and you hear a lot about JADC2, this Joint All-Domain Command and Control. Having assured communications, having reliable, replenishable, comms systems is also part of this. And again, we play in that really across the business, from the sensing systems at RMD to the processing that we do at RIS to some of the communication systems that come out of Collins, we think we are uniquely positioned there as well.
+So look, it's a complex battlefield as we think about it, there is no one single answer. It's not like we're going to replace all of the missiles we have with high-powered microwaves or high-powered lasers. It's going to be a layered defense where you're going to still -- you're still going to SM-3s and SM-6s and you're still going to need AMRAAM missiles as well as some things to deal with, I would say, the emerging threat of hypersonics, which we think is primarily going to be high-powered microwave. So a lot to pull apart there but I think again we have technologies in all of those spaces that can differentiate us.
+Michael Maugeri -- Wolfe Research, LLC -- Analyst
+Thank you.
+Operator
+And our last question will come from the line of Matt Akers with Wells Fargo.
+Matthew Akers -- Wells Fargo Securities LLC -- Analyst
+Thanks. Good morning.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Good morning, Matt.
+Matthew Akers -- Wells Fargo Securities LLC -- Analyst
+Could you just touch on the -- sort of the military engine outlook and wondering kind of specifically in light of some of the F-35 kind of disruptions we've seen on the aircraft side last year, this year and Lockheed's comments about maybe a little bit of a slower growth profile there going forward, just how we should think about that kind of trending going forward?
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Yes, I'll take that. As we look at the rest of the year for Pratt on the military engine, this is pretty steady and we're at or near sort of the rate we need to be on the F135 engine and we're clipping along. We're not quite halfway through our delivery schedule for the year but we're pretty close to it. So I'd expect the back half of our year to look pretty similar to what the first half did in terms of engine deliveries. And as we've talked in the past, we pretty much see that kind of rate holding steady for the foreseeable future there.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Keep in mind too, Matt, it's not just F-35, right. We're also on the KC-46, the tanker. We're going to be on the next generation B-21 as that goes into flight test and then into production in the next couple of years, so there is more than just JSF out there. And the F100 on the F-16 remains a opportunity -- opportunities for us to continue to utilize the platform that literally is 40 years old. So there is more to the military engine business than just JSF. Obviously, it's the biggest piece but the other pieces are important as well.
+Matthew Akers -- Wells Fargo Securities LLC -- Analyst
+Okay. Thanks, Greg.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Matt. All right. Well, thank you everyone for listening in today. As always Jennifer and team are prepared and ready to take all of your questions, so thanks for listening in and we'll see you guys soon. Take care and be well. Bye, bye.
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Bye.
+Operator
+[Operator Closing Remarks]
+Duration: 58 minutes
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Neil G. Mitchill Jr. -- Chief Financial Officer
+Jennifer Reed -- Vice President of Investor Relations
+Myles Walton -- UBS Investment Bank -- Analyst
+Ronald Epstein -- Bank of America -- Analyst
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Robert Stallard -- Vertical Research Partners LLC -- Analyst
+Noah Poponak -- Goldman Sachs -- Analyst
+Carter Copeland -- Melius Research -- Analyst
+Douglas Harned -- Bernstein Research -- Analyst
+Peter Arment -- Robert W. Baird & Co. -- Analyst
+Kristine Liwag -- Morgan Stanley -- Analyst
+David Strauss -- Barclays Bank PLC -- Analyst
+Robert Spingarn -- Credit Suisse -- Analyst
+Seth Seifman -- J.P. Morgan -- Analyst
+Cai von Rumohr -- Cowen and Company -- Analyst
+Michael Maugeri -- Wolfe Research, LLC -- Analyst
+Matthew Akers -- Wells Fargo Securities LLC -- Analyst
+More RTX analysis
+All earnings call transcripts
+
+
+
+
+

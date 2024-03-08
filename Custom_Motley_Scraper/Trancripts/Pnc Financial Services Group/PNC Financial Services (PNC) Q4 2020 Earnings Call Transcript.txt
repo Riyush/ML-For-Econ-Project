@@ -1,0 +1,254 @@
+Image source: The Motley Fool.
+PNC Financial Services (PNC 0.69%)Q4 2020 Earnings CallJan 15, 2021, 11:00 a.m. ET
+Operator
+Good morning. My name is Kathy and I will be your conference operator today. At this time, I would like to welcome everybody to the PNC Financial Services Group earnings conference call. [Operator instructions] After the speakers' remarks, there will be a question-and-answer session.
+[Operator instructions] As a reminder, this call is being recorded. I would now turn the call over to director of investor relations, Mr. Bryan Gill. Sir, please go ahead.
+Bryan Gill -- Director of Investor Relations
+Well, thank you, Kathy, and good morning, everyone. Welcome to today's conference call for the PNC Financial Services Group. Participating on this call are PNC's chairman, president, and CEO, Bill Demchak; and Rob Reilly, executive vice president and CFO. Today's presentation contains forward-looking information.
+Cautionary statements about this information, as well as reconciliations of non-GAAP measures, are included in today's earnings release materials, as well as our SEC filings and other investor materials. These materials are all available on our corporate website, pnc.com, under investor relations. These statements speak only as of January 15, 2021, and PNC undertakes no obligation to update them. Now, I'd like to turn the call over to Bill.
+
+
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Thanks, Bryan. Good morning, everybody. As you've seen this morning, we had a solid fourth-quarter and full-year 2020 amid a challenging operating environment. Over the course of the year, we grew loans and deposits, delivered positive operating leverage, and executed well on all of our strategic priorities.
+Our balance sheet finished the year in a very strong position. Record levels of capital and liquidity, and significant credit reserves. In addition, we grew tangible book value per share of 17% year over year. While the economy improved modestly this quarter and we're encouraged by the rollout of the vaccines, we continue to operate amid the pandemic a low rate environment and weak loan demand.
+And before Rob walks you through the full details of our results, I wanted to share a few high-level observations. First, the investments we've made over the years, and talent, and technology have allowed us to navigate this pandemic the related economic crisis and the widespread social unrest while supporting our stakeholders and coming out stronger as a company. In addition to taking the steps to help keep our employees and customers safe, we provided billions of dollars of credit to our clients. We granted $14.8 billion in loan modifications and registered more than 70,000 loans worth approximately $13 billion through the Federal Government's first round of the Paycheck Protection Program.
+And our team is actively working with our clients right now through the second round of PPP. In response to the widespread social unrest and as part of our efforts to help address systemic racism, we committed $1 billion to advance social justice and economic empowerment among -- among Black Americans and low and moderate income communities. And as you're aware, in the second quarter of 2020, we sold our passive stake -- passive equity stake in BlackRock, and November announced our plan to redeploy those proceeds to acquire BBVA USA. Since that announcement, we spent a lot of time with BBA's -- BBVA's employees and have become even more excited about our combination given their talent and high growth markets and the similarities in how we serve clients, manage risk, and support our communities.
+This transaction will create a leading national franchise, significantly accelerate our growth, and enhance our profitability. And finally, I'd like to close by thanking our employees for their steadfast commitment to our customers through a very challenging year. And with that, I'll turn it over to Rob for a closer look at our results, and then we'll take your questions.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Great. Thanks, Bill, and good morning, everyone. As you've seen, we've reported fourth-quarter net income of $1.5 billion or, $3.26 per diluted common share, resulting in full-year 2020 net income from continuing operations of $3 billion or $6.36 per diluted common share. Our balance sheet is on Slide 4 and it's presented on an average basis.
+During the quarter, lower utilization and soft loan demand drove at $7 billion, or 3% decline in loans, and low rates pressured investment securities, which declined $5 billion or 5%. Our cash balances at the Federal Reserve grew to $76 billion in the fourth quarter. Our elevated liquidity position is a result of continued deposit growth, as well as lower loan and securities balances. On the liability side, deposit balances average $359 billion and were up $9 billion, or 3%, linked quarter.
+Borrowed funds decreased by $1 billion compared to the third quarter as we used our strong liquidity position to continue to reduce debt. Our tangible book value was $97.43 per common share as of December 31, an increase of 2% linked quarter and 17% year over year. And as of December 31, 2020, our CET rate -- CET1 ratio was estimated to be 12.1%. In regard to capital return, our board recently approved a quarterly cash dividend on common stock of $1.15 per share or $500 million.
+And consistent with a Fed mandate, we had no share repurchases during the fourth quarter. Our expectations for share repurchases in 2021 remains the same as we stated this past December, that is we'll refrain from share repurchases, excluding employee benefit-related purchases, during the period leading up to our pending BBVA USA transaction closed date, expected to be midsummer 2021. Following the close, all else being equal and subject to CCAR 2021, we'd expect to resume share repurchases in the second half of the year. Slide 5 shows our average loans and deposits in more detail.
+Average loan balances of $246 billion in the fourth quarter were down $7.3 billion, or 3%, compared to the third quarter. This decline included a $5.3 billion dollar decrease in commercial loan balances, which was broad-based, reflecting lower loan utilization and softer loan production, partially offset by higher multi-family warehouse lending. In our C&IB segment, utilization rates are currently running at historic lows and approximately 2.5% below pre-pandemic levels as customers continue to maintain strong liquidity positions, evidenced by high levels of deposit. Consumer loans declined $2 billion and balances were lower across all consumer categories.
+Compared to the same period a year ago, total average loans grew 3% or $7 billion. As the slide shows, the yield on our loan balances is 3.35%, a 3-basis-point increase compared to the third quarter, reflecting higher PPP loan forgiveness and a shift in consumer loan mix. And we continue to reduce the rate paid on our interest-bearing deposits to 8 basis points, a 4-basis-point decline linked quarter. Average deposit balances of $359 billion, increased $9 billion, or 3%, as a result of enhanced liquidity of our customers, as well as seasonal growth.
+Year over year, deposits increased $72 billion, or 25%, with strong growth in both interest-bearing and noninterest-bearing deposits. As a result, our loan to deposit ratio has declined to a low of 66% at the end of the fourth quarter, compared to 83% in the same period in 2019. As you can see on Slide 6, full-year 2020 revenue with $16.9 billion, up slightly compared with 2019, driven by higher fee income. Expenses declined $277 million, or 3%, and remain well-controlled.
+Our full-year provision was $3.2 billion, compared with $773 million in 2019, reflecting the economic effects of the pandemic. Our effective tax rate from continuing operations was 12.4% for the full-year 2020. Now, let's discuss the key drivers of this performance in more detail. Turning to Slide 7, you can see our total revenue has grown consistently over the past several years, driven by our broad-based business mix.
+For the fourth quarter, net interest income of $2.4 billion was down $60 million, or 2%, from the third quarter, primarily due to lower loan and security balances and lower securities yields. Full-year 2020 net interest income of $9.9 billion was down slightly by $19 million year over year as higher earning asset balances and lower rates paid on deposits were essentially offset by lower yields on earning assets. The fourth-quarter net interest margin of 2.32% declined 7 basis points linked quarter. Notably, growth in Fed cash balances represented a 9-basis-point decline, which accounts for more than the total linked quarter decrease to net interest margin.
+Both full-year and linked quarter net interest margin reflected the impact of substantially higher Fed cash balances. To size that impact, fourth-quarter fed balances average $76 billion, exceeding our LCR requirement by approximately $55 billion. This level of excess liquidity represented 35 basis points of compression to our reported fourth-quarter NIM. Fourth-quarter noninterest income declined $13 million, or 1%, compared with the third quarter.
+Fee income of $1.5 billion increased $151 million, or 11% linked quarter, primarily driven by growth in corporate service fees of $171 million, or 36%, due to higher merger and acquisition advisory activity. Partially offsetting this growth was a decline in residential mortgage noninterest income of $38 million, reflecting a negative RMSR valuation adjustment and lower servicing fees. Other noninterest income of $293 million decreased $164 million linked quarter. The decline was primarily driven by a negative $173 million visa derivative adjustment related to the extension of the expected timing of the litigation resolution.
+Importantly, we continue to execute on our strategies to grow our key businesses across the franchise, and those efforts helped to drive record fee income of $5.6 billion in 2020, an increase of $190 million, or 4%, compared to 2019. This growth was driven by higher corporate service fees, primarily related to increased activity in our advisory businesses and treasury management, as well as stronger residential mortgage noninterest income. Partially offsetting this growth was a decline in both consumer services and service charges on deposits due to impacts of the pandemic, particularly in the second quarter, as well as our ongoing efforts to simplify products and reduce transaction fees for our customers. Other noninterest income declined $109 million year over year, or 8%, reflecting lower private equity revenue and elevated 2019 gains on asset sales related to our asset management business, partially offset by higher net security gains.
+Turning to Slide 8, our full-year 2020 noninterest expenses were $10.3 billion, a decline of $277 million, or 3%, compared with 20 -- 2019 as we responded to the crisis and we managed expenses down. Taking a look at the fourth quarter, expenses grew by $177 million, or 7%, linked quarter, primarily driven by an increase in personnel expense of $111 million due to higher incentive compensation associated with increased business activity. And in addition, other expenses were up $55 million due to seasonality and equipment impairments. Importantly, we generated 3% positive operating leverage in 2020.
+And as a result, our efficiency ratio for the full year was 61%, improving from 63% last year. While the current environment presents revenue challenges, we remain deliberate and disciplined around our expense management. We had a -- we had a 2020 goal of $300 million in cost savings through our continuous improvement program, and we successfully completed actions to achieve that goal. Looking forward to 2021, our annual CIP goal will once again be $300 million.
+Slide 9 is an update regarding specific industries we've identified as most likely to be impacted by the effects of the pandemic. Our outstanding loan balances in the COVID high impact categories declined in the fourth quarter to $17.2 billion as of December 31, compared to $18.3 billion at the end of the third quarter, largely driven by commercial and industrial pay downs. Within the C&I identified industries, nonperforming loans remain relatively low, representing less than 1% of loans outstanding, and charge-offs have not been material. That being said, we do expect to see further stress in these industries.
+The lower half of this slide presents the highly impacted commercial real estate and related loan categories. These industries are experiencing -- experiencing the most pressure, and downgrades continue to occur. Our two largest charge-offs in the fourth quarter were related to loans in this category. Overall, for all of these COVID high impact loans, we remain well-reserved and continue to carefully monitor and manage these exposures.
+Moving to Slide 10. This is an update to our -- our customer hardship release. We continue to see a reduction in the number of consumers and small businesses requesting hardship assistance. And importantly, loans under modification that present credit risk to PNC continue to decline.
+At the end of the year, we had $900 million of consumer and small business balances in some form of payment assistance with credit risk to PNC, down from $1.7 billion at September 30. On the commercial side, we're also continuing to selectively grant loan modifications based on each individual borrower situation. Within our C&IB segment, less than $150 million of loan balances were in deferral as of December 31. When combining consumer and commercial customers, loans receiving assistance and posing credit risk to PNC are approximately $1 billion, representing less than 0.5% of total loans outstanding, and as I previously mentioned, are appropriately reserved.
+Our credit metrics are presented on Slide 11. Total delinquencies of $1.4 billion at December 31, increased $125 million or 10%. Consumer loan delinquencies increased $72 million, primarily due to government-insured mortgages that recently exited modification status. And commercial loan delinquencies grew by $53 million.
+Nonperforming loans increased $201 million, or 10%, compared to September 30. This growth was almost entirely driven by $193 million increase in consumer loans, and within that, $189 million is related to residential real estate, primarily as a result of borrowers exiting forbearance and deferring payments to the end of the term. Net charge-offs for loans and leases were $229 million, up $74 million from the third quarter. Commercial net charge-offs increased by $71 million to $109 million, driven by specific commercial real estate related borrowers and included certain portfolio management activities.
+Consumer net charge-offs were relatively stable at $120 million. Annualized net charge-offs to total loans in the fourth quarter was 37 basis points, an increase of only 2 basis points compared to the same period last year. As you can see, the allowance for credit losses to loans was 2.46% at quarter-end, down slightly from 2.58% last quarter. We believe that our reserves sufficiently reflect the life of loan losses in the current portfolio.
+Slide 12 highlights the components of the change in our allowance for credit losses throughout the year. In the fourth quarter, reserves declined by $495 million. Economic and qualitative factors represented $398 million of the decline, as improvement in our economic outlook was partially offset by increased reserves within our CRE portfolio. Correspondingly, our allowance for loan losses on our total commercial real estate portfolio have increased to 3.06% as of December 31.
+The remaining $97 million of the decline in reserves was related to portfolio changes, primarily driven by lower loan balances. Our year-end reserves of $5.9 billion have increased materially year over year, and as I mentioned before, now represent 2.46% of loans. Turning to Slide 13. I wanted to spend a few minutes reviewing our recently announced acquisition of BBVA USA with a focus on updates since the call in November.
+We expect this transaction to add significant value to our shareholders and we're excited about the power of the combined franchises. We remain confident in our ability to achieve the financial objectives we laid out at the time we announced the deal, including the $900 million of expenses through enhanced operational efficiencies. Through time, we do expect to generate additional meaningful revenue synergies, which will make the economics of the transaction even more compelling. Since the announcement, we've continued to make steady progress toward completing the transaction.
+Notably, we've established cross-functional business teams to support the integration, submitted required regulatory applications, and confirmed the mapping of the technology migration. There's a lot of hard work ahead, but based on our due diligence, as well as the progress we've made to date, working alongside the BBVA USA team, we're confident in our ability to execute and deliver on our objectives. This transaction will significantly accelerate our expansion efforts into attractive growth markets, is financially compelling, and leverages our technology and acquisition expertise. In summary, PNC reported a strong fourth quarter and a successful 2020, and we're well-positioned for 2021 and beyond.
+During 2021, naturally, the biggest variable impact in the economy will be the duration of this pandemic, and along with that, the efficacy of the government support plans, as well as the vaccine distribution. Our current expectations are for real GDP to return to prerecession levels by the end of the year and the Fed funds rate to remain near zero throughout the duration of the year. Looking ahead at the first quarter of 2021, compared to the fourth quarter of 2020, we expect total average loans to be stable to down modestly. Inside of that, PPP loans are expected to be up approximately $2 billion.
+We expect NII to be down approximately 1%, which includes the impact of two fewer days in the first quarter. Excluding the impact of PPP, net interest income is expected to decline approximately 3%. We expect total noninterest income to be down mid-single digits. Within that, other noninterest income is expected to be between $275 million and $325 million.
+We expect total noninterest expense to be down in the mid single-digit range. In regard to net charge-offs, we expect first-quarter levels to be between $200 million and $250 million. Looking at full-year 2021 guidance, we thought it would be helpful to provide our expectation for PNC's stand-alone performance, excluding any one-time costs related to the BBVA USA transaction. For the full-year 2021 compared to the full-year 2020 results, we expect the average loan growth to be down in the low single-digit range.
+The significant increase in loan utilization during the beginning of the pandemic elevated average loan balances in 2020 as you know, which created a difficult backdrop for the full-year average loan growth comparison. However, we do expect to have loan growth throughout 2021, resulting in low single-digit spot growth for the year. We expect total revenue to be stable. We expect expenses to be stable.
+This represents -- I'm sorry, ba -- backed that up. We expect revenues to be stable. And this represents a current net interest income forecast of down modestly, but we acknowledge potential deposit growth. And further rate steepening in excess of our current forecast, it is plausible.
+And that's relative to revenues. We expect our expenses to be stable and we expect our effective tax rate to be approximately 17%. Regarding the pending acquisition of BBVA USA, as I mentioned, we recently filed the required applications and we're still targeting a mid-year close, subject to regulatory approval. BBVA will not be releasing the results until later this month.
+Therefore, we will not be providing updates to the previously disclosed financial metrics and estimates related to BBVA USA at this time. However, in an effort to provide some context for the transaction in relation to our full-year guidance, assuming we close mid-year and excluding integration costs, we expect the acquisition to be approximately $600 million accretive to PNC's 2021 pre-provision net revenue. And all of that is consistent with our original assumptions. And with that, Bill and I are ready to take your questions.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+OK. Kathy, could you please open up the line for questions?
+Operator
+Thank you. [Operator instructions] One moment while we compile the Q&A questions. And our first question comes from the line of Betsy Graseck with Morgan Stanley. Please proceed.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hi. Thanks and good morning.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hi, good morning, Betsy.
+Betsy Graseck -- Morgan Stanley -- Analyst
+I had a question on the outlook here for revenue full year are stable and, obviously, that's without -- that's a stand-alone basis, right? I -- I just wanted to understand how you get there and -- and what's going on given the fact that the guide for NII in -- in 1Q is down, and -- and so can you talk through what's -- what you're doing and how much of that is loan growth and -- yeah. Thanks.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, sure. So I'm -- I'm glad you asked that question because I -- I -- I included that in the -- in the forecast in terms of our guidance for the full year that we expect total revenues to be stable. And inside that, our current net interest income forecast is down modestly, but we do acknowledge potential for deposit growth and further rate steepening in excess of our current forecast. So there's -- there's potential upside there.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+And -- and it's offset by higher fees.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+In terms of total rev, yeah, in terms of that. That's right. That's right. In regard to the NII, it's tough.
+I -- if you take a look in terms of the rate backdrop, we had headwinds all during 2020 and we expect that to con -- continue through 2021. We will put more work to -- more money to work on the securities balances and we do expect loan growth. And there may be some room in terms on the liability side to reduce some of those costs. So that's how -- that's how we get to the -- the NII component.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+But -- one of the -- one of the internal debates that we're having. So the forecast stays as the forecast stays. But one of the internal debates that there's -- there's no winner on is this basic notion that as the Fed continues the size of their balance sheet and grows it and we have loan growth toward the back end of 2021, that drives deposit growth, right? It's a closed system. And as that happens, PNC benefits disproportionately, at least has, and I suspect will, given some constraints on the largest banks on deposit growth, which in turn gives us NII.
+So -- so we kind of say, fine, call NII flat, but there's a -- there's a macro variable in here that will hit the industry as a function of loan growth and what the Fed does, it's going to drive this opportunity.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Yeah, I get that. OK. Maybe you could speak a little bit to the loan growth and where that's going to come from? That's probably the biggest single debate point that we're having with investors right now. What'll drive it back up?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+So -- so Rob can jump in here, but -- but a chunk of it simply comes back because utilizations are so low. So as the economy comes back --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+It becomes commercial.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah, so the economy comes back on, you just see utilization and the basic revolvers we have. But the other -- the other issue is the delevering of the consumer. Consumer balances ought to pickup once the vaccine is widely distributed and people kind of go back to more normalized behavior. Now, that -- that remains to be seen.
+But I think those are the two biggest opportunities.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And some consumer on the back end of the year that's normalizing.
+Betsy Graseck -- Morgan Stanley -- Analyst
+OK. Thank you.
+Operator
+And our next question comes from the line of Scott Siefers with Piper Sandler. Please proceed.
+Scott Siefers -- Piper Sandler -- Analyst
+Morning, guys. Thanks for taking the question. Hey, Rob, in response to the last question, you -- you alluded to the possibility of -- of potentially investing a little of the security portfolio. I feel like you guys just have such a mass of money just sitting at the -- at the Fed.
+So we've had this back up in -- in higher rates. How much in your mind more attractive is it to -- to potentially invest some of that stuff that's just sort of sitting there, earning virtually nothing at this point?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Well, it's more attractive than it was a couple of months ago. You-- you ought to see, right, that -- that the outright security balances decline just as we got into the -- the low, low rates in the pre-pays. We -- we have been more aggressively investing money of recent. We'll continue to do that.
+We have a lot to go as you point out. We don't do it all at once, and you should assume it will accelerate into a steepening curve, and -- and moderate into a flattening curve as you would expect. But we have an awful lot of money to put to work and then that -- that issue compounds again if we get the deposit growth that -- that -- that at least I expect is going to happen across the industry given the macro factors.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And that's that -- that's that piece that we talk about that could be potentially above our current forecast.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Scott Siefers -- Piper Sandler -- Analyst
+OK. Perfect. Thank you. And then the second question.
+I know it's not necessarily huge for me, but I think a lot of investors are trying to figure out what -- what is this new round of PPP going to look like? Just sort of qualitatively, how are you guys thinking about your own participation in it and to -- to the degree that any benefit is baked into the guidance for 2021? How does -- how does that end up looking quantitatively as well?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure, I -- I can answer that. So particularly as it relates to the first quarter, so we will participate in the second wave. We anticipate that the total balances, because the program is smaller, will be less than the first wave. But to just give you numbers, we finished -- we finished 2020 with the average balances under the first PPP program of $12.5 billion.
+We expect $2 billion of forgiveness in the first quarter, so that first wave would be about $10.5 billion. And then for the second wave, we expect to originate approximately $4 billion in the first quarter. So that would take our total PPP in the first quarter to about $14.5 billion. So that's -- that's how I type and that's how I think it.
+Beyond that, we'll have to see because the levels of forgiveness and how that goes is fluid.
+Scott Siefers -- Piper Sandler -- Analyst
+OK. Perfect. All right. Thank you very much.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+[Operator instructions] And our next question comes from the line of Ken Usdin with Jefferies. Please proceed.
+Ken Usdin -- Jefferies -- Analyst
+Hey, thanks. Good morning, guys. If I can follow up on that last question. Rob, can you help us understand, I know there's so many moving parts with Part 1 and Part 2.
+You would said, I think you had less forgiveness in the fourth quarter than you expected. Ho -- can you help us understand just like what the PPP benefit to NII was in -- in '20 and then how much of are you expecting in '21 or how -- how much that informs, that flat, slightly down on NII?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, I think that ir's probably best, Ken, to look at that 20 -- 2021 first quarter. I can give you a number. Of that $14.5 billion that we expect to have in total PPP loans, the NII will be approximately $140 million. And inside that, $30 mill -- appro -- and these are approximate numbers, approximately $30 million represents the forgiveness of that $2 billion that we expect from Program 1.
+Ken Usdin -- Jefferies -- Analyst
+Got it. And then there'll be some moving parts with regard to like run rating versus forgiveness as we go through the years.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, that's right. And we'll -- and we'll keep you posted. But that's -- that's -- that's my best thinking for the first quarter.
+Ken Usdin -- Jefferies -- Analyst
+OK, great. And the second question is following on your BBVA second half PPNR, comments, Rob, just wondering is that 600 also inclusive of the initial saves you're expecting this year or is that just like a what they're bringing over kind of on -- on -- on day one? Ho -- how -- because I think you did say you're expecting some saves to happen in the back half.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, it's -- it's that, Ken. There are some saves in the back half that are included in that number.
+Ken Usdin -- Jefferies -- Analyst
+OK. And is anything changed with regards to your expected trajectory of like what -- of the timing around when you think the saves would come in?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+No, no. Our original assumptions are holding.
+Ken Usdin -- Jefferies -- Analyst
+OK. Got it. Great. Thanks very much, Rob.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+[Operator instructions] And I have a follow-up question from the line of Scott Siefers from Piper Sandler. Please go ahead.
+Scott Siefers -- Piper Sandler -- Analyst
+Hey, guys. Thank you for taking this one. I guess one of the questions I've gotten about you guys over the course the last couple of months since the BBVA transaction was announced is just given that -- that somewhat different credit profiles between Legacy PNC and the BBVA franchise. How much of that loan book that you'll carry over do you anticipate keeping? Will -- and will there be some sort of a runoff portfolio that sort of impairs what would eventually be a higher growth trajectory from that franchise or are we going to be sort of steady state and all -- all of the kind of stuff will get rationalized in the -- in the upfront mark?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+There's a lot embedded in that question. But there's parts of BBVA's balance sheet that -- and -- and it's more sectors, it's not necessarily, quote, credit risk. But -- but -- but things we choose to focus on versus what we don't. So there's parts of their balance sheet that will run off over time.
+At the same time, because of some -- many of our lending specialties and this presence will have on the market, we -- we expect that we will grow balances in the new franchise. So you're going to see both. Our -- our base assumptions assume a run down. I don't know when the trough is, Rob, but a run down in -- in balance sheet for a short period of time before we sort of offset it with new growth.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah. 2010, beginning 2022 and 2023. So there is some revenue reconfiguration along those lines.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+But, of course, we'll -- we'll keep you up -- we'll keep you up to speed. We -- we don't own the bank yet, so that will be something that once we closed, we'll be able to give you more color.
+Scott Siefers -- Piper Sandler -- Analyst
+Yeah. Good. Now that -- that makes sense and I -- and I appreciate sort of the -- the early color there. Thank you.
+Operator
+And our next question comes from the line of Mike Mayo with Wells Fargo Securities. Please proceed.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Hi. You had positive operating leverage last year, your efficiency improved. Fourth quarter, it didn't look as good though. Was there anything that's unusual? And also, your guidance for next year is for flat operating leverage when I know you guys pride yourself in having positive operating leverage on a core basis.
+Thanks.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Bob, may I answer that?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+[Inaudible] with the fourth quarter.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+The -- the fourth quarter, those -- most of those expenses that jumped as you saw were incentive compensation for much, much higher activity, particularly in our Harris Williams unit. So those are good expenses. When Harris Williams and activity goes up, that's a good thing, but there's obviously expenses associated with that. And then there are some seasonal things that we expect.
+But you're right. For the full year, our expense management was successful, full positive operating leverage for the year, which was our objective, and we did that. When you look at 2021, we're going to fight for it. Now, we're not -- we're not folding on that.
+We've got revenues stable and expenses stable, so it's going to require tight expense management. But no, we're going to battle for it.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+OK. And as far as BBVA, your reser -- your loan loss reserve assumptions, might they have improved since you only had -- you had the Pfizer vaccine out, you didn't have Moderna or J&J. Will the outlook would be a little bit better and the same reason you had reserve releases when you have a better outlook for BBVA? Thanks.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+We -- we didn't even actually have Pfizer out with -- when those were put together. So in theory, you're -- you're right, Mike.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Well, again, we don't -- we don't own the bank. They're going their result.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+These are -- these are our assumptions.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+But as for our assumptions -- yeah, and our assumptions all else being equal, yeah, they'd -- they'd be less.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+O -- OK. I guess we'll just have to wait for BBVA's results to come out and then we can probably get an update from you. OK. Thanks a lot.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+[Operator instructions] And our next question comes from the line of Bill Carcache with Wolfe Research. Please proceed.
+Bill Carcache -- Wolfe Research LLC -- Analyst
+Thank you. Good morning, Bill and Rob. I wanted to follow up on your comments about investing more of the securities portfolio into a curve steepening. Some of the dynamics around QE have led agency CMBS spreads over Treasuries to turn negative.
+And you guys, along with most other banks, have a substantial portion of your securities portfolios invested in agency CMBS. So it seems like the benefits of a steeper curve are being tempered somewhat by those dynamics. Can you give a little bit of color on -- on where you're seeing the opportunity to invest on the securities side? And then maybe on the lending side, if you could remind us what percentage of the loan portfolio is anchored to the short versus the long end of the interest rate complex? And just frame how we think about the benefit to PNC of a steeper curve on the lending side as well?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+If you're way too far out of the weeds, but you should assume that, for now, in terms of where current spreads against the mix of the portfolio, we'd otherwise normally be buying. Our reinvestment yield is about 80 basis points. How we get there, I'm not going to go into detail. But -- but that's -- but not our front book.
+That's -- that's -- on average, what we would be purchasing today. The -- the -- the fixed and floating component and the one and three-month live-work component of our loans, I don't -- I don't remember those numbers off the top.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, I mean we're -- we're short on the -- on the commercial loans that tend to be three-year type commitments and on the -- the commer -- on the consumer, it's floating.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+The -- the other thing that -- that makes us somewhat unique is our entire debt stack is -- is floating as well, and you see that in our liability costs. That's one of the reason our -- our -- our wholesale funding costs has dropped. Last time I looked much more materially than most of our competitors.
+Bill Carcache -- Wolfe Research LLC -- Analyst
+Got it. And separately on -- on expenses, some investors have expressed a little bit of concern that after so many years of -- of you, guys, having the benefit of being able to reinvest the strong growth from BlackRock into -- into the business, that the loss of that strong growth is going to make it more challenging to continue to invest at the same pace without -- without hurting the efficiency ratio? Rob, I heard your CIP target sound like they're ungained for the year, but I was hoping you guys could just broadly speak to that -- that notion.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I -- I don't fully understand.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+It's more driven by CIP rather than [Inaudible]
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+See, I mean our -- our investment capability obviously comes from just the firm growing and then recycling expenses, which we'll continue to do. BlackRock's growth through time in terms of revenue to us was helpful. Of course, as we go forward here, we're in -- and assuming we close the -- the -- what's a good assumption, the BBVA acquisition, we have a whole new set of expenses in effect to recycle that gives rise to this investment and growth opportunities.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And revenues -- and revenues.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah, yeah.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+So -- so we won't slow down our investment.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+At all. Yeah.
+Bill Carcache -- Wolfe Research LLC -- Analyst
+OK. Thanks, Bill. Thanks, guys. That -- that -- that's helpful.
+If I could squeeze one more in on credit. So I -- I had a question on how to think about the excess capital as it relates to Slide 12. So in the absence of the BBVA deal, one could make the case that -- that 1.54% reserve rate on day one is the level that we should revert to once we get past COVID and -- and so any level of reserves above that could be viewed as excess. But can you speak to the reasonableness of that thought process and then maybe frame for us how to think about the onboarding of BBVA onto this slide and what it would mean for your reserve rate and -- and excess capital?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I don't -- I don't think -- I mean, look, our reserve as of today and presumably their reserve as of today is reflective of best expectations of -- of the -- the forward economy here. So they'll release their results and you'll be able to look at that. CRS, I -- I don't know how we --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+But just two parts of that question. One was the BBVA USA overlay, and that's -- that's to come when their results come out. I -- the -- the second question just is sort of what is the normal level of reserves under seesaw, 1.54 was our day one after seesaw level, were those -- were those normal times, maybe. And if, so that's the normal level.
+Bill Carcache -- Wolfe Research LLC -- Analyst
+Understood. Thank you guys for taking my questions, appreciate it.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+[Operator instructions] And our next question comes from the line of Gerard Cassidy with RBC. Please go ahead.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Hi, Rob. Hi, Bill.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hey, Gerard.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Gerard.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Can you, guys, show us, and I apologize if you have addressed this already. I made a mistake. Obviously, prior to the BBVA transaction, you guys were growing organically in the -- in the commercial footprint around the country. Is that strategy still under way or has that been put on pause as you integrate the BBVA transaction?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+No, no, not on pause, Gerard. So naturally, in cases where the BBVA USA footprint was where we were going to go, that's part of that transaction. But everything else holds in terms of opening offices, both consumer and commercial, throughout the country.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah. And -- and the other thing, Gerard, is -- and going back to kind of the prior question on investments, we're actually ramping up investments in those markets prior to close. So we're not going to wait to close before we think about the -- the totality of the products and services we want in a particular market. We're going to have it.
+Ideally, the day we close and -- and then convert.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. You guys give very good detail on your nonperforming assets and I noticed in Table 11 that you had some initialized and returned to performing status of nonaccrual loans. Can you show us any color on what success you had in bringing them back into performing status?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+I think just in general -- in general, Gerard, it's just some of these companies have adapted -- particularly on the commercial side, have adapted to the new economy and are actually performing well. Simple as that.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Got it. OK. Appreciate it, Rob. Thank you.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+There are no other questions. At this time, I will turn the call back over to you, Mr. Gill.
+Bryan Gill -- Director of Investor Relations
+OK. Well, thank you all for your support of PNC and we look forward to working with you in 2021. Thank you.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Thanks everybody.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+[Operator signoff]
+Duration: 48 minutes
+Bryan Gill -- Director of Investor Relations
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Betsy Graseck -- Morgan Stanley -- Analyst
+Scott Siefers -- Piper Sandler -- Analyst
+Ken Usdin -- Jefferies -- Analyst
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Bill Carcache -- Wolfe Research LLC -- Analyst
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+More PNC analysis
+All earnings call transcripts

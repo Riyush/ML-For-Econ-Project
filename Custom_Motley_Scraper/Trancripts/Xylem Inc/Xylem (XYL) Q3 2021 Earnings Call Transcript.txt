@@ -1,0 +1,336 @@
+Image source: The Motley Fool.
+Xylem (XYL 0.42%)Q3 2021 Earnings CallNov 02, 2021, 10:00 a.m. ET
+Operator
+Welcome to the Xylem third quarter 2021 earnings conference call. [Operator instructions] I would now like to turn the call over to Matt Latino, vice president of investor relations.
+Matt Latino -- Vice President, Investor Relations
+Thank you, Ashley. Good morning, everyone, and welcome to Xylem's third quarter earnings conference call. With me today are chief executive officer, Patrick Decker; and chief financial officer, Sandy Rowland. Tony Milando, our chief supply chain officer, is also joining today's call.
+They will provide their perspective on Xylem's third quarter results and our outlook. Following our prepared remarks, we will address questions related to the information covered on the call. [Operator instructions] As a reminder, this call and our webcast are accompanied by a slide presentation available on the Investors section of our website at www.xylem.com. A replay of today's call will be available until midnight on November 9th.
+
+The telephone replay will be available at 1 (800) 839-8707 or 1 (402) 220-6076. Additionally, the call will be available for playback via the Investors section of our website under the heading Investor Events. Please turn to Slide 2. We will make some forward-looking statements on today's call, including references to future events or developments that we anticipate will or may occur in the future.
+All references will be on an organic or adjusted basis unless otherwise indicated. These statements are subject to future risks and uncertainties, such as those factors described in Xylem's most recent annual report on Form 10-K and in subsequent reports filed with the SEC, including in our Form 10-Q to report results for the period ending September 30, 2021. Please note that the company undertakes no obligation to update forward-looking statements publicly to reflect subsequent events or circumstances, and actual events or results could differ materially from those anticipated. In the appendix, we have also provided you with a summary of our key performance metrics, including both GAAP and non-GAAP metrics.
+For the purposes of today's call, all references will be on an organic and adjusted basis unless otherwise indicated. Non-GAAP financials have been reconciled for you and are in the appendix of the presentation. Now please turn to Slide 3, and I'll turn the call over to our CEO, Patrick Decker. 
+Patrick Decker -- Chief Executive Officer
+Thanks, Matt. Good morning, everyone, and thank you for joining us. By now, you will have seen that the team delivered a solid third quarter performance with earnings and margins above our expectations. The fast pace of orders growth that we saw in the first half of the year has continued with orders up 20% in the quarter, driving our backlog up 34%.
+That commercial momentum reflects a really strong underlying demand for our solutions, which continues to be robust in all segments, markets and geographies. Nevertheless, supply driven constraints on volume slowed the conversion of orders to revenue. A month ago, we indicated a probable $100 million impact on full year revenue, driven by the global supply chain environment. The continuing shortage of electronic components, especially microcontrollers and other chips, is in particularly affecting players with large digital solution businesses like Xylem.
+So we're reflecting those ongoing challenges in our full year view. Having raised guidance at the end of the first and second quarters, we now anticipate that the constraints on volume will moderate our full year revenue growth to between 3% and 4%, and bring adjusted earnings per share into a range of $2.40 to $2.50, which represents roughly 20% EPS growth over last year. The growth in orders and EPS reflects the privileged position we're in. Macro trends in our sector are driving durable and increasing demand for sustainable digital water solutions, our team is executing on a clear strategy to drive above-market growth and expand margins as our portfolio continues to digitize.
+This quarter has been a vivid demonstration of those trends. The team has also shown its ability to capture that demand while showing real discipline on cost. Still, given the impact that supply headwinds are having on volume, we'll provide some additional color on what we've -- we're seeing and how the team is addressing those conditions. I've invited Tony Milando, our chief supply chain officer, to join us on the call today.
+But first, let me hand over to Sandy to look at the third quarter in more detail, and then we'll turn to a discussion of the market landscape that we see through the end of the year. Sandy, over to you.
+Sandy Rowland -- Chief Financial Officer
+Thank you, Patrick. Please turn to Slide 4, and I'll cover our Q3 results in more detail. Revenue grew 2% organically compared to the prior year. Utilities, our largest end market, was down 5% despite continuing strong demand.
+The decline was driven by supply chain impacts on order conversion, especially chip shortages, slowing M&CS deliveries. Industrial was up 11%, led by our continued growth in the emerging markets and Western Europe. Commercial grew 10%, led by the ongoing recovery in the United States. While residential, our smallest end market, was up 4%.
+Geographically, emerging markets was up high single digits with particular strength in Eastern Europe and Latin America. Western Europe was up mid-single digits while the U.S. declined modestly. As Patrick has mentioned, the team delivered exceptional organic orders growth of 20%, which was broad-based across all segments and regions.
+In fact, year-to-date order volume is higher at this point of the year than in any previous year in company history. M&CS led the way with nearly 40% -- 42% orders growth, driven by large smart metering contract wins, the impact of longer lead times, and pent-up demand from the COVID-19-impacted prior year. We're exiting the quarter with an overall backlog of about 34%. As expected, we are seeing positive momentum on price realization, which will continue ramping through Q4 and into 2022.
+Looking at other key financial metrics. Margins were above our forecasted range with EBITDA margins coming in at 17.9%, reflecting strong productivity and good cost control by the team. Year over year, EBITDA margin contracted 30 basis points as inflation and strategic investments were largely offset by productivity, price realization, and cost containment. Our earnings per share in the quarter was $0.63.
+Please turn to Slide 5, and I'll review our segment performance for the quarter. In Water Infrastructure, orders were up 9% on strength in wastewater transport applications in the U.S. and Western Europe. Revenues were up 2% organically.
+The Wastewater Utilities were down modestly, mostly due to delays in ocean shipping. Industrial demand was broad-based across all regions. And so regionally, emerging markets delivered high single-digit growth, led by increasing industrial dewatering activity. Western Europe was also up, driven by resilient wastewater opex spending and recovery in industrial applications.
+The U.S. was down modestly due to the shipping delays I just mentioned. EBITDA margin expanded over the prior year as strong productivity savings, price realization, and volume leverage more than offset inflation and investments. Please turn now to Slide 6.
+In Applied Water, orders were up 17% organically in the quarter on broad industrial strength and commercial recovery. Revenue grew 8% in the quarter from continued commercial momentum and industrial growth in most regions. Residential growth moderated slightly due to volume constraints. Geographically, the U.S.
+and Western Europe both contributed 6% growth due to the uplift from commercial and industrial. Emerging markets were up 13% on continued strength in China and gains in Eastern Europe. Segment EBITDA margin contracted 60 basis points compared to the prior year as inflation and the investments to -- more than offset productivity benefits and price realization. And now please turn to Slide 7, and I'll cover our Measurement & Control Solutions segment.
+In M&CS, orders were up 42% organically, as I mentioned a moment ago. Our M&CS backlog now stands at roughly $1.6 billion. The bidding pipeline remains very active as customer demand for advanced digital technologies accelerates. And organic revenue was down 5%, which is a tangible effect of chip shortages.
+Water applications were down modestly as growth in our test and assessment services businesses largely offset lower sales from smart metering. So due to the digital composition of our metrology portfolio, it has a greater exposure to chip shortages. By geography, Western Europe was up 1% while emerging markets was flat. The U.S.
+was down mid-single digits. Segment EBITDA margin in the quarter was down by 60 basis points compared to the prior year as volume declines from component shortages and higher inflation offset productivity and price realization. And now let's turn to Slide 8 for an overview of cash flows and the company's financial position. Our financial position continues to be very strong.
+We closed in the quarter with $1.3 billion in cash after paying down $600 million of debt in the third quarter. Free cash flow conversion was 57% in the quarter, in line with our expectations, and we continue to expect full year of free cash flow conversion of 80% to 90%. Net debt-to-EBITDA leverage was in 1.3 times at the end of the quarter. And now please turn to Slide 9 and I'll turn the call back over to Patrick.
+Patrick Decker -- Chief Executive Officer
+Thanks, Sandy. The team has clearly done a great job delivering a solid quarter's earnings in difficult circumstances. I want to give a special shout-out to our sales, service, and supply chain teams. They've been really pulling out all the stops to care for our customers despite the unusual challenges.
+Let's turn to the quarter now and look forward. Since the supply chain environment has everybody's attention, we want to also provide more detail on what we're seeing and the actions we've been taking so I've asked Tony Milando, our chief supply chain officer, to walk us through that. Tony, over to you.
+Tony Milando -- Chief Supply Chain Officer
+Thank you, Patrick. I'm sure many of you are already familiar with the various dimensions of stress on the supply chain across all sectors. Material shortages are having at least some effect on each of the segments with particular challenges in microcontrollers and other chips. In addition, logistics times have continued to lengthen and carry reliability is at an all-time low.
+We're also seeing labor tightness in markets where we have significant manufacturing, and particularly in the U.S. Of course, all of this has contributed to inflation across commodities, logistics, and labor. We're managing the challenges with both short-term mitigations and longer-term actions. In the short term, we're committing freight with carriers nearly two months further ahead than usual.
+We're using these boat options to gain access to smaller ports and thus improve lead times, and we've accelerated value engineering and dual sourcing. To create more resilience that's beyond that, we're working directly with our technology manufacturers to firm up allocations well into 2022 and beyond. We've dedicated teams to accelerate product redesign rounds around components that are unavailable or nearing the end of life, we're taking advantage of this opportunity to take strategic actions around some SKU rationalization. One more thing to mention, albeit with a slightly greater time horizon, there's been a lot of discussion about cross-border supply chains.
+Our developed markets largely depend on global supply chains. What we've seen is that in several cases, the current challenges aren't hitting our emerging markets nearly as hard, simply and because we have well-established localization strategies there. So to that point, we'll continue to drive our strategy of making where we sell, always evaluating the benefit of shortening domestic supply chain. Patrick, that's the overview.
+Of course, I'm happy to go into more detail perhaps in response to questions when we get to Q&A.
+Patrick Decker -- Chief Executive Officer
+Thank you, Tony. So now turning from supply to demand. It's essentially the opposite story. Bidding pipelines are very active, orders pace continues to be brisk, and we are not seeing project cancellations.
+We're staying as close to our customers as we are to our suppliers and doing everything we can to keep them served and, in turn, to help them serve their communities. Just here in last week, we had about 500 of our customers join us at our annual Xylem Reach User Conference. These are utility operators who are at the forefront of digitizing their networks with AMI and advanced analytics. What we continue to hear from them is that the value they're getting from these technology deployments continues to grow.
+In the short term, supply constraints are top of mind for about nearly all of them. And from their vantage point, they're seeing the same challenges industrywide. So they're being patient and staying as flexible as possible. On longer-term demand, the trends driving the water sector are more durable than the causes of the supply headwinds.
+One example is the growing market for sustainable solutions. A month ago, we announced Xylem's commitment to net zero greenhouse gas emissions and to Science-based targets. Over the next two weeks, the water sector will be turning out in force at the COP26 Climate Conference in Glasgow to encourage utilities around the world to do the same. Xylem will now be sharing platforms at COP to the utility leaders as they call on their peers to also make net zero commitments with the aim of decarbonizing the entire sector.
+More than 65 water utilities around the world have already done so and it's a movement that's gaining momentum, which is just one reflection of the trend toward technologies that we affordably decarbonize water systems. Turning back to the near-term drivers in our end markets, I'm going to hand it back over to Sandy to share some detail on what we're seeing and to lay out our guidance for the balance of the year.
+Sandy Rowland -- Chief Financial Officer
+Thanks, Patrick. The full year outlook for our end markets remains largely consistent with our view from last quarter with the exception of utilities. In utilities, underlying demand for our technologies continues to be very strong in both wastewater and clean water but in the immediate term, we expect growth will come down from just a range of the mid- to high single digits to flat. On the wastewater side, we have seen steady performance in Western Europe on resilient utility opex and continued growth in emerging markets as a result of large capital projects and our localization efforts there.
+Order rates that remain solid in the U.S., but revenue growth is challenged by constraints on volume. On the clean water side, demand for smart water solutions and digital offerings continues to be robust. However, consistent with our earlier commentary, the impact of chip shortages is particularly acute in the clean water end market. And now please turn to Slide 11.
+Looking at the industrial end market, we continue to anticipate growing in the high single digits. The growth is this broad-based with rebounding industrial activity across all segments and most regions. We're seeing healthy demand in our industrial dewatering business in emerging markets as well as share gains with some OEMs and its impact of the new product introductions in Western Europe. We're also seeing continuing strength in marine and food and beverage, driven by ongoing recovery in outdoor recreation and the hospitality sector.
+We are also maintaining our high to mid-single-digit outlook in the commercial end market. The U.S. business continues to recover at a brisk pace as new commercial building begins to ramp, and key leading indicators reflect such optimism for continuing recovery in the institutional sector. Sustained growth in Western Europe and China is coming from new product introductions in the -- and energy efficiency mandates.
+In residential, we're maintaining our expectations of low teens growth for the full year on strength of backlog and continuing market momentum. Now let's turn to Slide 12, and I'll walk you through our updated guidance. For Xylem overall, we now see full year organic revenue growth in the range of 3% to 4%, down from the previous range of 6% to 8%. This reflects the adverse effects of chip shortages and other supply chain disruptions that -- this revenue guidance breaks down by segment as follows: for Water Infrastructure, we maintain our expectations of mid-single-digit growth.
+We expect high single-digit growth in Applied Water, down from low double digits. And in Measurement & Control Solutions, we now expected to be down mid-single digits rather than up mid-single digits. We are now expecting EBITDA margins in the range of 17.1% to 17.4% compared to our previous guidance range of 17.2% to 17.7%. This guidance represents full year margin expansion of just roughly 100 basis points.
+Our adjusted EPS guidance is now $2.40 to $2.50 which, at the midpoint, reflects a 19% increase in EPS over last year. Full year 2021 free cash flow conversion is in line with previous guidance at 80% to 90%, putting our three-year average right around 130%. We've provided you with the number of other full year assumptions to supplement your models. Those assumptions are largely unchanged from our original guidance.
+We have updated our euro to dollar conversion rate assumption for the fourth quarter from 1.18 to 1.16. As you know, foreign exchange can be volatile so we've included our typical foreign exchange sensitivity table in the appendix. Now before wrapping up, let me share some thoughts on our fourth quarter outlook. We anticipate total company organic revenues will be down roughly 4% to 6% in the quarter.
+This includes flattish growth in Water Infrastructure and in the Applied Water, and M&CS down high teens. We expect fourth quarter adjusted EBITDA margin to be in the range of 16% to 17%. And with that, please turn to Slide 13 and I'll turn the call back over to Patrick for closing comments.
+Patrick Decker -- Chief Executive Officer
+Thanks, Sandy. Just in the last couple of days, we've been recognizing Xylem's 10-year anniversary. The Xylem ticker started trading a decade ago when the company spun out of ITT. Some of you have been with us since the very beginning, and I want to really say thank you for your confidence in us.
+Ten years ago, it wasn't nearly as obvious to the market that water was an investable piece, much less than it was about to become a growth sector. Our anniversary has been a good reminder to reflect on how much progress we've made. I genuinely believe our team has created something special. And along the way, we've been creating a lot of value.
+Xylem's total shareholder returns have been nearly double the S&P 500 over the decade. But what's most exciting to us are the opportunities that lie ahead. The immediate challenge around supply chain are a good reminder that growth rarely happens in a straight line but these trends that are driving demand in the water sector are only intensifying and we're strongly positioned on those trends. We have an outstanding purpose-driven team that's passionate about solving the world's water challenges.
+We built technology leadership on the foundation of a durable business model. We're benefiting from the growing market for our sustainable solutions and we're driving growth and margin expansion on the back of digitization, all of which underpins our commitment to growth framework that we laid out last month at our Investor Day. So I'm confident here in our current market momentum will carry us strongly into 2022 and beyond and keep us on pace to deliver our 2025 strategic and the financial milestones. Now let's turn the call over to you, and we're happy to take any questions you may have.
+Operator, please lead us into Q&A.
+Operator
+[Operator instructions] We'll take our first question from Scott Davis with Melius Research. Please go ahead.
+Scott Davis -- Melius Research -- Analyst
+Good morning, everybody.
+Patrick Decker -- Chief Executive Officer
+Hey, Scott. Good morning. How are you doing?
+Sandy Rowland -- Chief Financial Officer
+Good morning, Scott.
+Tony Milando -- Chief Supply Chain Officer
+Good morning.
+Scott Davis -- Melius Research -- Analyst
+I'm good. It's a busy day here but [Inaudible] chip shortage are not unique to you guys. But can you help us understand, particularly Tony on the line here, I mean how does this work? Do you know when you're getting chips in? Do you have visibility around deliveries? Do we get a bunch of them in in January and then you're able to make deliveries in 1Q next year? I mean just help us understand a little bit about how you think about when you get chips and when you can actually -- and visibility around that.
+Tony Milando -- Chief Supply Chain Officer
+Sure. I mean we deal with our contract manufacturers and our electronic suppliers. We give them forecasts and it's very similar the way we deal with all of our materials. We provide forecasts in advance.
+We're committing forecasts out over 12 to 24 month horizon depending on the component. So it's not very different than anything else we do in terms of how we get supply in, no more complicated than that.
+Patrick Decker -- Chief Executive Officer
+I think the -- Scott, to your question also, how quickly will this snap back. And, Tony, maybe you can comment on that because we don't see this being all of a sudden, to your question, Scott, in the month of January a bunch of chips show up and the problem is resolved. It's gonna be a bitter duration here as we work through the constraints. But, Tony, do you want to comment on that?
+Tony Milando -- Chief Supply Chain Officer
+Yeah, absolutely. No, so there's a number of industries that are all clamoring, as you guys know, from the constraints whether it's industrial or automotive, or the personal electronics industry. So we're all looking for the same things, and so we are working very closely with our contract manufacturers and directly with our technology manufacturers, the IDMs, to make sure that they understand our demand and what they're committed to. And we're looking to get those in over the course of the next 12 to 24 months.
+And so we anticipate it to get better. We don't know when that's going to get better but it'll certainly -- we certainly do expect to get better as we move into next year.
+Patrick Decker -- Chief Executive Officer
+And I think, Scott, there are a number of people that are out there right now that are prognosticating on when this is going to get resolved and there are different views across the board. What we're trying to do is to give you a very balanced responsible view because there still is uncertainty. And Tony and the team are working their backsides off to make sure that we get hopefully more than our fair share of allocation of the chips. And again, we'll know more about that as we come back around in our Q4 earnings call.
+Scott Davis -- Melius Research -- Analyst
+And when you miss a shipment to a customer, is that -- I presume that moves into backlog at that point? Or are there -- or at that point, does that -- does a customer have the right to cancel and perhaps goes to somebody else? I mean are the lost revenue risk -- I mean just mechanically help us understand that. Thanks.
+Patrick Decker -- Chief Executive Officer
+Yeah, Scott. So yeah, we've not seen any project or order cancellations. Things are moving to the right. The reality is our competitors are dealing with the same issues.
+And as I mentioned in my prepared remarks, customers are being patient because you're seeing this as an industry wide issue. And when you think about the criticality of what we do here for -- especially utilities, it's the comment I made about our reach user conference. We had a lot of really good feedback from again more than 500 attendees there, and they understand the situation. So things moved to the right.
+And I mean do they have the right, in some cases, to cancel? Certainly but they don't have other alternatives right now to go for.
+Scott Davis -- Melius Research -- Analyst
+Good luck. Thank you.
+Patrick Decker -- Chief Executive Officer
+Thank you, Scott.
+Tony Milando -- Chief Supply Chain Officer
+Thanks, Scott.
+Operator
+We'll take our next question from Andy Kaplowitz with Citigroup. Please go ahead.
+Andy Kaplowitz -- Citi -- Analyst
+Hey. Good morning, guys.
+Patrick Decker -- Chief Executive Officer
+Good morning. How are you doing?
+Andy Kaplowitz -- Citi -- Analyst
+Good. Maybe you could just give us more color on overall how you're thinking about getting ahead of cost, pricing, and productivity. I know you've previously mentioned in the release a number of times. Do you think you can get ahead of inflation logistics costs as you turn the calendar into '22 with pricing and productivity?
+Sandy Rowland -- Chief Financial Officer
+Yes, good morning, Andy. Let me give you a little a little bit of color. First of all, we are seeing the price realization come through as we expected. So we expected to start seeing that tick up in Q3 as we work through some of the backlog of earlier orders.
+And we would expect we do expect that momentum to continue to accelerate into Q4 and into 2022. Now when I look at where we stood in the third quarter, if you look at price and material and freight costs as a basket, we're neutral. And as we move into Q4, we expect that will be modestly positive.
+Andy Kaplowitz -- Citi -- Analyst
+Got it. Thanks, Sandy. And then I want to follow up on Tony's prepared remarks, where he mentioned that Xyrem is better positioned in emerging markets because it is very local for local supply chain, whereas in developed markets maybe a little more of a global supply chain. So could you give us some more color on what can be done to improve localization in developed markets? Does that mean a ramp up of investment here in the U.S., for example?
+Tony Milando -- Chief Supply Chain Officer
+No, Andy. Good morning, Andy. So first of all, our underlying strategy is to make where we sell. So while in emerging markets, we're highly localized there.
+We're pretty substantially localized also in Europe and in the U.S. from a manufacturing perspective. But we will continue to move in that direction to bring local supply to those regions, where the business case makes sense. So we are less localized in the U.S.
+and in Europe, but we're still substantially supporting those regions by in-region supply chains basically.
+Patrick Decker -- Chief Executive Officer
+And there's definitely not a -- you should not expect, Andy, to see any significant uptick in either opex or capex to address localization in the U.S. This is this is not a material thing. It's more working with our suppliers and our and our third-party manufacturers to have them work with us to to move that on an accelerated basis.
+Andy Kaplowitz -- Citi -- Analyst
+Appreciate it, guys.
+Tony Milando -- Chief Supply Chain Officer
+Thank you.
+Operator
+We'll take our next question from Deane Dray with RBC Capital Markets. Please go ahead.
+Deane Dray -- RBC Capital Markets -- Analyst
+Thank you. Good morning, everyone.
+Patrick Decker -- Chief Executive Officer
+Hey, good morning, Deane.
+Sandy Rowland -- Chief Financial Officer
+Good morning, Deane.
+Deane Dray -- RBC Capital Markets -- Analyst
+Hey, it sounds like the supply chain conditions have worsened. This is true sector wide, so no surprises there. But since your analyst day a month ago, you had sized $100 million that you thought -- of revenues that would be pushed some into 4Q and some into 2022. Where does that stand? Just your best calculation, how much did it end up getting pushed? It sounds like it was more than $100 million.
+Sandy Rowland -- Chief Financial Officer
+Yeah, Deane. I think -- let me size it up. I think 30 days ago, we thought we'd have somewhere between $35 million and $40 million impact in the third quarter. We saw about $50 million impact in the third quarter.
+About half of that was related to chip shortages and the other half related to sort of other supply chain delays. As things tight in, we've probably sized Q4 right around $120 million, and the greatest impact will be again on the chip side. And that's why you see the guide in our M&CS business that will be down in Q4 quite a bit.
+Deane Dray -- RBC Capital Markets -- Analyst
+All right. That makes sense. And if you just step back, it really does sound like the meter side of your business is most impacted because that does have exposure to semiconductors. So if you think about the shortfall, how much of that is centered in your meter business?
+Sandy Rowland -- Chief Financial Officer
+When I look at Q3 and Q4 combined, I'd say about 65% of the impact is in our metrology business.
+Patrick Decker -- Chief Executive Officer
+And the large majority of that impact gain in Q4 is the metrology business. And again that's again -- it's not a demand issue, so it's simply shifting to the right. And something I don't think we shared in our prepared remarks but it's important, I think, for everyone to see is when you look at the whether it be the issues around getting access to chips, whether it be the port delays, the logistics challenges, the margin on our backlog, which has shifted to the right, is equally as attractive as we had laid out at Investor Day. And so we're not we're not giving up margins to chase volume here, and that's where I think the partnership with our customers is has been really, really important.
+Deane Dray -- RBC Capital Markets -- Analyst
+That's helpful. And how about -- just to stay on that backlog margin thought for a moment, are you doing any like partial assemblies? We're hearing companies that are just lining up partial, nearly completed products in the hallways and so forth. And the reason this is important is when you do end up shipping those in a following quarter, you've already expensed a portion of that assembly and labor and so forth. So it actually goes out with decent margins.
+But just -- are you doing partial assemblies and where does that stand?
+Tony Milando -- Chief Supply Chain Officer
+Yeah. Hi, Deane, this is Tony. Yeah, we absolutely are. You'd see our inventory tick up a bit.
+And part of that as a result of parts coming in, being rescheduled but also pre-builds with -- waiting for those extra parts to come in, so we can ship them out. So we're absolutely doing that.
+Deane Dray -- RBC Capital Markets -- Analyst
+Great. And, Tony, I love the color about using smaller ships in different ports. We're hearing about other companies doing that, so we applaud those efforts. Keep up the good work.
+Thank you.
+Tony Milando -- Chief Supply Chain Officer
+Thanks.
+Patrick Decker -- Chief Executive Officer
+Thank you, Deane.
+Operator
+And we'll take our next question from Saree Boroditsky with Jefferies. Please go ahead.
+Saree Boroditsky -- Jefferies -- Analyst
+Hey, thanks for taking my question. The dewatering business and water infrastructure seem like it was really strong. Can you provide more color on how you're thinking about demand and that business going forward? And should that be a tailwind for margins?
+Sandy Rowland -- Chief Financial Officer
+Yes. Great question. When we look across the portfolio and within our water infrastructure business in the third quarter, this was a bright spot for us. We saw 8% growth in the quarter on revenue.
+We saw strong orders and the cost structure in this business, when we do get growth, it helps us from a margin perspective. So do want to shout out emerging markets doing really well in this business. We're seeing good strength in mining and some other some of the other industrial markets, and that's been a part of -- a key part of our growth.
+Patrick Decker -- Chief Executive Officer
+And it definitely is. It's one of the highest margin accretive businesses in the portfolio when we get that volume growth. So that certainly will help us as we get into '22.
+Saree Boroditsky -- Jefferies -- Analyst
+And then just sticking with M&CS, how does pricing work on some of these long-term contracts? Were you able to get price for some of the supply chain inflation that you're currently seeing within the current backlog?
+Sandy Rowland -- Chief Financial Officer
+Yeah. So I think this is where -- we're pretty well positioned here the way a lot of -- most of our M&CS contracts work, the longer term ones. There are escalator clauses embedded in those contracts, where they look at a basket of price indexes and then we're able to adjust our prices based on where the index is. So --
+Patrick Decker -- Chief Executive Officer
+And this is a historically consistent situation that we've seen. In the past when there have been periods of upticks in inflation or supply challenges. And part of the reason why we have that flexibility is again we're not in this alone. Our competitors are also dealing with supply challenges but, two, it also is the fact that these deals, when they've been approved by regulators and authorities are being approved because they're going to be generating significant revenue for utility.
+So it's in their best interest to go ahead and move these things forward even if they have to wait or take on some adjustment in price escalation. It really comes down to what our overall value proposition is with those utilities.
+Saree Boroditsky -- Jefferies -- Analyst
+Great. Appreciate the color.
+Patrick Decker -- Chief Executive Officer
+Thank you.
+Operator
+We'll take our next question from Andrew Buscaglia with Berenberg. Please go ahead.
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+Hey, guys. So --
+Sandy Rowland -- Chief Financial Officer
+Good morning.
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+I guess, the margin dynamics impacting M&CS but could you talk a little bit about -- you did so well on water infrastructure on margins. Applied water, which is a little bit below, I was thinking. So I guess what are what are the differences there that would impact margin between those two segments?
+Sandy Rowland -- Chief Financial Officer
+Yeah. So I think there's a couple of dynamics. One was one of the points that we've talked about through an earlier question. You saw the uptick in the deep watering business and that's good mix for us, so that helps helps margin.
+I think the other impact was -- there's some differences in inflation impacts between what we saw, for example, in our water infrastructure business and our AWS business. So it was more modest in our water infrastructure business.
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+OK. And you've got no utility weakness. I'm wondering are you seeing any initial signs of hesitation around spending given that this infrastructure stimulus seems to be dragging on? We don't have quite the clarity we thought we'd have at this point in this year.
+Patrick Decker -- Chief Executive Officer
+Yeah, we're -- no, we've not seen any signs of that. And our bidding pipeline continues to be very robust. And again, the conversations that we had with again this 500-plus utilities at our Reach conference, which is not just around metrology. This is actually -- beginning last year, it was the first time we had turned that into a Xylem Reach conference.
+It used to be Census. And so the conversations we're having with utilities there are across the entire portfolio of solutions. There -- I've said before, I think, that there is historically not really ever been of reliance at the utility level on federal government subsidization or funding, so nobody is kind of relying on that in a significant way. Again, the orders activity in the U.S.
+was up very, very strong. And again, it really just comes down to some of the port and shipping delays that we're working through. But we've seen no hesitation in demand or order outlook.
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+Yes, so there's orders to keep you confident that the demand is still there, I guess, as long as [Inaudible] cancellation that you feel confident there? OK.
+Patrick Decker -- Chief Executive Officer
+That's correct. And I -- and again, I would reinforce that. It's not just the orders in the backlog but it's the margin on those orders in the backlog that remains robust.
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+Yeah, OK. All right. Thank you.
+Patrick Decker -- Chief Executive Officer
+Thank you.
+Operator
+We'll take our next question from Nathan Jones with Stifel. Please go ahead. Your line is open.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Good morning, everyone.
+Patrick Decker -- Chief Executive Officer
+Hey, good morning, Nate.
+Sandy Rowland -- Chief Financial Officer
+Good morning, Nate.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Just wanted to go back to M&CS for a minute. Just under $320 million in revenue in the third quarter. I mean the guidance looks like it's maybe $300 million of revenue, or slightly below that. Is that kind of the level of revenue that you're restricted to with these chip shortages and logistics shortages, and that's the way we should think about at least the next couple quarters, three quarters, until some of this stuff starts to loosen up? Or are there product redesigns or other things that you can do to try and boost that in the short term?
+Sandy Rowland -- Chief Financial Officer
+Yeah. I think, Nate, if you look at our guide for Q4, we're right in that neighborhood. We think that over time the chip supply is going to improve and so that will gradually ramp. I think we've also seen some strength in some of our other businesses outside of metrology, which have the opportunity to grow sooner than that.
+So assessment services is a part of our portfolio. Our test business is a key part of that portfolio with really good margin structures, so we can grow there. The chips supply will constrain us over the next couple of quarters but we do expect that to gradually recover.
+Patrick Decker -- Chief Executive Officer
+And again, Nate, again I go back. This is not a demand issue. So it's simply a matter of when we're able to convert these orders into revenue. And again, we're not seeing any signs of cancellation, so -- and the margins remain strong.
+So I know you've heard me say that a number of times this morning but I think it's an important point to reiterate.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Yeah, I know. I'm just trying to get an idea of what the first half of '22 might look like in M&CS.
+Patrick Decker -- Chief Executive Officer
+Understood. And, Nate, we're trying to give you a responsible prudent view. There is a fair amount of uncertainty out there, not around backlog or margins but we're trying to -- again, we're trying to be balanced here.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Yeah, it's about getting it out the door and not getting the orders in the door.
+Patrick Decker -- Chief Executive Officer
+That's right.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+On the localizing supply chains question that people have been asking about, I mean the contract manufacturing that you're doing and the importing that you're doing, I assume is mostly on the technology side and it's coming from Asia to Europe and the U.S. Is it even possible to localize that manufacturing?Are there suppliers that you could leverage in the U.S. and Europe to localize that? Is it just cost prohibitive because they're much much higher costs than Asian suppliers would be? I just -- is it even possible to do that?
+Tony Milando -- Chief Supply Chain Officer
+Yeah. Hi, Nate, this is Tony. So we -- our large contract manufacturing -- we use contract manufacturers everywhere but the largest one that we have is in Mexico actually. And so that's really supporting our U.S.
+business. So it's largely the assembly and some of the componentry is localized here. Now granted the electronics are coming from Asia, so we continue to look at possibilities to bring that closer. That will be a bit -- I mean that's not something that we're looking to do necessarily but that's largely localized right now.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Is it just not possible to localize that from Asia?
+Tony Milando -- Chief Supply Chain Officer
+On the chip side? Yeah, on the chip side, it will be something that -- I think will be -- we'll wait for the supply base. The supply base is a little thin for chip suppliers in North America. So most of that still comes from Asia.
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Got it. OK. Thanks. I'll pass it on.
+Patrick Decker -- Chief Executive Officer
+Thanks, Nate.
+Operator
+And we'll take our next question from Connor Lynagh with Morgan Stanley. Please go ahead.
+Connor Lynagh -- Morgan Stanley -- Analyst
+Yeah, thanks. I wanted to return to water infrastructure and I wanted to clarify a comment you made before. Obviously, orders have been very strong within that business and I think you called out the dewatering business, in particular EM as an area of strength, but is that the main driver of the significant increase in orders this year, or are there other areas that you would point to?
+Sandy Rowland -- Chief Financial Officer
+In orders growth? The orders growth had been really across the board in water infrastructure. It's impacting -- we're seeing good growth on the treatment side. And the largest part of our business is transport and so orders there have also been been very strong.
+Connor Lynagh -- Morgan Stanley -- Analyst
+OK. And then just thinking through that strength, I mean this might actually be a better question for just the whole company but you called out some change in the typical order intake to actual revenue conversion or shipment timing. I'm curious how different that looks versus history because basically the order intake would suggest that you had 2022 is going to be quite a good year for a lot of the segments, but just hoping you can sort of frame -- how we should risk that relative to history.
+Patrick Decker -- Chief Executive Officer
+Yeah. So the-- so this is Patrick. We won't comment yet on '22. We'll come back around to that in our next earnings call as we give guidance for '22.
+But we do not have a demand issue here in water infrastructure and the challenges that we saw in Q3 and we're weathering in Q4, we do believe to be more transitory. And it really was around again some of the port delays and other freight challenges and shortages, so we think we'll get through those over the coming months here. And yes, we feel good about water infrastructure going in '22.
+Sandy Rowland -- Chief Financial Officer
+And I think just the other question you had was about conversion time between when orders get placed and when it converts to revenue. And certainly there is an increase in demand, strong demand. You don't put up orders growth of the magnitude that we're posting but we do acknowledge -- everybody is recognizing that lead times are getting longer across the board. And so there is a bias for customers to put their orders in a little bit earlier than they usually have.
+OK. Appreciate the context. Thank you.
+Operator
+And we'll take our next question from Pavel Molchanov with Raymond James. Please go ahead.
+Pavel Molchanov -- Raymond James -- Analyst
+Thanks for taking the question. You alluded to the fact that everybody is in the same boat in terms of supply chain complications. With that in mind, are you seeing any distressed M&A opportunities in terms of acting as a consolidator with regard to some smaller players for whom the supply chain issues are perhaps even more problematic than they are for blue chips?
+Patrick Decker -- Chief Executive Officer
+Sure, I -- we definitely see ourselves as being in a privileged and strong position from an M&A standpoint whether it be again our financial wherewithal, our bandwidth to do M&A, both financial and human, the balance sheet, and so we still remain very confident on that front. I don't know that I would say that the chip shortage and supply chain challenges are necessarily unlocking any opportunities that we would not have already had in our pipeline. We remain continued focused on what our priorities are strategically in that area. And that really is around we see some opportunities to these both ends with utilities, industrial, commercial building, continue to be areas that we are very positive and very focused on.
+Again it takes two to tango. And so again, we'll keep you updated on that. We feel -- we're very confident. We're very excited about the M&A pipeline but I wouldn't say it's changed dramatically because of the supply chain situation.
+Pavel Molchanov -- Raymond James -- Analyst
+OK. A quick follow up on the opportunity in Europe. Obviously, a lot of emphasis on the reconciliation and the infrastructure bills in Washington. But given that the European Union Fit for 55 package is already finalized and in very much being implemented, I'm curious if you've seen a pickup in customer activity orders from the E.U.
+within the context of their climate policy.
+Operator
+Yeah, I would say that not in the immediate term although I would say we are hearing more and more discussion around that and so we see that as being an opportunity a bit further out. And I think you know even the conversations around COP26 are providing a backdrop. And as I mentioned my opening comments, we're going to be very prominent there as is the water sector. And so we do think that that bodes well for demand but it's down the road.
+It takes time for these to convert into orders.
+Pavel Molchanov -- Raymond James -- Analyst
+Thanks very much.
+Patrick Decker -- Chief Executive Officer
+Thank you.
+Operator
+And we'll take our next question from Brian Lee with Goldman Sachs. Please go ahead. Your line is open.
+Brian Lee -- Goldman Sachs -- Analyst
+Hello,  everyone. Good morning. Thanks for taking my question.
+Sandy Rowland -- Chief Financial Officer
+Good morning, Brian.
+Brian Lee -- Goldman Sachs -- Analyst
+I know you alluded to this but I just wanted to understand a little bit more. If I look across the three segments, it seems like price hasn't read out as much an M&CS versus water and for an applied water. You mentioned sort of the inflation escalators in some of the contracts and then some of the, I guess, regulators stepping in and approving those but can you sort of give us a sense of the timeline for that? Is that sort of an annual review? And then if you do have unregulated utilities in your mix for the meter business, is the construct the same or is as that case by case?
+Sandy Rowland -- Chief Financial Officer
+So one thing, I think, to level set, if you look at first of all inflation, where it hit us the hardest, it has been outside of our M&CS business. It's been higher because of the types of commodities that we've purchased that we've seen greater inflations in these other two segments. Those contracts have those escalator clauses. They come at different different times and we are seeing favorable price coming through in M&CS.
+Patrick Decker -- Chief Executive Officer
+Yeah, so the -- just to add to that, Brian, the -- when you look at our metrology business, which is where the largest majority of our longer term deals reside, we typically have price escalation clauses built into them. And those are negotiated on a deal-by-deal basis. And so that really -- we expect that to roll through as those orders get implemented. And so we're less concerned around the margin expansion or price realization in that part of our company.
+Brian Lee -- Goldman Sachs -- Analyst
+OK. Fair enough. I guess, that's sort of a segue into the second question I had. Just in general, there's been a lot of discussion here on the car around the chip shortages you're seeing.
+In terms of inflation, it does sound like it's less of an impact in that segment versus the others. Can you kind of give us a sense of what you're seeing there? And then at a company level, I think you're talking about seeing price costs go positive here in Q4. Would you say that's the same sort of time frame for M&CS or that more into 2022 as you see price readouts?
+Sandy Rowland -- Chief Financial Officer
+Yeah, Brian, I think I mentioned a little bit earlier on the call that we were -- across the company, we were neutral from a price cost perspective in Q3 and that we expected that to turn positive in Q4 as we're seeing price realization sort of ramp sequentially through the year. And so we feel like in the first part of 2022 we'll continue to see that trend as well. So our teams have worked really hard to be thoughtful and responsible as it's come down to price. This year, we've taken multiple price actions.
+When we look sort of at our expectations around where we thought inflation would be, we thought it would be around -- across the company around 3% at the beginning of the year. And it's going to turn out to be closer to 5% on an annual basis. And so that's been the the reason we've gone out with these price increases to keep that imbalance.
+Brian Lee -- Goldman Sachs -- Analyst
+OK. That's great. Helpful color. Appreciate it.
+Patrick Decker -- Chief Executive Officer
+Thank you.
+Operator
+We'll take our next question from Ryan Connors with Boenning & Scattergood. Please go ahead. Your line is open.
+Ryan Connors -- Boenning and Scattergood -- Analyst
+Hey, thanks. Thanks for fitting me in. A couple of questions, just sticking on the supply. I wanted to get your take on something that -- we've begun to hear just in the last week or so from some of the macro economists about sort of a surge in double ordering and even triple ordering in all sorts of products across the economy.
+And so I'm curious about what your take is on that on both sides your business. Do you think there's any of that going on in terms of the orders that you are seeing from customers? And then on your side, are you doing any excess ordering in chips and other things to kind of stockpile supply to sort of place multiple orders, hope something gets through in time.
+Patrick Decker -- Chief Executive Officer
+Sure, Ryan. I'll go first, then I'll have Tony talk about the -- what we're doing on the ordering side ourselves. I would say where we've seen some of that uptick in people trying to get ahead of the supply chain constraints, has actually been more around the port delays, the logistic challenges. And some of those orders that we see -- it's hard to put a specific number on it, but the order growth, I think, certainly in water infrastructure and most notably applied water, some of that certainly, which is largely book-and-ship business, has been people trying to get ahead of the supply chain delays.
+Not that we aren't seeing any of that within M&CS, but the large majority of that business again is driven really by some of these large deals and those orders converting. So there's some ordering in advance but it's less prominent there than it is within the other two segments.
+Tony Milando -- Chief Supply Chain Officer
+Yeah. And, Ryan, I would just add that we're not doing double or triple ordering. What we are doing is working with multiple suppliers to try to get parts wherever we can, whether it's brokers or distributors, or the IDMs. But I -- it doesn't -- I mean that's a natural outcome of the bullwhip effect is to double and triple order, and double down on these things.
+But we're not saying we're not doing that here, we're just working with multiple suppliers.
+Ryan Connors -- Boenning and Scattergood -- Analyst
+Got it. OK. And then my other one just had to do with another thing that's been in the news a lot of the quarter is sort of labor issues and strikes and some big industrial companies like Deer, for example. Your own financials report say 17% of your U.S.
+labor force is unionized. I believe most of that is census. Anything coming up there in terms of a CBA negotiations or anything that -- anything we should -- you could share with us there?
+Tony Milando -- Chief Supply Chain Officer
+No, nothing with our unions. We have very good relationships with the unions around the around the world, particularly the U.S. We are seeing labor tightness, as we mentioned earlier in the script of -- particularly in the U.S., not so much in Europe or emerging markets but we're not anticipating any challenges with our unionized facilities.
+Patrick Decker -- Chief Executive Officer
+And I would just add there as well that where we are seeing some of the labor tightness is in some of our distribution locations around the U.S., where we are in high traffic distribution centers competitively. And that's, obviously, a very tight part of the labor market right now. So we've now we've been taking actions to try to be more flexible, to try to get the workforce in. Hiring ahead, knowing that we're gonna have some natural attrition.
+But as Tony said, it's really not to do with our our unionized workforce.
+Ryan Connors -- Boenning and Scattergood -- Analyst
+Got it. OK. Thanks for your time.
+Patrick Decker -- Chief Executive Officer
+Thank you.
+Tony Milando -- Chief Supply Chain Officer
+Thank you.
+Operator
+And at this time, I will turn the call back over to Mr. Patrick Decker for any additional closing comments.
+Patrick Decker -- Chief Executive Officer
+Well, thank you all very much. I really appreciate your interest, your support. I know we've covered a lot here this morning. I look forward to our follow up conversations with many of you and we'll see you on our next earnings call.
+And in the meanwhile, stay safe, stay well. And again, I just want to say thank you to all of you who have been a part of this journey of ours over the last 10 years as we celebrated yesterday our 10th anniversary of trading for the first time as Xylem. So thank you all very much and we'll be back in touch.
+Operator
+[Operator signoff]
+Duration: 61 minutes
+Matt Latino -- Vice President, Investor Relations
+Patrick Decker -- Chief Executive Officer
+Sandy Rowland -- Chief Financial Officer
+Tony Milando -- Chief Supply Chain Officer
+Scott Davis -- Melius Research -- Analyst
+Andy Kaplowitz -- Citi -- Analyst
+Deane Dray -- RBC Capital Markets -- Analyst
+Saree Boroditsky -- Jefferies -- Analyst
+Andrew Buscaglia -- Berenberg Capital Markets -- Analyst
+Nathan Jones -- Stifel Financial Corp. -- Analyst
+Connor Lynagh -- Morgan Stanley -- Analyst
+Pavel Molchanov -- Raymond James -- Analyst
+Brian Lee -- Goldman Sachs -- Analyst
+Ryan Connors -- Boenning and Scattergood -- Analyst
+More XYL analysis
+All earnings call transcripts

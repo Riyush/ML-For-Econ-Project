@@ -1,0 +1,462 @@
+Image source: The Motley Fool.
+PNC Financial Services (PNC 0.69%)Q3 2021 Earnings CallOct 15, 2021, 9:00 a.m. ET
+Operator
+Good morning. My name is Jennifer and I'll be your conference operator today. At this time I'd like to welcome everyone to the PNC Bank's third-quarter conference call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question and answer session. [Operator instruction] As a reminder, this call is being recorded. I will now turn the call over to the director of investor relations, Mr. Bryan Gill.
+Sir, please go ahead.
+Bryan Gill -- Director of Investor Relations
+Thank you, Jennifer, and good morning everyone. Welcome to today's conference call for the PNC financial services group. Participating in this call our PNC's chairman, president, and CEO, Bill Demchak; and Rob Reilly, executive vice president and CFO. Today's presentation contains forward-looking information cautionary statements about this information.
+As well as reconciliations of non-GAAP measures are included in today's earnings release materials, as well as our SEC filings and other investor materials. These materials are all available on our corporate website, pnc.com, under Investor Relations. These statements speak only as of October 15, 2021, and PNC undertakes no obligation to update them. Now I'd like to turn the call over to Bill.
+
+
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Thanks, Bryan. Good morning, everybody. I imagine you have seen that earlier this week we completed our conversion of BBVA USA. And I got to say I'm really proud of the team and our ability to sign, close, and convert a hundred billion dollar banking institution within a year.
+The dedication of our employees and our sustained investments in technology allowed us to convert roughly 9,000 employees, 2.6 million customers, and nearly 600 branches across seven states. BBVA USA is now integrated into PNC and its customers can bank with us from coast to coast. We're bringing our technology talent and the full suite of best-in-class products and services to 29 of the nation's 30 largest markets with attractive growth opportunities, as you've heard me talk about it for years to come. Now while we still have some more work to do, which is to be expected for a bank conversion of this size.
+We're making solid progress with our staffing levels and the branch operations, and BBVA USA legacy markets. In addition, we're encouraged to see the teams build pipelines and importantly growing new clients. Now with BBVA legacy employees now on PNC systems, we believe our momentum is going to continue to accelerate. As we previously were following the same game plan that we've used in previous acquisitions.
+And we know what to do, we just have to execute on it. With respect to our third-quarter results, we had a solid quarter highlighted by strong revenue growth, which included record fee income in our PNC legacy businesses and continued improvements in credit quality, similar to last quarter. And pretty much as expected, we had a lot of moving parts in our reported results and, of course, Rob will take you through those in a few minutes. Loan growth continues to be impacted by supply chain issues and the continued runoff of PPP loans.
+And also, the strategic repositioning of the BBVA portfolios, which is consistent with our acquisition projections. That said, total PNC legacy loans, if we back out that PPP runoff, actually grew almost 5 billion with growth in both commercial and consumer categories and while the environment is still challenging we're actually pretty encouraged by what we're seeing on the corporate side. With spot utilization rates stabilizing and even rising a little on the back of strong new originations in our secured lending and corporate banking businesses. And on the consumer side, we're also seeing promising origination activity, particularly in the residential real estate business.
+Importantly and as you see our balance sheet remains very strong and we're well-positioned with substantial capital and liquidity to continue to support our expanding customer base while making strategic investments in our technology and businesses. Another exciting development this quarter was the announcement of our integration with a clear data access network. This is through an application programming interface. And the integration is going to allow millions of our customers, if they choose to do so, to safely share their financial information with fintech and data aggregators.
+It's an important step in our efforts to help our customers protect their data while also giving them the choice to share their data with third-party applications. Similar to low cash mode, this integration positions us as a leader in technology and innovation and enables us to best serve our customers. And I'd like to close just by thanking our employees throughout the newly combined franchise for all their hard work, which enabled this conversion. Our significant collaboration across all divisions is impressive and it gives me great confidence that will capitalize on the enormous opportunities ahead of us.
+And with that, I'm going to turn it over to Rob for a closer look at our results, and then we'll take your questions.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Thanks, Bill, and good morning, everyone. As Bill just mentioned, and notable during the third quarter we converted the BBVA USA franchise to the PNC platform in less than 11 months, following the announcement of the deal. PNC's increased scale from this acquisition underscores the opportunity we have with the BBVA USA franchise. We have a proven track record of acquiring attractive strategic opportunities, identifying and reducing inherent risks, and successfully growing franchises to deliver enhance shareholder value.
+And as Bill just mentioned, we're well on our way to accomplishing this with BBVA USA. Due to the June 1 closing of the acquisition, our average balance sheet growth for the third quarter reflected the full quarter impact of the acquisition. As loans grew $36 billion, securities increased $12 billion, and deposits grew $53 billion. For comparative purposes to the second quarter, which you'll recall included just one month of BBVA USA results our balance sheet on Slide 3 is presented on a spot basis.
+Total spot loans declined $4.5 billion or 2% linked quarter. Excluding the impact of PPP forgiveness, loans grew and I'll cover the drivers in more detail over the next few slides. Investment securities declined approximately $900 million or 1% as we slowed purchase activity throughout much of the quarter during the relatively unattractive rate environment. Our cash balances at the Federal Reserve continue to grow and enter the third quarter at $75 billion.
+On the liability side, deposit balances were $449 billion on September 30th and declined $4 billion reflecting the repositioning of certain BBVA USA portfolios. We ended the quarter with a tangible book value of $94.82 per share and an estimated CET1 ratio of 10.2%. Both are substantially above the pro forma levels we anticipated at the time of the deal announcement. During the quarter, we return capital to shareholders with common dividends of $537 million and share repurchases of $393 million.
+Given our strong capital ratios, we continue to be well-positioned with significant capital flexibility going forward. Slide 4 shows our loans in more detail. Average loans increased $36 billion linked quarter to $291 billion reflecting the full quarter impact of the acquisition. Taking a closer look at the linked quarter change in our spot balances total loans declined $4.5 billion.
+The PNC legacy portfolio excluding PPP loans grew by $4.7 billion or 2% with growth in both commercial and consumer loans. PNC legacy commercial loans grew $3.7 billion driven by growth within corporate banking and asset-based lending. This growth in balances has been aided by a slight uptick in spot utilization. And while still near historic lows, utilization did reach its highest level since December 2020.
+Growth in PNC's legacy consumer loans linked quarter was driven by higher residential real estate balances. Within the BBVA USA portfolio, loans declined $4.4 billion primarily due to intentional runoff relating to the overlapping exposures and nonstrategic loans. Looking ahead we have approximately $5 billion of additional BBVA USA loans that we intend to let roll off over the next few years, which is in line with our acquisition assumptions. Finally, PPP loans declined $4.8 billion due to forgiveness activity and as of September 30th, $6.8 billion of PPP loans remain on our balance sheet.
+Moving to Slide 5, average deposits of $454 billion increased $53 billion compared to the second quarter driven by the acquisition. On the right, you can see total period-end deposits were $449 billion dollars on September 30th, a decline of $4 billion or 1% linked quarter. Inside of this PNC legacy deposits increased $5.4 billion, as deposits continue to grow reflecting the strong liquidity position of our customers. BBVA USA deposits declined approximately $9.4 billion during the third quarter, which was anticipated as we rationalize the rate paid on certain acquired commercial deposit portfolios and exited several noncore deposit-related businesses.
+Overall, our rate paid on interest-bearing deposits is now four basis points or one basis point decline linked quarter. Slide 6 details the change in our period and securities and Federal Reserve balance. And as most of you know we have been disciplined in deploying our excess liquidity with rates at historically low levels. Back to the beginning of the year as the yield curve steepened, we accelerated our rate of purchasing activity.
+However, toward the end of the second quarter, we deliberately slowed our purchases as yields declined. With the increase in rates at the end of the third quarter, we resumed our increased levels of purchasing including $5.4 billion of forward-settling security, which will be reflected in the fourth quarter. Average security balances now represent approximately 24% of interest-earning assets and we still expect to be in the range of approximately 25% to 30% by year-end. As you can see on Slide 7, our third- quarter income statement includes the full quarter impact of the acquisition.
+The reported EPS with $3.30 which included pre-tax integration costs of $243 million. Excluding integration, costs adjusted EPS with $3.75. Third-quarter revenue was up 11% compared with the second quarter reflecting the acquisition as well as strong organic feed growth. Expenses increased $537 million or 18% linked quarter.
+Including $235 million of integration expenses and two additional months of BBVA USA operating expense. Legacy PNC expenses increased $76 million or 2.7%. Virtually all of which was driven by higher fee business activity. Pretax pre-provisioned earnings excluding integration costs were $1.9 billion and $25 million, or 7%.
+The provision recapture of $203 million was primarily driven by improved credit quality and changes in portfolio composition and our effective tax rate with 17.8%. For the full year, we expect our effective tax rate to be approximately 17%. As a result, total net income was $1.5 billion in the third quarter. Now, let's discuss the key drivers of this performance in more detail.
+Turning to Slide 8, these charts illustrate our diversified business. In total, revenue of $5.2 billion increased $530 million linked quarter. Net interest income of $2.9 billion was up $275 million or 11%, reflecting the full quarter benefit of the earning asset balances acquired from BBVA USA. Inside of that interest income on loans increased $277 million or 13% while investment securities income declined $9 million, driven by elevated premium amortization on the acquired BBVA USA portfolio.
+Net interest margin of 2.27% was down 2 basis points driven primarily by lower security yield. Importantly in the fourth quarter, we expect premium amortization to decline meaningfully and on the yield on securities portfolio to increase. The third-quarter fee income of $1.9 billion increased $274 million or 17% linked quarter. BBVA USA contributed fee income of $184 million, an increase of $122 million linked quarter driven by two additional months of operating results.
+Legacy PNC fees grew by $152 million linked quarter were 10%, driven by higher corporate service fees related to recording M&A advisory activity, as well as growth in residential mortgage revenue. Other noninterest income of $449 million, decreased $19 million linked quarter as higher private equity revenue was more than offset by the impact of $169 million negative visa derivative adjustments. This adjustment relates to the extension of the expected timing of litigation resolution. Turning to Slide 9, our third-quarter expenses were up by $537 million or 18% linked quarter.
+The increase was primarily driven by the impact of higher BBVA USA expenses of $327 million and higher integration expenses of $134 million. PNC legacy expenses increased $76 million or 2.7% due to higher incentive compensation commensurate with a strong performance in our fee businesses including a record quarter in M&A advisory fees. Our efficiency ratio adjusted for integration costs was 64%. Obviously, with the acquisition, our expense base is now higher but nevertheless, we remain disciplined around our expense management.
+And as we've stated previously we have a goal to reduce PNC stand-alone expenses by $300 million in 2021 through our continuous improvement program, and we're on track to achieve our full-year targets. Additionally, we're confident we'll realize the full $900 million and net expense savings off of our forecast of BBVA USA 2022 expense base, and expect virtually all of the actions that drive the $900 million of savings to be completed by the end of 2021. We still expect to incur integration costs of approximately $980 million related to the acquisition. Since the announcement of the acquisition, we've incurred approximately half of these integration costs.
+And as Bill mentioned, we appreciate all the hard work our teammates have done to keep us on track and to achieve these goals. Our credit metrics are presented on Slide 10 and reflect strong credit performance. Nonperforming loans of $2.5 billion decreased $251 million or 9% compared to June 30th and continue to represent less than 1% of total loans. Total delinquencies of $1.4 billion that September 30th increase a $106 million or 8%.
+However, this increase includes approximately $75 million of operational delays in early stage delinquencies primarily related to BBVA USA acquired loans. Subsequent to quarter end all of these operational delinquencies have been or are in the process of being resolved. Excluding these total delinquencies would have increased $31 million or 2%. Net charge offs for loans and leases were $81 million a decline of $225 million linked quarter.
+The second quarter included $248 million of charge offs related to BBVA USA loans. Mostly the result of required purchase accounting and treatment for the acquisition. Our annualized net charge offs loans in the third quarter was 11 basis points. During the third quarter are allowance for credit losses declined $374 million primarily driven by improvement in credit quality, as well as changes in portfolio composition.
+At quarter-end, our reserves were $6 billion representing 2.0 -- 2.07% of loans. In summary, the PNC reported a strong third quarter and notably earlier this week converted the BBVA USA franchise. With its debt completed, we expect to add significant value to our shareholders as we continue to realize the potential of the combined company. In regard to our view of the overall economy, after somewhat slower growth during the third quarter of 2021 due in part to the delta variant and supply chain problems, we expect GDP to accelerate to above 6% annualized in the fourth quarter.
+We also expect the Fed funds rate to remain near zero for the remainder of the year. Looking at the fourth quarter of 2021, compared to the recent third-quarter results, we expect the average loan balances excluding PPP to be up modestly, we expect NII to be up modestly, on a percentage basis, we expect fee income to be down between 3% and 5%, mostly reflecting the elevated third quarter M&A activity. We expect other noninterest income to be between $375 and $425 million excluding net securities and fees activities. On [Audio gap] percent, we expect total noninterest expense to be down between 3% and 5% excluding integration expense, which we approximate to be $450 million during the fourth quarter and we expect fourth-quarter net charge offs to be between $100 and $150 million.
+And with that, Bill and I are ready to take your questions.
+Operator
+Thank you. [Operator instructions] Your first question comes from the line of Dave George with Baird. Please go ahead with your question.
+Dave George -- Robert W. Baird -- Analyst
+Hey, guys. Good morning. I had a question on loans.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hey, good morning, Dave. 
+Dave George -- Robert W. Baird -- Analyst
+Good morning, Rob. On loans -- so you said, on the BBVA there's an additional 5 billion of declines to come. Can you kind of give us a sense with respect to the timing and how you see that portfolio running off? And then I've got a follow-up.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure. Yeah. Again, good morning, Dave. So at the 5 billion that we've identified going forward that we intend to runoff, 2 billion of that we expect to runoff in the fourth quarter and that's part of our guidance.
+The remainder, likely over the next couple of years.
+Dave George -- Robert W. Baird -- Analyst
+Great. Thanks for that. 
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Dave George -- Robert W. Baird -- Analyst
+In terms of kind of the legacy, PNC CNI business, obviously it was encouraging to see a little bit of kind of organic growth in the third quarter. Can you give us a sense and this may be difficult, but clear clearly supply chain is weighing on working capital needs? And I'm curious if you can contrast the growth in commitments relative to the growth in outstanding in the commercial? I'm just kind of curious, how the commercial business is doing with respect to adding new names and new commitments? And we're obviously not seeing the benefit of that at least today in terms of outstandings because of that inventory issue?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Hi, it's Bill. We've been for the last couple of quarters our new money commitments have been I think maybe at record levels Rob.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+But increasing each quarter. And so new business new clients, in some cases just upsizing what we already had. And then quarter, we had a little bit utilization, but most of this was kind of new client growth.
+Dave George -- Robert W. Baird -- Analyst
+Yeah, that's right.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Right.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And then -- and as you know, Dave, as we've mentioned, that utilization kicked up a little bit. Still at historic lows, but a little bit, and that was part of it too.
+Dave George -- Robert W. Baird -- Analyst
+Sounds good, guys. Thanks.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+Thank you. Our next question is from the line of John Penn Carey from Evercore ISI. Please go ahead. 
+John Penn Carey -- Evercore ISI -- Analyst
+Good Morning.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Good morning, John.
+John Penn Carey -- Evercore ISI -- Analyst
+On your -- on the loan growth topic, that tick up in utilization and then also the new client that you mentioned. Can you give us a little more detail on what areas, what business areas, which industries that you're starting to see that that momentum start to build?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah, they're kind of related. I mean the growth in our secured lending areas sort of stood out and they traditionally have higher utilization. So in some ways, it was an increase in the overall average because we grew the book with the highest individual average rate. But even in the straight middle-market corporate book it finally stabilized and I guess went up a couple of basis points there is.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+ A little bit. Yeah.
+John Penn Carey -- Evercore ISI -- Analyst
+Yeah.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, so basically business credit, or asset-based lending group and corporate banking.
+John Penn Carey -- Evercore ISI -- Analyst
+Got it. OK. And then on the expense side. Just wanted to -- if you could talk a little bit about wage inflation if you're starting to see any signs of that in your franchise.
+And also, if so, is there any risk to how we're thinking about the merger costs or the 900 million in net cost saves? Thanks
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+With respect to wage inflation, you might have seen an announcement that we increased our base rate to at least 18. And beyond that in some cases and in certain markets. So at --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Eighteen dollars an hour.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yes, sorry. And it's -- so that is real, but that you that was kind of already assumed and our financial assumptions it doesn't have anything to do with our assumed cost saves. But there is real pressure there and the only way through time to kind of offset that pressure is through increased automation and frankly control on overall headcount.
+John Penn Carey -- Evercore ISI -- Analyst
+OK. So fair to say though. The longer-term impact on how you view the long-term efficiency ratio for the bank?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Too early to tell, right? We're on this -- so average wages per employee are going to go up. At issue is how quickly we -- how we scale our franchise through automation. So we become larger without more employees. And that's played out for a period of time here.
+John, I just go through our financial statements even going back for five years. We just need to continue that trend. The trend to be able to continue our pursuit of positive operating leverage.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And to offset what is real in terms of wage pressure.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+John Penn Carey -- Evercore ISI -- Analyst
+Yep got it. All right. Thank you.
+Operator
+Thank you. Our next question is from the line of Scott Siefers with Piper Sandler. Please go ahead.
+Scott Siefers -- Piper Sandler -- Analyst
+Good morning guys. Thanks for taking the questions. Rob was hoping to drill into the expense dynamics a little more. So your fees are excellent this quarter those will come down, but still appear to remain very strong as it relates to the kind of the related cost outlook.
+How much of your expense guide contemplate the sort of ongoing costs related to that that strong fee momentum? And then can you maybe sort of size up how the 900 million in BBVA related cost savings fit into the fourth-quarter guidance? In other words how much start to come next quarter or comes next quarter and then how much is into 2022 still?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure. So that's a lot there, Scott, but the easy answer to that is that's all and that's all in the guidance for the fourth quarter. So we -- to your point fee businesses have been -- were good in the third quarter. They've been good all year across the board asset management consumer services, corporate services particularly in the third quarter as well as residential mortgage.
+And with the exception of the elevated levels of M&A activity and corporate services we see all of that continuing into the fourth quarter and that's part of the guide. So there'll be expenses that are obviously associated with that in terms of the 900 million in savings. We are achieving savings presently we got some in the third quarter we'll get some more in the fourth quarter. That's part of the guide.
+But the bulk of the savings will be in 2022. So reaffirming the 900 million in savings a portion of which will recognize in 2021 and then of course going forward into 2022. All in our guidance.
+Scott Siefers -- Piper Sandler -- Analyst
+Perfect. Thank you. And then you touched on this in your prepared remarks, but that elevated premium amortization at BBVA that weighed on the consolidated company securities portfolio. Can you just expand upon that a little bit?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Sorry. It was painful. In its simplest form, we marked that securities book when we closed the deal at really low rates that then continued through. In fact, rallied through the quarter so the prepay rates on their CMOs increased than we had.
+So you think about it we mark a book to whatever the yield was. It's at a premium. All of that prepays because of the low rates. Hopefully, we expect that to abate as rates have now kind of gone back up.
+But we marked them as premium securities and then got caught by the --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And it was a function of the timing of the acquisition, setting up those securities as premium securities.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+In its simplest form what we did if you think about it is it knocked down goodwill and the way when we marked the book because we had higher valued assets. So it took in effect took in income upfront and paid for it a little bit this quarter.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That's right. 
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I mean, Rob the securities yield once the guide on the -- like that book yielded 50 basis points or something.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That happens, yeah.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah. And it is. And we expect going forward the total book to increase.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That's right, which is what I said in my comments. That's right.
+Scott Siefers -- Piper Sandler -- Analyst
+Yeah. I'm glad to hear that.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+It is acquisition-related.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah, and it was painful.Scott SiefersExactly. Good. All right, well perfect, I appreciate the color.
+Operator
+Thank you. Our next question is from the line of Betsy Graseck with Morgan Stanley. Please go ahead with your question.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hey, good morning.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Morning Betsy.
+Betsy Graseck -- Morgan Stanley -- Analyst
+I know we've had a lot of expense discussions already, but I'm just looking at what you've done so far in the quarter. When I look at your detail around, the run rate of expenses that BBVA and 2Q, the one month say that you had and the three-month free full month they had hadn't 3Q. It already looks like you brought down expenses a bit. And I'm just trying to understand what you've done so far and what's left from here because you've already executed a bit, am I missing something there?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+No. No. You're right. You're right.
+Hey, Betsy, this is Rob. But you're right now we've started as we said we would. So we have begun to realize the expense savings pretty much across all the categories. But we're just getting started.
+So what do you see in that state we still have work to go.
+Betsy Graseck -- Morgan Stanley -- Analyst
+OK. And then, when I'm thinking about the pace of that expense save from here, a part of it is a function of the conversion, the lift and shift obviously --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, right.
+Betsy Graseck -- Morgan Stanley -- Analyst
+But then can you talk us through what comes after the lift and shift, in terms of expense save trajectory?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I don't even know what to talk about. I mean --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Like when you talk about the activities and then like --
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Line items? I mean, we have --
+Betsy Graseck -- Morgan Stanley -- Analyst
+No. Like branch closures and what -- and really the question is --Bill DemchakSome of its branch closures -- some of it will be in the form of people who have stayed with us through conversion on stay bonuses. They'll be shut down of systems and vendor contracts and all sorts of different things that will roll through depending on time. Some of which we leave around for a bit as sort of backup for not to notwithstanding the fact we've converted will leave some stuff up and running for a little bit of time just for the in case.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+I think that's right and probably at least in terms of that -- the pickup in the fourth quarter activity we will -- at the mix we will pick up more vendor savings. We've already started that and we will start to pick those up but at an accelerated rate.
+Betsy Graseck -- Morgan Stanley -- Analyst
+And I guess the question really is lifting shift as a percentage of total cost saves is like the round numbers?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+It gives -- that's the wrong way to think about it. The fact that we get that done at one point in time allows us to then aggressively move costs, right. Because legacy systems shut down legacy vendor shutdown related people who were supporting old applications all of that stuff now starts rolling through the system.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Yeah. Yeah. And my point is it's not the one and done in a portion of the total. Expense that you'll be generating.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah. And that -- look, at the end of the day, the guidance is -- the guidance, right? We're going to get some more in the fourth quarter and then we're going to get it all next year.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah, and I just see it. I see it.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+We're on track. We will get it all. We know the line items where it will come from.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+I just think -- I think the way to think about it, Betsy, is it's sequential. So that conversion in the lifted shift creates a deck, so to speak, to get started sooner rather than later on realizing those savings.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Got it. All right. Thank you.
+Operator
+Thank you. Our next question is from the line of Gerard Cassidy with RBC. Please go ahead.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Good morning Bill. Good morning Rob. 
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Hey, Gerard.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Can you guys share with us? See you mentioned a few times within the corporate services numbers that the advisory business. I think you said in the press release it was at record levels, but you -- Rob in your guidance you're expected to come down. Other than the obvious pipeline that you guys see in your book. Can you share with us what else you guys on the front lines are saying about M&A? Is it just that there's just not as much as many companies that are left to do M&A and going into '22?Bill DemchakLook at -- in its simplest form is set a record.
+You assume you will keep setting records. There's nothing out there that suggests necessarily you shouldn't get a weekend from here. By the way inside of that we obviously [Inaudible], but we also had breakout quarters for Solebury and six-point and related advisors. If the market continues that will continue to have great fee income out of it.
+But it's hard to keep saying we're going to budget a record upon a record. I think it's as simple as that. 
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That's right.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Got it. And what does it represent now of corporate services or what did it represent in the third quarter?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Well. Yeah, and I know the. Let's say I'll do the quick math in my head down 25%. 
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Got it. Okay. And then a question on the loan to deposit ratio you and your peers of course have incredible amounts of liquidity and that ratio has come down. We've -- looks like the Fed now is going to enter into a tapering phase and clearly is still be adding to the deposits of the banking system until tapering is over.
+How are you guys looking at? I know there's a lot of moving parts with loan growth and maybe some deposit shrinkage, but when you look out over the end of '22 and into '23 BBVA is fully integrated. What do you think is an optimal loan to deposit ratio for you folks and when do you think you could get there?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+There's too many variables.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Yeah. OK.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I mean, if you go back in history, right? People would operate, I don't know where we were, 80%, 85%.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+85%, yeah 85% to 90%.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+And that was kind of a liquidity safety function. So if you were short liquidity at that point, you'd raise wholesale liquidity to kind of keep your ratio at that point. Today, we're so flush with reserves into the system, wholesale funding is next to zero, and until the Fed -- forget about tapering actually shrinks its balance sheet. That's not going to change.
+Now, loan growth even accelerated, and exaggerated loan growth will absorb some of that. But I think you're going to see loan deposit ratios low for a long period of time. And therefore I think you're going to see security balances as a percentage of the balance sheet. We've already talked about this increase across the industry.
+And I -- that's going to -- I think is going to take years to play out.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Very good. I appreciate the color. Thank you.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Operator
+Thank you. Our next question is from the line of Mike Mayo from Wells Fargo Securities. Please go ahead with your question.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Hi.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hi, Mike.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Hi, Mike.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+No good deed goes unpunished. So since you -- from announcement to conversion under 11 months, probably a record. Why aren't you increasing your $900 million cross savings? But more generally, having completed the lift and shift conversion over the weekend, what parts of your technology do you think are further validated? Whether it's your use of the Cloud or Data Lakes or something digital that you're doing that you think others haven't advanced as far as you have?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Well, look. With the first question. At the end of the day, we're always in the business of figuring out how to become more efficient. Think of the 900 is line items we know we can get.
+We actually know where they're coming from and when they're going to show up. So you're right at the margin we'll find some other stuff. By the way, we'll probably find some stuff we need to invest it too. So we just we put that into our guidance we say well look we'll get the 900 hundred.
+We'll talk to you about '22 when we get closer but we haven't lost focus on the primary objective.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And the 900, that Mike. The 900 was estimated of the expectation that we convert and when we did. So, we didn't convert sooner than we thought, we did it on time.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+So but that's -- but there was a number that -- how to say this, visual until we can see it. We know the line items. It's very precise. The technology.
+Look it worked. We had at the margin, some confusion with retail clients on password resets and some other things, but the basic technology moving it overturned it on, it all worked. It's this just phenomenal effort by our team and validates the investment we've made over the years. I don't know what people have or don't have in terms of their ability to do that, but the biggest element for us, Mike, and I think we've talked to you about this, was in effect this data lake idea where since our applications don't hold their own data, they call from a Central Lake and they're linked through API and they're Cloud-native.
+It just makes it very easy to move data and you onboard a new client. It's not much different than is if we just got a couple of million new clients overnight. That that -- and I make it sound very easy and all my technologists are ripping their hair off right now. But that's what we did, and it worked.
+The investment in that was everything from the Data Lake, to Cloud Native, to API, and everything. And frankly to having businesses and technology like [Inaudible]. So technology at PNC is not in the back-office somewhere doing its job, they're actually side-by-side in an agile team working with their business partners to develop the product, and importantly, to execute the conversion, which we did. That cultural element is probably as important, or more important, than all the rest.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+So just the final look at this. How many apps did you eventually keep from them or how much in gigabytes did it add or just one more what you added?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Well, we ended -- I think we ended up keeping 2 or something.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+It was the last number, I think.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah, one was the business transfer. The personal foreign currency transfer business. I don't know what the other one was. And that's kind of it.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+And that was -- and I was trying to -- I have the numbers right. Was that out of 600 and you have 300 or something like that? And I mean, you thought this Company was much smaller.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+We went through that before and I can't remember them off the top of my head, but they had twice the number that we have. That feels roughly --
+Bryan Gill -- Director of Investor Relations
+Six hundred they had.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+They had 600, we run the whole bank on 300.
+Bryan Gill -- Director of Investor Relations
+A little more than 300.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Yeah. What -- why is -- why was that. I mean that's the number that stands out there so much smaller. Yeah, they had twice as many apps and -- just how do you get to that state?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I mean, I think once you start using API-based programs, it's almost a click and drag, right? You don't have to recreate functionality across multiple applications. You can simply bring in whatever functionality you need from a library of API. If that -- so let's say you have an application that just needs a checking account balance rather than. You write a full application that goes and finds a checking account balance of your core ledger.
+We just have an API you drag in and produce it. I think that's a big part of it. It's also a credit to the team way back when we did National City week. We moved everything onto single applications.
+Right, a lot of times, and BBVA might have done this. You'll do an acquisition you just keep too many applications alive because you don't want to choose between one or between the two of.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Got it. All right. Thank you.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Operator
+Thank you. Our next question is from the line of John McDonald with Autonomous Research. Please go ahead with your question.
+John McDonald -- Autonomous Research -- Analyst
+Hi, good morning guys.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hi John.
+John McDonald -- Autonomous Research -- Analyst
+PPP dynamics are confusing to all of us and I just wanted to ask a little bit about that. So Rob I know on the outlook I think it's helpful that you give the core loan growth and it excludes PPP, but maybe you could give us a sense of what you expect for PPP payoffs in the fourth quarter and then beyond? And then also on the NII, is PPP included in that, and what kind of PPP contribution have you had to NII this quarter? What happened to that going forward? 
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah. Yeah. In simple terms, John, I think you're right it is confusing, but simply put, we expect PPP to be down on average about $4 billion in the fourth quarter. In the third quarter -- and net interest income contribution from PPP was about a $100 million, and we expect that to go down approximately 25 to 30, and that is in our guidance, our NII guidance.
+John McDonald -- Autonomous Research -- Analyst
+Yep. OK. Gotcha. Great.
+Another cleanup question here on the securities redeployment of cash into securities 25% to 30% the target for this year over. Over time and this could get into a discussion that you had with Gerard about the loan to deposits, but could that go higher over time? If loan growth doesn't surface as much as we think?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I think it could. I think that depends. [Inaudible] set where the yield curve is and when and how we think about long-term risk. I mean part of the issue today John is you have this long tail risk maybe it's not such a long tail that you end up with a spike in long rates because inflation becomes real, which causes you at the margin to be slower than you otherwise might be in deploying that cash.
+I think is that risk normalizes if we don't see long growth you'll see balances increase.John McDonaldGot it. OK. Thanks, guys. 
+Sure. 
+Operator
+Thank you. Our next question is from the line of Bill Carcache with Wolfe Research. Please go ahead with your question.
+Bill Carcache -- Wolfe Research -- Analyst
+Thank you. Good morning, Bill and Rob. 
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Good morning.
+Bill Carcache -- Wolfe Research -- Analyst
+Following up on Gerard's question as we look ahead to spend tapering and eventually rate hikes, how are you thinking about deposit rate is? Relative to when we exited the last reserve cycle?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I think they're going to be a lot lower simply because there's so much cash sloshing around. Remember even when the Fed tapers they're not necessarily shrinking. And so with the cash in the system, the competition for deposits just won't be as great as it once was. So I think at the margin they've they've got to be lower.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+And then another way of answering that with all the deposits we have we're not thinking a lot about [Inaudible], right?
+Bill Carcache -- Wolfe Research -- Analyst
+Right? That makes sense. Understood. That's helpful. And I guess I'm going back to the momentum you're seeing in new money commitments.
+What's your sense from your discussions with your customers of the extent to which utilization rates are going to remain relatively depressed as long as the supply chain problems that we're seeing remain unresolved versus the potential for continued improvement even if the supply chain problems would extend well into next year say. Just had to get a feel for how big that -- how much of an impact it's having.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+It varies across industries. I mean they -- should say without question, but the vast majority of our clients talk about the need and desire to build inventory and do more capex, which is why some of the lines have been increasing. Their ability to execute on that is somewhat dependent on the supply chain and it depends on what industry you're in. If you're dependent on chips for your manufacturer, it's a struggle.
+Other businesses are not and could build immediately and maybe we are already seeing the benefit of that.
+Bill Carcache -- Wolfe Research -- Analyst
+Got it. And if I can switch to BBVA in the revenue synergy opportunities, when you think about those. How do you -- how does your confidence level around the timing and magnitude of realizing those differ relative to what you saw in RBC? It seems like you guys have the playbook. We're just trying to get a sense for differences that you may see an execution this time around?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Hey, Bill, it's Rob. In terms of contracting with RBC, just set that aside. In terms of the BBVA, we're very confident in terms of the numbers as Bill mentioned that we've laid out and the plan to get there. It's probably on the increment better than RBC because it's bigger.
+We know what we do is very familiar. Of course, RBC was successful but this is --
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+I mean --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+This is more magnitude.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Mike would say -- my clients who runs a CNIB business would say it's as much as, perhaps a year faster. And he gets there largely because the teams are in place much faster than we had them in place with RBC. Now we'll see how that plays out. But we're hitting the ground faster in terms of teams who are out-calling on clients and then we also have a book of business with BBVA that is better than what we had with RBC.
+So we have the ability to up sell that book of business on the fee side. Remember us talking about just the percentage of fees the total revenue being very low. So we have an opportunity for fee momentum early on we have teams in place and we ought to be able to grow clients a little bit faster than what we saw in RBC. Just because we're on the ground already.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That's the revenue aspect.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+For the revenue aspect, if it is significantly higher than our RBC, the expense side, I thought was the question, the magnitude that I mentioned is the answer.
+Bill Carcache -- Wolfe Research -- Analyst
+Understood. That's really helpful. If I could squeeze in one last quick one. Bill you've talked about having teams inside of PNC studying crypto and I'd love to hear your thoughts on a couple of areas versus a revenue opportunity for PNC as you're taking a closer look at it? And then second, from a risk perspective, how concerned are you about the risk of disruption from decentralized finance.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+So what we talk about or what we are contemplating offering. We literally have built today to our clients and look our clients are interested in it is an ability for them to trade crypto in a safe fashion through a mobile app at PNC. I don't have to opine on whether I think that's a good investment or not a bad investment. We know with certainty that we have 10% to 15% of our clients who are moving money into and out of crypto exchanges.
+So they're interested in it and our surveys confirm that. The financial disruption of crypto broadly and probably inside of that stable coin is a real threat. And it depends on how that plays out through time. There's the risk I think that people are aware of with certain of the stable coins having let's call it suspicious collateral behind them.
+But there is also the risk through time that a substantial portion of saving either domestic savings or even emerging market savings get absorbed into a stable coin and under the traditional money transmission system. And that would affect the economy and the ability to control the money supply long term. And I think that's what -- I know that's what the various regulatory bodies are looking at to figure out how to get their arms around. But that's independent of whether we let our clients trade [Inaudible].
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Right.
+Bill Carcache -- Wolfe Research -- Analyst
+Yeah. But there is a revenue opportunity from that portion of it even by simply just providing a service to them. And so is that a fair conclusion?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Sure. I mean, at the margin, I -- at the margin.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Don't see it as a big driver.
+Bill Carcache -- Wolfe Research -- Analyst
+Right, got it. That's super helpful. Thank you again for taking my questions.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Sure.
+Operator
+Thank you. Our next question is from the line of Ken Usdin with Jefferies. Please go ahead.
+Ken Usdin -- Jefferies -- Analyst
+Hey, thanks. Good morning, guys. Can I come back, Rob, on the premium amortization question? I'm just wondering if you can help us understand in the 1.45 for securities yield, what either the basis point impact was or if you even have a total dollars or premium arm for the company and what you expect that to look like going forward?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+But that's all in our guidance. In terms of the dollar amounts, but I'd say if you took a look at it in terms of the yields you can see the decline in yields. If it wasn't for the elevated premium amortization expense we would be close to down a little bit from those second-quarter levels.
+Ken Usdin -- Jefferies -- Analyst
+OK. That's fair. And that was my second question is, what are you seeing just on core front book, back book, and relative to these forward saddlings and just what you're seeing in the market today and where you get your hands on?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Well, it's looking better is what we said relative to the --
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yields were buying today but we expect the yield on the total book to increase pretty substantially next quarter largely because of its decrease in the amortization costs.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+That's right.
+Ken Usdin -- Jefferies -- Analyst
+Yep. And then lastly just purchase accounting accretion you said it was 30 in the second quarter. Do you have anything in the third? And how do you expect that to look like to --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+[Inaudible] in the third and going into the fourth quarter. Which is a good thing.
+Ken Usdin -- Jefferies -- Analyst
+Yeah. Okay. Great. Thanks.
+Operator
+Thank you. Our next question is from the line of Terry McEvoy with Stephens. Please go ahead. 
+Terry McEvoy -- Stephens Inc. -- Analyst
+Thanks. Good morning. Bill, you mentioned it at an industry event last month that California was an underperforming franchise. I believe it is legacy BBVA US.
+What are your thoughts on turning that around? Is it build, is it buy, or is it just internally work to improve the franchise?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+It's building and I mean it was underperforming largely because they didn't have the products and services to cover the corporate opportunity that's in California. And by the way, that opportunity is massive. So the big effort for us and we're fairly long -- we're fairly far along in the process is to get feet on the ground. On the corporate side who can cover clients in some cases bring relationships with them.
+So we don't need to buy anything. At the margin. We might rearrange some of the branches there. But the real opportunity set in California is to get corporate bankers into coverage and capital markets players on the ground in California.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Which in many instances we've done already.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Terry McEvoy -- Stephens Inc. -- Analyst
+Thanks. And then just as a follow-up question could you maybe talk about the rollout of low cash mode. Is that allow you to play more offense or is that more defense? And then is that was it 125 to 150 the decline in overdraft fees is that still the right way to think about the impact of that product on fees? Thank you. 
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+So the rollout has been somewhat seamless and of course, we just -- with the conversion of BBVA, we've put all of their customers or enabled that low cash mode on all other products who converted over. I forget the current stats, but it's millions and millions and millions of alerts that have gone out. It's millions of people who have been able to transfer money before they get hit with a charge. It's people being able to choose the order in which [Inaudible] want to pay a bill and return items with no return fee.
+And look we in some ways we kind of led the industry into this discussion and you've seen how people have reacted. Part of our lead was in what we charge customers, but a big part of our lead was on technology, in simply empowering customers and most everyone who has followed is kind of doing it through brute force and just cutting fees, as opposed to offering different solutions, which is the most important thing about low cash mode, I think. We're happy with what it's doing. It's not our complaint volume into the Care Center down by -- I don't know what the number is on the overdraft, over 50% or something.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Yeah. On overdraft even higher than that.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah. So it's done exactly what we thought it would do.
+Terry McEvoy -- Stephens Inc. -- Analyst
+Great. Thank you.
+Operator
+Thank you. Our next question is from the line of Matt O'Connor with Deutsche Bank. Please go ahead.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Good morning. It seems like the loan portfolio at BBVA USA will be mostly de-register runoff by the end of 4Q if we're just a couple of billion less the next two years, is there an opportunity to kind of fill that bucket relatively quickly? I guess what I'm getting at is maybe you can take down bigger holds because you're a bigger company versus Legacy PNC or just some low-hanging fruit to fill some of that loan run-off between this quarter and next?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+But it's embedded in our guidance. I mean you got to appreciate that we're not -- if loans are up or down by a billion and a quarter and we're not going to putty over the organic resolve by doing something we otherwise wouldn't do. It will follow its ordinary flow won't grow clients. We are a larger company so we can take larger holds if we want to.
+Utilization will hopefully go up and as we always do we're sensitive to risk and they have some books of business that are both in some cases riskier than we'd like to be in and in other cases they just have no cross-sell opportunity and so the return on the equity you deploy to hold those loans is just really low.
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+I would add, Matt, I mean, obviously central premise is acquisition, these are growth markets, so we would expect through time to generate above-average growth, not necessarily in the next 90 days, but that's obviously a big opportunity for us.
+Matt O'Connor -- Deutsche Bank -- Analyst
+OK. Yeah. I wasn't so much looking for just the fourth quarter I guess I was still thinking like the next few quarters do you get outsized loan growth given that [Inaudible].
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+If we get a tailwind at all you're definitely going to see that. And I think and most importantly if you go back and look at our loan growth through the period of RBC so kind of two-plus years after we did RBC. We started to really accelerate this corporate loan growth and every you said, how are you doing that? And it's all new customers and new markets and we fully expect that we're going to be able to do that. And all of these new markets that we just developed admittedly with some noise in the front because we're going to runoff a little bit out of BBVA and outright loan growth is as we've seen, fairly tepid at the moment.
+Matt O'Connor -- Deutsche Bank -- Analyst
+OK. Thank you.
+Operator
+Thank you. [Operator instructions] Our next question is a follow-up from Gerard Cassidy from RBC. Please go ahead.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Hi. Thank you for taking the follow-up question. Bill you guys mentioned about raising the entry-level wage or minimum wage for your folks. Some of your peers have done the same, excuse me, Bank of Montreal raised their wages 20% last week, and Bank of America has got that 25 and 25 programs.
+So the question is this, can you share with us what it means for the people right above the entry-level -- excuse me, in the entry-level, worker, meaning like a branch manager, how far up does that ripple go in terms of the inflation on wages because of the minimum wage going up?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+It goes straight up through the pay grades. Most of the cost is actually in the compression, as opposed to the initial jump for the people who are at the lowest level. So a part of the work set to go through this to figure out, in fact, how you move people up who are today at 18, but tomorrow -- if the $15 person went to 18, the $18 person goes to 20-50 or some -- and I'm making up numbers here, but that's the majority of the cost. And by the way, it's a majority of the work set to get right.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Good. OK. No, I appreciate it. Thank you. 
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Yeah.
+Operator
+Thank you. Our next question is a follow-up from the line of Mike Mayo with Wells Fargo Securities. Please go ahead.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Hi. Could you put a ribbon around your expectations for loan growth? That seemed to be like the big question going into the quarter and in the past you mentioned over half your commercial clients are private companies, which don't have the same access to capital markets, and therefore they might come back first. So just one final thought a long growth. When do we think you think we get the big burst of loan growth? Is it a quarter away? Is it three quarters away? Is it a year away? What do you think and why?
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Well Mike I think you asked me this 9 months ago. And I said I can wish and hope for it but I'm not sure I can predict it any better than the next guy. What we're seeing for the first time is not just the new money going out the door, which we've been growing clients and growing committed money. But we're starting to see that move in utilization and if that is a foreshadow or foreshadowing of what happens into the fourth quarter into next year then we're going to have a really accelerated loan growth.
+If we bounce around where we are then it's going to be somewhat muted and by the way that's kind of what you see in our guidance. It's far --
+Mike Mayo -- Wells Fargo Securities -- Analyst
+And I know you said it was the --
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+It's kind of -- you're asking me to go out and say, hey, supply chain is going to be fixed, and loan growth is going to rip and I hope --
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+By a given date.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+And I hope it does, but I'm not the expert to answer that.Mike MayoOK. Well, maybe just specific numbers in the utilization a little bit more, your kind is at the highest level since the early last year or so, but what's a normal level of utilization? What was the goal and where is it now?
+It's still what, 15 points?
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+If you go -- correct 49-ish, and at a 54-55 sort of normalization.
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+So, at least 10 points off and we're probably 15, 20 points off the peak in March of last year? There's a lot of room here.
+Operator
+All right. Thank you. There are no further questions.
+Bryan Gill -- Director of Investor Relations
+Well, thank you, everybody. I look forward to talking to you in the fourth quarter. Thanks. 
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+[Operator signoff]
+Duration: 63 minutes
+Bryan Gill -- Director of Investor Relations
+Bill Demchak -- Chairman, President, and Chief Executive Officer
+Rob Reilly -- Executive Vice President and Chief Financial Officer
+Dave George -- Robert W. Baird -- Analyst
+John Penn Carey -- Evercore ISI -- Analyst
+Scott Siefers -- Piper Sandler -- Analyst
+Betsy Graseck -- Morgan Stanley -- Analyst
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Mike Mayo -- Wells Fargo Securities -- Analyst
+John McDonald -- Autonomous Research -- Analyst
+Bill Carcache -- Wolfe Research -- Analyst
+Ken Usdin -- Jefferies -- Analyst
+Terry McEvoy -- Stephens Inc. -- Analyst
+Matt O'Connor -- Deutsche Bank -- Analyst
+More PNC analysis
+All earnings call transcripts

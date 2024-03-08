@@ -1,0 +1,380 @@
+Image source: The Motley Fool.
+Simon Property Group (SPG -0.77%)Q3 2020 Earnings CallNov 09, 2020, 5:00 p.m. ET
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the third-quarter 2020 Simon Property Group, Inc. earnings conference call. [Operator instructions] As a reminder, today's program is being recorded. And now I'd like to introduce your host for today's program, Tom Ward, senior vice president, investor relations.
+Please go ahead, sir.
+Tom Ward -- Senior Vice President, Investor Relations
+Thank you, Jonathan. And thank you all for joining us today. Presenting on today's call is David Simon, chairman, chief executive officer, and president. Also on the call are Brian McDade, chief financial officer; and Adam Reuille, chief accounting officer.
+Before we begin, a quick reminder that statements made during this call may be deemed forward-looking statements within the meaning of the safe harbor of the Private Securities Litigation Reform Act of 1995; and actual results may differ materially due to a variety of risks, uncertainties and other factors. We refer you to today's press release and our SEC filings for a detailed discussion of the risk factors relating to those forward-looking statements. Please note that this call includes information that may be accurate only as of today's date. Reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures are included within the press release and the supplemental information in today's Form 8-K filing.
+
+Both the press release and the supplemental information are available on our IR website at investors.simon.com. [Operator instructions] For our prepared remarks, I'm pleased to introduce David Simon. 
+David Simon -- Chairman, Chief Executive Officer, and President
+Good evening, and thank you for joining us today. Our results this quarter reflect continued progress in tenant reopenings and rent collections. All of our U.S. retail properties are currently open with nearly 25,000 tenants across our portfolio open and operating and welcoming shoppers to this year's extended holiday shopping season.
+Collections from our U.S. retail portfolio have continued to improve. As of November 6, we have collected 85% of third-quarter net billed rents. Second-quarter collections are now 72%.
+And including the deferred amounts in the calculation, the second-quarter collection rate increases to 78%. The details of our collection percentages are clearly laid out in our press release issued this evening. While we've made significant progress in addressing collections, we still have some unresolved amounts with certain larger national tenants who, unfortunately, are refusing to pay their contractual rent, even though they are open and operating. Let me turn to our results.
+Third-quarter reported FFO was $723 million or $2.05 per share. I am pleased with the solid profitability of the quarter and the more than $600 million in cash flow we generated for the third quarter. Our domestic and international operations in the quarter, however, were negatively impacted by approximately $1.10 per diluted share, primarily due to reduced lease income, including sales-based rents or ancillary property revenues, caused by the COVID disruption, partially offset by $0.23 per share from cost-reduction initiatives or a net $0.87 per diluted share and then another $0.05 from our international operations as well. And the third quarter also includes, of our FFO, $0.10 per share of lower straight-line rent and CAM, $0.06 in litigation expenses and $0.01 lower lease settlement income compared to Q3 of 2019.
+Now like I did last quarter, for Q2, let me walk through the components of the year-over-year change in the context of portfolio NOI presentation, which you can find on Page 17 in our supplement issue today. And as a reminder, the following amounts are on a gross basis and are not at company share. Total portfolio NOI decreased from $1.5 billion in the third quarter of last year to $1.2 billion this year, a decrease of 22% or approximately $338 million. The year-over-year decline for the third quarter was primarily due to the following: approximately $270 million in total from both domestic rent abatements and higher provisions for credit losses, primarily associated with retail bankruptcies.
+It is important to note we did not amortize any of the abatements granted. We recorded the abatement as negative lease income in the period in which the abatement terms were agreed with the tenant. The majority of the abatements that were granted were to the thousands of local small businesses, entrepreneurs and restaurateurs who have been suffering immensely with COVID. Our efforts to support local tenants in our centers were resoundingly appreciated as nearly 95% of our local tenants reopened their stores.
+An additional $165 million of the reduction was due to lower minimum rents and reimbursements, sales-based and short-term leasing due to the ancillary property revenues as a reduction of -- from COVID, as well as lease terminations from our bankrupt retailers and, as I mentioned to you before, lower sales volume due to lingering COVID impact. These decreases were partially offset by $100 million of our cost-reduction initiatives. Now operating metrics. Mall and premium outlet occupancy at the end of the third quarter was 91.4%, down 150 basis point from the second quarter of 2020.
+All of that is essentially a function of tenant bankruptcies, which caused a 120-basis-point reduction. Average base rent was $56.13, up 2.9% year over year. And we are pleased to report shopper traffic and total sales volume continued to improve with each sequential month and throughout the third quarter. Quarter-over-quarter sales, that's Q3 of 2019 compared to Q3 of 2020, were down 10%.
+Leasing spreads declined for the trailing 12 months, primarily due to the mix of deals from the prior-year period that have fallen out of the rent spread calculation. The leasing environment is improving. In the third quarter, we signed 600 leases for nearly two million square feet, and we have a significant number of leases in our pipeline. We are pleased to see continued strong interest for spaces across our differentiated portfolio.
+Demand for space in our premium outlet portfolio has been really strong with the space that has become available as a result of recent tenant bankruptcies. We are signing deals with the best, new and exciting brands who want access to our highly productive outlets. And in ode to Rick, who's not here but listening, I'm certain, we are executing both long-term and pop-up deals with leading brands, including names like Prada, Ferrari, Allbirds and UGG's, just to name a few, and many, many more. During the quarter, we also resumed construction on the redevelopment of the Macy's men's store at Stanford Shopping Center with a RH mansion, and we started construction of a former Bloomingdale's store for The Falls and at The Shops at Mission Viejo.
+Our net -- the good news with this diligent focus on capital spend, all approved projects right now through 2020, our net cash funding is only $140 million. Now let me turn to brand and retail investments. SPARC, as you know, is our 50-50 joint venture with Authentic Brands Group, acquired Brooks and Lucky brands out of bankruptcies. Both are storied and widely recognized brands with combined global sales of over $1.5 billion.
+We acquired these companies cheaply, and we believe we can grow the EBITDA and achieve a significant return on our investment. Both brands have been integrated into the SPARC platform, and we're very pleased with the progress we've made in such a short period of time. We recently partnered with Brookfield, as you know, and are in contract to acquire the operation's intellectual property and certain real estate of the JCPenney company in a going-concern transaction under Section 363 of the bankruptcy code. We believe in the -- Penney's brand.
+The company did over $9 billion in sales pre-COVID. We believe we can return the company to increasing sales and grow the EBITDA. The company has a loyal, core, diverse and inclusive customer base concentrated in the moderate to higher aspirational category. This customer is important to the community, as is JCPenney and to us, and we expect we will continue to grow this customer over time.
+And we're extremely proud to serve the community in that capacity. We believe that, with us and Brookfield bringing focus, energy, passion, ownership, enhanced financial discipline to the operations, we'll have the opportunity to earn a significant return on our investment. And as part of that, we also anticipate our good partner Authentic Brands Group will become an investor in the buying group. And as importantly, we're very pleased to save over 60,000 jobs in our country.
+We continue to do our port -- our part to support the local community in our efforts. Now balance sheet. At the end of the third quarter, our total liquidity was more than $9.7 billion, consisting of $8.2 billion of available credit facility borrowing capacity, $1.5 billion of cash for a total of $9.7 billion. And this is, as a reminder, net of $623 million of quarter-end commercial paper outstanding.
+We've been active in the secured debt markets and have addressed all of our remaining loan maturities for the year, including a refinancing of The Mills at Jersey Gardens through a single-asset CMBS securitization, which has been priced and scheduled to fund next week. Our debt covenants have -- are well above required levels, well above it, with significant headroom in our balance sheet, financial flexibility, our distinct advantages in our retail real estate industry that cannot and, I'm sure, not overlooked. And the dividend, we paid a common stock dividend of $1.30 in cash. And then finally, before we open it up to any questions, I again want to thank my Simon colleagues for their continued resolve in running our business under often trying circumstances in an environment that has been constantly changing.
+We have withstood COVID. We have withstood government shutdowns. We have withstood lack of federal and state help, especially in real estate taxes. We have withstood fires in Northern California, hurricanes in Louisiana and elsewhere and civil unrest, and we're pleased with the cash flow we're generating.
+And I want to thank my colleagues for busting their hump, and things are looking up. We're ready for questions.
+Operator
+[Operator instructions] Our first question comes from the line of Craig Schmidt from Bank of America.
+Craig Schmidt -- Bank of America Merrill Lynch -- Analyst
+Oh, great. Thank you. Just given the acceleration of COVID cases and the possibility of future mandated closings, I wonder if you're seeing greater consistency concerning store opening orders or store closing orders from state and local governments, particularly with regards to the demands made on stand-alone retailers versus mall-operated properties.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, the only situation that we have right now is in El Paso, where an enclosed mall is been asked to essentially shut down. That is of recent. That happened over the weekend. Again I think enclosed malls are being treated unfairly and inconsistently, but we deal with what we deal with.
+Right now that's the only one, Craig. We're hopeful that that will reopen. And listen, I think the consumer obviously is cautious. Our quarter-over-quarter sales decrease is only 10%.
+So the consumer is starting to come back. They're wearing masks. And with all our protocols, we're helpful that -- we're hopeful that that trend will continue, but there are certainly no guarantees. And as far as predicting the government and state and local actions, I mean, obviously the level of inconsistency is been very frustrating.
+It's been state by state, city by city, county by county. It is a testament and often unlooked, often overlooked that we've been able to deal with this as well as we have. And we've done it when I've asked people to take pay cuts and they've done it. They've shown up to work every day.
+You've seen the collection, the improvement in collections. I think we're making basically all of the right moves and -- but we can only deal with what we can deal with. I have no -- I don't know if further restrictions will be in order. We have yet to see any evidence that our environment spreads anything.
+Obviously, the outlets and outdoor centers are doing better, but as you know, we have 50% of our portfolio NOI dedicated to that. That's kind of why, I think, you see our performance the way it is. And the one line item that's up, if you look at our financials, is real estate taxes. When are local jurisdictions going to start giving relief to retail real estate taxes compared to distribution warehouses and the like? It's completely opposite.
+We do more for the communities than basically other property types. And I am hopeful that -- at one point in the near future that they -- these communities will recognize it.
+Craig Schmidt -- Bank of America Merrill Lynch -- Analyst
+Great. And then just as a follow-up. We've noticed that store closing cadence has slowed since Labor Day. I'm wondering if the occupancy number in 3Q '20 could be the trough.
+Or do you still expect maybe some lower occupancy in first-quarter '21?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I think it'll -- that will be a function of whether we have further bankruptcies or not, Craig. I think, based on what it is, we should be fine, but I mean it is possible that we'll have further bankruptcies. And we'll have to -- when that happens, obviously we'll deal with that, but there are certainly some bankruptcies that are potential out there in the next few months.
+Craig Schmidt -- Bank of America Merrill Lynch -- Analyst
+OK. Thank you.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. Our next question comes from the line of Rich Hill from Morgan Stanley. Your question, please.
+Rich Hill -- Morgan Stanley -- Analyst
+Hey, good evening, David. Thanks for taking my question. First of all, thank you very much for the transparency on the bridge to rent collections. I think that's top notch and best in class, so thank you for doing it.
+I wanted to ask a strategy question and maybe think about your portfolio. One of the things I think is misunderstood about Simon is that you're not a mall REIT. You own a diversified portfolio of retail real estate across property types and the quality spectrum, so I'm curious. As you think about your portfolio on the other side of COVID-19, do you like -- are you comfortable of having, call it, 46% to 49% of your total NOI coming from malls? Do you like -- do you want less? Do you want more outlets? Do you want more international? I'm just really curious about how you think about your portfolio maybe over the next decade.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I -- listen, I think the -- we're a strong believer in the outlet business, as you know, and especially with retailers and brands moving more and more toward direct to consumer. And so I think that plays well into that. And obviously the outdoor environment continues to be an advantage certainly with the COVID still very, very much part of our lives. So I like where we are.
+I think, over time, our portfolio noncore assets will be shedded. Usually those don't have a material impact on our NOI or our cash flow. And so I kind of like where we are. We'll probably shed some more properties.
+I think international is intriguing now. There's value that we've added. The outlet business there that we have is very good. The outlet business in Asia is strong, so we're going to want to grow that, but I feel kind of like the diversity by region, by product type and by -- certainly by domestic versus international.
+so our international results were pretty good. They were down, though. We had some new properties open up and some expansion, so it's hard to see that, but the core number was down a little bit. But they came back pretty strong.
+Obviously there's a big wave going on now in Europe, so they're starting to see some more restrictions, but I think the direct to consumer from the brands is really important. And I think that plays well in the outlet business. By the way, it's helping Shop Premium Outlets. I spent an hour and a half with my partners both at Rue La La, Gilt and the Kynetic folks going through a bunch of brands that want to be hooked up.
+So this vision that we have is actually going to come to fruition, I hope. Knock on wood. So I like where we are, but we're always looking to add quality real estate. And I look at the quality more.
+Quality to me is more important than potentially the property type. And I think that's the big focus. There's going to be obsolescence issues in retail real estate and so I think owning the best of the best is going to be a key to our success in the future.
+Rich Hill -- Morgan Stanley -- Analyst
+Yes. That's really helpful, David. And the reason I was asking the question is it just seems to me that -- on this other COVID-19 world, whatever it is, that the retailer itself is probably like you, agnostic on the type and is just looking for the best quality, so I'm curious. Is that beginning to resonate with retailers as you think about -- as they think about their footprint and how Simon Property Group can help fulfill those footprints? Or is it still too early?
+David Simon -- Chairman, Chief Executive Officer, and President
+No, no, no. Absolutely. And I would say that trend has happened completely. I mean we -- in the mall, the mall has always competed with the guy across the street for the retailer.
+So that competition still exists. It's certainly only going to be exacerbated by what's happened over the last six, seven, eight months. And you got to own quality. And it's somewhat -- today, it's somewhat irrelevant whether it's this kind of asset or that.
+It's really does it have critical mass. Is it well located? Does it serve the customer the way they want to be served?
+Rich Hill -- Morgan Stanley -- Analyst
+Got it. That's helpful. Thanks, David. We look forward to chatting more.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. Our next question comes from the line of Alexander Goldfarb from Piper Sandler. Your question, please.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+Hey, good evening. So two questions. First, again appreciate the breakout, and actually this provides clarity so that people can see the collections on a net basis. Or if you want to do collections on a gross basis, it's helpful, but you had mentioned the abatements were basically expensed in the period granted, so on a go-forward basis as we think about fourth quarter and the ramp-up, does this mean that we should see fourth-quarter earnings jump by $200 million? Or how should we think about the impacts of the deferrals and the impacts of the abatements on a go forward so that we can think about the progression of Simon? I'm not asking for guidance, but I'm just trying to get a ramp of how much --
+David Simon -- Chairman, Chief Executive Officer, and President
+Yes, no, you're asking for guidance cleverly, but I -- listen, I would -- everything is very still up in the air. And obviously we had -- the world has had this positive news today about the vaccine, but the fact is COVID is spiking. So we have to be very serious about that. I would hope, Alex.
+I mean the big issue, the big thing that we've confronted aggressively in Q2 and Q3 -- and the way I look at it, frankly, is almost put the two quarters together. Because you're right. In a -- we took the P&L hit when we granted the abatement. And we -- that's the right way to look at it, but I would hope that the vast majority of any abatements are behind us.
+That -- though, to be clear, that's not to say that -- if there is an appropriate trade with a retailer that's a win-win for us, that we won't do more. And what is that win-win? It's new deals, lease -- it's the normal stuff that you would do, but I would literally hope that the worst is behind us. But listen. I don't know what the new COVID cases today was.
+I was a little busy, but I'm sure it's well over 100,000. And I can't guarantee that, but I would say between the credit provisions and the bankruptcies -- or I'm sorry. The credit provisions, including the bankruptcies, are kind of all melted in that number. And the abatements that we went out of our way to do, we weren't legally required to do but we did for people that were, one, on the local front, very sensitive to their plight.
+And two, there was a decent trade for us and the retailer, and we want them to prosper, frankly. I would hope that the vast majority of those two numbers, credit loss provisions, as well as abatements, are behind us.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+OK. But David, as you said earlier, the abatements were largely your local tenants. So they've either made it or they haven't, so --
+David Simon -- Chairman, Chief Executive Officer, and President
+I said, the majority of it. We did grant abatements to others, so there's other abatements that have been in there, I mean, but that -- again that's a -- it's a pretty big number in terms of that we didn't have to do. And I -- like I said, I hope it's behind us. We'll have more in the Q4, but what we're projecting is a lot lower than what we've had in Q2 and Q3 together.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+OK. So correct. So basically you've taken the hard approach with the tenants both on the deferrals and the payments in the 2Q and 3Q, so hopefully, going forward it's less, OK. I get it.
+The second question, David, is on the retailer front: Brooks Brothers, Lucky brands. You did Aéropostale. Now you're going to do JCPenney. You highlighted the sales.
+You highlighted this customer base that's loyal to the brands. What are -- I mean, what are the elements? Without giving away totally the secret sauce, what are the elements that give you confidence when you look at troubled retailers and bankrupt ones to say, "Hey, you know what, the core shopper for these brands is still there despite that the retailers had trouble and is in bankruptcy. We feel that the core shopper is substantially still in place that we can recover?" Because it's certainly not just buying something cheap enough. Anything can be cheap.
+There's got to be something tangible that makes you feel like you can get these customers to really come back and do it in a profitable way. So what is it that gives you that confidence?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, first of all, we're -- we do -- don't underestimating buying things cheap, OK, Alex? So that's always -- it's always good to do that regardless. Listen, I just think, based on the sales that we're seeing from the brands, we do a lot of brand research and then we attack the problems with the profitability. Give you -- I won't name names, but Brooks Brothers is a great example. It's got a great following.
+It had the strangest real estate footprint. They were -- they had single stores that were paying $3 million a year in rent. I won't name names. And the ability to reject those leases and create profitability there, get out of bad stores, reduce the overhead and then do all the special marketing and with ABG has been a winning formula.
+In addition to that, we source it better. And since we have this platform where we can leverage our base off of, it's just like -- it's been a very profitable thing. I will tell you, one day, SPARC will be worth -- I mean this isn't my style, but it's going to be worth -- we're going to make $1 billion-plus on that investment, without question. And it's just we know the brands.
+We do a lot of research. ABG has been a very good partner. They know how to blow out the license aspect of it, which we're a partner in. We get out of bad stores.
+We buy the inventory at a discount. We rightsize the overhead. And we're just -- and we operate with better business judgment, and lo and behold, you suddenly have a business that's got positive -- significant positive EBITDA and you haven't paid much for it. That -- and I think, when you put it all together, we'll have something that will have great positive EBITDA.
+And we'll end up making $1 billion-plus out of it.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+Well, then we look forward to --
+David Simon -- Chairman, Chief Executive Officer, and President
+My partner thinks a lot more, but I'll give you that number.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+Well, look, we look forward to the exit seeing that $1 billion crystallized then --
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I mean -- yes. The -- I don't -- it's been a good -- it's been a great investment. So why -- I don't know that we'll exit anytime soon.
+Alexander Goldfarb -- Piper Sandler -- Analyst
+OK. Thank you.
+Operator
+Thank you. Our next question comes from the line of Caitlin Burrows from Goldman Sachs. Your question, please.
+Caitlin Burrows -- Goldman Sachs -- Analyst
+Hi. Good evening. Maybe just following up on Alex's question more on the near to medium term then. So you've mentioned that your investments in the retailers have been at inexpensive prices, allowing you to earn a significant return.
+In terms of how this ends up impacting Simon's own earnings in the near to medium term, do you expect the contribution to be meaningful itself? And if so, like by how much, and when? Or is it that the investments generally support Simon's core business? Or I guess both.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I think it's all the above. It will be profitable. We have that separate line item in our 8-K. What page is that?
+Tom Ward -- Senior Vice President, Investor Relations
+17.
+David Simon -- Chairman, Chief Executive Officer, and President
+17. It's a little -- the only thing, Caitlin, it's a little -- obviously it's more volatile than the rent aspects of our business, but you'll -- because it's getting a little bit bigger, not materially bigger but a little bigger, we decided to outline that separately so you can look at it as a stand-alone on its own. And then obviously don't forget they do pay us contracted rent to -- SPARC is a rent payer to Simon Property Group in its property. So we get the added benefit of the cash flow from running the business operationally.
+And then obviously we get the added benefit of the rent that's collected from the entity with the stores that we have.
+Caitlin Burrows -- Goldman Sachs -- Analyst
+OK. And then maybe on the dividend. I know it's up to the board, but given the $1.30 per-share dividend for 3Q, the historical dividend rate, current FFO and cash flow, what metrics or drivers do you think will be most important in establishing the 4Q dividend and that of future quarters?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, listen. I think we still are very cautious in the sense of the dividend just with respect to COVID. So once we -- I mean I feel like, at least, that the worst is behind us, but we don't know for sure. So I think we'll continue to be conservative in that.
+Obviously you see our cap spend way down on new development or redevelopment. It may tick up a little bit next year. So we'll balance that. And obviously we've got to deal with our taxable income as well, but I can't give you a real true run rate yet.
+And I think we'll be in a better position for '21 to explain that when we do our earnings guidance, which we will reinstate in our earnings call. I mean we have a pretty good idea what we expect from next year, but we'd like to go ahead and finish the year as well given all of the volatility out there. But we're confident about the dividend and the cash-paying aspects of it and the cash flow generation from our company. And I think, if -- you saw that in the Q3, a reasonably healthy pickup from Q2, when we were really in the midst of trying to figure out COVID.
+Caitlin Burrows -- Goldman Sachs -- Analyst
+OK. Thank you.
+Operator
+Thank you. Our next question comes from the line of Michael Bilerman from Citi. Your question, please.
+Michael Bilerman -- Citi -- Analyst
+Great. Thank you. Good evening, David. I was wondering if you can talk a little bit about the leasing pipeline.
+You've talked about the leasing that you accomplished in the third quarter, about two million square feet, and a very large pipeline that you're working on. And I was wondering if you can provide us maybe with some -- a little bit more granularity about that pipeline. How much of it is new leasing for vacant space, new leasing for tenants that are going to be vacating and also potential renewal activity? And within that, maybe you can sort of just highlight the changing nature of maybe the leases. I don't know if there's differences in term or TIs or anything.
+Just to give us a little bit more flavor for what the current environment is like.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, again that's I'm not going to get into the -- as much as you want, I'm not going to -- that's not really the purpose of the call, to go through the granularity of all the leases, but I would say generally the lease terms have not changed. TAs have not really increased. And we're seeing more box activity. There's a number of retailers that want to grow their footprint in the outlet business, a number of the better and higher brands.
+We're also seeing the Warby Parkers of the world wanting to grow their footprint, and the Internet-oriented companies. Then you see companies like American Eagle and others that are growing their footprint. There's a well-known retailer that has their casual wear business that's growing their footprint significantly. I think we've got 20 deals in the works for them.
+So it's across the board. And I would say we're mostly replacing spaces that we got back from bankruptcies, leases that have terminated. And the renewals are -- a lot of the renewals we're doing now, we're doing as part of our COVID negotiations. So to the extent that we did a deal in abatement, we may have addressed '20 and '21 renewals.
+And it's a judgment retailer by retailer. And it's -- we're working it. I mean, obviously the negotiations aren't easy because, I mean, COVID has made them nervous. And obviously there's a lot of excess capacity in our retail real estate industry, but I think we'll hold our own.
+And I -- and look, I think, the cash flow, we'll see improvements from cash flow next year. And that will be a combination of lease renewals, new business, better sales. We lost a lot of income just because we were shut down with all of our Simon brand venture income, all the stuff that's traffic-driven. So I think we'll make a rebound along all of those lines.
+And no, we're not doing just-percentage-rent deals. The outlet business has had historically -- some of the lead anchors have had percent-rent deals only. To the extent that we do it, we have a floor in there and a clearly defined definition of sales, but it's all over the board. But it's I -- what we're trying to convey to you, Michael, is that we are open in doing new business.
+And that's important. I think we'll have a better -- we'll get more granular next quarter, but we're open to doing new business. And the retailers are -- sure, there are a number closing stores. There are a number of bankruptcies, but the ones that are out there are looking to grow their footprint.
+Michael Bilerman -- Citi -- Analyst
+That's helpful color. And then just as a follow-up on capital deployment. Obviously the big focus of yours has been on a lot of these innovative transactions, buying some brand-named retailers, but you also talked on the call, in response to a previous question, about buying high-quality real estate. And I wanted to better understand what sort of opportunities may be out there either buying from your joint venture partners which may want to reduce their retail or maybe they don't and they want to go further in.
+But you also have a transaction that you're having a lawsuit over that's very high-quality real estate. So I'm just trying to understand how all of this fits together.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, Michael, again, I respect you immensely. And we really are -- I'm not going to get into the Taubman situation. Obviously you saw our litigation expense with it, but we're not out of -- I'd say, if there is quality real estate, we're going to look at it. And much like -- and -- but there's got to be bargains that can be had.
+And so we'll see what that transpires, but nothing really -- I want -- and I also want to be clear because we've been at this. I mean we're not -- between the Penney and closing of Brooks and Lucky, there is really nothing else on the SPARC or the retail front that we see right now clearly for the rest of the year. So that business is all about integrating Brooks and Lucky into SPARC. And then obviously we have a tremendous amount of work to do with our partner Brookfield and the management team at Penney to sustain their turnaround, and so we -- our plate is full in that category.
+There won't be anything going on, on that front. And we're really -- right now we haven't really looked at anything external because obviously we've got our hands full, but it is a testament to the company, that we can do Penney. We can do our debt deal. We can shut down our properties, open them up, deal with -- we've done 14,000 lease amendments, right, Brian?
+Brian McDade -- Chief Financial Officer
+Yes.
+David Simon -- Chairman, Chief Executive Officer, and President
+We've collected rent. That hasn't been easy, OK? It's not like they just suddenly said, "OK, I'm going to send your rent check." It hasn't been that easy. So I mean we've been busy. Obviously we've done a lot of refinancings on the secured front.
+And we've been doing just about -- we shut down the pipeline in terms of redevelopment. Development brought it back up to some extent. So I mean we got our hands full. We, I think, have been executing unbelievably well with all of the things that have been thrown at us, so we're really not looking externally at this moment.
+Michael Bilerman -- Citi -- Analyst
+It sounds like Brian has less hair now.
+David Simon -- Chairman, Chief Executive Officer, and President
+He -- by the way, I think, between Tom and Brian and Adam here, I'm the only one with hair. However, depending on your vantage point, you may accuse me of being in the same spot. So OK. So let's move on.
+Michael Bilerman -- Citi -- Analyst
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Derek Johnston from Deutsche Bank. Your question, please.
+Derek Johnston -- Deutsche Bank -- Analyst
+Hi, everyone. Good evening. Allied sports, Parm, Pinstripes, Soho House and Nobu Hotels, how do you guys view these earlier, pre-COVID investments and/or partnerships? And do you still believe them to be a viable path forward post the vaccine and as we emerge from the pandemic? Or in effect, has the merchandising approach actually changed?
+David Simon -- Chairman, Chief Executive Officer, and President
+No. Look. Obviously we wish -- good question. And we obviously wish that the pandemic hasn't -- didn't hit us but -- and hit those businesses, but Soho has a great brand and ultimately will be stronger as it gets everything back online.
+So the reality is very comfortable. And they actually brought in some new capital at the price that we did a couple months ago, I think. So Soho is great. Parm, we actually have Woodbury and Burlington opening next year.
+I think Woodbury is opening in January, and Burlington in the spring. And my son and I -- and if Jeff Zalaznick is listening, which I doubt he is, but we had a great carried-out dinner at Parm. So I'd encourage everybody to go eat there. It was really good, chicken parm dinner.
+I think it's a great brand. Life Time obviously will be the survivor in that industry, I have all the confidence in the world: a great CEO entrepreneur, great brand, great customer base. So I think, by and large, we feel like we're in pretty good spot. I don't think -- I think what's changed, Derek, is I don't think we'll do the little venture deals the way we did even though we've had some recent pops in those, meaning we got some -- we're going to -- we're selling our interest in MeUndies at a profit.
+And we -- there's some new capital that's come into some of those businesses at prices higher than what we came in, but I don't think we'll do those little deals anymore. I think we've got too much to say grace over, but I think, all the brands that we've invested in, we feel generally pretty good. Though they've all -- frankly, they all fit the flywheel that we were creating. We just didn't anticipate the black swans of black swans.
+And -- but all of those companies are alive, and I expect them to come out of it OK.
+Derek Johnston -- Deutsche Bank -- Analyst
+OK, great. That's helpful. And sticking on some larger brands: Are some of the brands you recently made lifeline investments -- I know they were mentioned briefly, Lucky, Brooks Brothers, Forever 21. Will any merchandising additions and perhaps with Authentic drive a focused remerchandising mix at JCPenney in hopes to accelerate sales? Is that on the table?
+David Simon -- Chairman, Chief Executive Officer, and President
+Great insight, and the answer is absolutely. So that's a -- one of the interesting things that we found is we do think that the combination of our relationships with the direct-to-consumer crowd, as well as all the brands that either we control or that ABG does -- that those products will find a home in Penney. And there's a lot of intense discussions going on. So we would expect to enhance the Penney vendor matrix with the brands that ABG controls as well as ours.
+So very astute, and the answer is without question.
+Derek Johnston -- Deutsche Bank -- Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Mike Mueller from JP Morgan. Your question, please.
+Mike Mueller -- J.P. Morgan -- Analyst
+Thanks. Can you tell us what the pro rata uncollectible reserve is that's in minimum rent for the quarter?
+David Simon -- Chairman, Chief Executive Officer, and President
+The pro rata minimum rent in our joint ventures. I'm not sure if --
+Mike Mueller -- J.P. Morgan -- Analyst
+No. The pro -- the uncollectible reserve, what it is on a pro rata basis in the quarter.
+David Simon -- Chairman, Chief Executive Officer, and President
+We're really doing this on a gross basis because that's how we look at it.
+Mike Mueller -- J.P. Morgan -- Analyst
+OK. And then can you talk about how similar or different traffic and sales are at the outlets versus the malls?
+David Simon -- Chairman, Chief Executive Officer, and President
+The outlets are performing. I don't want to necessarily get into the specifics, but the outlets are performing better. What we've seen across the board, though, whether it's an outlet or an enclosed center, if it does cater to tourism, those are the ones that are -- continue to be -- continue to underperform our average. So whether it's an Orlando enclosed or outlet -- in Orlando, we have an enclosed mall there, as you know, and we have the outlet centers.
+That market, both are underperforming with -- because of the lack of tourism and obviously Universal and Disney operating at much less than full capacity.
+Mike Mueller -- J.P. Morgan -- Analyst
+Got it. OK. That was it. Thank you.
+Operator
+Thank you. Our next question comes from the line of Floris Van Dijkum from Compass Point. Your question, please.
+Floris Van Dijkum -- Compass Point -- Analyst
+Thanks for taking my question, David. I had a question on Authentic Brands. You suggested they're going to step into the JCPenney deal with Brookfield and yourself. Will they be an equal partner? Or -- and what pricing will they step in, at the same price you guys bought?
+David Simon -- Chairman, Chief Executive Officer, and President
+Yes. The same price. They will not be an equal partner, but they'll put in -- we'll end up reducing our investment, both us and Brookfield, based upon the contribution they make.
+Floris Van Dijkum -- Compass Point -- Analyst
+Great. And so how do you look at Authentic Brands? Particularly, I mean, you talked a little bit about having their brands -- selling their brands exclusively through the JCPenney outlets and increasingly JCPenney private sales, it sounds like --
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I didn't say necessarily exclusive, but they have a -- they control a number of brands like Juicy Couture, as an example. And Juicy Couture is not in JCPenney. And so we're going through the vendor matrix now to -- eventually, I think, Penney will end up distributing those kind of brands that ABG controls in the JCPenney department store. So it will be a win-win for everybody.
+Floris Van Dijkum -- Compass Point -- Analyst
+OK. Maybe my follow-up question with that, with some of those brands as well and in particular as it relates to the outlet business. So you mentioned your outlet business is doing quite well. Obviously they're open air, so they don't have quite the same restrictions.
+Maybe if you can talk a little bit about how you think the outlet business could change. Is it still going to be as reliant on apparel going forward? And how does Authentic Brands fit in? And is Authentic Brands a -- tenants right now or large tenants in your outlet business? And could they be in the future?
+Yes. No, the other question, David, was in regards to the apparel, the prevalence of apparel and [Inaudible] if you see that changing over time.
+David Simon -- Chairman, Chief Executive Officer, and President
+Yes. Look. I think generally we're seeing a lot more interest in home furnishings and the like. We're doing a lot more deals in the outlet sector with -- without naming names, with all of the home furnishing and furniture folks.
+And so I think, as you've seen that shift, generally speaking, I think we're seeing a lot of that pick up in the outlet business as well.
+Floris Van Dijkum -- Compass Point -- Analyst
+Those typically would have the lower sales. Is that a concern for you? Or do you think it's all about driving the traffic at the center?
+David Simon -- Chairman, Chief Executive Officer, and President
+I think it's all about driving the traffic. I have no concern about that at all. And usually those are little big boxes, so the rent that's leaving versus the -- would I rather have a Dressbarn or an RH? OK, that's it, right? So would I rather have a -- so that -- those kind of trade-offs that I think are available to us. I think the mix actually will significantly improve because we're going to end up reclaiming some of the older, less-relevant brands for some of the good -- the better brands.
+Floris Van Dijkum -- Compass Point -- Analyst
+Thanks, David.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. Our next question comes from the line of Linda Tsai from Jefferies. Your question, please.
+Linda Tsai -- Jefferies -- Analyst
+Hi. Your overall leverage is much better than your peers, but net debt to NOI is up one turn understandably since 2019. What sort of leverage do you want to target? And how would you expect this to trend in 2021?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I think our leverage should -- debt to EBITDA should decrease, right? So we're generating cash. Our development spend is modest, and the excess cash other than dividend will ultimately go to reduce our indebtedness.
+Brian McDade -- Chief Financial Officer
+Yes.
+David Simon -- Chairman, Chief Executive Officer, and President
+So -- and we're also -- we'll sell assets. So we're still looking to essentially maintain our balance sheet. I mean that's an advantage that we've worked very hard to achieve. It hasn't been easy and I would not -- we're not going to blow that.
+Brian McDade -- Chief Financial Officer
+Yes.
+David Simon -- Chairman, Chief Executive Officer, and President
+Brian, do you want to add anything?
+Brian McDade -- Chief Financial Officer
+Yes. No, look, it will naturally come down next year, Linda, just given the recoup of NOI relative year over year. So you will see those come back down to a more normalistic or a level consistent with prior periods is our expectation.
+Linda Tsai -- Jefferies -- Analyst
+And then in terms of the noncore assets that will be shedded, albeit not a material impact, over what time frame would this happen? Like would you wait for some stabilization in NOI?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I just think it's going to -- it -- we're -- in fact, we're -- we've got an asset now we're about to market. I mean we're going to try and do it. I mean we'll see. It's not -- this is not earth-shattering big projects, but there's -- we expect to shed some noncore assets.
+That won't have a -- not going to have a material impact, but it's just it will help us run the company better because we won't have to focus on it.
+Linda Tsai -- Jefferies -- Analyst
+And then just one last one. In terms of the 85% collections in 3Q, do you think this will stay neutral, in the neutral territory near term? Or would you expect bigger improvements?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, I would expect it to be, hopefully, better in Q4, but we're just -- we're similar in October. And -- but obviously I would hope that we -- as I mentioned to you before, we've still got some bigger accounts that we have not made a lot of progress with. I'm hopeful that something positive will happen there. So once that happens, then it will jump up.
+Linda Tsai -- Jefferies -- Analyst
+Thanks.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. Our next question comes from the line of Haendel St. Juste from Mizuho. Your question, please.
+Haendel St. Juste -- Mizuho Securities -- Analyst
+Hey, good evening. Thanks for taking my question. So David, I was hoping you could talk a bit more about the environment for larger anchor box space specifically. I'm curious where the demand is coming from and how the spreads compare to the rest of the overall leasing.
+And are you able to provide any commentary at all whether you've leased any of that space to Amazon?
+David Simon -- Chairman, Chief Executive Officer, and President
+Yes. Believe it or not, there are still deals to be done. I mean we're talking to a department store to take a couple of boxes over. There's not going to be 30 to 40 deals, but there'll be 10 to 15.
+And I think our retail community is generally the healthier companies are looking toward the future and believe in the -- in having the right footprint. And they're going to shrink the bad stores, but I think they're going to look at new opportunities. It's not going to be -- we still believe in the mixed-use effort that we're undertaking. Obviously we don't have to be in a rush to do it.
+And we're not going to build -- we're looking at plans that maybe had 60,000, 70,000, 100,000 square feet of new retail small shop space. We're probably not going to program that, but we'll make it up with boxes and lower investment and still manage the appropriate returns. So there's still opportunity to release the space. Fact of the matter is we still don't own a lot of it that we want, but we're not going to -- we're going to pay appropriate prices for it.
+And there is certainly a gap between the bid and the ask. We're really not bidding and they're really not asking, but if we were to bid and they were to ask, it would be a big gap. But good real estate will survive, but it's going to take capital, great operator. And it's not going to be for the faint of heart.
+And -- but it's going to be reprogrammed. So just something that jumps out is like Brea. We'll probably have -- we've always had two anchors, but we had -- this is the old Sears store that we control. We'll still do the two anchors there, but we probably programmed 100,000 square feet of restaurant, small shops; and we're not going to do it.
+We'll probably do 25,000, 30,000, but the costs will go down and we still think we'll have the appropriate returns on investment. So there's still stuff to do to improve our portfolio. And there's still some decent demand on just box for box.
+Haendel St. Juste -- Mizuho Securities -- Analyst
+Got it, got it. That's helpful. Are you able or willing to say if any of that leasing has been with Amazon specifically?
+David Simon -- Chairman, Chief Executive Officer, and President
+I didn't hear you well. Could you repeat it, please?
+Haendel St. Juste -- Mizuho Securities -- Analyst
+Apologies. I was curious if you're able or willing to share if any of that leasing has been specifically with Amazon.
+David Simon -- Chairman, Chief Executive Officer, and President
+There -- we have no signed deal with Amazon. No.
+Haendel St. Juste -- Mizuho Securities -- Analyst
+OK. And a follow-up on the leasing spreads in the quarter down another 400 basis points sequentially to minus 4%, second quarter in a row. Was there anything having a disproportional impact in that calculation during the quarter? When do you think that trough? And I guess, more broadly, how good do you think having a vaccine effectively at hand will be during your ongoing lease negotiations and the near-term trajectory of leases as we build back to pre-COVID cash flow?
+David Simon -- Chairman, Chief Executive Officer, and President
+Yes. I think the spread is really mixed because we had some boxes that rolled out last year compared to this year. So I wouldn't -- that's a number I wouldn't jump up and down, whether it's really good or not so good as in this quarter. It's really a mixed issue because we had a lot of box activity last year that we rolled out.
+And this year, it's 12 months later, so it's really more of a mixed issue. And you can see that in our base rents increasing, which is probably a little more important stat.
+Haendel St. Juste -- Mizuho Securities -- Analyst
+OK.
+David Simon -- Chairman, Chief Executive Officer, and President
+OK?
+Haendel St. Juste -- Mizuho Securities -- Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Vince Tibone from Green Street. Your question, please.
+Vince Tibone -- Green Street Advisors -- Analyst
+Hi. Good evening. I have a few questions related to co-tenancy clauses. When an anchor is temporarily closed, like some movie theaters today, could that trigger a co-tenancy clause at your center? And then also, more broadly, just can you help us understand what impact co-tenancy clauses have had on financials this year, if any?
+David Simon -- Chairman, Chief Executive Officer, and President
+Very little, Vince, this year. We don't expect it to be meaningful or material -- immaterial. Let me restate it and say it better. It'll be immaterial next year.
+Unknown speaker
+Yes.
+Vince Tibone -- Green Street Advisors -- Analyst
+OK, all right. And then on just the temporary point. Like if a theater is temporary closed, is that potentially an issue on that front? Or what -- I know it's hard to paint with a broad brush --
+David Simon -- Chairman, Chief Executive Officer, and President
+I -- no, no, no. I -- it's an appropriate question. I think, of all of the theater closures, one deal, and I can't remember which one -- that it may affect a co-tenancy at one of The Mills for a few of the boxes. It's essentially immaterial.
+Vince Tibone -- Green Street Advisors -- Analyst
+OK. And then now that you control JCPenney. And you're clearly bullish on the future there, but how are you thinking about the pace of potential store recaptures there at some of your better centers and even in order to pursue redevelopment opportunities over the next few years?
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, it hasn't closed. And in fact there was a hearing today, which I did not hear what happened, but --
+Unknown speaker
+[Inaudible].
+David Simon -- Chairman, Chief Executive Officer, and President
+To approve -- or it's still not done yet, so it hasn't closed. Assuming it gets approved, it will be sometime later in the month.
+Unknown speaker
+Yes.
+David Simon -- Chairman, Chief Executive Officer, and President
+Look, I -- it's complicated, the way it's split up between what the operating company owns in real estate and what the propco owns. We have rights. We being Simon have rights to recapture certain assets, and so does Brookfield, but I think we're going to be patient about it because I think the most important thing right now is just to get it stabilized and positioned for the future. But eventually there are certainly some stores that probably are not maybe properly positioned with us where we do want to recapture the space.
+And I think that's an opportunity, but we're not under -- we don't feel the pressure to do that anytime soon, but that will be next year's business. And then when that happens, I get to negotiate -- I guess I don't really know with who, maybe Rick, maybe our guys, maybe Brookfield. I'm not really sure how it works, but we will appropriately do it fairly with all the constituencies involved.
+Vince Tibone -- Green Street Advisors -- Analyst
+OK. Thank you for that.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. Our next question comes from the line of Juan Sanabria from BMO Capital Markets. Your question, please.
+Juan Sanabria -- BMO Capital Markets -- Analyst
+Hi. Thanks for the time. I was just wondering how discussions are going with grocers given how strongly they performed in kind of their space to date with the COVID and how that's transpired. And have you seen traction in the various different formats? And if so, kind of what is -- are they most attracted to from the different types of assets that Simon owns and controls?
+David Simon -- Chairman, Chief Executive Officer, and President
+It's still a -- we opened one in -- a specialty grocer in Boca just recently. That's doing very well. We just made a deal that I don't know that I can announce it that we just signed the lease this week to replace Fairway -- the Fairway Market grocer in Nanuet with a great grocer. So there are -- what we're really focused on is the specialty grocers, as opposed to the big mammoth ones.
+And I think there'll be a handful of deals. It's not going to be 50, but I think over the next couple of years there's no reason why we can't get 10 to 20. The specialty ones -- like the one we did at Boca is great. It's in an end cap of a -- of kind of the lifestyle center that we did at Boca.
+And a high-end grocer in -- come in. Get your prepared foods, quality. We still have the Italys of the world that are out there looking to do business. I had a conversation with them recently.
+That's the same kind of category, prepared foods, specialty grocer, not necessarily a place, I guess, you could pick up milk but more of prepared foods, dine in or get your special consumables. So I do think that will continue to grow.
+Juan Sanabria -- BMO Capital Markets -- Analyst
+Great. And just one more follow-up for me. You kind of talked about acquiring some assets high-quality retail. Have you looked at or any interest in some of the Westfield centers given what they're trying to do at the corporate level?
+David Simon -- Chairman, Chief Executive Officer, and President
+No. I mean they're doing what they're doing, so nothing there to report.
+Juan Sanabria -- BMO Capital Markets -- Analyst
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Ki Bin Kim from Truist. Your question, please.
+Ki Bin Kim -- Truist Securities -- Analyst
+Thank you. So David, you provided a helpful bridge looking at the portfolio NOI from last year to this year. One of the biggest components of that was a $270 million you mentioned. I mean it's a big number.
+I was just wondering if there's any kind of breakdown you can provide on the call.
+David Simon -- Chairman, Chief Executive Officer, and President
+Well, it's a combination, as I said, of abatements and credit provisions. The credit provisions are mostly bankruptcies. And how is it split? It's, I don't know, 60-40, somewhere in that range, if that's helpful to you. Again I don't -- I view this as kind of a -- not a -- this is not going to be routine, but it's kind of a onetime between it's -- with COVID impact, so to speak, between Q2 and Q3, but it's split roughly between abatements and credit provisions, which are mostly bankruptcies and abatements.
+And maybe it's 60-40, in that range, if that's helpful.
+Ki Bin Kim -- Truist Securities -- Analyst
+It is. And are you incorporating tenants on the watch list that are not bankrupt or not near-term bankrupt --
+David Simon -- Chairman, Chief Executive Officer, and President
+Credit provisions include lots of things beyond just pre-petition rent or anything else associated with a bankruptcy.
+Ki Bin Kim -- Truist Securities -- Analyst
+OK. And just given the news today about the vaccine from Pfizer, does that make any kind of impact in terms of your mentality when it comes to lease negotiations? I know it's early but just curious.
+David Simon -- Chairman, Chief Executive Officer, and President
+Not really. I mean listen. I -- before the news this week -- or today, I mean, we were feeling better that we had dealt with a lot of [Inaudible] in Q2 and Q3. And we're here to -- and we're here and our cash flow is dramatically up and our collections are up, and we're getting our business back to normal.
+So we were headed that way, anyway, but obviously it's just -- I mean this situation is black swan times two or three. And it's been sad for all of us to have to see what's happened to the country, good, solid businesses beforehand that we've had to deal with; our employees, obviously; all the people infected. So I mean I'm just -- maybe there's a little more of a -- what's the phrase of pep in the what's the --
+Tom Ward -- Senior Vice President, Investor Relations
+In step.
+Unknown speaker
+Pep in your step.
+David Simon -- Chairman, Chief Executive Officer, and President
+Pep in the step. I just think it's good news. Let's hope we can get it out and get done and -- but no, it's not going to affect us because we're mostly dealing with COVID-oriented shutdowns or impact of those shutdowns. And listen.
+I hope it gives our client base more confidence in that that's fine. That's good. It should. It should, and hopefully, we'll see some benefits from that into '21 and beyond.
+Ki Bin Kim -- Truist Securities -- Analyst
+OK. Thank you.
+David Simon -- Chairman, Chief Executive Officer, and President
+Sure.
+Operator
+Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand the program back to David Simon for any further remarks.
+David Simon -- Chairman, Chief Executive Officer, and President
+OK. Thank you. And thanks for staying late on a Monday night. Be well.
+Operator
+[Operator signoff]
+Duration: 81 minutes
+Tom Ward -- Senior Vice President, Investor Relations
+David Simon -- Chairman, Chief Executive Officer, and President
+Craig Schmidt -- Bank of America Merrill Lynch -- Analyst
+Rich Hill -- Morgan Stanley -- Analyst
+Alexander Goldfarb -- Piper Sandler -- Analyst
+Caitlin Burrows -- Goldman Sachs -- Analyst
+Michael Bilerman -- Citi -- Analyst
+Brian McDade -- Chief Financial Officer
+Derek Johnston -- Deutsche Bank -- Analyst
+Mike Mueller -- J.P. Morgan -- Analyst
+Floris Van Dijkum -- Compass Point -- Analyst
+Linda Tsai -- Jefferies -- Analyst
+Haendel St. Juste -- Mizuho Securities -- Analyst
+Vince Tibone -- Green Street Advisors -- Analyst
+Unknown speaker
+Juan Sanabria -- BMO Capital Markets -- Analyst
+Ki Bin Kim -- Truist Securities -- Analyst
+
+More SPG analysis
+All earnings call transcripts

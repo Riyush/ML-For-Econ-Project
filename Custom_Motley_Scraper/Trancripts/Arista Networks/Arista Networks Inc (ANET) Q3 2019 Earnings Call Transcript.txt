@@ -1,0 +1,402 @@
+Image source: The Motley Fool.
+Arista Networks Inc (ANET -0.66%)Q3 2019 Earnings CallOct 31, 2019, 4:30 p.m. ET
+Operator
+Welcome to the Third Quarter 2019 Arista Networks Financial Results Earnings Conference Call. [Operator Instructions] And will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Charles Yager, Director of Product and Investor Advocacy. Sir, you may begin.
+Charles Yager -- Director of Product and Investor Advocacy
+Thank you, operator, good afternoon everyone and thank you for joining us. With me on today's call are, Jayshree Ullal, Arista Networks, President and Chief Executive Officer; and Ita Brennan Arista's Chief Financial Officer. This afternoon Arista Networks issued a press release announcing the results for its fiscal third quarter ended September 30, 2019. If you would like a copy of the release, you could access it online at the company's website.
+During the course of this conference call Arista Networks' management will make forward-looking statements, including those relating to our financial outlook for the fourth quarter of the 2019 fiscal year longer-term financial outlooks, industry innovation, our market opportunity, the benefits of recent acquisitions and the impact of litigations, which are subject to the risks and uncertainties that we discuss in detail on our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements.
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also please note certain financial measures we use on this call are expressed on a non-GAAP basis, and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that I will turn the call over to Jayshree.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you, Charles. Thank you everyone for joining us this afternoon for our third quarter 2019 earnings call. Our profitability growth combination was once again demonstrated with a non-GAAP revenue of $654.4 million with a non-GAAP earnings per share that grew to a record $2.69. Services contributed approximately 15% of revenue. We delivered non-GAAP gross margins of 64.4% influenced by a solid performance from our cloud titan and enterprise verticals. In terms of customer trends, we've registered a record number of new customers in Q3 and continue to drive this new customer logo expansion at the rate of one to two per day throughout the quarter.
+For calendar 2019, we do expect to have two customers that will be greater than 10% of our revenue, Microsoft and Facebook. In Q3, the cloud titan vertical segment remained our largest one. The modern enterprise segment is now consistently becoming our second largest with financials in third place, and service provider and Tier 2 specialty cloud providers coming in at fourth and fifth place.
+In terms of geography in Q3, the international contribution was 19%, with the Americas at 81%. In terms of new products we introduced important enhancements to our CloudVision platform dubbed CloudVision 2019. Arista's CloudVision is bringing cloud principles to network operators across Places-In-the-Cloud or PICs, as we call it. The largest cloud providers in the world have driven advancements in telemetry and automated network operations that improve many of the same network operations tasks for the enterprise. CloudVision ups these to deliver these analytic and telemetry capabilities organizations and the enterprise of many sizes.
+Key highlights of CloudVision 2019 include, dynamic scale, elastic agility, deep visibility and open integration where we can derive visibility metrics from SDK and SNMP capable platforms including managing third-party devices to bring multi-vendor capabilities across the entire enterprise.
+I would like to offer some further color on Q4 2019 guidance given our significant drop. After we experienced the pause of a specific Cloud Titans orders in Q2 2019. We were expecting a recovery in second half 2019 for cloud titan spend. In fact, Q3 2019 is a good evidence of that. However, we were recently informed of a shift in procurement strategy with a material reduction in demand from a second cloud titan, reducing their forecast dramatically from original projections for both Q4 2019 and for calendar 2020. Naturally, this type of volatility brings a sudden and severe impact to our Q4 guidance.
+Given the step in forecast and volatility of this cloud segment, we believe the cloud titan forecast should be modeled as flat to down in calendar 2020. I do want to take an opportunity to reiterate that our market share for both 100 gig and overall high performance switching remains solid and strong. We are proud of our strength in the enterprise and financial segment with growing success in our very first quarter of shipping cognitive campus portfolio products, which is now on track $100 million in the first full year of shipments.
+With that I'd like to turn it over to Ita for more specific financial metrics.
+Ita Brennan -- Chief Financial Officer
+Thanks, Jayshree, and good afternoon. This analysis of our Q3 results and our guidance for Q4 2019 is based on non-GAAP and excludes all non-cash stock based compensation impacts, certain acquisition-related charges and other non-recurring items. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenues in Q3 were $654.4 million, up 16% year-over-year and above the midpoint of our guidance of $647 to $657 million. Service revenues remained strong, representing approximately 15.2% of revenue, down from 15.6% last quarter, reflecting typical seasonality of service renewals. International revenues for the quarter came in at $122.1 million or 19% of total revenue, down from 27% in the prior period. This volatility in geographical mix was largely driven by a shift toward US deployments in our cloud titan business.
+Overall, gross margin in Q3 was 64.4%, above the midpoint of our guidance of 62% to 65% and down slightly from 64.7% last quarter. This reflected a healthy cloud titan contribution combined with good performance from our enterprise and financial verticals.
+Operating expenses for the quarter were $163 million or 24.9% of revenue, up slightly from last quarter at $158.7 million. R&D spending came in at $105.3 million or 16.1% of revenue, up from $101.7 million last quarter. This reflected head count growth and slightly higher levels of product related NRE and prototype spending in the period.
+Sales and marketing expense was $46.8 million or 7.1% of revenue, up from last quarter with increased head count, somewhat offset by reductions in other sales costs. Our G&A costs were consistent with last quarter at approximately $11 million or 1.7% of revenue. Our operating income for the quarter was $258.2 million or 39.4% of revenue.
+Other income and expense for the quarter was a favorable $14.9 million and our effective tax rate was approximately 20.5%. This resulted in net income for the quarter of $217.1 million or 33.2% of revenue. Our diluted share number for the quarter was 80.75 million shares, resulting in a diluted earnings per share number for the quarter, $2.69 , up 27% from the prior year.
+Now turning to the balance sheet, cash, cash equivalents and investments, ended the quarter at approximately $2.4 billion. We repurchased $115 million of our common stock during the quarter, at a weighted average price of $224 per share. As a reminder, our Board of Directors has authorized a three-year $1 billion stock repurchase program commencing in Q2 2019. This program allows us to repurchase shares of our common stock opportunistically and will be funded with operating cash flows.
+We generated $269 million of cash from operations in the third quarter, reflecting strong net income performance and a decrease in working capital requirements for approximately $25 million.
+DSOs came in at 63 days, up from 51 days in Q2 reflecting the timing of billings in the period. Inventory turns were 3.1 times, up from 2.4 last quarter. Inventory decreased to $239.8 million in the quarter, down from $314.2 million in the prior period. Our total deferred revenue balance was $529 million, up from $502.2 million in Q2. As a reminder, our deferred revenue balance is now almost exclusively services related with any significant product deferred revenue amounts having been recognized for the income statement in the first half of the yea. Accounts payable days were 31 days, down from 37 days in Q2, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $4.7 million.
+Now, turning to our outlook for the fourth quarter and beyond. We continue to experience significant volatility of demand from our cloud business , we saw a strong recovery from the customer who had paused activity in the second quarter, only to be surprised by a dramatic reduction in forecast for Q4 and 2020 from another key titan. All indications or are these actions do not represent a loss of positioning our share for Arista at these customers, but will likely effect -- will likely result in demand from this part of the business being flat to down on a year-over-year basis for the remainder of 2019 and into 2020. While we are not at this point in a position to provide overall guidance for 2020, we did want to make the following points.
+Firstly, a recap on deferred revenue and its impact on 2019 results. As outlined in prior calls, we recognized $80 million and $38 million of non-Microsoft product deferred revenue in Q1 and Q2, 2019, respectively. These amounts represent the product sales shipped and billed in the prior year for which revenue is deferred pending customer acceptance of legal redesigns and features. While not impacting our 2020 cash metrics, this does set up some tough comps for year-over-year revenue growth, particularly in the first quarter of 2020.
+At this point, we believe this trend combined with typical Q1 seasonality and the recent updates to cloud forecast described above may result in revenues for the first quarter of 2020. They are approximately 5% below Q4 2019 level. On the gross margin front, we would reiterate our overall gross margin outlook of 63% to 65% with customer mix being the key driver. We'll continue to manage investments in the business carefully with targeted growth in sales and R&D headcount balancing the need to expand our market coverage with prudent financial management.
+Finally, you should expect to see us continue to execute against the stock repurchase mandate in an opportunistic manner. With all of this as a backdrop, our guidance for the fourth quarter, which is based on non-GAAP results and excludes any non-cash stock based compensation impacts and other non-recurring items is as follows.
+Revenues of approximately $540 to $560 million, gross margin of approximately 63% to 65%, operating margin of approximately 36%. Our effective tax rate is expected to be approximately 20.5% with diluted shares of approximately 80.3 million.
+I will now turn the call back to Charles. Charles?
+Charles Yager -- Director of Product and Investor Advocacy
+Thank you, Ita. Now, we're going move to the Q&A portion of the Arista earnings call. Due to time constraints, I would like to request that everyone please limit themselves to a single question.
+Operator
+We will now begin the Q&A portion of the Arista earnings call. [Operator Instructions] Your first question comes from the line of Simon Leopold with Raymond James. Your line is open.
+Simon Leopold -- Raymond James -- Analyst
+Well, thank you very much for taking the question. Appreciate the added disclosures and details you've given us on this call. So , thanks for that. I wanted to maybe get a better understanding of the 2020 commentary given that at least looking at capex as an indicator or revenue for business lines Azure and AWS seem to be encouraging suggesting 2020 could be a better year in terms of the capex forecast going back double digits for the web scale guys. Just wondering how you think we should square your more cautious tone on the cloud relative to looks like better capital spending trends and healthy revenue trends from the web titans. Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you, Simon. Well, as I was trying to explain, our Q4 forecast is actually quite consistent with many of the cloud capex reported in recent calls which is overall, flat to down. There's a lot of volatility going on going on -- going down, but the overall trend for Q4 is down and we're projecting that same flat to down trend for capex next year for the overall Cloud Titan spend.
+Now, one of the things that as you know, you may have remembered this, we were not tracking from a networking point of view in prior years the cloud capex nearly as well. So, there is not a one-to-one correlation. And in some cases, what we're seeing in the cloud capex is a redistribution to infrastructure, not to networking.
+So if you look at the two reasons why we believe it will slow down also in 2020, it's because many of the cloud titan customers extending their use of silver assets and delaying the network purchase longer and buying other infrastructure or investing in other aspects. And the second is the 400 gig adoption. We had predicted initially that deployments could start as early as second half of this year. We are shipping 400 gig e-products for initial trials this year. But the initial deployments have shifted by more than a year to second half 2020 and we think mainstream production will be 2021.
+So, the change in our customers extending their investments and the deployment of 400 gig is causing us to be more muted about 2020.
+Simon Leopold -- Raymond James -- Analyst
+Thank you very much for that.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thanks, Simon.
+Operator
+Your next question comes from Tim Long with Barclays. Your line is open.
+Tim Long -- Barclays -- Analyst
+Thank you [Phonetic]. If I could just follow up on the cloud titans again, maybe just a two-part, number one, could you talk a little bit about the customer that had the recent sudden change and it seems has a long tail to it as well. Any visibility into why they're doing it as their business is changing or is it just as you said, just the spending is changing.
+And secondly, do you think this is a trend that highlights more, even more than flat to down risks for some of the other large customers? Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Okay. So, specific to the cloud titan whose [Phonetic] forecast reduced dramatically, I think there were two main reasons. And I'm going to ask Anshul, our cloud expert and COO to elaborate. First is, they are managing the capex for networking and modulating the inventory and shifting to more of a just in time type forecast. So, typically they gave us two quarter visibility, sometimes even three and four, and now, they're moving much more to a real time forecast at quarterly intervals.
+And the second is, this particular cloud titan is extending their server assets by more than a year. And once the server assets get extended that is significantly delaying the network spend too. Anshul, do you want to add to that?
+Anshul Sadana -- Chief Operating Officer
+Jayshree, that's absolutely right. The server refresh delay is a specific decision for this one cloud titan, they didn't see enough ROI and doing the refresh just right now, they migrate a generation and since the impact we are seeing as well because they want to upgrade the network if they are not update the server.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+And so, to answer your the other part of your question, Tim, on other cloud titans, I think [Phonetic], some will be stronger, some will be flat, some will be weaker, but if we average all of that, we see flat to down.
+Tim Long -- Barclays -- Analyst
+Okay. All right. Thank you.
+Charles Yager -- Director of Product and Investor Advocacy
+You're welcome.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you.
+Operator
+Your next question comes from Ittai Kidron with Oppenheimer. Your line is open.
+Ittai Kidron -- Oppenheimer -- Analyst
+Hi. I guess, I want to follow-up then on your recent explanation here Jayshree the -- I mean, the capex moving to just in time, that shouldn't affect your business. You might not have visibility, but that still means business needs to come as long as they keep building. I guess, moving to the server refresh cycle, is that where the bulk of your business with that cloud titan was and just kind of refresh upgrade of existing platforms. There was no new builds with this customer?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Bulk of it was -- there's always multiple levels of connectivity -- bulk of it is obviously the first layer, you've got to build servers for us to put a network . The second layer is usually regional spine and data center [Technical Issues]
+Operator
+[Technical Issues]
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Hello.
+Charles Yager -- Director of Product and Investor Advocacy
+The next question please.
+Anshul Sadana -- Chief Operating Officer
+Hello.
+Ita Brennan -- Chief Financial Officer
+[Indecipherable].
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Did you hear the answer, Ittai.
+Ittai Kidron -- Oppenheimer -- Analyst
+If you could repeat it, I think everybody got disconnected in the middle. I hope it wasn't something I said.
+Ita Brennan -- Chief Financial Officer
+No.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+No, but now I have to remember your question to repeat the answer.
+Ittai Kidron -- Oppenheimer -- Analyst
+The question is, again, reiterating the question regarding the -- your -- the nature of your business with them, is it just tied to server refreshes, there are no new build, new greenfield build with them.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. No, and the answer is clearly don't starts with -- if you don't have servers and storage, we can't connect with the network. So, the nature of our use cases starts with server spend correlated to network spend, which in turn creates layers of additional spines which can be the aggregation of the regional spines as well. But that's the symptom and the cause of more networking spend.
+Now that doesn't mean they don't spend on new data centers, I think the capex of many of the cloud titans, including the one we're discussing reflects that they will spend in a healthy fashion on the infrastructure for new data centers. But to correlate that back to networking will back to networking will take time, because first they have to buy the new servers and then they have to buy the network, which could go well into late 2020 or 2021 most likely.
+Ittai Kidron -- Oppenheimer -- Analyst
+Very good. Maybe as a follow-up, Microsoft just won the JEDI contract, what does that mean to you, how do you look at that and what you could do for your business?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Well, we're very pleased with that. And as you can imagine Anshul and the team worked very hard on several certifications and partnership with our cloud titan vendors. Having said that, the first thing that happens with these large contracts is they get contested. And so while the award will be given, we think it will be time for us to see material benefit, it may take 6 to 12 months.
+Ittai Kidron -- Oppenheimer -- Analyst
+Very good. Good luck.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you.
+Ita Brennan -- Chief Financial Officer
+Thanks, Ittai.
+Operator
+Your next question comes from Samik Chatterjee with JP Morgan. Your line is open.
+Samik Chatterjee -- JP Morgan -- Analyst
+Hi. Thanks for taking my question. Just moving beyond your commentary about the volatility in spending from the cloud titans. I just wanted to ask about the Tier 2 cloud providers, it sounds like you have more visibility or more stability in terms of what you're seeing in terms of spending patterns from them, is that kind of fair or what you -- if you can kind of elaborate on what you're seeing on that side? And does this is going to drive you to focus more on that segment going forward?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah, Samik, thank you. While majority of our guidance was due to the specific Cloud Titan, you might have noticed in my commentary that both the service providers and the specialty Tier 2 cloud providers came in at fourth and fifth place. I think, this is the first time in the specialty Tier 2 cloud providers at the dead last.
+And in my view the segment is weak and the results have been mixed. I think, the new Tier 2 company -- specialty cloud companies that started growing very well for us in 2017 and 2018 are now having to review their investments and besides from a matter of economics, which ones make more sense, do they rely on their own clouds or go to the public cloud titans. And some of the Tier 2 companies are finding it difficult to compete, some are continuing with the strategy. So, it is a mixed bag for us and especially in Q4, we don't expect much success from this category.
+Samik Chatterjee -- JP Morgan -- Analyst
+Okay. Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you.
+Operator
+Your next question comes from Alex Henderson with Needham & Company. Your line is open.
+Alex Henderson -- Needham & Company -- Analyst
+Great, thank you very much. I was hoping you could spend a little bit of time relative to this cloud issue, to what extent you're confident that there is no competitive incursion here that's causing it, and that in fact you have sustained share at that customer. How can we judge that -- how do you get your arms around, clarity around that point?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Alex, that's a very good question. From our perspective, the competitive dynamics have not changed in the cloud or in general as we always have aggressive competition and we will continue to see aggression there. But what gives us confidence the cloud titans are delaying their spend or distributing their capex differently is, as you know, we always pride ourselves in a close partnership and relationship with cloud titans. And generally, especially in the case of Facebook and Microsoft, they have been not only a vendor customer relationship, but really a core development that requires the kind of partnership which is engineering to engineering, it's not just business.
+So, when you look at that, there is no evidence that competitively or white-box wise, there has been any change, there has been a process processing, there is better inventory management, there is better procurement, optimization etc.. And you can always expect these cloud customers of ours to want to be multi-sourced, but it isn't any different than we've seen in the past in behavior, in relationship, in our innovation we have 10, 400 gig products, and lot of then in styles . So, relationship and the technology partnership couldn't be better. Anshul, do you want to add to that?
+Anshul Sadana -- Chief Operating Officer
+Sure. Thanks, Jayshree. Alex, we work very closely with these customers to a point where we are working on this 2021 roadmap along with these customers right now. And quite well aware of the thesis they are making with the architecture as well and have very direct feedback from customers as well that there is no alternate that's pleasing us, it's simply the demand has gone down and we are very confident of our share when that demand comes back as well since we collaborate with these customers. So, we're not worried about it. And the customers are pretty direct as well, this is not our share going to someone else. Their demand reduce.
+Alex Henderson -- Needham & Company -- Analyst
+Okay. Thank you very much.
+Operator
+Your next question comes from James Faucette with Morgan Stanley. Your line is open.
+James Faucette -- Morgan Stanley -- Analyst
+Thanks very much. Adding my follow-ups to the other questions that have already been asked. On this change in architecture and strategy and what they're doing with their servers, is this a -- is this related to how they're implementing servers and networking, obviously by extension, so that we're looking at a permanent lengthening of replacement cycles or is this somehow just related to the current cycle. I guess, I'm trying to get a sense for what the -- even as the customers come back what the opportunity is and how we should think about the frequency that they'll need to come back and add additional capacity or upgrade networking equipment, et cetera.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. No, good question, James. You may know that server cycles tend to go in 18 months to 3 years. And generally they get upgraded in that type of time frame. In this particular case, because of the server vendor and architecture, the server vendor, there is no change in server architecture, I have to emphasize that. They are choosing to delay their server -- new server deployments by at least a year. So, it's no more no less, no change in architecture, but really a delay of server spend, which is causing a delay in network spend.
+James Faucette -- Morgan Stanley -- Analyst
+Great.
+Anshul Sadana -- Chief Operating Officer
+And then that has some short-term impact on the IO needs from these server that there's no new server, they may not need as much new IO that they were planning on. But in the long run these things do balance out to just in the near term as estimate [Phonetic], so one-year type of cycles until they do start their refresh.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Aaron Rakers -- Wells Fargo -- Analyst
+Yeah, thanks for taking the question. Maybe I'll shift gears a little bit. As you think about the model and the growth rates that you've outlined looking into next year. I'm just kind of curious, do you take a more active stance and kind of project protecting the margin profile of the company and how do I think about just the investments that the company has previously kind of alluded to that would be required to really position yourself for a campus ramp as we move into next year. And just any kind of commentary on how you've seen campus thus far.
+Ita Brennan -- Chief Financial Officer
+Yeah, I mean, I think as I take model question and then Jayshree can take the campus question. I think, as we think about the business as we go forward, I mean, I think we believe we can operate healthily in the plus or minus 35% operating margin model that we talked about for some time as we talked about as part of the long-term model. We're guiding 36% for Q4 even with the kind of reductions in revenue, right. So we do have some flexibility there, but I think you have to probably expect that you won't see the 39% and 40% type operating margin numbers that we've been putting up more recently. So, we will continue to make investments that will be targeted. We'll continue to -- you'll see us continue to invest in the sales and marketing side, because we believe that's important as we go forward and some head count, such as R&D as well. But we think we can still do it within that envelope.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. And regarding -- Aaron, regarding campus, as I said in my opening remarks, we are marching well to the $100 million in shipments for the first full quarter, Q3 was our first quarter. What surprise me pleasantly on our campus acceptance is half of our customers were existing but half were new. If you had asked me to forecast that I wouldn't have better that I would have got 80% would be existing. So, we're really getting a lot of interest in our campus. In fact, I would say, one of the strong reasons our enterprise segment is number 2 is not only because of the data center, but small numbers on the campus in Q3, but I believe the two will influence each other that we will become more relevant in the enterprise because of both campus and enterprise and the architectural shift that we can guide to public workloads versus private.
+I think when I look at why we are very differentiated the word cognitive to us is really architectural both on our WiFi and PoE switches underlying the CloudVision. So, customers are really big appreciating our differentiation on flow analysis, on security, on bringing an integrated cognitive secure software driven integration together, much like we did with the data center, so we like our early progress on execution there.
+Operator
+Your next question comes from Alex Kurtz with KeyBanc Capital Markets. Your line is open.
+Alex Kurtz -- KeyBanc Capital Markets -- Analyst
+Yeah, thanks. I have more of a clarifications then a question. I just want to make sure we all understand that the account that's driving this downside here is not historically, largest customer. And then the second part of that is, given the disruption that you saw Microsoft disruption that you saw from Microsoft earlier in the year. I guess what's the context of their spend level as they go into Q4 and into the 2020?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah, just to clarify, Alex. It's a second cloud titan. It's not the one we mentioned the last time that had a Q2 2019 pause.
+Alex Kurtz -- KeyBanc Capital Markets -- Analyst
+Right.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+And specific to Microsoft as we are projecting, we expect that -- we fully expect them to be a north of 10% customer concentration for 2019. And we expect to have a second new cloud titan customer, which will be Facebook.
+Alex Kurtz -- KeyBanc Capital Markets -- Analyst
+And just into 2020 around Microsoft, just given the disruption, we saw this year, Jayshree, how do you -- an early read on kind of returning to more normalized spend in 2020 with them?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Anshul, you want say few words?
+Anshul Sadana -- Chief Operating Officer
+Sure. Alex, so far we don't have a long-term guidance from Microsoft, but there is no, nothing different than they are on a usual spend pattern. So we have not given any other metrics.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+No blip, no pause.
+Anshul Sadana -- Chief Operating Officer
+That's correct.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Not yet.
+Anshul Sadana -- Chief Operating Officer
+Yeah.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah.
+Alex Kurtz -- KeyBanc Capital Markets -- Analyst
+Okay. Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you, Alex.
+Operator
+Your next question comes from Tejas Venkatesh with UBS. Your line is open.
+Tejas Venkatesh -- UBS -- Analyst
+Thank you. As you reflect on the fundamental technology drivers of bandwidth growth in the cloud that contributed to very strong growth over the years. Has anything fundamentally changed, I ask because this year where you've had sort of two different cloud vendors have some sort of hiccup, one was probably a public cloud vendor, the other a content cloud vendor. So, completely different drivers and yet you're seeing a pause, so is there any sort of technology fundamental change?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Tejas, I don't see any fundamental change. I think our strategy and TAM is valid. I think their strategy that they want to invest has been very strong, the last four or five years. Perhaps the only change I would allude to is they're adding more process, more optimization, more care and feed into their forecasting, more discipline, more hygiene. But I don't see any other change. I think they continue to invest for scale and as you know, they're all doing very well, but that doesn't mean they will spend equally well. Anshul?
+Anshul Sadana -- Chief Operating Officer
+Tejas, the pause that we mentioned in Q2 was very tied with internal financial planning for the customer and inventory planning, it was nothing to do with the architecture of the bandwidth [Indecipherable]. And the second instance you're seeing right now with the other cloud titan [Indecipherable] about refresh, but when you model these out long-term there is no change in their growth expectations of traffic and networking needs, both from a bandwidth standpoint as well as backbone and traffic journey. And with video, stories and now AI workload [Phonetic] is growing. There is always going to be more and more need for networking. We're not seeing that trend change, but obviously we have to wait for the customer come back until they start to refresh.
+Tejas Venkatesh -- UBS -- Analyst
+Thank you. And as a quick follow-up, any change in enterprise spending, I realize your share of that market is lower, but are you seeing any deal elongation and so forth at all?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+It's too early. As you say, we are not the bellwether on enterprise. So, I think, we know -- we understand the cloud much better, but because we are a new entrant, and we have new products, so we're probably not the best indicator of change.
+Charles Yager -- Director of Product and Investor Advocacy
+Thank you, Tejas. Next question?
+Operator
+Your next question comes from Jim Suva with Citi. Your line is open.
+Jim Suva -- Citi -- Analyst
+Thank you, I have just one question. The change in the procurement strategy of this cloud titan, why won't it spread to both other cloud titan and maybe even the second tier type cloud titan, is there the risk of that or any visibility of why this challenge won't spread? Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you, Jim. I'll comment and I'll have Anshul elaborate. I think the short answer is, no, we don't see a lot of risk of that because anyway, our visibility was two quarters. With this particular titan they've optimize this to one quarter. So, if we were always relying on one and two year forecast that would be a bigger dramatic change to our belief system and how we plan with them, but this is always been one or two quarters, and a further refinement on this particular cloud titan customer to one quarter only, we don't see a big change or big shift.
+Anshul Sadana -- Chief Operating Officer
+Right. And then this is their own internal processes and planning on how they plan networking purchases with respect to data center facilities going live. And they are optimizing their processes and their arch and fixing issues they might have rather in the past. This does not apply to any of our other cloud titans, they are very specific to organizational issues in a company, not an industry trend or a technology trend.
+Jim Suva -- Citi -- Analyst
+Thank you.
+Operator
+Your next question comes from Rod Hall with Goldman Sachs. Your line is open.
+Rod Hall -- Goldman Sachs -- Analyst
+Yeah, hi guys, thanks for the question. I wanted to check what you're thinking on growth in 2020. I'm just playing around with the verticals here and thinking about what maybe you're implying with this. So, I wonder if maybe you could put us in some sort of a ballpark for overall revenue growth and then talk to us about why the down 8% or so that you're implying in the guidance doesn't kind of materialize through the -- a better part of next year, so you end up with even lower revenue growth or maybe that's what you're already thinking. So that's one thing. If you could just put us in some kind of a revenue growth ballpark for next year.
+And then the other thing I wanted to ask is enterprise spending is, clearly, very weak and a lot of the rest of this growth depends on enterprise. And so I wonder if you could just update us on what you're seeing there. How much risk you think there is to your enterprise numbers as we look into 2020 or at least the really part of it with the slowdown that we're observing. Thanks.
+Ita Brennan -- Chief Financial Officer
+Yeah. Rod. I'll take the first part of that and then maybe hand off to Jayshree on the last part. I mean, I think from a model perspective, we're not yet trying to call a 2020 growth rate for the overall business. I think we've tried to put some pointers out there and make sure everybody is aligned on some of the impacts from deferred et cetera, but I think as we enter the year we will have a tough comp for the first quarter, in particular in the second quarter as well to some extent because of the deferred, we've talked about the cloud vertical being flat to down. What we've seen pretty consistently is that the enterprise part of the business and financial verticals have been growing well and have been offsetting that although not entirely, right, and we hope that that will continue, that we continue to see that.
+So that's kind of an offset to serve as the other part of the business, which is really the cloud and service provider piece, which has been -- have been muted as regards to this year. I think Q1, I think we pretty much guided the Q1 number only because we want to make sure we reflect the deferred correctly and that we reflect the seasonality of Q1 correctly in your model.
+Rod Hall -- Goldman Sachs -- Analyst
+Okay. And then enterprise if you want to -- can you tell us what?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. On enterprise, I do believe from a demand and TAM perspective, we have a lot of opportunities for execution. And we could do very well both in enterprise and financials. If we get affected by macro situations that affects everyone, not just us, so we would be influenced by that. But, barring any macro situation, we feel very good about our execution to date and going into 2020 and that will hopefully offset some of the flatness in the cloud [Speech Overlap].
+Rod Hall -- Goldman Sachs -- Analyst
+Just coming back on the numbers, I mean, I just as be --
+Charles Yager -- Director of Product and Investor Advocacy
+[Speech Overlap]
+Rod Hall -- Goldman Sachs -- Analyst
+Okay.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Go ahead, Rod.
+Rod Hall -- Goldman Sachs -- Analyst
+Okay. Well, I was just going to say, I mean, it looks to me like it could easily be mid-single digits growth next year, and I don't know if that's a crazy number from your point of view or is that a plausible scenario?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+I don't think it's a crazy number, we'd have to grow enterprise into significant double digits. I think at this point we're not feeling strongly optimistic about the mid-teens growth that we projected at the Analyst Day because of how poorly cloud is doing, right, everything else in the enterprise and financials is doing well, but how about you give us looking into Q4, Q1 and then we'll come back to you. We don't know.
+Rod Hall -- Goldman Sachs -- Analyst
+Okay. Appreciate it, Jayshree. Thank you.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Thank you, Rod.
+Operator
+Your next question comes from Amit Daryanani with Evercore. Your line is open.
+Amit Daryanani -- Evercore -- Analyst
+Thanks a lot for taking my question, guys. I guess a question of clarification. Just to ensure the entire $130 million revenue miss versus the Street, at least, was that all attributed to this cloud titan customer shifting patterns or was there something else? That's one part.
+And then secondly, maybe just touch on how -- what are you seeing on the enterprise side and do you think merger could be a meaningful driver of revenue growth as you get into calendar 2020?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. So, to quickly answer your question, Amit, the specific title was the absolutely the largest part of the gap in guidance. But there were declines, as you know, we've had a deteriorating declining performance in service provider and a new to the mix was a deteriorating and declining performance in Tier 2 specialty cloud too. So, it was a combination of all three with majority being one specific cloud titan. Now specific merger, merger is very much factored into our campus numbers and we think the whole wired. And we think the whole wired wireless cognitive edge is really getting ignited with the Mojo product, we have completed our integration of CloudVision and WiFi. And our distributed cloud managed Mojo is better than any -- many of the standard controller offerings and legacy offerings in the marketplace. So, we believe our campus is doing well and a good contribution from that is Mojo.
+Operator
+Your next question comes from Brian Yun with Deutsche Bank. Your line is open.
+Brian Yun -- Deutsche Bank -- Analyst
+Hi. Can you talk about what's changed on the 400 gig side, it sounds like the anticipated deployments for 400 gig have been pushed out one year from your initial estimates. So, kind of interested to get your view on what you think is causing those delayed deployments?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+I think, when we first began our 400 gig foray you may have remembered, Andy Bechtolsheim spoke about it. We were always concerned not whether we would have products and differentiated ones, which we do, we're shipping 10 types of products now, but whether the optics was ready and the ecosystem was ready. So, we thought the ecosystem will be ready by now and the optics has pretty much moved a year, correct me if I'm wrong Anshul.
+So by virtue you cannot build 400 gig products in anything more than trials, If you don't have good optics to connect to it. So by virtue the 400 gig optics moving out we believe most of the initial deployments will move from second half of this year, which is what we thought before to second half of 2020, which means production installations is when you go from thousands of ports to million ports, so really be 2021. So, but I want to be clear that we are shipping 400 gig products, we are very proud of them. And as always, we are ahead of the industry.
+Operator
+Your next question comes from Paul Silverstein with Cowen & Company. Your line is open.
+Paul Silverstein -- Cowen & Company -- Analyst
+Jayshree, I hate to be the umpteenth person to ask you about cloud, but I will be. Two related questions, if I might. One , I just want to make sure I heard you correctly, first, before the question, which is you said to two 10% cloud titan customers, Microsoft and Facebook for 2019, was that the statement in terms of the time period?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah. That's right. Yes. That's correct.
+Paul Silverstein -- Cowen & Company -- Analyst
+Okay. And you also said that the particular cloud titan question is the problem has shifted to one quarter from a two-quarter forecast, correct?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Well, our forecast were anywhere from two to four quarters and has now shifted specifically to one quarter.
+Paul Silverstein -- Cowen & Company -- Analyst
+Alright. Here are the two questions, One, with respect to the softness in 2020 putting aside 4Q 2019, with respect to 2020 you've made a point previously that when Microsoft when you had that -- when they weren't called turnkey [Phonetic] previously you said the real question isn't them coming back, but to what degree? So, when you talk about the softness is significant decline in 2020, I presume they've given you that insight notwithstanding the shift to one quarter of forecast away from the previous two to four quarter forecast. It sounds like they've given your visibility into next year.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+That's correct.
+Paul Silverstein -- Cowen & Company -- Analyst
+How much softness are you talking about, are you expecting at this point? The other related question somewhat different, but --
+Jayshree Ullal -- Director, President and Chief Executive Officer
+If you can allow me to answer that Paul and then we can get to the other question.
+Paul Silverstein -- Cowen & Company -- Analyst
+Sure.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+This particular cloud titan has not only given us the dramatic reductions for Q4, 2019, but has given us a dramatic reduction for much of 2020. So, unlike the other cloud titans where there was a pause and they come back and it's more consistent, we fully expect this particular cloud titan to reduce next year, significantly.
+Paul Silverstein -- Cowen & Company -- Analyst
+Okay. All right. Then on the broader question. 400 gig, correct me if I'm wrong, but I think you made this point publicly in the past that with respect to your business is selling intra-data center switches for leaf-spine and top-of-rack, there is a 12.8 terabit upgrade cycle driven by new Broadcom silicon Tomahawk and Trident as well [Indecipherable] equivalent in that if 400 gig optics aren't ready the various cloud titans will buy the four higher capacity switches that you and Cisco and Juniper introducing and they will just deploy them in high-density 100 gig configurations. And so the 400 gig is ready and/or is at the right price points, that sounds like -- it sounds like you've changed your thinking on that?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+No, there is no change in thinking that Jericho and Tomahawk Trident will be used with higher capacity in 100 gig configuration. So, we'll continue to see incremental deployments of that, no change there, but there won't be a wholesale change from 100 gig to 400 gig in the spine until 2021 [Speech Overlap].
+Paul Silverstein -- Cowen & Company -- Analyst
+Jayshree, I can't ask you -- we can't ask you to speak for customers, that will be unfair, but doesn't that -- does that imply that there has been -- maybe this is stating the obvious, but doesn't that imply that there has been a change in demand on the part of cloud titans, in general, to the extent that if the demand were there again instead of the point 400 gig they would just deploy a lot more 100 gig and the impact to you as a switch vendor, it would be relatively nominal, we won't see it, you won't see it, we won't see it, but it clearly appears that there is a general softness in demand.
+Anshul Sadana -- Chief Operating Officer
+Paul, [Indecipherable] overall team, we do very well and have good products that are 12.8 terabit 128 by 100 gig switches. So, that point is well covered and customers do buy that as necessary for the architecture. The dramatic change for one of the cloud titans is really coming from them delaying their server refresh with delays on network change that they otherwise would have done which would have added more capacity.
+So it gets delayed until they start they start that refresh because these architechtures go hand in hand, you don't touch the network and the servers independently, it goes to [Indecipherable] architecture. On the full 100 gig side, the industrial delays are, in general, because [Indecipherable] the entire ecosystem and many of these optics companies forget about backwards compatibility, it doesn't work for the cloud companies because 400 gig has to work with 2by100 [Phonetic] on the other side and so on, otherwise you can't upgrade a large network and everyone is [Phonetic] going through those motions to get the entire ecosystem ready, which will take at least a year before it starts getting deployed in production.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, Paul. Next question please.
+Operator
+Your next question comes from Jeff Kvaal with Nomura Instinet. Your line is open.
+Jeff Kvaal -- Nomura Instinet -- Analyst
+Yes, thank you, I guess I really understand the downtick in cloud spending over the course of the next few quarters and I guess now we will have to start thinking about what your comments mean about when we might come through the other side of that, it sounded as though 12 or 18 to 24 months after a server refresh is over, is the typical time frame if you pushed it out six months for whatever reason that would strike me as being maybe in the fourth quarter of 2020, but more likely 2021 is -- does that math kind of work out?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah, Jeff. I think, the reason we are saying the cloud titan forecast to be flat to down in 2020 is because any projections of optimism and growth is -- the earliest possible is Q4, 2020. We really think the impact of 2021 to get beyond this flat to down forecast and you're right, a server cycle that's delayed by a year means, it's a year from now, which means any impact to IO is a year from now, any kind of production deployment is over a year from now. So, I think, 12 months is a good rule of thumb as a minimum.
+Jeff Kvaal -- Nomura Instinet -- Analyst
+Okay.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, Jeff. Next question please.
+Operator
+Your next question comes from Sami Badri with Credit Suisse. Your line is open.
+Sami Badri -- Credit Suisse -- Analyst
+Hi, thank you. I'm just trying to square away some of the commentary here and to give you some context before my next question is that some of the third-party multi-tenant colocation providers have reported some of their strongest backlog quarters all for data center capacity commencing in Europe in 2020. Now, the fair majority of those big bookings are actually being driven by cloud titans. So, as these cloud time expand internationally. Is there a difference in topology [Indecipherable] architecture that is taking place because of the way they are building for the way they're connecting that means that possibly alternative vendors would be more favorable or is this just a completely different. Are we looking at something that is completely uniquely different than we've ever seen before.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Sami, typically, the cloud titans deployers globally as you know, we have a lot of international datacenters that they have built with us. And as they expand to additional data centers the only difference is not architecture, but the size of the data center. So depending on whether they're going into highly populated densities or smaller, they don't -- they will risk and repeat the same architecture. But the scale and size may vary, which means that is really -- really want it to be one uniform architecture ideally with one consistent software and one vendor. So, it is very rare to see that they would repeat it with a different vendor. So I don't see any uniqueness in the international datacenters except size.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, Sami. Next question please.
+Sami Badri -- Credit Suisse -- Analyst
+Thank you for that color. And then just -- just, sorry, one follow-up on the...
+Charles Yager -- Director of Product and Investor Advocacy
+Sorry, Sami, we're running out of time here. Can we go to the next question please?
+Operator
+Your next question comes from Erik Suppiger with JMP Securities. Your line is open.
+Erik Suppiger -- JMP Securities -- Analyst
+Yes, thank you for taking the question. I just want to understand if this issue with the titans is beyond this one customer, as you get into 2020, because it looks like you're reducing the outlook for Q4 by, call it 20-ish percent of revenue. And I'm not sure if we should carry that through and it seems like one customer who presumably is not 10%. Why would we be cutting it that much. So is this more endemic across the broader titan universe or how should we be thinking about this?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+I think what we're saying is our numbers are very large with the cloud titans. And we will do very well with some the smaller ones we may be flattish to down with the larger ones, depending on their spend. And when you cumulatively add all of this, it's going to be flat to down in revenue. I don't think it means, it's not a trend for overall, the next three to five years, it's a projection of what specifically will happen in 2020 especially because then going to milk that servers, leverage existing infrastructure, keep adding 100 gig to that. not quite move to 400 gig. We see 2020 as a transition year with our cloud titans in terms of high-performance as well, so I wouldn't read anything more to the forecast, except for 2020 as things could pick up later on.Thank you, Erik.
+Operator
+Your next question comes from Tal Liani with Bank of America Merrill Lynch. Your line is open.
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+Hi, guys. So, I want to understand, just one thing. Most of the questions were asked, I want to understand, if you look at 2020 and you remove this one customer because next quarter you're going to have a down year -- revenue down year-over-year. And I think you said also 2020. So, now, I'm trying to understand if I remove this one customer that was really bad this quarter and provided this $120 million, $130 million shortfall then what's the underlying growth of everything else, is 2022 story of one bad customer who is kind of rethinking strategy or is 2020 going to be down even if you remove that particular customer?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Loaded question, I think, the way to think of this is, we have three types of cloud titans, some large ones that will remain flat. Some that will go down and some that will go up and the aggregate of that is flat to down. Anshul, do you want to add to that or did I get that right?
+Anshul Sadana -- Chief Operating Officer
+That's right. And then --
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+Right, I understand, but that's a very general answer, I mean at the end of the day, there is one big customer who is down $120 million of $670 million, that's a giant number. So, we have to remove that to understand what's happening with the rest of it. So, when you do the math, is the rest of it is still up or it's still going to be down?
+Jayshree Ullal -- Director, President and Chief Executive Officer
+First of all, remember, rest of it, we don't have hundreds of customers here, we have a handful. So, the cloud [Speech Overlap].
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+This is still $550 million, right. Per quarter, it's still $550 million, I mean, it's still meaningful, very meaningful.
+Ita Brennan -- Chief Financial Officer
+I think, powerful, I mean, I think we have to step back a little bit, it's not like we have perfect visibility of what we think it's going to happen in 2020, yes, right. I think what we're saying is, look, we have this issue with this particular customer, which is a large customer and had some significant impact. We have the rest of cloud, which have been unpredictable this year, that's the reality of life. We'll see how it plays out next year. But for sure we're not, we're not aggressively forecasting that right now, right.
+We have service provider, which hasn't been performing well, and we just saw specialty cloud verticals kind of go to the bottom of the list, right. Offsetting that has been some good traction in the enterprise and financials and we saw them grow well in Q3, right. But it's not enough to offset completely, which is why we say the flat to down is significant for the rest of the business.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, Tal, Next question please.
+Operator
+Your next question comes from George Notter with Jefferies. Your line is open.
+George Notter -- Jefferies -- Analyst
+Hi, guys. Thanks very much. I know that you guys are making quite a bit of progress on the routing side, I know there were a number of larger cloud provider customers that were looking at your routing products. Is that an opportunity for you to offset some of the softness you're seeing on the cloud side is incremental success with routing and any insights there would be great. And then one other clarification if you could just repeat the deferred revenue metrics that you referenced earlier, that would be helpful. Thanks.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Yeah, George, you are very right. We are doing, our strongest use cases for routing are with the cloud providers. So, despite all the server, et cetera, these tend to be obviously stronger in value and fewer in number, but we are doing very well with virtually all the cloud providers cloud titans on routing and we're doing very well in general in routing it's improving for us and our landscape with Tier 2 cloud providers as well in the routing use case specifically. So, we do look at that as an opportunity for next year as well.
+Ita Brennan -- Chief Financial Officer
+And then just on the deferred, it's kind of a continuation from what we saw in the first half of 2019. We had recognized $80 million of product deferred in Q1, $30 million of products deferred in Q2 that have basically been shipped and billed in the prior period. So, from a revenue perspective, that our success operative costs [Phonetic] coming into Q1. From a cash perspective that's -- it's different, obviously that deferred revenue didn't contribute cash [Indecipherable] but from a revenue perspective, this obviously gives you a higher bar.
+George Notter -- Jefferies -- Analyst
+Thank you.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, George. Next question please.
+Operator
+Your next question comes from Hendi Susanto with Gabelli. Your line is open.
+Hendi Susanto -- Gabelli -- Analyst
+Thank you for taking my questions. I would like to understand more about the cloud titan phenomenon of delaying this -- the use of its server assets. Is there a risk that other customers whether a cloud titan or not may behave similarly, perhaps you can share some technical insights when the larger customer can extend the use of server assets and when it cannot?
+Anshul Sadana -- Chief Operating Officer
+Hendi [Indecipherable] all of the cloud titan customers have their own architecture and their choice of NIC [Phonetic] and the 25-gig, 50-gig architecture choices they amend [Phonetic]. And if you look at the industry, the cloud titans actually [Phonetic] not aligned with the exact same server CPU upgrade cycles that they are offset from each other in a tick-tock manner aligned with the tick-tock update from the industry as well. This particular decision does seem specific to only one titan into us. We have not heard this from anyone else and the others keep on I think capacity as they need to, but this one consumer [Phonetic] for them, because there wasn't enough ROI, so they decided to delay their upgrade. So I would just read it the way we have heard it from our customers and I would not add anything else to that.
+Hendi Susanto -- Gabelli -- Analyst
+Thanks.
+Charles Yager -- Director of Product and Investor Advocacy
+Thanks, Hendi. Next question.
+Operator
+Your next question comes from John Marchetti with Stifel. Your line is open.
+John Marchetti -- Stifel -- Analyst
+Thanks very much. I just wanted to go back to a comment and make sure that I heard you right Jayshree. When you were talking about the overall outlook for 2020 ex the cloud business, if I go back to that Analyst Day presentation and how you guys talked about sort of cloud you're adding a few points of growth to take you up into that sort of upper teens range, if we strip that out altogether for next year or even assume it's down a little bit, do we still consider the rest of the business ex that cloud still being in that sort of low double-digit to mid teens range. I just wanted to make sure I heard the way that you answered Rod's question.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Right. Good question, John, I think just going back to the Analyst Day what Ita said, Arista said more specifically US if the cloud did really well, we'd be in the high. If the cloud did average we'd be in the mid teens. The current projections, so we're giving to you on the cloud or below that average, that we thought was the norm. So, with the new norm being flat to down mid-teens is off the table right now for 2020. Ita, you want to add to that?
+Ita Brennan -- Chief Financial Officer
+No, I think that's driving, we haven't contemplated a world at that point where cloud will be flat to down, right, I mean, we just did there was [Phonetic] something that we were target betting, we were kind of thinking between slowest growth and faster growth, right, I don't think anybody that stays with the thought that it will be in a world where we would be that part of it, it was actually be down to -- or flat to decline.
+Charles Yager -- Director of Product and Investor Advocacy
+Thank you, John. We have time for one more question operator.
+Operator
+Your last question comes from Andrew Vadheim with Wolfe Research. Your line is open.
+Andrew Vadheim -- Wolfe Research -- Analyst
+Hi, thank you. Recognizing the revenue pressures in 4Q and 2020, silver lining potentially could be through growth in other segments. So, maybe campus starts to ramp over the medium term, enterprise showed strength and maybe service provider recovers. And you would eventually start to have more of a structural business pivot to higher overall gross margin, is that something that you perhaps just go ahead and embrace with more immediacy and invest faster and even more heavily in non-cloud maybe the expensive cloud than you previously would have anticipated.
+Jayshree Ullal -- Director, President and Chief Executive Officer
+You're right to point out that our business hasn't fundamentally changed, our fundamentals are great, our gross margins of 63% to 65%, our time is valid. We could grow in other places, but I don't think we would want to forecast below -- beyond the 63% to 65% because I think we're in the band, because if I cloud goes down, we should be on the higher end of the band, if our cloud goes up, we'll be at the lower end of the band. We don't see the band itself going up more. That being said, we are absolutely committed to R&D, we absolutely committed to targeted hiring and investing.
+We think we can do that like Ita said with a 35-ish percent operating margin. And so, no change in strategy and continuing to invest in R&D and sales and marketing as well as M&A is where it makes sense to grow our other businesses and segments.
+Andrew Vadheim -- Wolfe Research -- Analyst
+That's helpful. Thank you.
+Charles Yager -- Director of Product and Investor Advocacy
+Thank you, Andrew. This concludes the Arista Q3 2019 earnings call. Please note that we have posted a presentation, which provides additional information on our fiscal results which you can access on the Investors section of our website.
+Operator
+[Operator Closing Remarks]
+Duration: 61 minutes
+Charles Yager -- Director of Product and Investor Advocacy
+Jayshree Ullal -- Director, President and Chief Executive Officer
+Ita Brennan -- Chief Financial Officer
+Anshul Sadana -- Chief Operating Officer
+Simon Leopold -- Raymond James -- Analyst
+Tim Long -- Barclays -- Analyst
+Ittai Kidron -- Oppenheimer -- Analyst
+Samik Chatterjee -- JP Morgan -- Analyst
+Alex Henderson -- Needham & Company -- Analyst
+James Faucette -- Morgan Stanley -- Analyst
+Aaron Rakers -- Wells Fargo -- Analyst
+Alex Kurtz -- KeyBanc Capital Markets -- Analyst
+Tejas Venkatesh -- UBS -- Analyst
+Jim Suva -- Citi -- Analyst
+Rod Hall -- Goldman Sachs -- Analyst
+Amit Daryanani -- Evercore -- Analyst
+Brian Yun -- Deutsche Bank -- Analyst
+Paul Silverstein -- Cowen & Company -- Analyst
+Jeff Kvaal -- Nomura Instinet -- Analyst
+Sami Badri -- Credit Suisse -- Analyst
+Erik Suppiger -- JMP Securities -- Analyst
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+George Notter -- Jefferies -- Analyst
+Hendi Susanto -- Gabelli -- Analyst
+John Marchetti -- Stifel -- Analyst
+Andrew Vadheim -- Wolfe Research -- Analyst
+More ANET analysis
+All earnings call transcripts
+
+
+
+
+

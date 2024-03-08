@@ -1,0 +1,256 @@
+Image source: The Motley Fool.
+Centene Corporation (CNC 0.19%)Q2 2021 Earnings CallJul 27, 2021, 8:30 a.m. ET
+Operator
+Good day and welcome to the Centene Corporation Second Quarter 2021 Earnings Conference Call. [Operator Instructions]
+I would now like to turn the conference over to Michael Neidorff, Chairman, CEO, and President. Please go ahead, sir.
+
+Jennifer Gilligan -- Senior Vice President, Finance & Investor Relations
+This is Jen. Thank you, Rocco, and good morning, everyone. Thank you for joining us on our second quarter 2021 earnings results conference call. Michael Neidorff, Chairman, President, and Chief Executive Officer; and Andrew Asher, Executive Vice President, and Chief Financial Officer of Centene will host this morning's call, which also can be accessed through our website at centene.com.
+Any remarks that Centene may make about future expectations, plans, and prospects constitute forward-looking statements for the purpose of the Safe Harbor provision under the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by those forward-looking statements as a result of various important factors, including those discussed in Centene's most recent Form 10-Q, filed today and the Form 10-K, dated February 22, 2021, and other public SEC filings, including the risks and uncertainties described with respect to the potential impacts of COVID-19 on our business and results of operation. Centene anticipates that subsequent events and developments may cause its estimates to change. While the Company may elect to update these forward-looking statements at some point in the future, we specifically disclaim any obligation to do so.
+The call will also refer to certain non-GAAP measures, a reconciliation of these measures with the most directly comparable GAAP measures can be found in our second quarter 2021 press release, which is available on the Company's website under the Investors section. Additionally, please mark your calendars for our third quarter earnings conference call to be held on Tuesday, October 26.
+With that, I would like to turn the call over to our Chairman, President and CEO, Michael Neidorff.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Thank you, Jennifer. Good morning and thank you for joining Centene's second quarter earnings call. You've heard me say, we make decisions based on the facts as they are today. And today with the continued rise in the highly virulent Delta strain of COVID-19, I must open our call with similar comments to those made this time last year.
+The environment has changed again in just the last week or so, and the Delta variant is causing a new wave of pandemic. It's a pandemic of the unvaccinated. According to a leading epidemiologist, our team has been working with for the past 18 plus months, the Delta variant has 1,260 times greater concentration in respiratory material than the original variant. An individual infected with the Delta strain can spread the virus to an average of five to eight individuals, up from an average of 2.4 individuals from the original strain.
+83% of the COVID cases today in the U.S. are Delta, up from 10% just a month ago. Hospitalizations were up 57% in the last month. The death have increased by 19% in the last week alone. And importantly, 97% of people currently hospitalized with COVID-19 are unvaccinated, and 95.5% -- 99.5% of the COVID-related deaths are among the un-vaccinated.
+Our additional concern because of the high concentration in respiratory droplet, this variant seems to be transmissible or transmittable among children and is more dangerous than the original virus. It is clear that one of the issues we must address is vaccine hesitancy, to stop the transmission of this virus and to protect those who cannot safely receive the inoculation, including our young children. The variant is real, and we are taking it very seriously. You have seen us execute strongly throughout the pandemic, and that will not change, especially as it remains clear that the pandemic is not over and the environment could remain choppy for the balance of the year.
+Turning to our second quarter performance. Results met our expectations and were consistent with the update we provided in mid-June. We generated revenue of $31 billion, an increase of 12% compared to the year ago quarter. Adjusted diluted earnings per share was a $1.25 versus $2.40 last year. As a reminder, last year's utilization rate in the second quarter was significantly lower as a result of the pandemic.
+We ended the quarter with membership of 25.4 million, as several tailwinds we have previously discussed remain in place. These include the suspension of redetermination, which we expect will continue into 2022, and we are aware recessions extending beyond that into 2023. We continue to participate in an active RFP pipeline.
+In addition, we are pleased that the Missouri Supreme Court unanimously upheld the will of the people, and that Medicaid will be expanded in Missouri. We have been preparing for expansion for months and are fully prepared to bring healthcare access to hundreds of thousands of citizens here in our home state of Missouri.
+Additionally, yesterday, North Carolina announced the winners of the tailored Health Plan Awards. We are pleased that our provider-led entity Carolina Complete Health with the North Carolina Medical Society was selected to work with two of the OMEs, and our health plan WellCare in North Carolina was selected to work with three others.
+In Medicare, we delivered another quarter of healthy growth with membership growing approximately 25% since the beginning of the year. In addition, preparations are well underway for open enrollment beginning this fall. In market place, we added a net 110,000 lives since the beginning of the year, while typically, we would have lost members during this period, this represents 6% growth.
+To this point, Medicaid and Medicare are performing very well and are continuing to normalize in line with our expectations. We talked last month about the dynamics in the marketplace business, where we are witnessing continuing COVID- related cost and increased non-COVID utilization, which we believe is still largely driven by some pent-up demand.
+Drew will provide additional details on non-COVID utilization. Although this is impacting our margins in the short-term, we continue to view this environment as transitory, driven by the various dynamics of the pandemic. Importantly, where possible these trends have been factored into our pricing and strategy for 2022.
+Overall, we remain confident in the long-term opportunity of our marketplace business. We expect to continue to offer a competitive product and to be in a strong position as the leading provider, and as you look at the healthy growth across our portfolio today, you can see we have the size, scale, and strength to continue to execute on our objectives.
+With the first half of the year behind us, we are maintaining our full-year 2021 adjusted EPS. This reflects the underlying strength of our business and our demonstrated ability to manage through a dynamic environment. We will continue to provide you transparent updates as the second half of the year unfolds.
+We remain focused on our business and we continue to make progress against the margin expansion goals we outlined last month. While we are at the beginning of this process, I'm encouraged to see strong alignment across our enterprise and initial transit -- traction toward these goals as Drew will discuss.
+We are also making progress on the Magellan acquisition, and remain on track to close on the deal in the second half of 2021, having received Justice Department approval and approval in all but one state.
+Before I hand the call over to Drew to discuss our results in more detail, I'd like to reiterate a few points that I touched on today. First, the Delta wave of the COVID-19 pandemic is creating a new set of dynamics, particularly for the unvaccinated. We are taking this very seriously and watching the short-term impact on our business. As a healthcare company, our absolute priority is to ensure our members, employees, and communities are healthy, and we are making every effort to provide our members and workforce with opportunities to receive the COVID-19 vaccine. We have made outreach phone calls to nearly 9.5 million members to support them in accessing the vaccine, created PSAs that will air on 160 TV stations across the country, and directly participated in over 80 vaccination events.
+In addition, our teams have formed innovative partnerships with organizations including NASCAR [Phonetic], the Pro Football Hall of Fame, Walmart, LYFT and the White House to increase awareness and accessibility of the vaccine. We also continue to evaluate when we can safely return to in-person work, and are ensuring that our office return-to-work timeline gives employees sufficient time to receive the COVID-19 vaccine.
+I want to make you aware that this still may not be enough, and if we do not effectively manage this strain, the next one could be even worse, and there may be a need for vaccination requirement implementation by government and industry.
+As we have done for the past year and a half, we will continue to manage through the dynamic landscape, and we'll provide you with transparent updates based on the information as we see and know. Our size and scale enables us to navigate an evolving environment as we pursue growth, and most importantly, margin expansion. Together with our margin expansion goals, our capital allocation priorities discussed at our June Investor Day, remain in place.
+Thank you for your continued interest and support of Centene. I will now hand the call over to Drew.
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Thank you, Michael. This morning, we reported second quarter 2021 results of $31 billion in revenue, an increase of 12% compared to the second quarter of 2020 and adjusted diluted earnings per share of $1.25.
+Before I get into the Q2 earnings drivers and insights, let's start with revenue. Total revenue grew by $3.3 billion compared to the second quarter of 2020, due to Medicaid membership growth, resulting from the ongoing suspension of eligibility redeterminations, strong membership growth in the Medicare business, and our late 2020 acquisition of PANTHERx. Total membership increased to 25.4 million, up 3% compared to a year ago.
+While I will touch on all of our major business lines, the primary topic to cover for the quarter and the full-year outlook is the marketplace business. Recall we gave an update at our June Investor Day regarding a few of the negative drivers in April and May for this line of business. Our Q2 consolidated HBR was 88.3%, which was higher than our expectation, driven by the marketplace business. Let me provide an update on the three marketplace pressure points we covered at Investor Day.
+Number 1, as a reminder, we incurred a $175 million or $0.22 headwind compared to our prior expectations in the second quarter related to the 2020 risk adjustment year. For the 2021 risk adjustment year, we received Wakely data in June and it was largely consistent with our expectations of shifting from being in a large payable position for 2020 to a slight receivable position for 2021. Number 2, COVID costs. We previously provided insight that while COVID costs were falling from Q1, they were still higher on an absolute basis from what we had forecasted in April and May. We saw the COVID cost continue to decline in June consistent with our expectation, but we will be watching external trends closely as COVID costs could reverse course and increase based upon macro COVID trends as Michael indicated.
+Number 3, pent-up demand. As previously disclosed, March and April marketplace results were impacted by a broad return to the doctor's office in the outpatient setting, after which we saw a slight utilization downtick in May. We had expected a continued down draft in June and the remainder of the year. Instead, June marketplace medical cost trended higher compared to May. We now expect pent-up demand to subside at a slower rate in the back half of 2021. The activity is in the area of outpatient services for continuing members as well as members who are new to us in 2021 with a higher cost per claim due to mix of services as these member cohorts access healthcare. And, though our SCP members only represent 20% of our membership, we are also seeing higher non-COVID related inpatient utilization for this cohort, who now has access to healthcare due to the expanded SCP rules. We expect these recently added SCP members to return to expected levels of utilization after initially accessing services.
+Our team has isolated the heavier utilizing cohorts through our real-time data and is taking action where possible, including a slate of clinical initiatives designed to improve quality and curb trend. However, we do expect a higher HBR in marketplace to drive the consolidated 2021 HBR, as we will cover in a minute, since some of the deferred demand will just have to work its way through the system during 2021.
+The remainder of our business as a whole performed consistent with our expectations In Q2. In Medicaid, we're seeing strong performance and a steady march toward normalized utilization, with this benefit largely offset by state rate actions and risk corridors. In Q1, we disclosed $550 million of such actions for 2021. This annual view increased in Q2 to $675 million. In Medicare Advantage, we continue to grow during the year and we see a similar trend toward normal utilization. We have grown membership organically 25% since 12/31/2020.
+Moving to other P&L and balance sheet items. Our adjusted SG&A expense ratio was 7.7% in the second quarter compared to 8.5% last year and 8.1% in the first quarter of 2021. The adjusted SG&A expense ratio benefited from lower short-term variable compensation costs and the leveraging of expenses over higher revenues due to increased Medicaid membership and recent acquisitions. This was partially offset by increased sales and marketing cost as a result of the marketplace SCP and growth in Medicare.
+Let me go deeper into the first item, since it's important for you to understand drivers. Think of the HBR pressure caused by our marketplace business and our short-term variable compensation as somewhat offsetting toggles, you'll also see this in our full-year guidance elements. If the deferred demand bubble in marketplace causes us to land toward the high end of our consolidated HBR guidance range, we would be toward the low end of our SG&A range because of a reduction in our short-term incentive plan for 2021. Think of this as a potential 35 basis point swing in those metrics. On the other hand, if pent-up demand and high new member utilization settles quickly and we come in toward the bottom of our HBR range, we would incur typical short-term incentives, which would have a corresponding effect of putting us toward the top of our SG&A range, and the outcome could be in between those bookend scenarios.
+While we recognize the current challenges and marketplace, we have implemented a slate of mitigating initiatives, including operational, clinical, and available pricing actions. Current performance does not change our perspective as we look out to our long-term margin goals.
+Continuing on highlights of the quarter. Cash flow provided by operations was $1.7 billion in the second quarter, primarily driven by net earnings before the legal settlement reserve, which is expected to be paid in future periods. We continue to maintain a strong liquidity position of $1.1 billion of unregulated cash on our balance sheet at quarter-end. Approximately $700 million of that was deployed on July 1st, as we completed the acquisition of the remainder of Circle Health. Recall we acquired 40% of Circle in 2019 and 2020 with the intention to subsequently acquire the remaining portion.
+Circle is a very well-positioned and leading ambulatory surgery center business in the U.K. and comes with a strong management team. We expect Circle to be above our Company-targeted adjusted net income margin by 2023.
+Debt at quarter-end was $16.8 billion. Our debt-to-cap ratio was 38.9%, excluding our non-recourse debt. Our medical claims liability totaled $12.8 billion at quarter end and represents 48 days in claims payable compared to 49 in Q1. DCP was mechanically impacted by the timing of state-directed payments.
+We updated a few of the 2021 guidance elements based upon what we've seen through the second quarter and for the items we just discussed. While we are maintaining the same wide adjusted EPS range of $5.05 to $5.35, you will notice some changes in the underlying metrics, including higher revenue from continued growth in Medicare and Marketplace, delayed state pharmacy carve outs, higher state pass-throughs of approximately $1 billion and a continued suspension of redeterminations; a higher HBR range, as we just discussed, solely due to our marketplace business; a lower SG&A range due to the potential reduction of the short-term incentive plan depending on how marketplace pent-up demand plays out, but in addition, we are also getting some leverage on the higher revenue base.
+Overall, this continues to be a relatively wide range as we referenced at Investor Day given the choppiness in our marketplace product. We still have six months of the year to play out, especially with varying scenarios around the subsidence of pent-up demand and the unknowns with COVID. The guidance continues to exclude Magellan. It excludes our recent Magellan financing and Circle Health.
+We are determined to execute on our multi-year value creation plan laid out at the recent Investor Day and achieve our long-term adjusted net income margin target of at least 3.3%. We have launched a formal program internally, encompassing all aspects of the organization marching in unison toward pulling the necessary levers to achieve the value creation plan. We have developed some of these muscles over the past couple of years, such as the Centene Forward Program for discrete initiatives, our HBR office for clinical quality and cost initiatives, and the integration skills from past large acquisitions.
+As I said at Investor Day, this journey won't be a straight line and the fruits of our labor are expected to show up more so in 2023 and 2024 than in 2022, but we know how to do this and we are committed on taking the actions to deliver value creation to shareholders. What matters most is pulling the levers in the next 12 months to 18 months to bear fruit in 2023 and 2024. Our balance sheet remains strong and we expect it to strengthen even further as we improve margins and generate cash flow.
+Thank you for your interest. Operator, you may now open the line for questions.
+Operator
+Thank you. [Operator Instructions] Today's first question comes from Justin Lake at Wolfe Research. Please go ahead.
+Justin Lake -- Wolfe Research -- Analyst
+Thanks. Good morning. Appreciate all the detail.
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Good morning.
+Justin Lake -- Wolfe Research -- Analyst
+Wanted to touch on two questions. One, Drew at the Investor Day, you talked about EPS probably seem to indicate you expected EPS to be closer to the low end of the range. Can you -- from the $5.05 to $5.35, can you reconfirm whether that's the kind of the expectation of the second quarter? And then, can you talk to where the exchange margin profitability, I remember you've taken down the targets there, but where is the profitability coming out this year? And do you expect to get back to normalized exchange profitability next year? Thanks.
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Yeah, thanks, Justin. So, at Investor Day, you're right, we revised the long-term pre-tax margin to 5% to 7.5% for the marketplace business, and that is unchanged even with a little bit of choppiness in the near term. Can't give you an exact date when we're going to get there, I mean, and stay there, but we're below that now obviously with the pressure that we outlined in Q2 and some of the pent-up demand. And then with respect to the guidance range, I'd say, my comments are the same from Investor Day. We kept the range wide for a reason. And there is clearly paths to get into that guidance range, so we maintain that despite some of the pressure that we outlined for Q2.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+And I might just add that, my focus upfront is, we're going through what could be another real surge in the pandemic, and so to try and call -- recognizing that which way to go will have an impact, and we'll see how it plays out, but it's something we have to be very cautious about.
+Justin Lake -- Wolfe Research -- Analyst
+Understood, thanks.
+Operator
+And our next question today comes from Josh Raskin, Nephron Research. Please go ahead.
+Josh Raskin -- Nephron Research -- Analyst
+Thanks, good morning. So, I know we spoke a little about this at the Investor Day, but what gives you the confidence that these fixed costs are just pent-up demand issues, right, and not new members coming through the SCP or even old members that are using higher levels of services now that they understand the benefits, and maybe you could help us what types of services were running above expectations, types of procedures, etc. And then lastly, I think last quarter you talked, or I think it's for the Investor Day, you talked about, this could potentially positively impact the risk adjustments, so I wonder if there's any offset there?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I'll ask Drew to start it, and then Brent you might add to it.
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Okay, let's start with risk adjustment. Like I said in the prepared remarks, the Wakely data, that's our third-party actuarial firm that aggregates for most carriers, data came in, that's date of service through April, that was consistent with our expectations and that largely represents, Josh, the members that rolled into this year and incurred claims during the first four months. So that's consistent with our expectations. On the pent-up demand, certainly, it's the nature of the services, the outpatient nature. We've seen orthopedics, joint degeneration, unfortunately some psychiatry and chemical dependency drivers in marketplace, and really the outpatient pressure coming into a little bit in March and then April and May, and then it popped in June. The SCP members, I think I mentioned this in my script as well, we're seeing them access inpatient services and then quickly, -- while it's early, quickly returning to a more normalized utilization. It's early, so we're tracking that, and we're sort of managing this in those four cohorts.
+Josh Raskin -- Nephron Research -- Analyst
+Got you. You know Drew, if these members came from other plans or if these were coming from different segments, Medicaid or uninsured etc., and I'm just curious if those previously insured versus previously uninsured are acting differently?
+Brent Layton -- Executive Vice President-Markets, Products, International, and Chief Business Development Officer
+Josh, this is Brent Layton. And the new members that we're seeing or the vast majority that have been uninsured. There has been very few, quote, switchers. So this has been uninsured. And I'll echo what Drew said, because that is what we are seeing in the separation and really of the utilization that he talked about.
+Josh Raskin -- Nephron Research -- Analyst
+Thanks.
+Operator
+Thank you. Our next question today comes from in in Kevin Fischbeck of Bank of America. Please go ahead.
+Kevin Fischbeck -- BofA Global Research -- Analyst
+Great, thanks. Let me just ask a follow-up on this concept of pent-up demand. I mean, it's interesting because in general, it seems like the commercial utilization was less impacted during COVID than the other cohorts. Are you at all worried that it will be a similar, yet potentially delayed type of pent-up demand in Medicaid and Medicare over the next 12 months to 18 months? And if so, I guess how are you treating that from a pricing perspective?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I think Drew referred to it before, we're approximately building in the pricing, but particularly in Medicaid, we have a younger population and it's mostly children, and to date they were not as affected with this new COVID, that is the Delta, but they have not been affected, so we don't see a lot of pent-up demand there. Medicare, once again, they've been a little more sensitive to getting to their position, due to age and other health factors, so we don't see as much pent-up demand there as we have in the Medi -- in the marketplace, which had new members in it.
+Kevin Fischbeck -- BofA Global Research -- Analyst
+Okay. And I guess as far as the Medicaid, you mentioned that the 675 [Phonetic] of rate cuts, is that something that's temporary? Does that reverse next year? Or should we be thinking this is, where you can get to normalized margins even with this new lower rate outlook?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Well, I think, as Drew said, we anticipate returning to a normalized rate structure. And I just want to add all this as an overlay of what happens with this new Delta which is so much more contagious and with the unvaccinated population particularly. So I mean, that's why we put the emphasis upfront, this could change how the whole dynamics of it, as we saw a year ago. So we're going to continue to watch, monitor, and manage through it as we have historically.
+Kevin Fischbeck -- BofA Global Research -- Analyst
+All right. Thanks.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Thank you.
+Operator
+And our next question today comes from A.J. Rice with Credit Suisse. Please go ahead.
+A.J. Rice -- Credit Suisse -- Analyst
+Thanks. Hi, everybody. I guess two things. One, I think in the prepared remarks, you mentioned that there is possibility that redeterminations holiday get extended into 2022. I know at the Investor Day you gave a guidance range for -- on revenues for 2022, your current expectations. Would the delay in redeterminations materially impact that revenue outlook if indeed that happened? And then the other thing I was going to just ask about is, as you're talking about this variation and because of the Delta variant, on your risk corridors on the Medicaid side, are you well into those now, so that if there is a little variation in utilization, it's not going to really matter, because you're sort of already at a point where you've given back the state of those risk corridors, not really likely to provide much protection in the back half of the year?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I think there is, first, let me deal with the redetermination. We just gave you some insight as to what sort of discussions are taking place. And I think the time to talk about the revenue and how that may or may not be impacted will be the end of the year, when we see where they are. And I am just trying to give people an insight that these are things that there could be a tailwind, but we have to wait and see. On the risk adjustment, some of them will slightly drop off and, Drew can probably give you more detail on that.
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Sure. A.J., yeah, you're right. In some states, we are into the risk corridors, even the standard ones or the minimum MBR depending on state by state, which you're right, that would give us a cover for increased cost, but not everywhere, it's sort of a mixed bag across our portfolio.
+A.J. Rice -- Credit Suisse -- Analyst
+Okay, thanks.
+Operator
+Thank you. Our next question today comes from Matt Borsch with BMO Capital Markets. Please go ahead.
+Matt Borsch -- BMO Capital Markets -- Analyst
+Yes. If I could just ask a question on the marketplace dynamics. So if you look at the medical costs and to give me a sense, you've mentioned -- you give us a big gap of how much is COVID, direct COVID care, and how much is everything else, and maybe how that compares this quarter to what we saw previously?
+Brent Layton -- Executive Vice President-Markets, Products, International, and Chief Business Development Officer
+I'll take that one, Michael.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Go ahead.
+Brent Layton -- Executive Vice President-Markets, Products, International, and Chief Business Development Officer
+So COVID, the COVID cost going back to April and May, we had budgeted or we had forecast some, but it was on an absolute basis higher. And then with our revised view coming out of the Investor Day, the June number continue to fall on an absolute basis and it was sort of right on our forecast. So COVID really was an -- while that pushed us, based on our Investor Day discussion, there is really no major change in our view on that. Obviously, the elephant in the room is what happens going forward with the Delta strain as Michael covered. And that's a much smaller component relative to sort of non-COVID utilization, whether it's the outpatient utilization on the majority of our block or the inpatient utilization on sort of 20% SEP membership.
+Matt Borsch -- BMO Capital Markets -- Analyst
+So for now this is all that -- pent-up demand, really, I mean, it could be about COVID, yes, I mean, and how these develop, but for now it's not pent-up demand?
+Brent Layton -- Executive Vice President-Markets, Products, International, and Chief Business Development Officer
+Correct, correct.
+Matt Borsch -- BMO Capital Markets -- Analyst
+Okay.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+And I think, I want to add one thing. I think you heard Drew talk about the cost for claim. Some of that pent-up demand is where individuals delayed services and we see that in cancer treatments, in diagnoses, and things. So, it is a little higher acuity, but once again, these are transitory things, and that's something that we see is fundamental and something we'll continue, unless the COVID really spikes again and people end up not going to the hospital and doctors as we historically saw. So there are unknowns out there, hence some of the caution we're -- more cautious approach we're taking until it becomes clear.
+Matt Borsch -- BMO Capital Markets -- Analyst
+Great, thank you.
+Operator
+And our next question today comes from Ricky Goldwasser with Morgan Stanley. Please go ahead.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+Yeah, hi. Good morning.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Hi. Good morning.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+So, with Delta impacting the non-vaccinated population, do you have a sense of what percent of your membership are vaccinated?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Well, it's -- I want to say the last time I saw, it was somewhere around 50%.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+Okay. So when we should think about kind of the risk there, we should think 50% of the membership. And then as we think about...
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Now remember, let me back up, a lot of them were the children, who are not eligible to be vaccinated. So I mean, the Medicaid is women and children, and so I need to clarify that.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+So should we think about the 50% as 50% of eligible population and then you have the children?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+No that's total, including the children.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+Okay, great. And then just when we think about sort of the Delta variant from what you've experienced to date and you're seeing, any sense of how to compare the hospitalization rates versus what we've seen earlier in COVID? And really as we think about kind of like your HBR assumption, are you assuming that members might refrain from going back to core utilization because of the Delta risk, but then the expenses that are related to COVID are lower than what we've seen at the beginning of this year or end of 2020? Just trying to understand the dynamic.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I think, you know, I think, the answer is not clear, and that's what we're trying to say. That's -- those are things we're going to continue to monitor. We've demonstrated we can manage through COVID type issues, and so we have that positive feeling in terms of our ability to deal with it, but we want to -- we want investors to understand that it is out there, it's not business as usual as everybody had hoped. We wish everybody was vaccinated. And we now see that even those who were not as forceful and encouraging are now moving to it. And so I think, what all -- is we want people to understand is, COVID is not over, and I think for us to think it's just business as usual, I think that would be a mistake. Now, I'm not saying it's going to necessarily impact to the point that our guidance changes, but we just maintained it as I said in my prepared remarks, while we monitor, keep you informed how it unfolds, and the impact it has on not just us, but everybody. I mean it's just how we return to work, we see them reinstating mass, things of that nature. So it's a variable.
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+Thank you.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Thank you.
+Operator
+And our next question today comes from Stephen Baxter of Wells Fargo. Please go ahead.
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Hey, good morning. Thanks for the question.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Good morning.
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Just wanted to ask another on the exchanges. Just hoping you can help a little bit with quantification as we can kind of think about what that means for your pricing next year. I guess how much higher was core medical costs relative to baseline in Q2? Like how does that compare for the special enrollment population, and I guess then, what does that mean for the non-SEP membership? Thanks.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Drew?
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Sure. As I said at Investor Day, you might recall that with what we saw through April and May, we are able to reflect that in pricing. So literally during those months, came in and made some adjustments to pricing, meaning push pricing to reflect what we thought would continue into 2022. Recall, we expect a lot of this to sort of settle out during 2021, it's just during which month in 2021 is the question. What we saw in June, we did have about half of our marketplace bids and pricing open for various reasons, and we could make judgments on what we wanted to change if anything, and the other half though our sort of submitted and baked.
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Anything that you can add on, just sort of on a relative basis, like what Q2 was versus what you might have priced for, is it a percent higher? Is it 3% higher? Anything like that?
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Yeah, I mean given the competitive nature of the marketplace and the fact that none of that's public, I think we'll keep our pricing decisions close to the vest.
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Got it. Okay, thanks.
+Operator
+And our next question today comes from Lance Wilkes with Bernstein. Please go ahead.
+Lance Wilkes -- Bernstein -- Analyst
+Yeah, just two more on Delta variant sort of questions. First one's on redetermination suspension and just kind of, can you give some color into the mechanisms that could cause a delay or push out at a state or federal level? And then the second was, just any further color on July utilization in outpatient and inpatient if you're seeing anything that's reflective of people slowing down use as a result of mass mandates or Delta?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yeah, I want to be careful on that one, talking about July, it's still early and while we have good data that we -- we don't want to get ahead of ourselves on that one. But as it relates to the Delta and your concern there, it's real, but we don't know to what extent people are going to use their good senses and do what they can to protect against it. And so we have to kind of -- that's why we -- that's why we're calling it out to say, it's a variable and it's less predictable variable, particularly when you look at the intensity of it, and it's so much stronger than the original. And the bad part is, that we're trying to tell everybody who listen that, if we don't deal with this effectively and get vaccinated and the things that prevent it, the next one's even worse, our epidemiologist has been telling us. So this is something that continues to progress and it's not just the Centene population, it's everyone in total. So that's why we're calling it out. We want to keep it in front of people, so that everybody is aware that we're dealing with it. We're doing the PSAs, we're doing everything we can to get people vaccinated, the phone calls, the robo -- robocalls and everything else. So it's not where you stand, but where you're moving in and we're working hard to be pre-emptive in it. And...
+Lance Wilkes -- Bernstein -- Analyst
+And on redeterminations, is that just a extension of Public Health Emergency that would be...
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yes, that -- exactly, yes.
+Lance Wilkes -- Bernstein -- Analyst
+Or the things that are stable.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yeah, and so I was trying, yes, you're right. That's what we determine it, where we are with the COVID.
+Lance Wilkes -- Bernstein -- Analyst
+Great.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+That would be just an extension of public.
+Operator
+Thank you. Our next question today comes from Scott Fidel with Stephens. Please go ahead.
+Scott Fidel -- Stephens -- Analyst
+Hi, good morning everyone. First question, just wanted to go back to Hex again, and just on the 2022 pricing strategy and a couple of interesting dynamics in the Hex market, because it looks like utilization is certainly pretty hot in the market, but there is also some competitors out there, including some of these newer public companies that are pricing very aggressively and don't need to have the same type of margin targets that some of the more established companies traditionally have had in the market. So I'm interested if you're going to approach 2022 pricing really sort of based on actual expected cost trends and you're willing to sacrifice membership if necessary to do that. With the risk adjustment, do you feel that, that would be able to protect you against potential adverse selection that could occur, you know, traditionally when we think about a company pricing conservatively, while there is pricing aggressively, there are some concerns around adverse selection, just interested if you're comfortable that risk adjustment could help offset that type of traditional risks?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yeah, I'll take that one. I think one, I'm not going into a great deal of detail on 2022, because that we say that for December. I think what we're truly trying to cover was that, we did take into consideration to the extent we could and, as we always do, we positively took some steps. I would say the same thing that I said last year, and it proved to be an appropriate way to do it. Now, we're not going to join any races to the bottom, because if your losing on every member, you don't make it up on volume, and so we're very sensitive to that particular approach, and we do believe that the risk adjustment, that's what it's there for. So some may rush us in, and they get adversely selected again because of it, and that will provide protection for those that, has the higher acuity patient. So I think, that's about as much as we can say about it for now, but we're going to continue to stay the course, which we think we've demonstrated, it is the appropriate course.
+Scott Fidel -- Stephens -- Analyst
+Okay. And, I just had a follow-up. I'm just interested if you have had any updates just on the Ohio situation and on the contract renewal just post the PBM legal settlement with the State?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yeah. We continue to be very optimistic and expect a resolution in the very near future. They wanted some additional data, which we've had and our consultants provide them. And they're analyzing that. And as we said with the settlement and the no harm and all court cases we moved everything, there is no reason for them not to reinstitute our bid. We did come in Number 2. And so I am very optimistic on it.
+Operator
+And our next question to the Mike Newshel with Evercore ISI. Please go ahead.
+Michael Newshel -- Evercore ISI -- Analyst
+Thanks. So, CMS recently proposed a monthly special enrollment period on exchanges. But just for people below 150% of the poverty level. I'm just wondering if you're expecting any meaningful impact on your exchange business, since you do focus on lower income, and then both from like an enrollment and revenue perspective and also any potential adverse selection problems for margin?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Go ahead, Kevin.
+Kevin J. Counihan -- Senior Vice President of Products
+Sure. Yeah, thanks for the question. First of all, as you know that, that is a proposed policy change, as you underscored, and we're in the comment period right now, so I think it may be just a bit premature to say that, this is going to be policy. We do have some concerns about this with respect to potential adverse selection, particularly since there is some states, where the APTC is not going to fully cover the cost of the premium. And in that instance, there is that risk of that risk selection. We think there are ways to ameliorate that in pricing as Drew has acknowledged and so we'll see how CMS ends up ruling.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I think that will be particularly adverse selection and for those that have the very low prices pushing to gain membership on pricing.
+Michael Newshel -- Evercore ISI -- Analyst
+Yeah, that's true.
+Operator
+Thank you. Thank you. And today's final question comes from George Hill of Deutsche Bank. Please go ahead.
+George Hill -- Deutsche Bank -- Analyst
+Hey, good morning, guys, and thanks for taking the questions. I guess, Michael, just as you look forward to the closing of the Magellan transaction, I guess, can you talk about how you're thinking about the PBM business from the pharmacy business both as it relates to the government businesses that you serve now and the opportunity to maybe enter some of the non-government businesses?
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Yes, I think I will ask Sarah to respond to that. She is close to it and working through it.
+Sarah Baiocchi -- Regional Vice President, Operations & Finance
+Yeah. Thanks for the question. We've been making really good progress on our integration planning. And as we said at Investor Day, we're focused on the restructuring of our Envolve Pharmacy business to focus on member services and clinical operations, than relying on an external PBM. And so the goal is to position Magellan, excuse me, as we said before within healthcare enterprises, where it will remain independent and focus on its third party business. So I think you should expect an update from us once we get through that transaction on how we're specifically thinking about the Magellan Rx business.
+George Hill -- Deutsche Bank -- Analyst
+Maybe then as a quick follow-up, I guess, could you talk about how you feel about the segment's competitiveness, ex the government business?
+Sarah Baiocchi -- Regional Vice President, Operations & Finance
+Sorry. Can you repeat the question, if you don't mind?
+George Hill -- Deutsche Bank -- Analyst
+I said just like, how do you guys feel like you'll be positioned competitively once the transaction closes, ex supporting the government business?
+Sarah Baiocchi -- Regional Vice President, Operations & Finance
+Well, we think the Magellan PBM business has a lot of opportunity for growth. We also think there is really interesting synergies relative to our existing Specialty Pharmacy assets with their portfolio. So that's been the major focus of the integration planning.
+George Hill -- Deutsche Bank -- Analyst
+Okay, thank you.
+Operator
+And ladies and gentlemen, this concludes our question-and-answer session. I'd like to turn the conference back over to Mr. Neidorff for closing remarks.
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+I just want to thank you all, and we'll continue to focus on our margin expansion and our capital allocations as we've talked about, while managing through what could be a difficult pandemic, but I think we have what it takes to get through it. So we look forward to it and we maintain an optimistic attitude. So thank you very much.
+Operator
+[Operator Closing Remarks]
+Duration: 50 minutes
+Jennifer Gilligan -- Senior Vice President, Finance & Investor Relations
+Michael Neidorff -- Chairman, President, and Chief Executive Officer
+Andrew Asher -- Executive Vice President and Chief Financial Officer
+Brent Layton -- Executive Vice President-Markets, Products, International, and Chief Business Development Officer
+Kevin J. Counihan -- Senior Vice President of Products
+Sarah Baiocchi -- Regional Vice President, Operations & Finance
+Justin Lake -- Wolfe Research -- Analyst
+Josh Raskin -- Nephron Research -- Analyst
+Kevin Fischbeck -- BofA Global Research -- Analyst
+A.J. Rice -- Credit Suisse -- Analyst
+Matt Borsch -- BMO Capital Markets -- Analyst
+Ricky Goldwasser -- Morgan Stanley -- Analyst
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Lance Wilkes -- Bernstein -- Analyst
+Scott Fidel -- Stephens -- Analyst
+Michael Newshel -- Evercore ISI -- Analyst
+George Hill -- Deutsche Bank -- Analyst
+More CNC analysis
+All earnings call transcripts
+
+
+
+
+

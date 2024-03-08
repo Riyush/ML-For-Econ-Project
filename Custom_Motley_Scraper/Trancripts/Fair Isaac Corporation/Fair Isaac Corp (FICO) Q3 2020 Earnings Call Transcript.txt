@@ -1,0 +1,210 @@
+Image source: The Motley Fool.
+Fair Isaac Corp (FICO -0.46%)Q3 2020 Earnings CallJul 29, 2020, 5:00 p.m. ET
+Operator
+Greetings and welcome to the FICO Quarterly Earnings Call. [Operator Instructions] As a reminder, this conference is being recorded Wednesday, July 29th, 2020.
+And now I'd like to turn the conference over to Steve Weber. Please go ahead.
+Steven P. Weber -- Vice President, Treasurer and Investor Relations
+Thank you. Good afternoon and thank you for joining FICO's third quarter earnings call. I'm Steve Weber, Vice President of Investor Relations and I'm joined today by our CEO, Will Lansing and our CFO, Mike McLaughlin.
+Today we issued a press release that describes financial results compared to the prior year. On this call, management will also discuss results in comparison to the prior quarter in order to facilitate understanding of the run rate of our business. Certain statements made in this presentation may be characterized as forward-looking under the Private Securities Litigation Reform Act of 1995. Those statements involve many uncertainties, including the impact of COVID-19 on macroeconomic conditions and the Company's business, operations and personnel that could cause actual results to differ materially. Information concerning these uncertainties is contained in the Company's filings with the SEC, in particular, in the Risk Factors and Forward-Looking Statements portions of such filings. Copies are available from the SEC, from the FICO website or from our Investor Relations team.
+The call will also include statements regarding certain non-GAAP financial measures. Please refer to the Company's earnings release and Regulation G schedule issued today for a reconciliation of each of these non-GAAP financial measures to the most comparable GAAP measure. The earnings release and the Regulation G schedule are available on the Investor Relations page of the Company's website at fico.com or on the SEC's website at sec.gov. A replay of this webcast will be available through July 29, 2021.
+And now I'll turn the call over to Will Lansing.
+William J. Lansing -- President and Chief Executive Officer
+Thanks, Steve. And thank you everyone for joining us for our third quarter earnings call. I hope you and your families are healthy and staying safe as we go through this pandemic. We continue to work primarily from home. Most of our offices are remaining closed. I'm pleased to say that this model has worked very well for us. Our productivity metrics remain very strong and we're able to innovate, meet development deadlines, serve our customers and implement our solutions.
+We posted some slides with our results on the Investor Relations section of our website. I'll be referencing some of those slides during our presentation today. I'll go over the results of our third fiscal quarter and discuss what we're seeing in the markets that we serve.
+I am pleased to report that we had another very strong quarter which demonstrates the remarkable resiliency of our business. As shown on Slide 2, we reported revenues of $314 million, flat with the same period last year, which was our highest revenue quarter ever. We delivered $64 million of GAAP net income and GAAP earnings of $2.15 per share. We delivered $77 million of non-GAAP net income and non-GAAP EPS of $2.58. We also delivered $99 million of free cash flow in the quarter, the highest single quarter in Company history.
+As you can see on Slide 3, we continue to have ample liquidity. We actually reduced our total debt by about $20 million from the end of our second quarter. We generated $106 million in new bookings and have a very strong pipeline of deals as we move into the fourth quarter. Our software revenue was down 8% this quarter due to the difficult comparison to last year when we had large application renewal revenue.
+This quarter the Applications segment was down 15% primarily due to lower upfront license revenues. Decision Management Software was up 22% primarily due to increases in recurring transactional revenues. In the Scores business, we had another record quarter despite the volatility in the credit markets. Total revenues were up 14% versus the prior year and totaled $132 million. B2C revenues were up 21% this quarter with strong growth in both myFICO and indirect partner channels.
+On the B2B side, revenues were up 12% over the same period as last year. This is especially encouraging as this is an area that could be highly volatile in uncertain economic times. We saw strength in the mortgage markets throughout the quarter with volumes up due to low interest rates.
+In auto volumes were down significantly at the start of the quarter and improved over the balance of the quarter. For cards and other unsecured lending, marketing and originations volumes were down throughout the quarter as financial institutions slowed new card acquisition efforts. Obviously, there is still a great deal of volatility in these markets with record unemployment and furloughs.
+We also continue to innovate in Scores. Last month, we introduced the FICO Resilience Index, an analytic tool that complements the FICO score and helps lenders, borrowers and investors to identify the financial resiliency of consumers across FICO score bands to make more informed and precise decisions in assessing risk during rapidly changing economic cycles.
+In general, in a down economy access to credit goes down as lenders try to mitigate the credit risk. The FICO Resilience Index can be helpful in navigating through changing economic cycles. The desired outcome is a system that is even more precise in assessing and pricing risk and less prone to broad credit restrictions and risk pricing, which can tighten the flow of credit during an economic downturn. As we navigate through the current economic climate, I'm extremely pleased with the performance of our business. Last quarter we retracted our full year guidance due to widespread economic uncertainty. We now have additional data points but markets are yet to stabilize. So while we won't give formal guidance, we are offering additional visibility into how various metrics are trending as we finish our fiscal year.
+If you look at Slide 4, an updated version of what we showed last quarter, you will see how we performed in Q3 and where we stand year-to-date versus our original guidance. We're trending well in Scores with both B2B and B2C ahead of our original guidance.
+On the software side, we're slightly behind in transactional and maintenance volumes as reduced economic activity has slowed volumes. We also have risk in license sales and services revenue. Our fourth quarter tends to be the highest sales quarter for us and we have a strong pipeline of deals. We see clients accelerating their digital transformation plans where we play a central role. But again with the uncertain economic environment, it's difficult to commit to specific revenue numbers.
+On the expense side, we're spending well below what was embedded in our guidance. As a result, we will likely have some savings versus what we expected at the beginning of the year. While there is still many moving pieces, we now believe it's likely that we'll be able to hit our previously guided pre-tax income and net income numbers.
+In many ways this is the most difficult health and economic environment we've ever faced. At the same time, we have a very resilient business model and we're actively managing the business to work through the near-term difficulties with an eye toward our long-term strategy.
+I'll share some summary thoughts later, but now I'd like to turn the call over to Mike for further financial details.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+Thanks, Will, and good afternoon everyone. Revenue for the quarter was $314 million flat with the prior year and up 2% from the prior quarter. Year-to-date revenue was $920 million, up 8% from the prior year. Our Applications segment revenues were $141 million, down 15% versus the same period last year. This decrease in revenue was driven primarily by lower license revenue. As you may recall, we had a very large license component in Q3 last year due to renewals, which under ASC 606 accounting standards require upfront revenue recognition even though we bill the customer as an annual subscription.
+Software applications billings for the quarter were $61 million, flat versus last year and up 27% from our second quarter where we had significant COVID related disruptions in sales efforts at the end of March.
+In our Decision Management Software segment Q3 revenues were $41 million, up 22% over the same period last year. The increase was primarily due to SaaS subscription revenues in our Decision Management Platform. DMS bookings were $29 million in Q3, down 22% from the previous year, but up 25% from the last quarter.
+Finally, our Scores segment revenues were $132 million, up 14% from the same period last year. B2B was up 12% over the same period and B2C revenues were up 21% from Q3 2019. In our third fiscal quarter 79% of total revenues were derived from our Americas region. Our EMEA region generated 14% and the remaining 7% was from Asia-Pacific.
+Recurring revenues derived from transactional and maintenance sources represented 79% of total revenues in the quarter. Consulting and implementation revenues were 14% of total revenues and license revenues were 7%. Revenues derived from our cloud-delivered Software as a Service or SaaS were $77 million for the quarter, an increase of 11% over the prior year. That included $61 million of transactional software revenue and $16 million in professional services.
+Bookings for the quarter totaled $106 million, down 3% from last year, but up 26% from last quarter. These bookings generated $16 million of current period revenues, a 15% yield. SaaS bookings were $40 million for the quarter, down 12% from the previous year, but up 31% from last quarter.
+Our operating expenses totaled $231 million this quarter, down $1 million from the prior quarter. This is due primarily to decreases in travel, marketing and other discretionary expenses. We expect Q4 expenses to be moderately higher.
+Our non-GAAP operating margin, as shown in our Reg G schedule was 34% for the quarter. GAAP net income this quarter was $64 million flat with the prior year. Our non-GAAP net income was $77 million for the quarter, which is up 1% from the same quarter last year.
+Our effective tax rate this quarter was about 16%, which included $5 million of excess tax benefits resulting from stock based compensation activities. We expect our effective tax rate to be around 9% to 11% for the fiscal year. As a reminder, our recurring tax rate before these excess tax benefit is approximately 25% to 26% globally.
+Free cash flow for the quarter was $99 million compared to $61 million in the same period last year, an increase of 63%. Free cash flow this quarter benefited from a large reduction in working capital year-over-year, primarily related to unusually high accounts receivables at the end of Q3 2019. Free cash flow for the trailing four quarters was $297 million.
+Turning to the balance sheet, at the end of the quarter we had $126 million in cash which is up $19 million from last quarter due to cash generated from ops, partially offset by share repurchases. Our total debt face value is $938 million with a weighted average interest rate of 4.38%. At the end of the quarter we had drawn $103 million on our $400 million revolving line of credit. We further drew on that facility to pay for the $85 million maturity of senior notes in July.
+Our leverage ratio as calculated for our revolving line of credit, was 2.16 and our covenant, as you may recall, is 3.25 on the revolver. We bought back 157,000 shares in the third quarter for $54 million at an average price of $343 per share. And today we announced a new Board authorization for $250 million of share repurchase.
+Finally, as Will said, because of the current uncertain economic environment, we are not providing formal financial guidance for the remainder of fiscal '20.
+With that, I'll turn it back over to Will for some final comments.
+William J. Lansing -- President and Chief Executive Officer
+As we work to finish our fiscal year and build plans for fiscal '21, I'm confident that FICO is well positioned for the future. We're built to withstand economic downturns and are taking steps to manage through current uncertainties without sacrificing our commitment to our strategic initiatives. As I've said before, we are stewards of remarkable assets and we have a great team dedicated to helping our customers solve their most difficult problems. And the value of the analytic solutions we provide both in software and in Scores is more important now than ever.
+I'll turn the call back over to Steve to manage the Q&A.
+Steven P. Weber -- Vice President, Treasurer and Investor Relations
+Thanks, Will. We will now take your questions. Operator, please open the line.
+Operator
+[Operator Instructions] We do have a question from Manav Patnaik with Barclays. Please go ahead.
+Manav Patnaik -- Barclays Capital -- Analyst
+Thank you. Good evening guys. My first question is just on the B2B Scores business. I think the 10% growth sounds a little bit light to us. So I was just hoping you could walk us through what that mix between price and volume was there maybe versus the last quarter even? I feel like you have been missing the pricing element or the mix of your different lending categories in there.
+William J. Lansing -- President and Chief Executive Officer
+Yeah, Manav, I don't know that we've ever broken out the mix between the volume and price. The volume was a little bit lighter, as you'd expect over a quarter like this one. So some of that was price.
+Manav Patnaik -- Barclays Capital -- Analyst
+Okay.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+And Manav I guess just to maybe give you a little more directional view on that. Look, we happen to report earnings after Equifax and TransUnion, also after Visa. And you can see some of the trends that would underlie our results in the B2B Scores business, particularly on the origination side from what they're showing. Obviously mortgage volumes were very, very strong. Auto volumes seem to be picking up, but for the quarter were down. And on the personal loan and credit card side of things, we're seeing the same things that the bureaus saw in the period.
+Now that bureau data also seems to suggest that the trend is improving. But that's certainly no assurance that that's going to maintain itself. And of course when you look at the pricing across the three segments, I think you'll understand well the strategic pricing actions we took in the what is our other category, credit cards, personal loans and so forth. And that category suffered the worst in terms of volumes, but the pricing actions helped mitigate that.
+Manav Patnaik -- Barclays Capital -- Analyst
+Okay, got it. That's helpful. And then just in the D2C side, I mean that's a pretty impressive number. Is there any one-time deal activity in there like you signed some new clients and so forth?
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+No, that's a pretty clean number. We are genuinely seeing consumer interest in their credit score and how they can track it and improve it in this environment and it's showing both directly in myFICO.com and in our partner B2C sales.
+Manav Patnaik -- Barclays Capital -- Analyst
+Got it. And then maybe just one last question. Well, in your conversations with clients on the Software and even on the Scores side, are you starting to hear any kind of major budget issues, where maybe you could see more delays on the Software side and maybe more pressure on the pricing side?
+William J. Lansing -- President and Chief Executive Officer
+No, we really haven't had that. I think things are moving a little bit more slowly than they have historically. I think there is this kind of additional care being taken with everything that our customers do. That said, they are full steam ahead on digital transformation, on upgrading their solutions and we are front and center there. So we really haven't experienced slowness there.
+Manav Patnaik -- Barclays Capital -- Analyst
+All right. Thanks a lot.
+Operator
+We have a question from Bill Warmington with Wells Fargo. Please go ahead.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Good evening, everyone.
+William J. Lansing -- President and Chief Executive Officer
+Hi, Bill.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+Hey, Bill.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+So Equifax -- hey, guys. So Equifax and TransUnion both indicated improving results in June and July. And I know you guys are typically lagging those results by maybe 45 days. And so I wanted to see whether those improvements that they're describing are showing up in your results. Do you see -- did you see them in the June results? Are you seeing them in July?
+William J. Lansing -- President and Chief Executive Officer
+So you're absolutely right that our stuff lags them by roughly six weeks. We get some early indication and on basis of that I'm pretty comfortable saying that our stuff will track theirs. But it's -- again it's not final, these numbers aren't final.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Got it. Also on the B2C to follow up on Manav's comments, that looked like a very strong quarter. TransUnion noted, though, since they are a big supplier in the indirect space, that they were a little concerned about the second half of the year just because they were concerned that the aggregators are not seeing a lot of demand from the banks, meaning the banks are not very aggressive these days at trying to add new accounts. And so I just wanted to touch base on whether you felt comfortable with those volume -- with that level of growth continuing because you can see the inside much better than we can. So --
+William J. Lansing -- President and Chief Executive Officer
+Look, we're pleased with the growth that we had and it's always hard to forecast the future in an environment like this. The one thing that's clear though is, consumers are more focused, more interested in what's going on with their credit score than they've ever been before and we're seeing it in myFICO and we're seeing it in our partner consumer stuff. And so -- so I would hope that that trend would continue, but again we don't know.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Yeah. How has been the -- how has been the demand for UltraFICO and the Experian Boost? How has that been?
+William J. Lansing -- President and Chief Executive Officer
+So Experian Boost is doing very well. And as you know, that's -- I mean it's boosting the FICO score and so there is a benefit to FICO every time a boost happens. UltraFICO is lagging that and largely because of the success that we're having with Boost.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Got it. And I wanted to ask on the software side, you guys have been making some outsized investments in software now for some time and I wanted to check in just to see whether you felt like the time was approaching when the rate of investment in software was going to start to slow.
+William J. Lansing -- President and Chief Executive Officer
+I can't make that promise, Bill. What I would tell you is that we're seeing -- what we're seeing is tremendous appetite for our new solutions and for our new Decision Management Platform. And deal size is getting bigger. And we now have banks that are adopting our solution, our Decision Management Platform solution and then building all kinds of use cases on top of it. So we feel like we're being vindicated in the strategic direction.
+At the same time, we -- it does require investment. We continue to pour investment in. When will margins improve, there'll be some margin improvement over time as we scale up our SaaS business and have more multi-tenant and returns to scale. So there'll be some benefits there. And I think -- I think professional services as our products become simpler to install and a little bit easier, the proportion of professional services will go down, which will also be a margin improvement.
+So those are the factors. But I can't give you a timeline. What I would tell you is that we will continue to invest at this rate as long as it feels like those are smart decisions, like those are intelligent decisions given the appetite of the market for our stuff.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+You mentioned the banks adopting some of the DMS solutions and then building their own solutions on top of that. I know from time to time, you've talked about how you've developed your own -- some of the new generations of your products are actually being built on the DMS platform and you use a lot of tools internally to do that. There was some talk about sometime over the -- maybe the next 18 to 24 months, taking those tools and turning them outward meaning that you had this whole ecosystem similar to Salesforce.com or Workday and having developers being able to develop customized tools on that platform. Does that -- is that timeline still active?
+William J. Lansing -- President and Chief Executive Officer
+Yeah, that -- we are very focused on that and this year, 2021, this coming year will be the year when our APIs are available on an outward basis and borrowers and resellers and others will be able to build solutions on top of our platform. So that's very much part of our strategy. It's the way that we intend to reach other verticals besides financial services. It's a way for us to go down market and basically solve the problem that we've always had which is very limited distribution for extraordinary IP.
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Yeah. Excellent. All right. I'll yield the floor. Thank you very much for the insight.
+William J. Lansing -- President and Chief Executive Officer
+Thanks, Bill.
+Operator
+We have a question from Jeff Meuler with Baird. Please go ahead.
+Jeff Meuler -- Baird -- Analyst
+Yeah. Thanks. Sorry if this is introductory, but I wasn't aware of kind of Bill's line of questioning about the 45-day lag. So I just want to make sure I'm understanding it correctly. So are you saying that you have not yet been paid for the credit pulls at the bureaus in June because it's not only that it's reported to you, like in arrears at the end of the month, but you're actually paid kind of on a lagged basis and you recognize revenue on a lagged basis?
+William J. Lansing -- President and Chief Executive Officer
+[Indecipherable]
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+Yeah. No, we don't recognize revenue on a lagged basis. We don't get the final report for June until some periods, days not weeks, after the end of the quarter. But we've taken accrual base for an estimated revenue that in conversations with those customers we determined is appropriate for the quarter. And historically, it's very close and for revenue recognition purposes it means that we're able to match revenue in the quarter with revenue recognized.
+And cash flow wise and billing wise we have -- we're not going to go into our payment terms with individual customers on a call like this. But our payment terms with the bureaus are normal course and speed for a relationship like we have with them. But we do get those reports in arrears as mentioned before. So we don't know, we generally don't know what is happening in July and our bureau partners. We will know in a couple of weeks. Does that help?
+Jeff Meuler -- Baird -- Analyst
+That's helpful. Thank you. Yes, it does. And then just the expenses in the Scores business. What's driving that? And I guess I was curious if you're leaning in more on marketing spend for myFICO or if there is some mix shift going on where you have some more expenses to the bureaus for like tri-merge premium myFICO products or something.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+So much of it is that we're investing in the FICO Resilience Index, as Will mentioned briefly in his remarks and maybe he wants to talk more about that, we haven't dramatically increased marketing for the other parts of our business but the development work, the outreach work and the implementation work around the Resilience Index as well as other innovation steps that we're taking in the Scores business is primarily what's driving the increase you see there.
+William J. Lansing -- President and Chief Executive Officer
+And then one small factor is that with myFICO, as the volumes go up, our expense goes up because we have a cost of goods sold in myFICO.
+Jeff Meuler -- Baird -- Analyst
+Right, right. Got it. So I know that net revenue retention isn't a common metric that you give. But just curious if you can help us understand the size of the land and expand on the DMS platform solution. Like are there enough historical examples or time series where you can help us kind of understand how big is the customer tend to come on as a new engagement for a DMS platform. And then I don't know two or three years down the road, just how much more additional product or revenue are you generating off of them?
+William J. Lansing -- President and Chief Executive Officer
+So what we're -- I would say it's early days. And so we don't have a lot of data points around which to build a conclusion. That said it looks really good. So what you have is a situation where the very biggest banks, our biggest customers and absolute top tier banks, they have super complicated systems and they still buy some point solutions and we have not yet had a top 10 bank say to us, yeah, we're adopting the FICO Decision Management platform for all of our consumer-facing decisioning. That hasn't happened yet.
+However, it is happening with a tier down. And so I would say two years ago, we had some small banks that were doing it and said, yeah, we're going to standardize on the FICO decisioning platform. And then we're going to build all kinds of different credit decisions around that. And now we're moving up market and so we have some pretty good sized banks that have made the decision to adopt. And sometimes it's -- they will start with a point solution they were in the market for and recognize the expansion opportunity. And sometimes they do it very deliberately with a view to putting a whole lot of different use cases on top of the platform once it's been adopted.
+So the dog is eating the food. We're pretty happy about the way it's gone.
+Jeff Meuler -- Baird -- Analyst
+All right. Thank you very much.
+Operator
+Our next question is from Kyle Peterson with Needham. Please go ahead.
+Kyle Peterson -- Needham -- Analyst
+Hey. Good evening, guys. Thanks for taking the question. I just wanted to start on the decision management piece of the business. It seems like you've had some nice growth there for several of the last -- or the last few quarters. Is the SaaS momentum kind of rolling strong enough where we can expect this growth to be able to continue or were there any like large chunky deals in there that we need to be mindful of? Just to make sure we're thinking about that piece of the business.
+William J. Lansing -- President and Chief Executive Officer
+I think it is fair to think that the growth will continue. I mean this is -- it's -- obviously the number is a little bit volatile because it's a smaller part of our business still. And so on a percentage basis it can move quickly because we're dealing with smaller numbers.
+That said, there is we have ever more solutions on top of the platform. It's very much our future. It's the way our sales people are selling and it is the way the banks are buying it and it is a very different world than it was three or four years ago. So while we still have -- we still have sales of legacy product and our legacy solutions will be around for a long time to come, because they are best in class at what they do. The Decision Management Platform is really picking up steam.
+Kyle Peterson -- Needham -- Analyst
+Great. That's fair.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+And let me just add a little technical nuance to that. It's a good question because under the ASC 606 accounting rules, it can create some distortions in revenue when you sell an on-prem subscription product for three, five years. That on-prem portion in most cases, needs to be recognized all once upfront despite the fact that it's a subscription. But if it's a SaaS sale, it is recognized ratably as we build and deliver it. So it can be lumpy for that reason alone and not reflecting the underlying health of the business. Look, if there are big whoppers like that that we've had to pull forward in any particular quarter, we'll do our best to call those out. This quarter it was a normal mix between the types of revenue recognition and sort of the growth is pretty normal.
+Kyle Peterson -- Needham -- Analyst
+Great. That's really good color. And then just a follow-up on the margins. Nice to see the upside there this quarter. And I mean I can appreciate the color you guys have provided in the slide deck on some of the travel, entertainment and those types of expenses, which obviously a bit lower right now. Just want to see have you guys when -- as we've gone through this kind of COVID process, have you guys found any other expenses that you might be able to rationalize that might reduce some longer-term cost savings for whatever the world gets a little more [Speech Overlap]?
+William J. Lansing -- President and Chief Executive Officer
+Yeah, it's a good question. We wrestle with it ourselves. I am -- we have a view that some of these savings are here to stay. We don't imagine that we will ever go back to the level of travel we had before. I think that all of us, not just FICO, but our customers and everyone involved is now way more adept at using Zoom and doing more video. And what we're finding is we can have comparable, if not more, contact with our customers with less travel. And so -- and it's obviously more efficient and much lower cost. So, I would imagine some of it's going to survive in a post-COVID world. That said, it is unnaturally low right now. So you can expect it to go up from the level it's at now. You can expect it to be lower than it was a year ago on an ongoing basis.
+Kyle Peterson -- Needham -- Analyst
+Great. That's very helpful. Thanks for taking the questions and nice quarter guys.
+Operator
+We have a question from Brett Huff with Stephens Inc. Please go ahead.
+Brett Huff -- Stephens Inc. -- Analyst
+Good afternoon, guys. Thanks for taking my question. I had a quick question on the helpful chart that you guys put, I think it was Slide 3 or 4 where you had some red boxes and green boxes. Just want to make sure I understand the red boxes in that there is some risk to those numbers, but it seems that the Scores boxes, the Scores numbers 63 and 18 those seems like hittable target. And wondering are those not green box because they're a little harder to predict or kind of what should we imply given that it seems those might fall in the green box category?
+William J. Lansing -- President and Chief Executive Officer
+I'd say it's a little hard to predict. It's -- call it conservatism on our part. It's a little harder to predict.
+Brett Huff -- Stephens Inc. -- Analyst
+Okay. That's helpful. And then a quick update on the progress that you guys are making, which I know it varies a little bit by product on the saasification of the products. I know you've got some already saasified, originations manager and etc. I know the Falcon and the updated TRIAD is coming out and/or near live. Can you just remind us of where we are in each of those products, kind of coming out with the full GA SaaS product?
+William J. Lansing -- President and Chief Executive Officer
+We are more than halfway through the process, if you look at our top franchises. So as you mentioned, Origination Manager is now on the platform. The new version of TRIAD which we call Strategy Director is now on the platform. Blaze, our rules engine is now on the platform called Decision Modeler. So we're making progress there. There is, I'd say the two biggest ones that aren't there yet are Falcon and Debt Manager and those will take longer.
+I mean Falcon we're working on it. We have another release coming very soon. But it's a -- that's a massive undertaking.
+Brett Huff -- Stephens Inc. -- Analyst
+And then last question for me is the license revenue from Falcon was down quite a bit. I know some of that was from -- I think it was down 66%. I think some of that was from a -- the difficult comp. Is there any color you can give us that might be help us kind of see the COVID impact rather than the tough comp impact? I'm not sure if you told us kind of what the numbers were on a year-over-year basis if I go back to that script.
+William J. Lansing -- President and Chief Executive Officer
+We don't break out the volume part of it, but the volumes are down somewhat, a bit, but that's part of it.
+Brett Huff -- Stephens Inc. -- Analyst
+Okay.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+Yeah. And the vast majority of it was renewable comp. We just had a couple of whoppers in the third quarter of last year that all had to be recognized upfront and those only happen once in a while, and certainly not in this quarter.
+Brett Huff -- Stephens Inc. -- Analyst
+Okay. Great. That's what I needed. Thank you.
+Operator
+[Operator Instructions] We have a question from Surinder Thind from Jefferies. Please go ahead.
+Surinder Thind -- Jefferies -- Analyst
+Thank you. Actually a question about the Scores business. And just kind of following up on the earlier question about the volumes, generally, I mean, industry volumes that are kind of widely reported whether it's mortgage, auto or credit they've generally been fairly good predictors of the Scores revenues. But based on kind of what I would call incredible results that you guys -- really good results that you guys posted this quarter, from my perspective there seems to be a bit of a disconnect in some of the segments.
+And so, when I looked at like the mortgage volumes for industry that was fairly consistent with what the bureau has reported. But then they reported auto and credit data that was much stronger than what the industry data would suggest. And do you have any color in terms of other types of activity that could have made up for that delta or any color there might be helpful? I mean, as an example, if I was to look at some of the bank data their marketing activities, their credit card originations [Speech Overlap]
+William J. Lansing -- President and Chief Executive Officer
+Yeah, I would say that -- I mean, in general I don't really have an answer for you. A narrow thing would be the fact that we do less lead gen than some of the bureaus. So you'll see less there.
+Surinder Thind -- Jefferies -- Analyst
+Okay. Thank you. And then another follow-up question in terms of just the Biden-Sanders Unity Task Force put out some recommendations a couple of weeks ago related to credit scoring. And one of the recommendations was that the credit scores being more inclusive of using alternative data which would suggest support for your newer Scores, so FICO 9, FICO 10. And is there any potential revenue benefits from you guys that you guys would experience if clients were to upgrade to, let's say, the newest version to the Scores or are you somewhat agnostic as long as the clients continue to use FICO Scores?
+William J. Lansing -- President and Chief Executive Officer
+I'd say it's more the latter. We're agnostic and we encourage people to move up to the latest and greatest scores, not because we charge more for them, but because we think they will get better results. And so, no, I wouldn't say that there is -- don't expect a revenue uptick as they migrate to newer scores. No.
+Surinder Thind -- Jefferies -- Analyst
+That's helpful. And then one other question, in terms of, are you able to provide any color in terms of the percentage of revenues that maybe that is scores that's maybe less volume driven that might be more relationship-driven such as like monitoring type of revenues or any color around ballpark figure that you might be able to provide?
+William J. Lansing -- President and Chief Executive Officer
+I am not sure I followed the question. I mean all of our Scores revenue is driven at some level by volume and a little bit by price.
+Surinder Thind -- Jefferies -- Analyst
+I guess what I was trying to get at was if we were to use just credit cards as an example, obviously there's originations volumes, there is the marketing volume, but then there is the monitoring piece.
+And so I'm assuming monitoring would be more based on like the headcount that certain bank would have. And so that would be less subject to, I guess, the COVID environment in the sense that they would want to continue to monitor all of their accounts.
+William J. Lansing -- President and Chief Executive Officer
+Yeah. We see continued interest from our bank customers and monitoring closely. I mean, if anything, they're more vigilant and more focused than ever.
+Surinder Thind -- Jefferies -- Analyst
+Okay.
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+But maybe to hit your more correctly those account management volumes, which is what we call them, are also based on the number of scores pulled. So there is no real difference in that. The volume driver there for account management versus originations.
+Surinder Thind -- Jefferies -- Analyst
+Okay. Thank you.
+Operator
+And there are no further questions at this time.
+Steven P. Weber -- Vice President, Treasurer and Investor Relations
+Thank you. This ends today's call. Thank you all for joining and we look forward to speaking with you again soon.
+Operator
+[Operator Closing Remarks]
+Duration: 38 minutes
+Steven P. Weber -- Vice President, Treasurer and Investor Relations
+William J. Lansing -- President and Chief Executive Officer
+Michael I. McLaughlin -- Executive Vice President and Chief Financial Officer
+Manav Patnaik -- Barclays Capital -- Analyst
+Bill Warmington -- Wells Fargo Securities -- Analyst
+Jeff Meuler -- Baird -- Analyst
+Kyle Peterson -- Needham -- Analyst
+Brett Huff -- Stephens Inc. -- Analyst
+Surinder Thind -- Jefferies -- Analyst
+More FICO analysis
+All earnings call transcripts
+
+
+
+
+

@@ -1,0 +1,242 @@
+Image source: The Motley Fool.
+General Dynamics Corp (GD 0.65%)Q2 2019 Earnings CallJul 24, 2019, 9:00 a.m. ET
+Operator
+Good morning and welcome to the General Dynamics Second Quarter 2019 Earnings Conference Call. [Operator Instructions] Please note, this event is being recorded.
+I would now like to turn the conference over to Howard Rubel, Vice President of Investor Relations. Please go ahead sir.
+Howard A. Rubel -- Vice President of Investor Relations
+Thank you, Rocco, and good morning, everyone. Welcome to the General Dynamics second quarter 2019 conference call.
+Any forward-looking statements made today represent our estimates regarding the company's outlook. These estimates are subject to some risk and uncertainties. Additional information regarding these factors is contained in the company's 10-K and 10-Q filings.
+With that, it's my pleasure to turn the call over to our Chairman and Chief Executive Officer, Phebe Novakovic
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Thank you, Howard. And good morning, everyone. As you can discern from our press release, we enjoyed a very good second quarter with revenue of $9.56 billion and net earnings of $806 million. We reported EPS of $2.77 per diluted share $0.15 a share better than the year ago quarter and $0.09 per share better than consensus. Compared to the year ago quarter revenue was up $369 million or 4%. This is as reported, but organic growth was higher after taking into account the effect of divestitures at GDIT and the acquisition of Hawker Pacific. Remember that, divestitures at GDIT provided somewhat more than $250 million per quarter in revenue.
+Net earnings of $806 million were up $20 million or 2.5% on a modest improvement in operating earnings and a lower effective tax rate, offset in part by higher interest expense. Sequentially, revenue was up $294 million or 3.2% and operating earnings were up $76 million or 7.5% on higher operating margins.
+With respect to consensus, revenue in the quarter was about $200 million more and the operating margin rate was 10 basis points higher than forecasted by the sell-side. In short, $0.08 of the $0.09 beat [Phonetic] was provided by stronger operating earnings.
+Let me turn very briefly to the first half of 2019 compared to the first half of 2018. Revenue was up $2.1 billion or 12.5% against the first-half of 2018, driven by strong organic growth, plus the acquisition of CSRA at the beginning of the second quarter last year. In other words, CSRA revenue was not reflected in the first quarter's results last year.
+On the other hand, operating earnings were up only $8 million, burdened by the amortization related to the CSRA acquisition. EPS was $0.06 better. In short, we had a very good second quarter, good sequential improvement and a good first half. We are somewhat ahead of both our internal operating plan and external expectations.
+So let me give you some perspective on the segment reporting for the quarter and for the half. I'll then ask Jason for some comments, before I give you some insight into our outlook for the business and each segment for the remainder of the year.
+First, aerospace. Aerospace had a very good quarter and most important respect. Revenue of $2.14 billion and operating earnings of $331 million were $241 million higher and $55 million lower, respectively. Both numbers were consistent with our outlook and the production plan for the year. Operating margin was down 490 basis points, as anticipated.
+Let me give you a little color here with the quarter-over-quarter comparisons concerning earning and -- earnings and operating margin. You may recall that, the Aerospace segment had a banner quarter in the second quarter of last year with 20.4% operating margin against 15.5% this quarter. This delta is driven only in part by mix. No G500s were in the second quarter 2018 results. More importantly, the second quarter of '18 had an unusually large launch assistance payments from the supplier, result is higher year-over-year R&D expense. These two items were the significant difference between the quarters.
+Looking at things sequentially, revenue was down $104 million, but operating earnings were up $3 million on a 90 basis point improvement in operating margin. We enjoyed good order activity in the quarter, the dollar based book-to-bill was 1-to-1. This brings the book-to-bill to 1.2-to-1 for the first half. The numbers for Gulfstream alone was somewhat higher. We have had very good operating performance for two -- order performance for two years now.
+As you know, the G500 was certified on July 20, 2018 and we have delivered 21 of them to customers and one to ourselves as a demonstrator through the end of the second quarter. The G600 earned both its type and production certification on June 28, 2019 is now paves the way for G600 pilot training and deliveries commencing in early August. This will help both revenue and earnings in the second half and do much to reduce the operating working capital buildup related to producing the early G600s. Finally, EASA validation for the G500 is planned for Q3 and for the G600 in Q4.
+Let's now turn to the defense side of the house. Combat Systems had a good quarter as the relevant comparisons clearly indicate. Revenue of $1.66 billion was up $125 million over the second quarter last year, or 8.1%. Similarly, operating earnings of $242 million were up $6 million or 2.5% over the second quarter at '18.
+I should remind everyone that the second quarter of 2018 represented an 8.5% improvement in revenue over second quarter 2017 and a 5% increase in operating earnings. In short, we have experienced strong quarter-over-quarter growth for the last three years. On a sequential basis, the story is similar. Revenue was up $23 million and operating earnings were up $36 million. For the first half, revenue was up $321 million or 10.8% against the first half of 2018.
+However, operating earnings were down $12 million with a one-time settlement of lease litigation in the first quarter, more than accounting for the year-over-year decline, However, as my outlook remarks will indicate, we expect to catch-up in the second half. Our US based programs continue to perform well with Abrams volumes up and nice growth in the ordnance and munitions portfolio. In the aggregate, our US government volume accounted for 57% of revenue in the first half, as compared with 48% in the first half of '18.
+Army demand upgrade our platforms in the upcoming years is manifesting itself in explicit program direction for the Tank and Stryker, which puts us in good stead for continued growth. Our international programs continue to progress nicely. Work on the UK AJAX program is transitioning from engineering to test and then to full production. Live fire testing has been successful and we expect to enter reliability testing in Q3 of this year.
+Backlog in this segment is lumpy and the second quarter is no exception. Major orders for this fiscal year were captured in the fourth quarter of '18. As a consequence, we have a very good line of sight for production planning and for driving continuous improvement. We are trending in the right direction at Combat, it is a very nice growth story.
+With respect to the Marine Group. Revenue of $2.33 billion was $157 million or 7.2% higher than Q2 a year ago. Operating earnings were up only $2 million against the year ago quarter on a 50 basis point contraction in margin. On a sequential basis, revenue was up $267 million and operating earnings were up $17 million, 13%, 9.4%, respectively. For the first half, revenue of $4.38 billion was up $181 million or 4.3% against the first-half of 2018.
+Operating earnings were down $2 million on a 40 basis point contraction in margin rate. Work on our submarine programs, the Virginia-class construction and engineering on the Columbia ballistic missile submarine continues to make good progress. We are building Virginia-class Block IV boats and have begun to purchase long lead materials for Block V. We expect that 10 Block V contract to be awarded later this year, it will result in a considerable addition to backlog.
+With respect to Bath, the challenges on the first DDG-1000 ship and the DDG-51 restart ships are behind us with nice performance on DDG-1001 and DDG-1002 on the follow on DDG-51 ships. We have a 11 DDG-51s in backlog was a very good opportunity to improve performance steadily across this large backlog.
+Finally, revenue at NASSCO for the quarter and year-to-date was up due to higher volumes related to the T-AO Lewis class oiler program. In all, Marine Systems has been a compelling growth story for us and will continue to be so for a long time to come.
+Mission Systems. Mission Systems had revenue of $1.28 billion in the quarter, an increase of $130 million or 11.3% over the year ago quarter. Earnings of $162 million were up $9 million against the second quarter last year. On a sequential basis, revenue was up $119 million and earnings were up $14 million. On a year-to-date basis, Mission Systems revenue was up $190 million or 8.5%. First half earnings were up $11 million against the first half last year.
+Mission Systems has been a high-performance business for us and will continue to be so. It has enjoyed a book-to-bill of at least 1-to-1 in 2016, 2017 and 2018. While in the first half of 2019 the book-to-bill was slightly below one times. We expect that to remedy in the second half.
+Information Technology reported revenue of $2.16 billion in the second quarter, down $284 million against the year ago quarter. This is largely the result of the divestitures made in this segment through the course of last year. As I mentioned earlier in my remarks. However, operating earnings were only $2 million down as a result of improved margin rate. On a sequential basis, the results were also quite solid. Revenue was essentially stable at $2.2 billion for each quarter. Operating profits were also quite similar with 2Q at $154 million versus $156 million in Q1. We are experiencing good program mix and synergies. Our industry-leading EBITDA was 12.4% in the quarter, matching Q1's results.
+Our integration of CSRA and the GDIT has gone very well and is ahead of our internal schedule. Our management team pulled from both businesses jobs very nicely. We are meeting cost synergy targets and are working to exceed this year's goals. To that end, we have continued to generate good bookings. In the quarter, we had orders of $2.67 billion for a book-to-bill of 1.2-to-1. For the first half our book-to-bill is also 1.2-to-1. On a trailing 12 month basis book-to-bill also tops one time. Our total backlog of $8.85 billion is up 5% after excluding the backlog related to divested businesses.
+So in summary, we've delivered solid operating results across the business. The comparisons quarter-over-quarter, sequentially and year-to-date are all wholesome.
+Now I'm going to turn the call over to Jason and then come back to you with our outlook for the rest of the year.
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+Thank you, Phebe. And good morning. Our net interest expense in the quarter was $119 million versus $103 million in the second quarter of 2018. That brings the interest expense for the first half of the year to $236 million versus $130 million for the same period last year. The increase in 2019 is due to the debt we issued to finance the acquisition of CSRA.
+We're also carrying more commercial paper than anticipated due to delayed payments related to one of our large international vehicle programs in Canada. At this point, we expect interest expense for 2019 to be approximately $460 million. Our cash from operations of $291 million in the quarter was also impacted by these payment delays. As we've discussed previously, this is a timing item. With respect to the outstanding receivable balance, we were recently told by the customer that we will receive considerable funding next month. We continue to expect to resolve the balance of the arrears by the end of the year.
+Assuming these outstanding payments come in this year, we still expect full year free cash flow conversion will be well in excess of 100% of net income. On the capital deployment front, capital expenditures were $181 million in the quarter or approximately 2% of revenues. Assuming receipt of the outstanding payments I just noted, consistent with the timing I described, we still expect our capital expenditures to reach approximately 3% of revenues for the year, reflecting the investment in our shipyards to support this significant growth that's on the horizon.
+Our effective tax rate in the quarter was 18%, bringing the rate for the first half to 18.3%, consistent with our expectations for the full year. In the quarter, we paid $295 million in dividends and we spent approximately $100 million on the repurchase of 575,000 of our shares. That brings the total for the first half to 1.1 million shares for $184 million. We plan to acquire enough shares in 2019 to ensure there is no dilution from the exercise of employee stock options. Otherwise, we anticipate deploying the balance of our free cash flow this year to pay down our short-term borrowings.
+We ended the quarter with a cash balance of $702 million on the balance sheet and a net debt position of $13.2 billion. We expect to repay our outstanding commercial paper balance by the end of this year and our first tranche of fixed and floating rate notes matures in the second quarter of next year.
+I'll wrap up with a few points of color on the backlog and our order activity in the quarter. We had another solid quarter with respect to orders. We finished the quarter with a total backlog of $67.7 billion, that's up 2% over this time a year ago. And the total potential contract value including options and IDIQ contracts was $102 billion, up 3% over a year ago.
+As Phebe mentioned, GDIT posted a particularly strong quarter with a book-to-bill of 1.24 times. And I'll remind you that, that does not include over $2.5 billion in IDIQ awards in the quarter, which as you know, we don't include in backlog or our book-to-bill calculation. And the last item I'll note is the ongoing impact of foreign exchange rate fluctuations on the backlog at Combat Systems, which has experienced a $250 million reduction in backlog in the first six months of the year due to this issue.
+With that, I'll turn it back over to Phebe.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Thanks, Jason. So turning to our outlook for the year. Let me provide our forecast for the year for each segment compared to what we told you in January and then wrap it into our EPS guidance. For Aerospace, our guidance was to expect revenue of $9.7 billion, up $1.2 billion from 2018. Operating earnings around $1.5 billion and an operating margin around 15.5%. We now expect revenue of $9.95 billion with earnings of $1.5 billion to $5 billion with an operating margin of 15.3%. The increased revenue comes largely from increased pre-owned sales and modest mix shift.
+Earnings will be up on improved operating performance, but the margin rate will be diluted by pre-owned aircraft sales. For Combat Systems our previous guidance was to expect revenue of $6.5 billion to $6.6 billion, up $260 million to $360 million from 2018 with operating earnings in the range of $965 million to $975 million. We now expect revenue of $6.8 billion and operating earnings of approximately $1 billion. The more revenue drives $25 million to $35 million in more operating earnings.
+For the Marine Group, we previously guided to a revenue of $9 billion, margins at around 8.5% and operating earnings of $717 million. We see no reason to change that guidance, although my bias would be very nominally lower.
+For Mission Systems, we previously provided an outlook for this year of $4.8 billion to $4.9 billion, with margins in the mid to high 30% range. This implied an operating earnings of around $660 million. We now anticipate revenue of $5 billion, operating earnings around $690 million with operating margins around 13.8%.
+For Information Technology, we guided to revenue of $8.3 billion with an operating margin of 7.5%. We now expect revenue of $8.5 billion and operating earnings of $630 million with an operating margin of 7.4%, 10 basis points lower. So all of this sums to revenue for General Dynamics of about $39.2 billion and operating earnings of around $4.6 billion. Compared to our initial guidance, we will have both higher revenue and operating earnings. This permits us to increase our EPS outlook from a range of $11.60 to $11.70 to a range of $11.85 to $11.90. As for the quarterly progression, it appears to us that the third quarter will be $0.30 better than the second quarter.
+Howard, we can now take some questions.
+Howard A. Rubel -- Vice President of Investor Relations
+Thanks, Phebe. As a reminder, we ask participants to ask one question and one follow-up, so that everyone has a chance to participate. Rocco, could you please remind participants how to enter the queue.
+Operator
+Absolutely. [Operator Instructions] Today's first question comes from Robert Stallard of Vertical Research. Please go ahead.
+Robert Stallard -- Vertical Research. -- Analyst
+Thanks so much. Good morning.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Good morning.
+Robert Stallard -- Vertical Research. -- Analyst
+Phebe, at the Aerospace division one of your peers noted that their customers took a bit of a strike in May and June with concerns of the economy and tariffs. And I was wondering if you saw anything like that at Gulfstream?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+No.
+Robert Stallard -- Vertical Research. -- Analyst
+That was pretty straightforward.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Yeah. We -- look, we have had continued to have nice order activity, our pipeline remains robust. As I think, I've explained to many of you before, you need to look at the business Aviation market not only by cabin size, but really by OEM, because our experience in the marketplace is very different from others. So we continue to have good order activity throughout each of the months in the quarter.
+Robert Stallard -- Vertical Research. -- Analyst
+That's great. That's very helpful. Thank you.
+Operator
+And our next question comes from Ronald Epstein of Bank of America Merrill Lynch. Please go ahead.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Yeah. Hey, good morning.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Hi, Ron.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Just a follow-on to Rob's question. I mean, can you kind of walk through the demand environment you're seeing across the different products you have at Gulfstream. 650, 600, 500 and 280.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Sure. So the 650 continues to have very solid demand. It -- I think by the end of this quarter we had 370 in service. It continues to have performance characteristics unmatched by anyone else, any other aircraft. And it continues to enjoy some very nice solid demand. The 600 has had very good demand, we suspect as we saw with the 500 when we start delivering these airplanes that is a catalyst for incremental demand increases and I have every confidence that, that will also increase. 500 continues nicely and the 280 has had good sales, but a little bit more episodic. That end of the market tends to be that way. But on our big key platforms airplanes we've continued to have good activity.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+And then as a follow-on question. Have you seen any blow back in the Chinese market regarding the potential sale of the Abrams to Taiwan. Because there were some stuff in the Chinese press about it. I'm just curious if it's just kind of press noise or if there is some reality there?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Sorry. As far as I know, no tank sales have actually occurred. But let me remind everyone how this works. This is an FMS case or any FMS case, the US Army buys our tanks and sells them to other foreign nations. In this case, potentially to Taiwan. I'd say that, we've had fairly muted demand in that market for a while now. And I suspect that tariffs has had some dampening effect, but the pipeline is increasingly active and we've been quite comfortable in where we are.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Great. Thank you very much.
+Operator
+And our next question comes from David Strauss of Barclays. Please go ahead.
+David Strauss -- Barclays -- Analyst
+Thanks. Good morning.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Hi, David.
+David Strauss -- Barclays -- Analyst
+Hey. Phebe, just on the G500, it looks like deliveries in the quarter based on the 21 that you said have been delivered so far. It looks like deliveries were pretty light in the quarter on G500. Maybe would I expect the margin to be better because of that. Can you just talk about that? And if you're through the first -- in the first block that's the low margin G500 deliveries at this point?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So we had a bit of catch-up in Q1, right after -- after the 2018 certification. And frankly, this is simply a timing issue. And we are continuing to come down our learning curves, our margin performance is better on each and every airplane that comes down that -- down our line. So this is simply in the moment a timing issue. As I've said, we had a bit of a backlog in Q1 and we're through that and we're entering into really steady state.
+David Strauss -- Barclays -- Analyst
+Okay. And then, it's my follow-up on GDIT. It looks like based on your updated guidance, you're still expecting organically ex the divestitures relatively flat in the second half of the year. When do we start to see this strong booking rate that you've highlighted comes through in terms of actual organic growth out of that business? Thanks.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+2020, as we said before. And this is a transition year for us and a positioning for growth year and all of the indicators of growth are there. So we are pretty confident that next year is going to realize some of those that increase backlog.
+Operator
+And our next question today comes from Seth Seifman of J.P. Morgan. Please go ahead.
+Seth Seifman -- J.P. Morgan. -- Analyst
+Thanks very much. And good morning. Just want to ask a little bit about the cadence of EPS, not that it matters that much. I mean, the guidance is up but just in terms of what you had thought in January had kind of a very heavy fourth quarter. And I -- it seems like the EPS that had been in the second half cadence back in January, did some of that show up in the first half?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Somewhat, but our guidance is really -- so if you think about it, the real story underguarding the update and the guidance is, we've got more revenue with simple -- with a similar margin performance leading to higher earnings. So when we give you our update mid-year, we -- that is the result of careful ops reviews and we have very considered guidance that looks at all the and considers all the risks and opportunities, and we tend to narrow our range and have a certain amount of precision. But I'd say, the overarching story is more revenue, high earnings.
+Seth Seifman -- J.P. Morgan. -- Analyst
+Okay, great. And then just in Combat. In terms of -- if there were kind of specific platforms that drove the increase in the guide and kind of -- was there a meaningful amount of FX that you have to offset on the P&L just to be able to raise the guide by about $30 million?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Not on the P&L with respect to FX. This is simply continuing to come down our learning curves on the domestic programs that we now have and our increasing and then it's the -- it's the velocity of the domestic program vehicles as we increase our manufacturing capacity. So that's really the under guarding. It's all the story about domestic right now and the US Army.
+Seth Seifman -- J.P. Morgan. -- Analyst
+Thank you very much.
+Operator
+And our next question today comes from Noah Poponak of Goldman Sachs. Please go ahead.
+Noah Poponak -- Goldman Sachs -- Analyst
+Hey. Good morning, everyone.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Hi, Noah.
+Noah Poponak -- Goldman Sachs -- Analyst
+Jason, on the free cash flow. I was wondering if it's maybe kind of worthwhile to bridge from this year to next year, just on the bigger pieces, just because I think I heard you say the Canadian LAVs payments coming in at the back half of this year take you to a 100% free cash to net income conversion this year. So it would imply still below 100% conversion without those payments. I'm assuming -- I know capex is still elevated. I'm assuming there's other working capital headwind. So can we kind of -- can you help us bridge '19 to '20 or is it actually just as simple as it starts [Indecipherable] 100% conversion pretty clean beyond this year?
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+Yeah. I think if you isolate the catching up on the arrears on the international program this year, we had previously indicated and still are of the position that this year, and frankly, the years looking forward are in the 95% -- 90%, 95%, 100% conversion range on a pretty steady basis. Fluctuating in that range based on capex investments and things like that. So, really this one timing item and the resolution of that item is what causes the anomaly, it caused the anomaly last year. And I think to put a little bit more precision on the outlook for this year, if we get fully caught-up this year we would expect to be nicely in excess of 100%. So I think that maybe reconciles a little bit of the math you were thinking about. But to your point beyond this year, we're really -- we expect to be consistently in the range of 90% to 100% conversion year-on-year subject to some fluctuation with capex and other investments like that.
+Noah Poponak -- Goldman Sachs -- Analyst
+Got it. And then, Phebe, just going back to Gulfstream. Can you speak to what pricing has been like in your recent order activity, better, worse or the same? And what that means for margin improvement in the business going forward?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Well, as you can imagine, we're very sensitive about discussing pricing, but you can well imagine that we're -- we continue to enjoy the pricing that we've seen recently in our business and on each of our platforms.
+Operator
+And our next question today comes from Peter Arment of Baird. Please go ahead.
+Peter Arment -- Robert W. Baird -- Analyst
+Yeah. Thanks. Good morning, Phebe and Jason.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Hi.
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+Good morning.
+Peter Arment -- Robert W. Baird -- Analyst
+Phebe, on GDIT it sounds -- it's great. It sounds like the integration is tracking ahead of your plan. And given we're seeing the 1.2 book-to-bill you saw this quarter. I do characterize this is kind of, you're picking up share gains or is it just the environment with all the spending? Just maybe some color on what you're seeing there? Thanks.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So, for those of you who have known us for a while, we never track share. That can be a full variant, you can have an awful lot of share and go broke. So what we're really looking for is, how we have built our pipeline win rates which since the acquisition has been about 75 -- 74% to 75%, on recompetes about 90%, very strong at least 1-to-1 book-to-bill since the acquisition and we've been building that backlog with programs that we think we can execute quite effectively and quite efficiently.
+So let's talk a little bit about what GDIT is. This is a people business. And the way you attract people is by establishing a superior culture with very clear career development opportunities and some very interesting work. We have done quite well on that side to my mind. And that I think underguards this really quite impressive performance that this management team has exhibited since the acquisition. And again, just to give you a size and scope and complexity of this business.
+On the first half, we submitted almost $24 billion in proposals and that was more than the entire submittals in 2018. And for the remainder of the year, in the second half we're looking about $27 billion proposals. We submitted about 350 proposals, just in terms of numerically in the second quarter and then -- and about 560 -- 650 in the first half. So that tells you that what you need [Indecipherable] that kind of execution in proposals and velocity in submittals. And the win -- and the resultant win rate, you need a very, very strong management team undergirded by the culture and the people that I just talked about. And I'm very pleased with where we are right now. We're doing very well at GDIT.
+Peter Arment -- Robert W. Baird -- Analyst
+Appreciate all the color. Thanks Phebe.
+Operator
+And our next question comes from Cai von Rumohr of Cowen & Company. Please go ahead.
+Cai von Rumohr -- Cowen & Company -- Analyst
+Yes. Thank you very much. So, Phebe, could you give us some color in terms of the lead times at Gulfstream, particularly for the G650 and 280.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So as we've been -- as we've been transitioning to new aircrafts, we are no longer following individual plane wait times. But let me tell you, all of our wait times are comfortably within the range of one year to 18 months, and that's across all portfolio. So I'm good with that. I think that's the way you think about it. And we've continued to perform quite nicely and hit our -- hit comfortable and wait times in each of our legacy airplanes, as well as our new one. So we are really just managing to the order -- to the orders in the demand and we will be quite well, I think.
+Cai von Rumohr -- Cowen & Company -- Analyst
+Great. Thank you. And then at GDIT you've given us the bids submits. Can you tell us at mid-year how much -- what's the number for bids awaiting decision over the remainder of the year? And maybe give us some color on some of the potential pursuits like GSMO and NextGen?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So, I don't actually know the timing of the war [Phonetic] decisions given all the input, that is really idiosyncratic to the individual customer. But I think one of the reasons I wanted to share with you, the velocity of contracts and the enormity of the -- velocity of proposal and the enormity of the proposals just to give you a sense that we do not track and I don't think about this business in terms of any particular pursuits.
+And many of the pursuits you have mentioned are in our competitive space. So I certainly not going to talk about that. But I think that both the size and velocity of the submissions give you a real sense of -- this is a big business with a lot of moving parts. And frankly, I don't worry about any one particular program.
+Cai von Rumohr -- Cowen & Company -- Analyst
+Terrific. Thank you very much.
+Operator
+And our next question comes from Myles Walton of UBS. Please go ahead.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Myles?
+Operator
+Hello, Myles. Your line is open.
+Myles Walton -- UBS -- Analyst
+Sorry about that. Good morning. Jason, I was wondering if you could, first, maybe clarify on the payment you expected next month. Just to kind of get a rough size of the burden on hand you have there. Would you get to full conversion for the year if that one came through?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Well, I think -- listen, these are very -- I think we've said all we're going to say about where we are right now on that program. As you can well imagine, these are sensitive tripartite conversations and we've told you where we are. We're making nice progress and let's just leave it at that.
+Myles Walton -- UBS -- Analyst
+Okay. Maybe as a follow-up then, the Marine Group, Phebe, you mentioned on the Marine Group that you weren't changing the guidance, but you're bias was nominally lower. I just want to clarify, was that lower on the margin or on the topline?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+I think I said very nominally lower. So, listen, I'm in a big business that has a number of moving parts. I'm very sensitive, particularly when we have new starts and we have a number of new starts primarily at our West Coast shipyard. And that plus we may see depending on the Navy needs, we may see additional material come in this year and that tends to carry a lower margin. So I'm just at the -- absolute -- as I say, very nominally I want to -- condition that there is -- those two things that we don't have as much clarity about as we typically do in any given quarter. And so, that's why I gave you that ever sell, Myles, caveat.
+Myles Walton -- UBS -- Analyst
+Yeah. And I was just [Indecipherable] clarifying it, could it looked like revenue you're running ahead. So that makes sense on the margin. Thanks, Phebe.
+Operator
+And our next question today comes from Pete Skibitski of Alembic Global. Please go ahead.
+Pete Skibitski -- Alembic Global -- Analyst
+Hey, good morning, guys. Phebe, what's your view as you look at this two year budget deal. It kind of shaped up this week for 2021. How do you think about the Navy's ability to afford the Columbia class or for the potential for that program to crowd out other priorities or other programs that will go into a flattening kind of environment?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Well, it was certainly very good news that it looks like we've got some clarity in our political landscape at the moment. Listen, let's talk about Colombia for a moment. Columbia is a national priority and I have no doubt that as a national priority funding will be made available for it. There are a lot of different ways to do that from a budget perspective. And I think that the US Congress and our customer is talking about various avenues or ways to ensure healthy budgeting. I'll [Indecipherable] back when we did the Ohio in the '80s, a separate account was set up, that's a potential option. So I don't worry too much about Columbia crowding others programs out. There is an imperative for the Navy to recapitalize that ships and build more ships. There is a consensus in Washington across political spectrum or at least political parties leadership in the major political parties. But understand that, we need ships and we need to replace the [Indecipherable] deterrent and so I'm comfortable that the Department of Defense working with the Congress will find appropriate funding mechanisms to address what you have raised.
+Pete Skibitski -- Alembic Global -- Analyst
+Got it. Just as a follow-up. What's the reason behind the higher pre-owned volumes this year at Gulfstream. Is that -- just to really act to market or maybe this year is just an anomaly in terms of initial 600 customers or something like that?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+There is nothing in particular. On occasion we will have a bit more pre-owned, but it signifies nothing.
+Pete Skibitski -- Alembic Global -- Analyst
+Okay. Thanks guys.
+Operator
+Our next question comes from Carter Copeland of Melius Research. Please go ahead.
+Carter Copeland -- Melius Research -- Analyst
+Hey, good morning, guys.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Hi, Carter.
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+Good morning.
+Carter Copeland -- Melius Research -- Analyst
+Just a quick clarification and a question. I had in my notes that Maximus was like $900 million impact on the organic calculation, but I think you said 250 plus, Phebe. So I just wanted -- if you could clarify that for us. And then just wondering, now that we've gotten certification at Aerospace on the two new airplanes, if you expect R&D to be a little bit more stable. I know you had the comparison in the quarter that caused a little bit of year-over-year variability. But should we expect that to be a little bit more steady in the future than we've seen in the last several quarters?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So, let's answer that in the inverse order. As we move the test airplanes from the test program in the customer set, you'll see some reduction in R&D. And then, as you all know, we keep a nice level loaded amount of R&D in our business. And we think that that's appropriate. And so, I think we'll see some decline, but we continue to have an active R&D -- series of active R&D activities in that -- in Gulfstream.
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+And then, Carter, on your -- first half of your question, I think you're inference was correct on the scale of the business that we divested to Maximus. There were, however, in the last 12 months or so a couple of other smaller divestitures we did in the IT portfolio. We had a small commercial healthcare divestiture, we had a next-generation 911 supportive business. When you add all those up, the total annualized revenues were somewhere slightly in excess of $1 billion. So that was to Phebe's point of roughly $250 million a quarter impact.
+Carter Copeland -- Melius Research -- Analyst
+Okay. That's great. Thanks for the clarification.
+Howard A. Rubel -- Vice President of Investor Relations
+And Rocco, this will be our last question coming up now, please.
+Operator
+Absolutely. Our final question today comes from Jonathan Raviv of Citigroup. Please go ahead.
+Jonathan Raviv -- Citigroup -- Analyst
+Hi. Thank you for the time and good morning.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Good morning.
+Jonathan Raviv -- Citigroup -- Analyst
+Hey, Phebe, in terms of supporting that GDIT ramp into 2020. Can you give us some color on how the personnel on the recruiting side is going? I know it's a very important part of the people business.
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+So those management teams have gelled. We took leaders from both legacy businesses and they have really gelled into one team, one fight throughout the first three quarters and then here into this acquisition and integration. We have kept almost every single key leader that we wanted to keep. In fact, I believe every leader we wanted to keep. And we are reducing our staff turnover. So all of that to me is very wholesome sign that we are building a cohesive team that -- at GDIT, up and down their leadership chain that can maintain very long-term robust and successful business. I'm very pleased with what I've seen there, both in terms of the energy level, the cohesion and the culture that they have established. It's really quite impressive.
+Jonathan Raviv -- Citigroup -- Analyst
+Great. Thanks. And then, I'm just thinking about that pickup. I mean, there is some peers in the market tend to talk about mid-single digit organic growth. I know, market share is not as important to you guys. But is that how we should think about the pick-up potential and should EBITDA growth accelerate in line with sales growth in 2020?
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Well, I think we're growing about 3% this year and we'll see some nice growth in 2020. But beyond that, we're not going to piecemeal 2020 at this point. We will give you our 2020 estimate and outlook and detailed view of the business as we always do on the fourth quarter call after our fall review where we do in-depth analysis and bottom-up operations reviews of each one of our businesses and we'll let you know then. Fair enough?
+I tried. Thank you.
+You did. Thank you.
+Howard A. Rubel -- Vice President of Investor Relations
+And thank you for joining our call today. As a reminder, please refer to the General Dynamics website for the second quarter earnings release and highlights presentation, which will now contain our earnings outlook for the balance of the year. If you have any additional questions, I can be reached at 703-876-3117. Thank you very much.
+Operator
+[Operator Closing Remarks]
+Duration: 47 minutes
+Howard A. Rubel -- Vice President of Investor Relations
+Phebe N. Novakovic -- Chairman and Chief Executive Officer
+Jason W. Aiken -- Senior Vice President and Chief Financial Officer
+Robert Stallard -- Vertical Research. -- Analyst
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+David Strauss -- Barclays -- Analyst
+Seth Seifman -- J.P. Morgan. -- Analyst
+Noah Poponak -- Goldman Sachs -- Analyst
+Peter Arment -- Robert W. Baird -- Analyst
+Cai von Rumohr -- Cowen & Company -- Analyst
+Myles Walton -- UBS -- Analyst
+Pete Skibitski -- Alembic Global -- Analyst
+Carter Copeland -- Melius Research -- Analyst
+Jonathan Raviv -- Citigroup -- Analyst
+More GD analysis
+All earnings call transcripts
+
+
+
+
+

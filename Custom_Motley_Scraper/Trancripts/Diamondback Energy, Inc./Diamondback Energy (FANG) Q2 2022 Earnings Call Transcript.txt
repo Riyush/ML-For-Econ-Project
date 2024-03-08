@@ -1,0 +1,293 @@
+Image source: The Motley Fool.
+Diamondback Energy (FANG -0.21%)Q2 2022 Earnings CallAug 02, 2022, 10:00 a.m. ET
+Operator
+Good day and thank you for standing by. And welcome to Diamondback Energy second quarter 2022 earnings conference call. At this time, all participants on a listen-only mode. After the speaker's presentation, there'll be a question-and-answer session.
+[Operator instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Adam Lawlis, vice president. Please go ahead.
+Adam Lawlis -- Vice President, Investor Relations
+Thank you, Jason. Good morning and welcome to Diamondback Energy second quarter '22 conference call. During our call, we will be referencing an updated investor presentation, which can be found on Diamondback's website. Representing Diamondback today are Travis Stice, chairman and CEO; Kaes Van't Hof, president and CFO; and Danny Wesson, COO.
+During this conference call, participants may make certain forward-looking statements related to the company's financial condition, results of operations, plans, objectives, future performance of businesses. We caution you that actual results could differ materially from those that are indicated in these forward-looking statements due to a variety of factors. Information concerning these factors can be found in the company's filings with the SEC. In addition, we'll make reference to certain non-GAAP measures.
+
+Reconciliations with the appropriate GAAP measures can be found in our earnings release issued yesterday afternoon. I'll now turn the call over to Travis Stice. 
+Travis Stice -- Chairman and Chief Executive Officer
+Thank you, Adam, and welcome to Diamondback's second quarter earnings call. I'd like to start by highlighting our second quarter performance. We once again delivered operationally, producing over 221,000 barrels of oil per day, near the high end of our quarterly guidance range. Our discretionary cash flow or operating cash flow before working capital changes totaled $1.8 billion, up 27% quarter over quarter, setting a new high for the company.
+This increase was primarily due to a favorable backdrop -- macro backdrop, as well as improvement to our realized pricing as hedges put on last year continue to roll off. Our free cash flow for the quarter was $1.3 billion, up 35% quarter over quarter. We will return 63% of this free cash flow to our shareholders, well in excess of our commitment to return at least 50% of free cash flow. This return is made up of our growing and sustainable base dividend, opportunistic share repurchases, and a robust variable dividend.
+Our annual dividend is now $3 per share or $0.75 per quarter, representing a 7.1% increase from the company's previous annual base dividend of $2.80 per share or $0.70 per quarter. As previously announced, the board elected to keep our total dividend per share flat quarter over quarter at $3.05, which is comprised of the 75% base dividend and a $2.30 variable dividend. This puts our total annualized 2Q dividend yield at nearly 10%. Additionally, we took advantage of market volatility and repurchased nearly 2.4 million shares during the quarter at an average price of a little over $127 a share for a total cost of approximately $303 million.
+We believe our opportunistic, disciplined approach to our repurchase program brings the most value for our shareholders and continues to give us the flexibility to use either our variable dividend, buybacks, or as has been the case so far in 2022, a combination of both to hit or exceed our returns target. As we move into the second half of the year, it's hard to ignore the amount of free cash flow we expect to generate, around $2.5 billion of current strip pricing. In June, we announced an increase in our capital returns commitment target, moving it up from 50% to at least 75% of free cash flow beginning in the third quarter. At 75%, that's over $1.8 billion returned to shareholders or well north of $10 per share in just two quarters for total annualized return yield of approximately 17%.
+This robust free cash flow profile led the board to double the size of our buyback program from $2 billion to $4 billion, giving us ample running room to be opportunistic in the equity markets. Since the program was initiated in the third quarter of last year, we've repurchased over 8.3 million shares at an average price of $113 a share for a total cost of approximately $940 million. This includes 1.8 million of shares we've already repurchased in the third quarter for a total of $200 million at an average price of $113.70 a share. Our confidence to increase our returns payout is rooted in the strength of our balance sheet.
+During the second quarter, we opportunistically repurchased 337 million in Diamondback senior notes at an average cost of 95.4% of par for a total of $322 million. We focused on our debt coming due over the next 10 years, significantly lowering our maturity towers while taking advantage of the volatile debt market. We also recently redeemed $45 million in legacy Energen in QEP notes due 2022 at par. As a result, our balance sheet is stronger today than ever before.
+Our annualized net debt to EBITDA is under 0.7 turns and we continue to improve our leverage profile with net debt decreasing by $267 million or 5% quarter over quarter. These debt reduction efforts have helped decrease our interest expense by 25% year over year, offsetting higher production taxes and lifting costs and helping push our unhedged realized cash margin this quarter to more than 83%, a company record. Moving to the operations side of the business, the environment in the Permian continues to be challenged. However, we continue to focus on how we can mitigate the inflationary pressures we are seeing across nearly all facets of the business by lowering the variable pieces of our cost structure.
+These efforts have allowed us to keep the high end of our capital guidance range flat at $1.9 billion, and we do not anticipate any future changes yet we still haven't been able to offset all of the fixed pricing increases we've seen, which is why we've moved up our third quarter capital range to $470 million to $510 million, up from our capital spend of $468 million this quarter. This takes into account the roughly 10% cost increase we expect on the frac side, which is made up of increases in the cost of horsepower, wireline services, and fuel. On the drilling side of the business, we're seeing a similar level of pricing increases, particularly from day rates, casing, and cement. In the back half of this year, we plan to operate approximately 12 drilling rigs and three frac crews.
+As we mentioned last quarter, we've partnered with Halliburton to secure our first e-fleet frac-core, which will run in our Martin County acreage off power generated from a central location and delivered via existing lines, not only reducing our Scope 1 emissions profile, but also lowering our completion costs as a result of fuel savings and improved operational efficiency. We expect this fleet to be operational early in the fourth quarter and it will simply be swapped in for one of our existing Halliburton crews. Earlier this month, we continue to lean into this technology and secured our second e-fleet core. This crew will be operational in the first quarter of 2023 and is expected to further reduce costs and decrease our environmental footprint.
+It will also replace one of our existing crews. On the drilling side, we currently have one drilling rig running off line power in the Delaware Basin with two more electric rigs expected in 2023. Just as we're seeing on the completion side, the electrification of our drilling fleet has multiple benefits. Additionally, we're utilizing spotter and intermediate rigs to take advantage of lower pricing as compared to the rest of our drilling fleet and are exploring downsizing surface casing size, intermediate whole size to improve our drilling efficiencies, pushing Diamondback even further down the cost curve.
+Lastly, we continue to work to earn our social and environmental license to operate. Part of this is our commitment to provide quarterly disclosures that detail our progress toward our environmental goals. We are proud of how we have performed so far this year. We're looking at multiple metrics, including recycling nearly 40% of our produce water and keeping our total recordable incident level at multi-year lows.
+However, flaring continues to be an issue. We're diligently working with our gallery partners to build in redundancy, accelerate plant turnarounds, and meet the takeaway needs of our current development plan. We remain committed to ending routine flaring by 2025 and are confident in our ability to achieve that goal. We've also spent hundreds of millions of dollars to lower our emissions profile by building pipelines and electrifying our production fields.
+These projects have lowered our costs to date but due to the increase in the cost of power across the state of Texas, we had to move our lease operating expense guidance range up by $0.50 a barrel at $4.50 to $5 a barrel. Even with this move, we continue to be the low cost Permian operator and build on a long track record of cost control. The second quarter was a record quarter for the company. We delivered on our production guidance, kept costs in line and distributed over 63% of our free cash flow to our shareholders.
+We're well positioned to build off this momentum and are excited to begin returning at least 75% of our free cash flow to our shareholders this quarter. We expect this industry leading cash returns program and our best-in-class operational machine to continue to deliver differentiated results for our shareholders. With these comments now complete. Operator, please open the line for questions.
+Operator
+[Operator instructions] And our first question comes from Neal Dingmann from Truist. Your line is now open.
+Neal Dingmann -- Truist Securities -- Analyst
+Morning, guys. My first question is somewhat on shareholder return specifically. I think on your conference call a year ago, I looked, and Travis, I think you stated that as you looked at, back then, at supply and demand fundamentals, you said, I think, suggests that oil supply was still purposely being withheld from the market, driving your cull to not grow production. So I'm wonder when you look at today, do you still believe that's the overall case of worldwide fundamentals or specifically supply? And does that still drive -- is that you're still your primary decision, that your primary driver of your decision for the nil growth, or is this more based on investor request?
+Travis Stice -- Chairman and Chief Executive Officer
+Well certainly, Neal, as we look into 2023, I think it's a little premature to do much forecasting into 2023. But I can tell you kind of our base case is looking at something at the same activity level probably generating something in the low single digits in terms of the growth rate. But again, it's more of an output. But I think what you specifically asked about the call last year, I think I highlighted really three things and then subsequently added a fourth.
+And that was demand in pre-COVID levels, wanted to see five-year inventory levels somewhere returning to the five-year average. We still had a question about OPEC capacity. And the one I added subsequent to our call was the administration continuing to embed uncertainty into our capital allocation process across the industry. And so certainly three of the four those have been answered today, Neal.
+There's still a lot of administration-led uncertainty, both in policy actions and in rhetoric, but the other ones certainly appear to be answered. So I think as the industry starts to pivot toward -- more focus on 2023, I think you'll still be governed primarily by the shareholders, who own the companies, but I do think you'll start to see a little bit of growth in the industry as we look into next year.
+Neal Dingmann -- Truist Securities -- Analyst
+Great. Great response. Then my second question really I would say is on the notable capital spend discipline that you guys continue to have as many others we've already heard about continue to increase their cost despite them previously saying that they were locked in. So I'm just wondering, going forward, would you all consider any type of, I don't know, like a vertical -- more vertical integration or any other new strategy while the focus remain more or less on the same as working with vendors and just the efficient execution?
+Travis Stice -- Chairman and Chief Executive Officer
+Well, Neal, I think we've been pretty successful with the existing model. We'll always look at -- we'll always look and see what ways we can ensure lower execution cost. We were a little bit flummoxed in the first quarter with all the commentary about locked in prices and then subsequently followed with capex raises. And that's just not the way that we've typically tried to communicate what our execution focus is.
+But I do want to -- I know have a lot of employees listening in the call this morning. And, look, I want to give a shoutout to organization for our ability to continue to manage cost in an inflationary environment. Again, about a year ago, Neal, we were talking about how you separate winners and losers in an inflationary environment, it's always those that can control costs. And while we've taken our looks on the fixed cost side of the ledger, we've done a really remarkable job on the variable cost.
+And I look for our organization to continue to lean into that in 2023.
+Neal Dingmann -- Truist Securities -- Analyst
+Very good. Thank you so much.
+Travis Stice -- Chairman and Chief Executive Officer
+Thanks, Neal.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Neil Mehta from Goldman Sachs. Your line is now open.
+Neil Mehta -- Goldman Sachs -- Analyst
+Yeah. Good morning, Travis, team. First question is around capital returns. And you did increase the share repurchase authorization to $4 billion from $2 billion previously.
+It looks like you've been leaning a little bit more into the repurchase with the pullback in the stock. If you can just talk about your framework around variable dividend versus repurchases and how you're thinking about being countercyclical with how you deploy your share repurchases.
+Travis Stice -- Chairman and Chief Executive Officer
+Well, we certainly think that there's a lot of value in our existing stock price. And we think that oil and public equity stocks is really undervalued right now. And so the two data points that you mentioned, I think, are good indicators of future behaviors. The first being we spent about $500 million in the last two or three months repurchasing shares and the board just essentially doubled our authorization up to $4 billion.
+So the base dividend still remains sacred, sustainable, and growing, followed by in this environment share repurchases. And as we've committed to a month ago, we'll make up the difference and keep our shareholders whole by returning at least 75% in free cash flow.
+Neil Mehta -- Goldman Sachs -- Analyst
+Yeah. Thanks, Travis. And then we love your perspective on the M&A outlook. We know that you've been active over the last couple of years, but is it fair to assume that, given that you're prioritizing share repurchases at this point, you think that's a better investment than that third party M&A? Thank you.
+Travis Stice -- Chairman and Chief Executive Officer
+Yeah, certainly, Neal. That's the behavior we're demonstrating. And as I just iterated, just to emphasize, oil in the public markets is really cheaper than the private markets and I think there continues to be a wide gap between those two points. And I think you're also seeing stalled or failed processes as well, which again, indicates a spread between bid and ask.
+So right now, the greatest return for our shareholders is leaning into our repurchase program.
+Neil Mehta -- Goldman Sachs -- Analyst
+Thank you, sir.
+Operator
+Thank you. And one moment for our next question. And our next question comes from Arun Jayaram from JPMorgan Securities. Your line is now open.
+Arun Jayaram -- J.P. Morgan -- Analyst
+Yeah. Good morning, Travis and team. Maybe just a follow up to Neal's question is, how do you think about your process to engage in portfolio renewal in this kind of backdrop? And perhaps a little bit more color, it looks like you had about $85 million of property acquisitions in the cash flow statement. I was wondering if you could provide us a little bit of detail on that.
+And I think on a year to date basis, that takes you just under $400 million of property acquisitions.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah. Yeah. Arun, the big deal is I think one, $230 million deal, we do capitalize a little G&A and interest, which flows through that number so it's not all property acquisitions. But there's a couple of things that we do on the property side is just the typical blocking and tackling, letting up.
+We give our land teams the directive that we'd rather drill 100% working interest wells across the board. And so they're always working to send that up and block and tackle that but nothing of significance purchased in Q2.
+Travis Stice -- Chairman and Chief Executive Officer
+And look, Arun, being -- having boots on the ground here in Midland, I think all of our shareholders expect me and us to be in the deal flow at all times. But that just means we look at things coming across the desk. But I go back to say, look at what our behaviors are and the separation between public and private expectations on value. And that's I think that's the best way to think about what our forward plans are.
+Arun Jayaram -- J.P. Morgan -- Analyst
+OK. And just my follow up is you guys had really, really strong oil price realizations in the quarter. So I just wondered if you could just remind us about your mix between getting waterborne crude pricing versus, call it, a Midland type of benchmark.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yes. So we have all of our oil and pipes go into the Gulf Coast, a third of it going to Houston and getting MEH pricing, two-thirds going to Corpus, getting Brent pricing. And so we've been the beneficiary of this water Brent WTI spread. We have a little bit of exposure to the Midland market.
+We also have the ability to kind of flex that to the Gulf Coast with the space that we have. And so the sell-off in WTI versus Brent has resulted in really good oil realizations. No guarantees that it's going to continue forever, but that kind of fits the insurance policy that we've put in place to invest in these pipelines and get our barrels to the most liquid markets.
+Arun Jayaram -- J.P. Morgan -- Analyst
+Great. Thanks, guys.
+Kaes Van't Hof -- President and Chief Financial Officer
+Thank, Arun.
+Operator
+Thank you. And one moment for our next question. And our next question comes from Scott Hanold from RBC Capital Markets. Your line is now open.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Hey, thanks. Could you all give us some view on what you all are seeing on leading-edge inflation? And if you can give us a sense of what kind of savings you guys expect from the e-fracs versus a regular frac, or I mean, how meaningful is that?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yes, Scott. Good question. I would say generally we took out capex on the low end and took up our average well cost estimate for the year. I would say probably today, we're probably up 15% today from the beginning of the year.
+We'll probably exit a little higher than that. So probably 15% year over year well cost increases, but what the ops team is doing is not taking every phone call and just increasing prices. We're trying to do some things to be more efficient. You mentioned the e-fleet.
+Travis just mentioned in his opening remarks that we're going to have a second e-fleet coming in early next year. That saves money not just on the horsepower piece, but on the fuel piece. These would be connected to two line power and the back end of a gas plant with burning dry gas in the Permian. So while gas prices have gone up, they certainly haven't gone up as much as diesel.
+I would say we probably save 50-ish a foot with that -- $50 a foot with that e-fleet. A couple of other things we are doing on top of that, we are adding some preset rigs to replace some big rigs as those preset rigs cost a lot less. With these big pads and long cycle investments, we have that ability to do so. Teams also getting really smart on casing design, cement design, wherever we can pick up pennies, that's just our stock and trade.
+Scott Hanold -- RBC Capital Markets -- Analyst
+A lot of pennies you're picking up. Good to hear that. And to follow up, and I'm going to kind of belabor the point on shareholder returns, and I know you all have done pretty well with executing your flexible plan. But the bottom line is, right now, it appears that your stock is trading at a discount to peers, meaning it looks pretty evident.
+And like, how do you all think about like what the best way to bridge that gap is in like what can you do to kind of force the issue to get your valuation more in line with peers or where you think it should be?
+Travis Stice -- Chairman and Chief Executive Officer
+Scott, when I talk to our board and communicate what I think the success indicators are, there's really five. Three of them were foundational. That led us to success in the first 10 years. And I think the two that I've added are going to be foundational for the next 10 years.
+But the three that we built the company on are execution, low cost operations, and transparency. And we've been very successful in differentiating ourselves with those. The two that have recently been added are capital return and decarbonization. And on the capital return, we're now -- our yields is peer leading.
+We're competitive on all forms of shareholder return measures. And the last one is decarbonization in not only our disclosure, but also in our performance. And look, those are the five things that we excel at. And you can ask us questions about any one of those five, and we can articulate chapter and verse why those are successful -- why we're successful with those.
+And while you pointed out a dislocation in stock, we believe fundamentally that we continue to do the right thing for our shareholders to generate the greatest value. And it -- and we believe we're running this company not just for the quarter, but for the next 10 years and longer.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Appreciate the color. Thank you.
+Operator
+And thank you, and one moment for our next question. And our next question comes from David Deckelbaum from Cowen. Your line is now open.
+David Deckelbaum -- Cowen and Company -- Analyst
+Thanks, Travis, Kaes, and team. Appreciate the color, too. Maybe if I could ask one on just capex. In 2022, I think you all forecast that about 12% of your total budget going toward non D&C.
+Is that a good contribution as we think about '23 and '24?
+Kaes Van't Hof -- President and Chief Financial Officer
+Well, good question, David. I think generally, if you look at our past history, we kind of -- whenever a deal happens the next year, infrastructure midstream is 10% to 15% getting down to kind of 7% to 8% of total capital in the out years. I certainly expect us to be closer to 78% of total capital in 2024 with a step down next year in 2023. I think the only the only wrinkle is we are all, us and our peers, are all spending a lot of money on environmental cleanup.
+And so that's probably $30 million to $40-extra-million a year that wasn't in the budget in 2017 and 2018. It's necessary dollars. But generally, I'd expect our midstream infrastructure budgets to come down next year and into '24, probably a step change down to 7% or 8% a couple of years.
+David Deckelbaum -- Cowen and Company -- Analyst
+Thanks for that, Kaes. And then maybe just as a follow up, obviously, the 3Q capex, 4Q capex is going to be is going to follow with activity with 3Q being higher than 4Q. As we think about next year, though, I think the expectation is that you guys would still be in that sort of 270, 290 wells, 12 rigs, a few frac crews. Is that $460 million or so implied guide for 4Q? Is that 460 to 4 -- $500 million range, like a reasonable run rate to think about '23? Or are there explicit reasons why you would want us to be guided away from that?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah. I mean, I think it's just too early to talk about '23 inflation. I'm certainly kind of in the camp that we're not willing to continue to concede margin expansion on the service side perpetually. So we're going to see where things shake out over the next six months.
+Like we said earlier in the call, there are some things we are doing to increase efficiency and lower costs. I would just say generally I think you're right on activity going into 2023. I can't -- I'm not going to comment yet on service prices and where things head, particularly with some of the stuff that's out of our control, like steel continuing to go up in price.
+David Deckelbaum -- Cowen and Company -- Analyst
+I appreciate it, guys. The only inflation I'm baking in is capex per share. So thanks for the color.
+Kaes Van't Hof -- President and Chief Financial Officer
+It's a good new metric now.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Derrick Whitfield from Stifel. Your line is now open.
+Derrick Whitfield -- Stifel Financial Corp. -- Analyst
+Good morning, all, and congrats on your quarter end update. With my first question, I wanted to focus on your operational efficiency. Would it be safe to assume the improvement you experienced in your drilling and completion efficiency metrics over the last couple of years has at least plateaued as a result of service tightness and the dilution of experienced crews?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, Derrick, I think that's a fair statement. Certainly the business has got a lot harder to operate and execute this year. We know it's on us, though, to make sure we have the right supervision in the field, to make sure green hands are trained up quickly. It's something that we are seeing.
+We do spend a lot of money near the wellhead to make sure our supervision oversees what's going on in the field. But then there's a couple of other things that kind of go the other way, right? So these spud rigs that we're putting in place, they drill a little slower, but they cost half as much as the big rigs. So I think generally we kind of hit the efficient frontier on days TD this year. But now we're getting some things that might slow things down, but spend less money per well.
+Derrick Whitfield -- Stifel Financial Corp. -- Analyst
+That makes complete sense. And as my follow up, I wanted to touch on the Inflation Reduction Act, which could be voted on this week, focusing on the minimum tax and methane fee components. Could you speak to the implications for Diamondback and the industry in general? It seems at a minimum from our perspective that the one bear case against Diamondback would be minimized with the 15% minimum tax stipulation.
+Travis Stice -- Chairman and Chief Executive Officer
+Derrick, the methane fee tax is one thing that we've looked at. And because of the dollars we've spent over the last three years, really reducing our methane emissions, that doesn't appear, as we understand it, to be to be a needle mover for Diamondback.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, and then on the on the tax side, we're pretty low on NOL protection. So if the strip holds, we have about $1,000,000,000 of protection next year. We would be above the 15% minimum that's being proposed. So I think generally moving toward a full tax paying entity at Diamondback mitigate the impact to us.
+Certainly if we were in a different commodity price environment, it might be a different story. But in this environment, we're headed toward full cash taxes in 2024.
+Derrick Whitfield -- Stifel Financial Corp. -- Analyst
+Great update, and thanks for your time.
+Travis Stice -- Chairman and Chief Executive Officer
+Thanks, Derrick.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Jeanine Wai from Barclays. Your line is now open.
+Jeanine Wai -- Barclays -- Analyst
+Hi. Good morning, everyone. Thanks for taking our questions.
+Travis Stice -- Chairman and Chief Executive Officer
+Good morning, Jeanine.
+Jeanine Wai -- Barclays -- Analyst
+Good morning, Travis. Thanks for the time today. Our first question is maybe hitting on the balance sheet a little bit, saying had about $21 million of stand-alone cash at the end of the quarter. And that reflects really getting after paying off those notes early and at a very nice discount, which is great.
+What's the sequencing of further debt reduction that you mentioned? And do you have an updated view on your target cash balance, where essentially it's kind of back in the how much potential upside there could be to exceeding the 75% minimum return?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah. Jeanine, good question. With the Rattler deal expected to close at the end of August, we'll have pay off that revolver at close. It's about $200 million revolver that we'll expect to pay with -- down with cash.
+We also want to take out the Rattler notes, $500 million notes next. There are some reporting requirements with those notes if they continue to stay out there. So I think those two items are certainly the priorities. And we probably expect to be in a position to have those taken out by the next time we're on the phone here.
+And then I think after that, it goes back to being selective with the other outstanding notes. You'll note that we did not touch the 30-year, the two 30-year tranches that we have out there. But we did take down some of our 29s and 31s opportunistically with a discount. But generally the Rattler notes and Rattler revolver is coming up next, and then we'll be in a more prudent with the rest.
+Jeanine Wai -- Barclays -- Analyst
+OK. Great. And then maybe a quick one on operations. I think in the past you mentioned running three simul crews and then potentially utilizing a spot crew.
+And then in your prepared remarks, I think I heard you mentioned just running three frac crews. So just wondering if I'm remembering those two things correctly and have you been able to maybe drop that spot crews due to efficiencies? Thank you.
+Kaes Van't Hof -- President and Chief Financial Officer
+So the three simul-frac crews are going to run consistently throughout the whole year. And those three have been going this year and they'll be the baseline for next year. We did have a spot crew running the part of Q2. [Audio gap] spot crew again, so probably the end of this year.
+We try to string together enough pads to make that spot crew cost competitive. And I don't know, Danny, do you want to add anything on the spot crew?
+Danny Wesson -- Chief Operating Officer
+No, I think the three simul-frac crews will do about 80% to 90% of our planned well activity. And then the remaining 10% to20%, we have to we have to handle with an additional crew. We usually try to block it up and get a dedicated line of work for our crew for a period of time. And then let it go and bring it back for the next group of wells.
+Jeanine Wai -- Barclays -- Analyst
+OK. Thank you.
+Travis Stice -- Chairman and Chief Executive Officer
+Thanks, Jeanine.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Nicholas Pope from Seaport Research. Your line is now open.
+Nicholas Pope -- Seaport Global Holdings -- Analyst
+Morning, everyone.
+Kaes Van't Hof -- President and Chief Financial Officer
+Good morning.
+Travis Stice -- Chairman and Chief Executive Officer
+Good morning, Nick.
+Nicholas Pope -- Seaport Global Holdings -- Analyst
+I had a quick question on kind of the updated capex guidance. Most the increase was all on the drilling side without much kind of change in kind of expected activity, but no real change in the other components, the midstream environmental infra infrastructure components. So it's kind of curious, are you -- what kind of inflation you're seeing on there? Are you expecting kind of the same amount of activity on those non-drilling, non-completion components, or is that just a little bit more fixed with project type work?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, it's definitely a little more fixed with project type work. There is some inflation in those budgets, but that was already somewhat baked in. On the midstream side, in particular the big bulk item is buying a lot of pipe, and we pre-bought a lot of that. So we knew where that was going to sit on the cost side.
+On the infrastructure and environmental side, it's not necessarily a change in plan, as you mentioned. It's just a few inflationary items around the edges. But it's nothing to the extent of what we're seeing on the drilling inflation side when it comes to inflation.
+Nicholas Pope -- Seaport Global Holdings -- Analyst
+Got it. Appreciate that. And as you kind of look at kind of progressing toward completion of the midstream, the Rattler kind of acquisition, is there an anticipation of any real change in operations or I guess how much kind of third-party is even a part of Rattler at this point in terms of operations?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, that's a great question. That's a great question, too. Nothing is going to change operationally. We still we still like the midstream business.
+We still like what it does for our consolidated margins. We just felt that it didn't need to be a separate public entity. And so we're able to buy that back in and still run a midstream business that we own 100%. I will say the team has done a good job seeing -- seeking out third-party opportunities.
+I wouldn't say it's our core business, but we'll have some real cash flow coming up -- coming in from third-parties, given the amount of assets we have on the ground on the midstream side.
+Nicholas Pope -- Seaport Global Holdings -- Analyst
+Got it. I appreciate that color. I'll let you, guys, go. Thanks a lot.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Doug Leggate from Bank of America. Your line is now open.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Thanks. Good morning, everybody. Travis, I hate to go back to ask a return question, but [Inaudible] you issued a bunch of shares. I'm just wondering how we should think about the split between the variable and the step up in the buyback program.
+Travis Stice -- Chairman and Chief Executive Officer
+Yeah, Doug, you're a little mixed there. I couldn't hear you too well but I think I got the gist of it. I think generally we are going to be very aggressive on the buybacks here in Q3, given where the stock is and where we continue to generate free cash flow above midcycle prices. So we already spent $200 million quarter to date.
+Generally if you kind of take Street numbers and keep our base dividend flat in Q3, we could probably spend another $650 million on buybacks this quarter. So if the stock stays where it is and the oil stays where it is, we're going to be very, very aggressive on that buyback, which is why the board signified the confidence in increasing that authorization to $4 billion.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+OK. So sorry to press on this point, Travis, and I apologize for my line but is there a more formulaic way we can think about -- I mean are we still looking at a substantial variable in the second half of this year?
+Travis Stice -- Chairman and Chief Executive Officer
+Not in these prices, Doug. If the stock price stays where it is today, all that cash is going to go toward reducing the share count.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Great. That's what I was looking for. My follow up, just a quick one and going to the EMP very quickly, can you clarify, as your understanding is today, do IDCs and I guess NOL is not such a big deal for you guys. But an IDC specifically, do they qualify as an offset to the EMP, in your view? Any color you can offer and your -- during your interpretation of that.
+Kaes Van't Hof -- President and Chief Financial Officer
+I think our interpretation is they still do. Unfortunately, IDCs have become such a small part of the cash flow stream that they're not impacting things much. So that's our understanding today. But you never know with politicians, anything can happen.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Great. Well, I appreciate the clarity on the cash tax guidance. Thanks so much.
+Travis Stice -- Chairman and Chief Executive Officer
+Yes, thanks, Doug.
+Operator
+Thank you, and one moment for our next question. And our next question comes from David Deckelbaum from Cowen. Your line is now open.
+David Deckelbaum -- Cowen and Company -- Analyst
+Thanks for letting me back in the room, guys. I wanted to ask just to follow up on some of the thoughts around return on capital. Travis, you talked about conversations with the board, how to make Diamondback competitive relative to its peers. You've seen the evolution of what you guys had promised last year, 50% of 2022's free cash return to shareholders, the rest retiring debt.
+You increased that to 75%. You just increased the buyback. I guess when you talk to the board now about the return on capital programs, are there explicit targets that you're thinking about when you're putting out an outline around the buyback? And how did you come to this amount? Are you trying to intentionally show that Diamondback can retire 10% of its market cap plus every year? Is that -- are those explicit goals now or are these more coincidental based on where the free cash is today?
+Travis Stice -- Chairman and Chief Executive Officer
+Yes, those are -- we don't have specific goals that are articulated in the way you just ask that question. We simply look at the value that we believe, the inherent value of the stock versus where it's trading at. And we want to demonstratively move into repurchases, where we think there's a big location like we see in today's market. And as we go forward in time, maybe that changes.
+But as it sits today, as Kaes just outlined with the previous caller, we believe that there's still a lot of value in the stock.
+David Deckelbaum -- Cowen and Company -- Analyst
+Thank you, guys. That's all I had.
+Operator
+Thank you. One moment for our next question.
+And our next question comes from Vin Lovaglio from Mizuho Group. Your line is now open.
+Vin Lovaglio -- Mizuho Securities -- Analyst
+Yeah. Thanks for getting me on, guys. Given the scale of free cash flow generation, I'm wondering how you guys are thinking about potential investment in future offtake, particularly on the gas side, and kind of connecting that gas molecule to the Gulf Coast and ultimately, hopefully, international markets.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, Vin. Good question. I think just generally, well, we are a pretty significant gas producer now at this point. We don't have a lot of control over the molecule.
+Diamondback has gone through acquisition over the years and with those acquisitions come dedications. And most of those dedications don't come with taking time right. So we're certainly doing as much as we possibly can to incentivize pipeline development, getting molecules to the Gulf Coast. We did commit to the Whistler pipeline.
+We'll have about a third of our gas on that. But generally, you have to have control that molecule to incentivize development. And we don't have much more beyond that today.
+Vin Lovaglio -- Mizuho Securities -- Analyst
+Got it. And then I just want to go back to the e-fleets. They seem like kind of a no-brainer at this point in time. I'm just wondering if there were any changes in planning or any hurdles that you guys kind of have to get through before broader e-fleet adoption? Or is it really just kind of securing that line power?
+Kaes Van't Hof -- President and Chief Financial Officer
+Well, it's really about the quality of the fleet and what you're signing up for. I think what Halliburton has put together is truly a unique product. We're going to have some form of battery storage attached to that e-fleet so that you're very efficient with the use of natural gas and electricity when that fleet is working. So you do need a pretty big acreage block, you need large pads like we have ahead of us, and you need a long-term commitment with a a business partner like Halliburton.
+So I think that we checked all those boxes and we feel very good about the e-fleet that's coming on in September. So good that we signed up for a second one. So two-thirds of our simul-frac fleets will be e-fleets with Halliburton. And like you said, it's pretty obvious when the economic and environmental advantages sync up.
+That's a no brainer for us, and we're looking forward to getting our first one in the field here in a month.
+Vin Lovaglio -- Mizuho Securities -- Analyst
+Thanks, guys. Appreciate the time.
+Kaes Van't Hof -- President and Chief Financial Officer
+Thank you, Vin.
+Operator
+Thank you, and one moment for our next question. And our next question comes from Leo Mariani from MKM Partners. Your line is now open.
+Leo Mariani -- MKM Partners -- Analyst
+I just wanted to clarify a couple of things that I heard on the call here. So in terms of the buyback, I just wanted to make sure I heard the numbers right. Did you guys say that you could do an additional 650 million in 3Q alone on top of the 200 million you already announced?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah. I'm taking -- Leo, I'm taking Street numbers and multiplying it by 75%, taking out the 200 million we spent quarter to date and taking out the $0.75 a share based dividend, and that's your max on buybacks for the quarter and that's something we look at every day. I mean, we have our team rerun the model on a weekly basis to figure out how much cash we're going to have in the quarter to buyback buyback shares when there's this much of a dislocation between oil in the public markets and oil in the ground.
+Leo Mariani -- MKM Partners -- Analyst
+OK. That's helpful. And then just on the debt paydown. Obviously, you talked about paying off some of the Rattler debt here.
+Can you maybe just give us a little more color on the decision to kind of pay off some of the FANG debt, which wasn't kind of due to the end of the decade, I guess, some of the '29, '30s or whatnot in the second quarter. It looks like you kind of elected to do that versus kind of pay the higher variable dividend because, obviously, cash flows were up for the quarter. Any more color kind of around the thinking there?
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, it's a pretty unique opportunity where an EMP has a ton of cash flow and oil is trading below par, and we saw that opportunity. Our board saw it with us and decided that buying back some debt well below par was a good use of capital and also accelerates that deleveraging process to give us more confidence in the increased 75% of free cash flow going back to shareholders beginning in Q3.
+Leo Mariani -- MKM Partners -- Analyst
+OK. And just to clarify, on the shareholder returns. You guys do not count debt paydown as a shareholder return, right?
+Travis Stice -- Chairman and Chief Executive Officer
+That's correct.
+Leo Mariani -- MKM Partners -- Analyst
+OK. Thanks.
+Travis Stice -- Chairman and Chief Executive Officer
+Thank you, Leo.
+Operator
+Thank you. [Operator instructions] And one moment for our next question. And our next question comes from Paul Cheng from Scotiabank. Your line is now open.
+Paul Cheng -- Scotiabank -- Analyst
+Thank you. Hi. Good morning, Travis. Two questions, please.
+Can you just remind us, what is your hedging policy, your bet in official guidance in terms of what percentage that you want to hedge. Secondly, that with the rising recession fear, how that impact your foresight in the 2023 budget in terms of their capital return, balance sheet management and all that. Thank you.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah. Good questions, Paul. I'll take the hedging policy and I'll let Travis talk more macro about 2023. Just generally, we do buy puts for a rainy day.
+So we've gone to the balance sheet to strengthen. We bought more and more puts around $50 to $55 Brent. In that situation, if we do go below $55 Brent, we'll probably making capital decisions to slow down, but the balance sheet doesn't blow out. We can still pay our dividend and still generate free cash in that situation.
+So really protecting for a rainy day, trying to spend around a $1.50 to $2 a barrel to buy those puts. And we want to be about 60% hedged going into a particular quarter. So if you look at our hedge book, about 60% hedged for Q3, going down to about 0% by Q2, Q3 of 2023. And we'll just continue to keep rolling that for rainy day insurance.
+Travis Stice -- Chairman and Chief Executive Officer
+And Paul, energy has typically been a pretty good hedge bet offset historically. And as you look into 2023, regardless of how you define a recession, it looks like there will be recessionary impacts across our economy. But what's a little bit different this time is that the world today still appears to be chronically short physical barrels with not a lot of spare capacity to fill that gap. And so while we don't necessarily plan on anything other than in the future than our mid-cycle price deck, it looks to me like the macros -- the macro looks pretty positive for energy prices over the next couple of years even in spite of what I know will be a recessionary impact.
+And look, if you do see some recessionary impacts, it'll probably soften some of the inflationary pressures we're seeing today.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, I think we want one more point. That's the benefit of this new business model where we're not changing our plans for every $10, $20, $30 move in oil price. There needs to be a $50 move in oil price lower before we discuss any change to our execution plan. And I think this level loaded plan, level loaded activity levels has allowed us to fight off the inflation bug a little better than most.
+And again, as Travis mentioned, there's there's no oil out there.
+Paul Cheng -- Scotiabank -- Analyst
+I'm just curious that you gentlemen want to keep more cash balance if that's the increasing recession fear.
+Kaes Van't Hof -- President and Chief Financial Officer
+Yeah, I kind of throw cash. We certainly want the cash balance. The cash balance needs a lot right now. When you're generating $1,000,000,000 of revenue a month, the cash balance fluctuates wildly throughout each month.
+I think generally having a strong balance sheet, having some cash, and having access to capital through a cycle is something, obviously, the board discuss on a monthly basis. And I think that also ties to where your maturity profile fits, right? So if we not only have less debt, but a longer duration maturity profile, that gives us confidence in our access to capital and our ability to generate cash, given that our cash flow breakeven is down in the mid-30s a barrel.
+Paul Cheng -- Scotiabank -- Analyst
+Perfect. Thank you.
+Kaes Van't Hof -- President and Chief Financial Officer
+Thanks, Paul.
+Operator
+And thank you, and I am showing no further questions. I would now like to turn the call back over to Travis Stice, CEO, for closing remarks.
+Travis Stice -- Chairman and Chief Executive Officer
+Thank you again for everyone for participating in today's call. If you've got any questions, please reach out to us using the contact information provided. Thank you.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Adam Lawlis -- Vice President, Investor Relations
+Travis Stice -- Chairman and Chief Executive Officer
+Neal Dingmann -- Truist Securities -- Analyst
+Neil Mehta -- Goldman Sachs -- Analyst
+Arun Jayaram -- J.P. Morgan -- Analyst
+Kaes Van't Hof -- President and Chief Financial Officer
+Scott Hanold -- RBC Capital Markets -- Analyst
+David Deckelbaum -- Cowen and Company -- Analyst
+Derrick Whitfield -- Stifel Financial Corp. -- Analyst
+Jeanine Wai -- Barclays -- Analyst
+Danny Wesson -- Chief Operating Officer
+Nicholas Pope -- Seaport Global Holdings -- Analyst
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Vin Lovaglio -- Mizuho Securities -- Analyst
+Leo Mariani -- MKM Partners -- Analyst
+Paul Cheng -- Scotiabank -- Analyst
+More FANG analysis
+All earnings call transcripts

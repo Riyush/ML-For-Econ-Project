@@ -1,0 +1,344 @@
+Image source: The Motley Fool.
+Microchip Technology (MCHP -1.26%)Q1 2020 Earnings CallAug 06, 2019, 5:00 p.m. ET
+Operator
+Good day, everyone, and welcome to this Microchip's first-quarter fiscal 2020 financial results conference call. As a reminder, today's call is being recorded. At this time, I would like to turn the call over to Microchip's chief financial officer, Mr. Eric Bjornholt.
+Please go ahead, sir.
+Eric Bjornholt -- Chief Financial Officer
+Thank you, and good afternoon, everyone. During the course of this conference call, we will be making projections and other forward-looking statements regarding future events or the future financial performance of the company. We wish to caution you that such statements are predictions and that actual events or results may differ materially. We refer you to our press releases of the day, as well as our recent filings with the SEC that identify important risk factors that may impact Microchip's business and results of operations.
+In attendance with me today are Steve Sanghi, Microchip's chairman and CEO; and Ganesh Moorthy, Microchip's president and COO. I will comment on our first-quarter fiscal year 2020 financial performance, and Steve and Ganesh will then give their comments on the results, discuss the current business environment, as well as our guidance and provide an update on our ongoing integration activities associated with the Microsemi acquisition. We will then be available to respond to specific investor and analyst questions. We are including information in our press release and this conference call on various GAAP and non-GAAP measures.
+
+We have posted a full GAAP to non-GAAP reconciliation on the investor relations page of our website at www.microchip.com, which we believe you will find useful when comparing our GAAP and non-GAAP results. We have also posted a summary of our outstanding debt and leverage metrics on our website, and I understand that those schedules aren't showing up right away, but we should have that issue corrected very shortly here for all of you. I want to remind investors that during the June quarter of 2018, we adopted the new GAAP revenue recognition standard, which requires revenue to be recognized at the time products are sold to distributors versus our historical revenue recognition policy, where revenue on such transactions was deferred until the product was sold by our distributor to an end customer. As discussed in previous earnings conference calls, we continue to track and measure our performance internally based on direct revenue plus distribution sell-through activity, and each quarter, we override a metric for this called end market demand in our earnings release.
+Therefore, along with our GAAP and non-GAAP results based on distribution sell-in, we will also provide investors with our end market demand based on distribution sellout, but will not provide a P&L based on end market demand. End market demand in the June 2019 quarter was 1.35 billion, which was up 0.7% sequentially from the March 2019 quarter. End market demand was about $27 million more than our GAAP revenue in the June quarter. I will now go through some of the operating results, including net sales, gross margin and operating expenses.
+I will be referring to these results on a non-GAAP basis, which is based on expenses, priority effects of our acquisition activities, share-based compensation and certain other adjustments as described in our press release. Net sales in the June quarter were 1.323 billion, which was down 0.5% sequentially and slightly below the midpoint of our guidance of 1.33 billion. I'll remind you that our guidance for the quarter was made prior to the ban on shipments to Huawei, which has historically been between a 1% and 2% revenue customer for us. We have posted a summary of our GAAP net sales and end market demand by product line and geography on our website for your reference.
+On a non-GAAP basis, gross margins were 62%, operating expenses were 25.8% of sales, and operating income was 36.2% of sales. Non-GAAP net income was 357.6 million. Non-GAAP earnings per diluted share was $1.41, which was $0.035 above the midpoint of our guidance of $1.375. On a GAAP basis, gross margins were 61.6% and include the impact of 4.9 million of share-based compensation.
+Total operating expenses were 643.6 million and include acquisition intangible amortization of 248.5 million, special charges of 8.1 million, 9.6 million of acquisition-related, and other cost and share-based compensation of 35.8 million. The GAAP net income was 50.7 million or $0.20 per diluted share. Our June quarter GAAP tax benefit included 12.6 million of discrete income tax benefits primarily related to a tax reserve release due to a statute of limitation expiring. The non-GAAP cash tax rate was 5.5% in the June quarter.
+We expect our non-GAAP cash tax rate for fiscal '20 to be between 5% and 6%, exclusive of the transition tax, any potential tax associated with restructuring the Microsemi operations into the Microchip global structure and any tax audit settlements related to taxes accrued in prior fiscal years. We have many tax attributes and net operating losses and tax credits, as well as U.S. interest deductions that will -- that we believe will keep our cash tax payments low. The future cash tax payments associated with the transition tax is expected to be about $246 million and will be paid over seven years, with 10 million of that being paid this quarter.
+We have posted a schedule of our projected transition tax payments on the investor relations page of our website. Our inventory balance at June 30th 2019 was 733.1 million. We had 132 days of inventory at the end of June, up four days from the prior quarter's level. Inventory at our distributors in the June quarter were up 32 days, compared to 35 days at the end of March.
+We believe that barring any negative developments on the U.S.-China trade front, our distributors are holding a reasonable albeit lower-than-normal level of inventory to support end market demand. The cash flow from operating activities was 380.6 million in the June quarter. As of June 30th, the consolidated cash and total investment position was 437.1 million. We paid down $257.5 million of total debt in the June quarter, and the net debt on the balance sheet was reduced by 263.7 million.
+Our EBITDA in the June quarter was 537.1 million, and our trailing 12-month EBITDA was 2.212 billion. Our net debt-to-EBITDA, excluding our very long-dated convertible debt that matures in 2037 and is more equity-like in nature, was 4.65 at June 30, 2019. We are committed to using substantially all of our excess cash generation beyond our dividend payments to reduce our debt levels, and we expect our debt levels to reduce significantly over the next several years. Our dividend payment in the June quarter was 87.1 million.
+Capital expenditures were 23.9 million in the June quarter. We expect about 30 million in capital spending in the September quarter and overall capital expenditures for fiscal 2020 to be between 110 and $130 million. We continue to add capital to support the growth of our production capabilities of our new products and technologies and to bring in-house more of the assembly and test operations that are currently outsourced. We expect these capital investments will bring some gross margin improvement to our business, particularly for the outsourced Atmel and Microsemi manufacturing activities that we are bringing into our own factories.
+Depreciation expense in the June quarter was 46.2 million. I will now turn it over to Ganesh to give us comments on the performance of the business in the June quarter and provide an update on some of our ongoing Microsemi integration activities. Ganesh? 
+Ganesh Moorthy -- President and Chief Operating Officer
+Thank you, Eric, and good afternoon, everyone. Before I get started, I'd like to clarify that the product line comparisons I will be sharing with you today are based on end market demand, which is how Microchip measures its performance internally. Also, with the start of a new fiscal year and a full year of Microsemi results under our belt, we are making an adjustment to our product line reporting for our conference calls. We will continue to provide product line reporting for microcontrollers, analog and FPGA, which make up almost 90% of our revenue.
+We will report licensing, memory and MMO, or multimarket and other, as a fourth category called LMO, which stands for licensing memory and other, which is about 10% of our revenue. Let's start by taking a closer look at microcontrollers. Our microcontroller business was sequentially up 1.8% compared to the March quarter, reflecting some strength in what otherwise continues to be broad macro weakness in the markets we serve. During the quarter, we shipped our 25 billionth microcontroller, a milestone in our rich heritage as a microcontroller solutions provider.
+We also continue to introduce a steady stream of innovative new microcontrollers, including several new touchscreen microcontrollers with industry-leading noise immunity, with screen sizes of nine to 20 inches, the industry's first commercially available enhanced serial peripheral interface known as E-spy, to low pin count known as LPC bridge product for industrial computers, the addition of a single port solution to our USB smart hub family target at entry-level automotive applications and last but not least, we unveiled our Meta DX1 family of ethernet devices, the industry's first terabit-scale ethernet device that enables high-density 400-gigabit ethernet and flexible rate ethernet connectivity. Microcontrollers represented 53.8% of our end market demand in the June quarter. Now moving to analog. Our analog business was sequentially down 0.7% compared to the March quarter, reflecting the broad macro weakness Microchip and others in the industry are experiencing.
+During the quarter, we continued to introduce a steady stream of innovative analog products, including the production release of our 700-volt silicon carbide MOSFETs, as well as our 700-volt and 1200-volt silicon carbide Schottky Barrier Diodes, high-precision 16-bit and 24-bit analog-to-digital converters, an IEEE 802.3-compliant power over ethernet switch and the industry's first clock buffers that meet PCIe Generation 4 and Generation 5 specifications. Analog represented 28.5% of our end market demand in the June quarter. Our FPGA end market demand reached an all-time record even after going back through the Microsemi and Actel history, with 7% sequential growth compared to the March quarter coming in at almost $101 million. The FPGA business does have some lumpiness because of our significant exposure to space, aviation and defense markets, where procurement timing can be a function of programs and their shifting priorities schedules and budgets.
+Designments on our new low-power mid-range PolarFire family continue to grow strongly, and we remain optimistic about this product family adding another leg of growth for the future. FPGA represented 7.5% of our end market demand in the June quarter. Our licensing, memory and other product line, which we refer to as LMO, was sequentially down 4.9% in the June quarter as compared to the March quarter, reflecting the broad macro weakness that Microchip and others in the industry are experiencing. Collectively, LMO represented 10.2% of our end market demand.
+A quick update about the ongoing Microsemi integration. Business units and sales have substantially completed their integration activity. We are pleased with the synergies we have achieved since we closed the transaction despite the weaker macro environment over the last four quarters. As we said before, business systems and operations integration will take the longest time to complete as we execute this transition in phases.
+We expect the overall business and operational integration will take about another 12 months to complete, and we expect continued synergy gains for many quarters to come. Finally, a short update about the Huawei situation from our perspective. We estimated that our exposure to Huawei to be approximately 1% to 2% of our end market demand. Our revenue with Huawei is a combination of what we ship to them directly, as well as what we ship indirectly to their subcontractors and in some cases, through distributors.
+We stopped all shipments of Huawei when the Department of Commerce issued an Export Administration Regulation, or EAR, in May. About a month after that, based on further analysis of the EAR, we began allowing shipments of Huawei for several products that were permissible to ship under the EAR. However, the benefit for the June quarter was limited as Huawei, in many cases, did not want the product since they could not complete their bill of materials. There remains continued uncertainty as to whether Huawei will want all that we can ship this quarter as they may or may not be able to complete their bill of materials.
+Let me now pass it to Steve for some comments about our business and our guidance going forward. Steve?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Thank you, Ganesh, and good afternoon, everyone. Today, I would like to first reflect on the results of the fiscal first quarter of 2020. I will then provide guidance for the fiscal second quarter of 2020. Before I analyze our June quarter results, I want to remind everyone that our guidance for June quarter was provided before the ban on shipments to Huawei was announced.
+The midpoint of our guidance was flat sequentially. Huawei is approximately 1% to 2% of our revenue and about half the quarter was impacted. Our June quarter GAAP net sales based on sell-in revenue recognition was down 0.5% sequentially, and without the Huawei ban, it would have been slightly positive. Our end market demand based on sell-through was 0.7% up sequentially and will have been higher without the Huawei ban.
+The end market demand was stronger than sell-in revenue, which is consistent with the thesis that the channel is continuing to manage their working capital conservatively by reducing inventory due to uncertainty. As we stated on our February conference call, our review that the March quarter would mark the bottom for this cycle based on end market demand is proving to be correct. This statement is also proving to be correct for GAAP revenue after excluding the impact of the Huawei ban. So given very difficult and uncertain market conditions, we are pleased with the net sales result that we have delivered.
+Our consolidated non-GAAP gross margin at 62% was right at the midpoint of our guidance. Our consolidated non-GAAP operating margin of 36.2% also was at the midpoint of our guidance. The integration of Microsemi continues to proceed very nicely. Since the closing of the acquisition, we are continuing to see strong synergies and improvements in gross and operating margins for Microsemi products.
+Our consolidated non-GAAP EPS was $1.41 and exceeded the midpoint of our guidance by $0.035 per share. On a non-GAAP basis, this was also our 115th consecutive profitable quarter, a tribute to the employees of Microchip, including employees from all of our acquisitions for their contribution to our success. In the June quarter, we paid down $257.5 million of our debt. Our total debt payment since the end of June 2018 has been $1.414 billion.
+The pace of debt payments has been strong despite the weak and uncertain business conditions that we have experienced. With some of the inventory correction quarters rolling off from four-quarter rolling calculations, we're optimistic that the peak of our debt-to-EBITDA leverage is behind us and we should see meaningful continuing reduction in leverage in future periods. Now I will provide you guidance for the September quarter. While the uncertainty began with U.S.-China trade friction, the uncertainty has become global.
+Europe was the weakest geography for us during the June quarter. Our customers and distributors are blaming the weak business conditions in Europe, to the effect of very weak exports to China, as well as uncertainty due to Brexit. The largest economy in Europe, Germany, is near recessionary levels with auto production down significantly. Our China business was actually up, recovering from the Chinese New Year with more shipping days as we expected.
+While there is this continued uncertainty in Europe, as well as in U.S.-China trade relations, given the multi-quarter inventory correction we have seen at the distributors' end customers, we expect net sales for our products in the September quarter to be between flat to up 4% sequentially. We expect our non-GAAP gross margin to be between 61.8% and 62.2% of sales. We expect non-GAAP operating expenses to be between 25.3% and 26.3% of sales. We expect non-GAAP operating profit percentage to be between 35.5% and 36.9% of sales.
+And we expect our non-GAAP earnings per share to be between $1.37 to $1.49 per share. Given all the complications of accounting for acquisitions, including amortization of intangibles, restructuring charges and inventory write-up on acquisitions, Microchip will continue to provide guidance and track its results on a non-GAAP basis, except for net sales, which will be on a GAAP basis. We believe that non-GAAP results provide for more meaningful comparison to prior quarters and we request that the analysts continue to report their non-GAAP estimates to first call. With this, operator, will you please poll for questions?
+Operator
+[Operator instructions] And we'll now take a question from Craig Hettenbach with Morgan Stanley.
+Craig Hettenbach -- Morgan Stanley -- Analyst
+Great, thank you. Steve, thanks for the color by geography. As you look into the September quarter. Do you expect similar trends in terms of the recent stabilization in China, Europe weak, and any thoughts on just North America, how that's holding up into September?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So I think it should be reasonably similar. The September quarter is usually a good quarter in Asia, and that should continue in Asia and China. But Europe should continue to be the weakest geography, and America is sort of normal.
+Craig Hettenbach -- Morgan Stanley -- Analyst
+Got it, thank you.
+Operator
+We'll now take a question with Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thanks for taking my question. So Steve, over the last few quarters, we have seen distributors reduce inventory, I think in the last two quarters, that were on 36 days, to 35, now 32 days. Is this kind of the bottom? And can you give us some historical context that outside of, say, the financial crisis, what's the lowest that the distributors have gone to in terms of holding inventory?
+Eric Bjornholt -- Chief Financial Officer
+OK. So this is Eric Bjornholt. So I mean, if you look at the last 10 years, our distribution inventory days have ranged between 27 and 47. At 32 days, that's the lowest that we've definitely seen in several years, and we don't really think that it's going to go much lower than this.
+So I think it's probably relatively stable here, but our distributors are definitely managing their working capital requirements given the uncertainty of the environment. Last quarter, we had made similar commentary that we didn't think it would go much lower and it went down by about three days. But we think this is likely the bottom, but could it fluctuate by a day or two in either direction, that's definitely possible.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thank you.
+Operator
+We'll now take a question from Harsh Kumar with Piper Jaffray.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Hey, guys. A quick question, Steve. It seems like you sound a little bit more bullish than you have in the past three or four calls. Curious if you can share specifics.
+You talked a little bit about specifics and maybe what you're seeing within China that might give you some optimism or why you might have been up. Any color on product segments? And you think we can go back to normal growth from here, including seasonality, or we're going to kind of chug along the bottom a little bit?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, Harsh, it's always the same saga in every cycle. We usually see the cycles coming ahead of everybody else and you sort of see it ending ahead of everybody else, and we get a large amount of disbelief from the audience on both sides of the cycle. So we have -- we first experienced the downcycle starting in about July, August last year. So we've been in it for a year and have been reducing inventory in distribution, in channel, in major OEM customers and inside.
+And after a multi-quarter inventory correction, we are actually seeing the backlog is up from prior quarter and we are seeing some strength coming back. So that's really kind of what I'm reflecting while you're hearing some of the other people in the industry talking about multi-quarter inventory correction ahead of them because they either went into it much later or they continued to, sort of, I would say, based on selling revenue recognition, continue to have strong shipments into the channel, which we did not do. So I think that's really what I'm reflecting. Other than that, I think there's significant uncertainty in the U.S.-China trade relations, as well as Brexit deadline coming in three months, and I'll only know what will transpire there.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Appreciate it, Steve. Thank you.
+Operator
+We'll now take your question from Ambrish Srivastava with BMO.
+Jamison Crone -- BMO Capital Markets -- Analyst
+Hi, guys. This is Jamison calling in for Ambrish. So I was hoping you guys could talk to me about some of your receivables. And also, they're up about 6% quarter on quarter on a dollar basis and five days sequentially.
+And I understand that there was some classification -- reclassification in the receivables last quarter, but can you talk about what is the play here? It is just a timing thing, and do you expect them to come down in the upcoming quarters?
+Eric Bjornholt -- Chief Financial Officer
+OK. It's a good question. So there's no reclassification that's occurring this quarter. That was something that we did as part of our year-end process in March.
+So this is really just based on the shipment linearity in the quarter, one quarter to the next that drove that to be a little bit higher, and we would expect that to really kind of correct itself over time and kind of be more in line with what the revenue curve is going to be in the future. So hopefully, that answers your question, but there's nothing unusual going on in receivables. There's no receivables. We're in good shape.
+We don't have any significant bad debts or anything like that, so all that should come to cash here over time.
+Jamison Crone -- BMO Capital Markets -- Analyst
+OK. And then my follow-up is regarding capex. It looks like your 2020 guidance is reduced toward 120 million, which I believe is around, give or take, 2% capital intensity and lower than last several years. So I was wondering what is driving these reductions.
+Is it just lower demand, and do you expect capex to stay around these levels in the near term or tick back up toward the more historical 4% to 5% in the future?
+Eric Bjornholt -- Chief Financial Officer
+OK. So we were, in last fiscal year, fiscal '19, we were putting capital in place at least early in the year for an expansion environment, which then had come to fruition. So we're very well-positioned from a capex perspective of what's in place. We've reduced the capex in the current year by about $20 million when we last talked to the street and just managing the business appropriately in that environment.
+So we tend to go through peaks and valleys in capex, but I'd say, over time, you should expect capex to be in the range of 3% to 4% of sales.
+Jamison Crone -- BMO Capital Markets -- Analyst
+OK, great. Thank you very much.
+Eric Bjornholt -- Chief Financial Officer
+Welcome.
+Operator
+We'll now take your question from Gary Mobley with Wells Fargo Securities.
+Gary Mobley -- Wells Fargo Securities -- Analyst
+Thanks, guys. Eric, I had a couple of questions for you on the gross margin in opex. I believe you were guiding for the June quarter for underutilization to impact gross margin by 70 basis points. Was that the case? And were you sort of discounting in your September quarter outlook? And then with respect to the opex, non-GAAP opex, your -- I think, I mean, for a $10 million sequential increase, based on the midpoint of the guidance, that's the first increase in five quarters.
+I'm just wondering what's behind that.
+Eric Bjornholt -- Chief Financial Officer
+OK. So we'll take it one at a time. So on the gross margin side, we did have underutilization charge again this quarter. It was pretty much in line with what it was in the previous quarter.
+It was $7.3 million. I think that's up 200k quarter on quarter. We're running our factories kind of at an attrition level, in most cases, at this point in time. So production has been coming down.
+Our inventory is higher than kind of our normal operating levels of 115 to 120. And at this point in the cycle, that is not unusual. But over time, we do want to bring that inventory balance down. So that's really hit on gross margin.
+On opex, you're right, we are guiding to an increase. And we have managed operating expenses very tightly, really since the September 2018 quarter and have really kind of beaten our guidance on opex and September, December and March quite significantly and came in kind of at the target in the current quarter and running the business conservatively. But there are investments that we feel we need to continue to make in this business to drive the ongoing health of our business and future growth opportunities. So we view that change as relatively small in the current quarter.
+As a percentage of revenue, it is targeted to be flat at the midpoint of guidance at 25.8%.
+Gary Mobley -- Wells Fargo Securities -- Analyst
+OK, thanks guys.
+Operator
+We'll now take a question from William Stein with SunTrust.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Great. Thanks for taking my question, and congrats on the good results considering such a tough demand environment. I'm hoping you can quantify the dollar savings or the synergies that are remaining with regard to the Microsemi acquisition and your anticipated timing on achieving those?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, so I think we can order it genetically because we're really not, at this point in time, breaking results out. We had guided at the end of first year our synergy to be at a rate of $0.75 per share on an annualized basis. We can tell you that we are ahead of it. After one year, we have really exceeded those targets.
+And then the longer-term three-year synergy targets that we had identified were $1.75, which were -- and you can pick the second-year number somewhere in between, $0.75 and $1.75. And the $1.75 number was consisting of three items, although we didn't provide a breakdown of those three items. One was the opex synergy. The second one was the COGS synergy, where we're bringing stuff inside and improving gross margin.
+And the third one was the -- is the benefit coming from sales, incremental sales growth and all that. There was actually a fourth item, which was tax, although we originally did not mention tax. So as we look at it about a year and a quarter after, we are ahead of our synergy targets from the expenses, we are ahead of our synergy targets from the COGS side, and we are ahead of our synergy targets on the tax side. So three out of four are ahead, and one we are behind, which is the revenue largely driven by the environment that we have faced.
+So that's kind of where we are.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Thank you.
+Operator
+We'll now take your question from Chris Caso with Raymond James.
+Chris Caso -- Raymond James -- Analyst
+Yeah, thank you. Good evening. I guess a question on some of the ongoing trade tensions and specifically, some of the new tariffs that are going to come into place. I know, Steve, you have been watching this closely with respect to your business.
+And I guess, with this next round, do you expect any activity from the channel, kind of pull-forwards, push out as a result of that? Or this has been going on long enough now, that maybe there's some exhaustion in the channel and it's having less of an effect. I appreciate your perspective.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, I think first thing I would say is that this is a second quarter in a row where there has been a significant tweak between the time, we prepared our guidance and prepared our notes, to the time we delivered our guidance and delivered our notes. And a quarter ago, I said the same thing in the conference call that, based on that tweak, we had to nudge the middle of our guidance down. We had done the exact same thing this time, where we had to nudge the middle of our guidance slightly down because of the tweak and the extra tariffs to go into effect on September 1, whether that will happen or not. I think this is a whole lot of uncertainty.
+Nobody really knows what will happen, whatnot. In terms of the tariff that Microchip pays, the effect of this additional $300 million is virtually nothing. There could be a small amount of our development tools or something. We're talking thousands of dollars, not millions of dollars.
+So that is not the effect. The effect really is how will a Chinese customer behave in terms of buying our products, the processors that are being exported back to China. Will the customers prefer to buy it from somewhere outside of China? And if they choose a brand outside of China, does that have also our parts designed in or if not, I think it's always some and some. In some cases, we will gain business because the outside brand outside of China has more of the parts, and sometimes, we'll lose because the given brand outside of China has more of the parts from Japan or Europe or somewhere.
+This is very, very hard to figure out especially when you're dealing with 120,000-plus customers. So hopefully, we have navigated this well in the last one year. I think when you write the history of this last one year, I'm not sure how you would conclude that we were not correct. And hopefully, we have navigated it correctly and have guided you correctly, and all that wisdom, we have tried to put it in our guidance.
+That's the best I can say.
+Chris Caso -- Raymond James -- Analyst
+Thank you.
+Operator
+We'll now take a question from Harlan Sur with JP Morgan.
+Harlan Sur -- J.P. Morgan -- Analyst
+Good afternoon. Thanks for taking my question. Lots of recent consolidation, maybe if you want to call it land grab for wireless connectivity assets, especially WiFi, maybe you guys can just remind us on Microchip's connectivity portfolio. I believe it's pretty comprehensive.
+I know you guys have Bluetooth, ZigBee, LoRa. I believe you guys also have WiFi capability, but if you could just clarify that. And if you can maybe qualitatively sort of quantify the attach rates of your connectivity solutions with your microcontroller platforms and opportunities that do require this type of connectivity capability.
+Ganesh Moorthy -- President and Chief Operating Officer
+OK. So you're right. We do have a pretty broad portfolio of WiFis and Bluetooth and other solutions. So just about all the major requirements that are standards-based and even many that are proprietary-based wireless solutions, we have in our portfolio.
+They have come through organic work, and they've come through several of the acquisitions that we have done over time. So we don't have a particular glaring issue with a particular wireless requirement that we're not able to meet in the marketplace today. It doesn't mean we don't have new products, new innovations coming, those are the normal parts of doing the business itself. As far as attach rates go, we don't track as closely what is the attach rate of wireless.
+We think of systems, our customer systems, needing to have smart, connected and secure capabilities in them, and we provide the building blocks of many different types of smart capabilities with our microcontrollers, processors, analog and other products. Many different connectivity options, not just wireless, wireless and wired, and we have very leading portfolio of wired analog, have wired connected resolutions as well. And then finally, security itself. So that's how we go to market, looking at how do we enable smart, connected and secure solutions.
+But we don't have to have a close tracking of how many of them have connected and of those that are connected, how many of those are wireless and if they're wireless, what exactly is the standard that goes behind them. But we're very happy with the portfolio we have and are able to prosecute the markets and the businesses we want to be able to go after.
+Harlan Sur -- J.P. Morgan -- Analyst
+Thank you.
+Operator
+[Operator instructions] We'll take our next question from Matt Ramsay with Cowen.
+Josh Buchalter -- Cowen and Company -- Analyst
+Hi. This is Josh Buchalter on behalf of Matt. And congrats on the results in a tough environment. With gross margins hanging in pretty nicely, I was hoping you can provide an update on the overall pricing environment.
+You've seen through this downcycle. It seems like things have hung in there pretty well, all things considered, and it would be helpful to hear your view, particularly how it compares to prior downcycles.
+Steve Sanghi -- Chairman and Chief Executive Officer
+So I think when we talk about pricing, I would say that the pricing has held up in this environment better than really it has held up in any business cycle before. Microchip pricing in general held up in the prior business cycle also because so many of our products are proprietary. But as you talk about this particular business cycle, I would say 95% of what we make today across various the different business units is proprietary, where you cannot take our part out and plug somebody else's part in. So therefore, we really have never competed for pricing at the buyer's desk.
+We often compete with pricing at the designer's desk, which is usually two years ahead of time and the part is going to go to production. And whatever quotation you're making at the designer's desk, you have the time to achieve and do cost reduction or achieve the results you need to achieve when the part goes into production. Now especially in this cycle, I think it could be somewhat driven by the consolidation industry we have seen, somewhat driven by the players who have been taken out, were the weaker players in price management, and some of them, we ourselves, took them out. I think the result of all that is that the pricing has held up.
+Our record all-time high record gross margin, I believe, was 62.23% that we made two or three quarters ago. And the quarter we just announced, our gross margin was 62.2%. That's 23 bps below the record, and we're sitting at the bottom of the cycle. So I think that's good news.
+As the cycle improves and as factories get further full and as we complete the rest of the Microsemi integration and as we bring more of the stuff from outside to inside, remaining stuff from Atmel and some from Microsemi, it's really interesting to think about where this whole business model goes.
+Josh Buchalter -- Cowen and Company -- Analyst
+Very helpful, thank you.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Thank you.
+Operator
+We'll now take a question from Craig Ellis with B. Riley FBR.
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+Thanks for taking the question. And like many others, congratulations on the good execution, guys. Steve, I wanted to follow up on your remarks regarding an earlier synergies question. You mentioned that the difficult macro environment has made it tough to realize revenue synergies, which is understandable.
+But the question is this, do you still think there's the same degree of revenue synergies that's possible from the combination, or is there something about what's happened over the last year that would cause you to lower your view of longer-term synergies' potential with revenues?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Yeah. So the opportunity for revenue synergies is the same. And some of the earliest piece of revenue synergy, where we have gathered enough parts around Microsemi sockets and their part around the Microchip socket, is kind of already beginning to happen. But the starting point is lower.
+The whole industry has lost a significant amount from the top line as a starting point. So even though we may be adding a little bit of the revenue synergy already, the total revenue is still below where we started. And that's the more difficult part. But the longer term, as the industry recovers from the cycle, there is a -- the funnel is very healthy.
+The indicator we track internally, which is the number of Microchip products per customer design, an extremely proprietary indicator, is continuing to increase. And as the baseline business goes up, I think this should be working pretty well. So no, we have not lowered the long-term target at all.
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+That's helpful. And then if I could ask a follow-up to Eric. Eric, I recall when the Microsemi transaction was announced, that there was an element of the debt burden that was variable-rate. Can you confirm how much that is at present? And given the decline in interest rates that we've seen, especially over the last three to four years when would that be expected to benefit the interest burden that exists on that debt?
+Eric Bjornholt -- Chief Financial Officer
+OK. Sure. So we have two pieces of variable-rate debt in the portfolio. We've got a revolving line of credit and then a term loan b.
+The revolving line of credit had a balance of 3.197 billion at the end of June, and the term loan was 1.724 billion. So you're roughly $4.9 billion of floating rate debt. And we are seeing the fed cutting interest rates, so we are getting a benefit of that today, and that's reflected in our guidance for the other expense that we've guided to the street. That is the debt that we are paying down though still.
+We are paying down the variable-rate debt, and when that come down, we should see the benefit in the overall operating results. Does that address your question?
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+Yeah, it does. Thanks, guys.
+Steve Sanghi -- Chairman and Chief Executive Officer
+So that variable debt was $1.414 billion higher a year ago. Everything we have paid has been variable so far. So that's what we have paid down in the last year.
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+Got it. Thanks, Steve. Thanks, Eric.
+Operator
+And we'll now take your question from John Pitzer with Credit Suisse.
+John Pitzer -- Credit Suisse -- Analyst
+Yeah, good afternoon guys. Steve, thanks. Let me ask the question. Steve, I think one of the challenges that all the M&A you guys have done over the last several years has been both for the industry and analyst.
+And I think, internally for you guys, it's just getting a better understanding of how seasonality is in your business. I'm kind of curious if you could give us some insights. When you look at the September guide, you just gave a flat-out four. How would you peg that against sort of "normal seasonality?" And I guess, more importantly, as you look into the December quarter, are you guys any closer to helping us understand what normal seasonality might look like in December?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So I think, John, it's a very, very good question. We always try to figure out the same thing. However, seasonality is very hard to measure, No.1, with all the acquisitions that keep changing that seasonality because different acquired businesses work differently. But also, in the current environment with trade tensions and general economic conditions, the variability on the business caused by the U.S.-China trade friction and general economic conditions is much larger than any impact of seasonality.
+So we can't truly compare this to any kind of seasonality. Seasonality also -- is also driven by kind of how somebody was measuring the revenue. Historically, we measure the business based on sell-through revenue recognition. And now, based on the GAAP standard, we're having to report the numbers based on sell-in, and sell-in and sell-through work differently.
+We have much more cycles and learning on a sell-through revenue recognition on seasonality than we have on sell-in. So I think what changed in revenue recognition, totally different seasonality for our Microsemi business, with defense and aerospace and FPGA and discrete parts and uncertainty of China, U.S., Brexit and general economic conditions. I think this one remains a very, very good question with no real answer today.
+John Pitzer -- Credit Suisse -- Analyst
+That's helpful, Steve. If I could sneak one in. You did a very good job quantifying the impact of Huawei in the June quarter. I'm just kind of curious, and I apologize if I missed this, what's embedded in the September guide? It is a similar dollar magnitude, or would it be more given that you're taking a view of the entire quarter instead of just half the quarter?
+Eric Bjornholt -- Chief Financial Officer
+It's a -- it's not that easy to answer. It's not only a function of what is it that we're allowed to ship or what is it that Huawei is able to use. And that is changing day-by-day as they get inputs from their various suppliers of what they can and cannot ship as well. So what we have built in is less than what a full boat would be for a quarter, but it's a conservative estimate that we have put in with our best judgment of what we think Huawei is likely to take and that changes day to day as we go along.
+John Pitzer -- Credit Suisse -- Analyst
+Helpful. Thanks, guys.
+Operator
+We'll now take your question from Christopher Rolland with SIG.
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Hey, guys. Thanks for the question. Any early feedback so far from your silicon carbide products? And then also, do you guys have any plans or have you thought about expanding into other compound semis out there or perhaps, even vertically integrating like guys like on wanted to do? And then, Eric, just one for you. The IT security remediation that you guys referenced in non-GAAP expenses, just any details on that?
+Ganesh Moorthy -- President and Chief Operating Officer
+So with respect to our silicon carbide products, the customer reaction has been extremely positive. I think that is driven by, one, we are a known provider into some of the markets that care most about our silicon carbide, automotive in particular. But second, what differentiates our silicon carbide solutions is a robustness of the product line, and that robustness is measured in different ways that we've been able to demonstrate through test results. And in this area, where there's very high voltages that are involved in the application techniques, silicon carbide robustness is highly valued in what we've done.
+So the discussions with customers are going well. There's a high interest in the product line. It's early days as we are launching and starting to go into designing activities with them. With respect to any other compounds that we might be looking at, there's really nothing exotic at this point to talk about, and we need to really harvest the places where we have investments and make sure they go into production.
+And in time, there may be other things we would do, but nothing to report on at the moment. Eric?
+Eric Bjornholt -- Chief Financial Officer
+OK. And then on the security matter, I mean, we kind of fully disclosed this in our 10-K, which was filed in late May, that we had a security incident that we are in the process of remediating and it did cause a weakness in our internal controls. So we are working hard on remediating that issue, and that's really what those costs are associated that we are excluding from the non-GAAP results.
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Thanks, guys.
+Operator
+We'll now take your question from Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Steve, I had a longer-term question. Do you think because of this U.S.-China trade conflict, there is the possibility of market share shifting onto non-U.S. microcontroller companies? I understand that, obviously, nothing near term, but do you think that becomes a risk factor longer-term?
+Steve Sanghi -- Chairman and Chief Executive Officer
+That certainly becomes a risk factor if the Chinese were to think that designing parts from suppliers outside the U.S. is safer, although they have similarly strained relationships with Japan. I'm not sure if they like those people either. The other thing is you have to look at the complexity of the product.
+So commodity products probably would be more subject to risks than many of our advanced products and the data center business, communication business, FPGAs, 32-bit microcontrollers, networking products, USB, ethernet, automotive and others, but some of the commodity products will be more vulnerable. So -- but I think what is happening right now is that we are seeing a large number of customers starting to move their production outside of China. They're going to Malaysia, they're going to Thailand, they're going to Vietnam, they're going wherever, some may come to Mexico. So I think we're likely to pick up share in that part of the business than move outside of China because in the local competition, it kind of disappears.
+They largely sell in China. In many times, parts are not very high-quality, and they may be OK for the local Chinese market, but not really OK internationally. So there could be some longer-term impact from that, but I think it's largely going to be a wash. Every decade or so, another country appears that seems to threaten the world.
+Back in the '80s, Japan was going to take everything and the U.S. semiconductor industry was going to die. In the '90s, it was Korea, then it was Japan -- Taiwan, and now, it seems to be China. I think this industry is still pretty innovative and it will survive in the world.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+OK. If I could sneak in a quick follow-up. Gross margins, if I add back the underutilization charges, you're getting close to your longer-term 63% target. Is that the upper limit? Is there something in the portfolio that kind of limits you to those kinds of gross margins? Or do you think there is a potential to do better over time?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, we haven't hit it yet. Once we hit it and then we'll take a look at it. But yes, as I mentioned earlier, that the gross margins we have today are I think 600 basis points or so better than the bottom of the last cycle. So there is a significant accretion usually from the bottom of the cycle to the capital cycle, so there is a significant opportunity here.
+I'm not willing to talk about another target yet, but I think your question is a good one.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thanks, Steve.
+Operator
+We'll now take your question from Hans Mosesmann with Rosenblatt Securities.
+Hans Mosesmann -- Rosenblatt Securities -- Analyst
+Great. Thanks for squeezing me in. Congrats, guys, on a tough environment, your execution there. Ganesh, maybe this is one for you.
+For the FPGA business, how much of that is coming from aerospace, defense and aviation?
+Ganesh Moorthy -- President and Chief Operating Officer
+So we don't break it out by segment, but suffice to say, based on whatever data has been provided previously through Microsemi or Actel, it is a significant portion of the business. That's where many of the differentiation of the FPGA product line was built, around low power, around security, around robustness, reliability, etc., which are highly valued there. But it is a pretty significant amount that is also in non-aerospace and defense business, and it's growing in those areas quite a bit more as well. So as time goes on, we will retain the strength we have in defense and aerospace, but we will also gain in many new areas as you might see in the most recent announcement we made of a smart embedded vision solution using the PolarFire FPGA solution.
+Hans Mosesmann -- Rosenblatt Securities -- Analyst
+OK. And then as a follow-up, Ganesh, is there a, on the non-aerospace FPGA business, is there a 5G angle to that business over the next several years?
+Ganesh Moorthy -- President and Chief Operating Officer
+There is, and it's being worked on. The -- I would call it an emerging opportunity for where it's not the same place as just some of the high-performance players are playing in today, but yes. As the 5G rolls out, there are going to be opportunities, and it isn't how intelligence is embedded into the edge and less than, too, where it is in the core. And again, some of the smart embedded vision solutions, that type of opportunity will show up on the 5G side as well.
+But it's more on the edge side, not in the core network.
+Hans Mosesmann -- Rosenblatt Securities -- Analyst
+Great. Thanks again.
+Operator
+We'll go next to Raji Gill with Needham & Company.
+Raji Gill -- Needham and Company -- Analyst
+Yeah, thanks, and congrats as well, in a precarious environment, good results. And forgive me if this question was already answered, but I wanted to get a sense as some of the other players in the space noted the inventory correction in the China automotive market is coming to a completion, and that that particular segment, which had been affected pretty significantly than the first two quarters, is starting to perhaps recover, the same thing with China industrial. And again, if you asked this before, forgive me, but I wonder if you have any thoughts there in terms of kind of China auto and China industrial and going to the second half.
+Ganesh Moorthy -- President and Chief Operating Officer
+So I think automotive and China continues to have pretty significant year-over-year declines. I think what we may have seen or maybe the data you saw was in the month of June, there were stronger sales that took place. In part, that was driven because there was an emissions change that was happening on July 1, and cars that were sold before the end of June qualified under the old requirement and then the new requirements went into being. So I don't believe that, fundamentally, the China automotive market has strengthened in any recent time frame.
+It will obviously -- has more probability to bottom and go up, given how far it's come down, but I wouldn't say there's anything in the short term that has shown up in China automotive.
+Steve Sanghi -- Chairman and Chief Executive Officer
+And let me add to it. Raji, you began with talking about inventory correction in the China automotive. I don't know if that is the case. I don't think we have seen an inventory issue in China automotive that inventory needed to be blown out.
+We have seen a reduction in demand driven by just duties and problems and China economy, therefore, a lot of the luxury car manufacturers are building much, much less. So we're seeing demand destruction. I don't really think there was a -- at least from a Microchip standpoint, there was not a high inventory in China automotive.
+Ganesh Moorthy -- President and Chief Operating Officer
+With respect to your question on industrial, I think industrial weakness is not limited to just China alone. I think industrial in Europe, in the Americas, in China, across the board, have seen weakness. I think you've seen that in some of our competitors' releases as well. Some of it has been initiated from the trade and tariffs and impact from about a year ago, but industrial remains a weak segment.
+Raji Gill -- Needham and Company -- Analyst
+And just for my follow-up, also a question on the silicon carbide offering. So your -- my understanding is you're targeting 700-volt, 1200-volt diodes and MOSFETs. I'm wondering how we think -- should think about the revenue opportunity for SIC. I believe you got this technology, you inherited it from Microsemi.
+I just wanted to get some details on kind of the history of that and how you think about the revenue stream?
+Ganesh Moorthy -- President and Chief Operating Officer
+So yeah, the technology did come from Microsemi. It was being incubated inside Microsemi. I think what Microchip has been able to do is use our automotive strength, where we have substantial market position with automotive Tier 1s and OEMs, to liberate what was a technology that was starting to come into fruition inside Microsemi but didn't have as much customer access. And that's what we have done over the last year, is been able to take that technology, showcase it, demonstrate it and also internally work on what does it take to be automotive-ready, what does it take to be qualified for automotive.
+And that work is for what we could bring to the Microsemi businesses that we're working on silicon carbide. I think from a revenue standpoint, this isn't a market -- predominantly, automotive has a large demand requirement that we believe will show up in time. It is an area that requires time to win designs, ramp into production, so it's not near-term revenue, but it's sowing the seeds for mid- to long-term revenue.
+Raji Gill -- Needham and Company -- Analyst
+Thank you.
+Operator
+We'll now take your question from Mark Delaney with Goldman Sachs.
+Mark Delaney -- Goldman Sachs -- Analyst
+Yeah, good afternoon. Thanks for taking the question. A question on the direct business. I appreciate all the commentary about what Microchip is seeing through distribution, which I know is in a poor-end channel for you, but hoping to better understand what you may be seeing with your direct business in terms of orders.
+And I realize it's harder to gauge inventory levels at your direct customers, but any anecdotal commentary you can provide us about how inventory may be at those direct customers.
+Steve Sanghi -- Chairman and Chief Executive Officer
+I would say our direct business by channel is -- by geography is really no different than our distribution business by geography. Europe was weak and China saw a recovery from the Chinese New Year, and America was somewhere in the middle. So I don't think the customers who buy from distribution have behaved any differently than the customers who buy from us direct.
+Mark Delaney -- Goldman Sachs -- Analyst
+OK, thank you.
+Operator
+We'll now take your question from William Stein with SunTrust.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Great, thanks for taking my follow-up. It's actually sort of similar to the last question. But some companies -- some semiconductor companies have specifically called out the possibility that there were customers, in particular in China, that may have been pulling forward demand in the fear that either -- well, some trade friction, either a tariff or a ban, would influence their business going forward. Are you seeing this to any degree in your customer base? Do you believe that you're able to see it? Or any sort of comment or update in that regard would help.
+Steve Sanghi -- Chairman and Chief Executive Officer
+So one thing you have to remember is that Microchip does business with a long tail of the customers. Our average customer is relatively small. And when they're small, they're usually underfunded with very -- not as healthy a balance sheet. So we have not really seen this pulling phenomena as much as we read and listen to other people's commentaries.
+If you saw a little bit from the larger customers, it was kind of last year, I think that has kind of run its course. Every two, three months, the rules are changing. You have an equal amount of risk by bringing a lot of the buying it ahead and then have tariffs abruptly go with the settlement, and then you get stuck with a large amount of inventory that you have paid a lower amount of tariff on that you can't get it back from your customers. And let me say that one more time to explain.
+Let's say, tariff on a given line of product is supposed to go from 10% to 25%. To avoid that, you bring in a lot of inventory at 10% tariff. And then it results into a settlement where the tariff goes to zero. Now with the large amount of inventory you brought at a 10% tariff, you cannot recover those 10% tariff.
+None of your customers will pay for it because the current rules of tariffs are zero. So this is an equal risk-reward gain, and some people may have done push-pull, but I don't think it has affected our revenue at all.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+That's helpful. Thank you.
+Steve Sanghi -- Chairman and Chief Executive Officer
+You're welcome.
+Operator
+We'll now take your question from Harlan Sur with JP Morgan.
+Harlan Sur -- J.P. Morgan -- Analyst
+Yeah, hey, thanks for taking my follow-up. Content gain for opportunities is a strong driver of the business. Obviously, it's part of the Microchip 2.0 strategy. The last you guys updated us; you were driving about 20% year-over-year increase in number of Microchip products per customer program.
+You've got a plethora of analog interface connectivity solutions alongside MCU, FPGAs. Are you guys still driving that type of content growth on new opportunities?
+Steve Sanghi -- Chairman and Chief Executive Officer
+We are. And then I think the last time we measured was about a quarter or so ago. Leading up to some of the conferences we go in September, we will try to add another data point on it. I don't have the number right now, but I think with all we see through the reviews, our total system solution trust, with more and more of Microsemi business is integrated with Microchip, that only gets stronger, not weaker.
+So I think, yes, we will be seeing that kind of content growth. But remember, the base water level has gone down. So when the base water level has gone down on Microsemi business, as well as Microchip business because of those uncertainties, the goodness you're getting through total system solutions is not showing up. It's very hard to measure because that should be accelerating our growth, and so far, it is not because we're fighting the downturn.
+But an indicator will look like it's healthy when we look at it.
+Harlan Sur -- J.P. Morgan -- Analyst
+Yeah, thanks for the insights.
+Steve Sanghi -- Chairman and Chief Executive Officer
+You're welcome.
+Operator
+[Operator instructions] We'll go next to Craig Ellis with B. Riley FBR.
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+Thank you very much for taking the follow-up. I just wanted to reconcile what I thought were two comments that were in conflict a bit. So Ganesh, I thought I heard you note that with respect to Microsemi synergies, there were still some business systems and operational synergies benefits to be realized and that those would have economic benefit. And then, Eric, you noted that opex would be up 10 million quarter on quarter.
+So I would have expected that the synergies would offset incremental expenses. So is there just a timing issue there? And then just further clarifying the opex point you made, Eric, if opex is up in the quarter, are we seeing the full benefit of whatever initiatives the management team is executing in the quarter? Is there some follow-on effect to a subsequent quarter?
+Ganesh Moorthy -- President and Chief Operating Officer
+So Craig, it is correct that we have continuing synergies coming from operations and business systems are being combined into the Microchip systems or bringing them down from the numbers up there. If you remember, we started with 22 systems, 21 from what we inherited from Microsemi, one from Microchip. We're about a little more than a third of the way through bringing that down. We still have a fair number to go through in the next four quarters.
+And that takes time because it's not a quarter to quarter you're going to get instantaneously all of that benefit that comes out. There are support costs that go into these things. There are system costs that go into these things. So on a quarter-to-quarter basis, I would not draw a conclusion that when expenses as a percentage are flat, that somehow we have no longer got any more synergies coming.
+They will come. They will take time. There could be more in a certain quarter. There could be less in a certain quarter.
+Do you want to add to that, Eric?
+Eric Bjornholt -- Chief Financial Officer
+Yeah. I think that's absolutely right. So we are essentially driving opex to be flat in percentage of sales in the current quarter. And I talked a little bit in my first response to the question that we drove opex down very, very significantly over the last four quarters.
+And we do have some investments that are needed to be made in the business, we're making those. We consider those modest, but absolutely believe as we get some consistent revenue growth behind us that the opex as a percentage of sales is going to go down as we work toward our long-term target of 22.5%. And we will get some dollar savings, as Ganesh is referring to, as we continue to go through these business integrations over the course of the next year.
+Steve Sanghi -- Chairman and Chief Executive Officer
+I would add that if -- this is Steve. If we hadn't beaten the opex in the last for quarters, you won't see this as much of an increase. But we got the opex synergies very aggressively early on, that established a lower mark, and some of the investments we delayed and now, we're having to make those investments, a number of very advanced technology tape-outs in the coming quarter and you know that those tape-outs are very expensive. And I think that's leading to some of the increase quarter over quarter.
+But I think the main issue is that we got the opex synergy much faster and not having to make some investments.
+Eric Bjornholt -- Chief Financial Officer
+And it's actually about a $6 million increase quarter on quarter, not $10 million.
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+Appreciate the color, guys. Thank you.
+Operator
+We'll now take a question from Harsh Kumar with Piper Jaffray.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Yeah, hey guys. I'm surprised nobody asked this, but in the September quarter, Eric and Steve and Ganesh, as you guys look out, it sounds like from your commentary, correct me if I'm wrong, FPGAs are doing really well, so I would expect that to grow better than the, like, 0.2%. But any thoughts on microcontroller and the analog business, that one will outperform the other, or just kind of think about the 2% kind of a growth rate on average for those?
+Eric Bjornholt -- Chief Financial Officer
+We don't break out by product line segments on our forward-looking guidance. So I would just look at the forward-looking guidance, the 2% midpoint as for the company overall.
+Steve Sanghi -- Chairman and Chief Executive Officer
+I mean, I think trying to divide 2%, breaking that really is tough, I guess.
+Harsh Kumar -- Piper Jaffray -- Analyst
+OK, fair enough. Thanks, guys.
+Operator
+And there appears there are no further questions at this time. I'd like to turn the conference back to Steve Sanghi for any additional or closing remarks.
+Steve Sanghi -- Chairman and Chief Executive Officer
+OK. Thank you very much for everybody attending this call. I think I'd like to reemphasize that we've been providing you guidance in managing this business through very turbulent times. We, in fact, started talking about these tariffs and all that before anybody else last year, and I think our guidance has been kind of right on.
+We guided the March quarter to be the bottom, and I think we have largely delivered that. Without the Huawei ban, we would have delivered that both on end market demand, as well as sell-in. Current quarter, we're guiding up a little bit, 2% up on the midpoint, and we'll go from there. We'll see you at some of the conferences coming up in early September.
+Eric Bjornholt -- Chief Financial Officer
+And even before that. So next week, we'll be at the Keybanc conference; we're at the Jefferies conference; we're at the citi conference in September; and the Raymond James conference. So four conferences and a couple of other investor outings this quarter.
+Steve Sanghi -- Chairman and Chief Executive Officer
+So heavy schedule. So we'll see you -- some of you on the road. Thank you very much.
+Operator
+[Operator signoff]
+Duration: 72 minutes
+Eric Bjornholt -- Chief Financial Officer
+Ganesh Moorthy -- President and Chief Operating Officer
+Steve Sanghi -- Chairman and Chief Executive Officer
+Craig Hettenbach -- Morgan Stanley -- Analyst
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Harsh Kumar -- Piper Jaffray -- Analyst
+Jamison Crone -- BMO Capital Markets -- Analyst
+Gary Mobley -- Wells Fargo Securities -- Analyst
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Chris Caso -- Raymond James -- Analyst
+Harlan Sur -- J.P. Morgan -- Analyst
+Josh Buchalter -- Cowen and Company -- Analyst
+Craig Ellis -- B. Riley FBR, Inc. -- Analyst
+John Pitzer -- Credit Suisse -- Analyst
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Hans Mosesmann -- Rosenblatt Securities -- Analyst
+Raji Gill -- Needham and Company -- Analyst
+Mark Delaney -- Goldman Sachs -- Analyst
+More MCHP analysis
+All earnings call transcripts

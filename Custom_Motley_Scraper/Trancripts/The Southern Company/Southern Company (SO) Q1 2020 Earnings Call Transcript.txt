@@ -1,0 +1,543 @@
+Image source: The Motley Fool.
+Southern Company (SO 0.95%)Q1 2020 Earnings CallApr 30, 2020, 1:00 p.m. ET
+Operator
+Good morning. My name is Nelson and I will be your conference operator today. At this time, I would like to welcome everyone to Southern Company's First Quarter 2020 Earnings Call. [Operator Instructions]. Please note, today's call is being recorded Thursday, April 30th, 2020.
+I would now like to turn the call over to Mr. Scott Gammill, Investor Relations Director. Please go ahead, sir.
+Scott Gammill -- Investor Relations Director
+Thank you, Nelson. Good afternoon and welcome to Southern Company's First Quarter 2020 Earnings Call. Joining me today are Tom Fanning, Chairman, President and Chief Executive Officer of Southern Company and Drew Evans, Chief Financial Officer.
+Let me remind you we'll be making forward-looking statements today in addition to providing historical information. Various important factors could cause actual results to differ materially from those indicated in the forward-looking statements, including those discussed in our Form 10-K, Form 10-Qs and subsequent filings.
+In addition, we will present non-GAAP financial information on this call. Reconciliations to the applicable GAAP measure are included in the financial information we released this morning, as well as the slides for this conference call, which are both available on our Investor Relations website at investor.southerncompany.com.
+At this time, I'll turn the call over to Tom Fanning.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Good afternoon, and thank you all for joining us. I hope that you're well. As you can see from the materials we released this morning, we reported strong adjusted results for the first quarter, ahead of our estimate. This solid start to the year positions us well as we look to overcome short-term sales impacts from the coronavirus. Drew will provide you with more detail on our financials momentarily. So I will go ahead and turn to our current operating environment amid the coronavirus pandemic.
+At Southern Company, our top priority remains keeping every employee healthy and safe, while we continue to provide clean, safe, reliable and affordable energy for our customers. We were well prepared to quickly make necessary adjustments across our business, activating Incident Response Teams throughout the Company in February. We continue to execute COVID-19 pandemic plans for our business and to-date, our operational performance has been exceptional.
+We have not experienced nor do we currently foresee supply chain disruptions for our utilities or our construction projects. We often talk about the importance of the reliability and resiliency of our electric and natural gas infrastructure which had deliver remarkably well during this time.
+In face of COVID-19, our biggest asset has really been the reliability and resiliency of our workforce. I want to thank our employees who have risen to every challenge. We have been resourceful in rapidly procuring and deploying necessary protective equipment and implementing effective protocols to safeguard against the virus. Our operations and customer service teams have continued to work around the clock. We are finding solutions to effectively work in teams remotely and we are communicating with our workforce and external stakeholders in a whole new way. We've implemented a wide range of projects to support the physical, financial and emotional wellbeing of our employees during this time, as they continue their superb work to support the operations of our Company.
+It is also a hallmark of our Company to be a citizen wherever we serve. So we have worked to identify how we can best assist our communities during these difficult times. Southern and its subsidiaries are targeting a commitment of nearly $10 million in financial -- I'm sorry in foundation and charitable contributions and our employees have logged thousands of volunteer hours to assist those impacted by the coronavirus pandemic. I expect we will do even more in the coming months.
+Let's turn now to an update on Plant Vogtle Units 3 & 4. We remain focused on meeting the November '21 and November 2022 regulatory-approved in service dates, and we continue to maintain an aggressive work plan on site as a tool to help position us to meet those dates.
+Recall, in February, we refined the aggressive site work plan to reflect a May 2021 completion target for Unit 3 and a March 2022 completion target for Unit 4. We also laid out a November benchmark schedule and related milestones for Unit 3. Through March, production for Unit 3 was generally consistent with the refined aggressive site work plan.
+April's performance was challenged due to COVID-19 impacts, which put us slightly behind the aggressive site work plan. Despite these challenges, today, direct construction is approximately 90% complete, and notably, just late-breaking news, we have just completed open vessel testing. That came in about 1:00 PM today.
+We also reached several interim construction milestones for Unit 4 during the quarter, including the installation of the polar crane and setting the containment vessel top head. Before giving an update on recent productivity, I want to highlight our commitment to the safety of our workforce on site and the surrounding community.
+Since the beginning of the pandemic, we have taken a number of proactive measures intended to protect our workforce and the community against the spread of COVID-19. As we implement these measures, we've engaged independent medical advisors to guide our actions to reduce the possible spread of the virus. Among other measures, we have provided additional protective equipment, enhanced sanitation practices and implemented social distancing strategies, such as spreading out and increasing common areas, eliminating group transportation at the site, and mandating those who can tell the work to do so.
+Beyond these basics, early on, our protocol on site ensured that anyone tested and their close contacts were promptly self-isolated offsite. We acted quickly to build an on-site medical clinic designed to expedite test results, minimize turnaround time for close proximity screening and improve facilitation of clearing personnel to return to work.
+Throughout this time, we have remained in close consultation with the Nuclear Regulatory Commission and the project's co-owners, as well as local and state authorities. We are also consulting with and monitoring other mega projects. Notably, last month, the President of the North American Building Trades Unions commended Southern Company for going above and beyond the call of duty to keep their members on the Vogtle construction site safe and healthy.
+Now, turning to our recent progress. Although overall monthly production through March was largely consistent with the refined aggressive site work plan, mechanical electrical and subcontract activities began to build a backlog to Unit 3's aggressive site work plan at the end of March. That trend was exacerbated through April as we began experiencing impacts across the site, related to the coronavirus pandemic, including an increase in workforce absenteeism.
+Two weeks ago, in an effort to mitigate the impacts of COVID-19, we announced our intent to reduce density on the site and take workforce down by 20%. As we work through this transition, we expect to see a decrease in near term production, similar to the sawtooth effects that we have experienced in the past. The longer-term objective is to gain operational efficiencies and productivity by reducing workforce fatigue and absenteeism.
+As we move ahead, we will continue to evaluate the effectiveness of our streamlined workforce. As you know, we regularly evaluate both cost and schedule, and we have factored recent developments into our ongoing analysis. Looking first at schedule, we are prioritizing key work fronts on Unit 3 and continue to work toward the aggressive site work plan targets. Some of which have been pushed back slightly in light of recent events.
+The next major milestone for Unit 3 is the start of Cold Hydro testing, which is currently planned to occur in the June to July timeframe. Considering our expected timing on the start of Cold Hydro testing, we expect Unit 3 Hot Functional testing to commence in the August to September timeframe.
+On the assumption that we are able to stabilize and increase productivity to pre-pandemic levels, we are maintaining the aggressive site work plan target of year-end for Unit 3 fuel load. As a reminder, construction completion of about 2% per month is consistent with the aggressive site work plan.
+Taking into account our performance to-date, we now project that we need to complete approximately 1% per month to meet the November benchmark schedule. Now this is slightly down from the 1.3% we discussed last quarter. Importantly, even amid the outbreak of the pandemic, for April our construction completion rate was about 1.25%, which supports meeting the November 2021 regulatory approved in-service date. Critical areas of focus remain electrical and subcontract performance.
+Lastly, consistent with the prioritization of Unit 3 and related staffing, we have shifted the target completion date on the aggressive site work plan for Unit 4 back to May 2022 which still provides six months of margin to the regulatory approved in-service date. Recall, under the refined aggressive site work plan we laid out in February, we accelerated the target completion date for Unit 4 by two months to March. So the current action takes us back to the prior date of May 2022.
+Turning now to costs, based on our most recent assessment, there is no change in the total project capital cost forecast. In the first quarter of 2020, Georgia Power allocated an additional $66 million of its project contingency, reflecting cost risks associated with construction productivity, field support, subcontracts and procurement as well as the impacts of the April 2020 reduction in workforce.
+Recall, the estimated cost of time between the aggressive site work plan and the regulatory approved November in service dates or a schedule cost margin is embedded in Georgia Power's base capital forecast. With this quarter's contingency allocation, the scheduled cost margin and the remaining cost contingency combined continue to represent approximately 20% of the remaining estimated cost to complete. As we have said, we expect to utilize the entirety of the contingency funds as we progress toward the completion of the project.
+The team at Vogtle Units 3 & 4 have worked incredibly hard to create an environment at the site that has led to meaningful progress over the past few months even while managing through this unprecedented pandemic. The next few months will be pivotal as we adjust to a smaller, more streamlined workforce and seek to improve productivity.
+The safety of our workforce in the surrounding community remains paramount and we will continue to guide our decision-making at the site. Importantly, we still expect to meet the November regulatory approved in service dates for both Units 3 & 4.
+Drew, I'll turn it over now to you for an update on our financials and our outlook.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Thanks, Tom, and good afternoon everybody. I hope you all are well. As Tom mentioned, we had a very strong start to the year. First quarter adjusted EPS was $0.78 which is $0.08 higher than last year and $0.06 above our estimate for the quarter. The primary driver compared to last year was the constructive state regulatory actions which were completed in 2019 at our utility. In addition, through aggressive cost control, we were able to decrease non-fuel O&M year-over-year, which helped us overcome a $0.10 impact from warmer than normal weather in the first quarter.
+A detailed reconciliation of our reported and adjusted results is included in today's release and earnings pattern. Weather normalized retail sales for the first quarter of 2020 were up slightly compared to last year, led by our residential customer class with only modest impacts from COVID-19, evidenced in the last two weeks of the quarter.
+We added over 20,000 new electric and natural gas customers across the system, which is consistent with our expectation. With COVID-19 top of mind, let's go ahead and turn our assessment of potential -- to the assessment of business impacts. While we did not see a meaningful earnings impact from COVID-19 in the first quarter, we are continually assessing potential financial impact on our business.
+At this time, we do not expect coronavirus impacts to materially affect our long-term outlook. Our expected long-term EPS growth rate remains 4% to 6%. Our $40 billion five year capital investment plan is unchanged. We do not foresee a need to issue equity for 2024. Liquidity is strong with good access to the capital market at both the parent and our subsidiaries.
+And with last week's announcement of an $0.08 annual dividend increase, the 19th consecutive annual increase, we continued to demonstrate our commitment to enhancing shareholder value. As we think about the potential near-term impacts of COVID-19 on our 2020 expectations, our key focus areas are sales, bad debt expense, and liquidity.
+Just a moment, I'm going to switch microphone, so that folks can hear me better.
+Starting with sales, as I mentioned, weather-normalized retail sales were up slightly for the first quarter, likely reflecting higher residential demand at the end of March, as people began teleworking. Thus far in April total estimated weather-normalized electric retail demand is lower than our forecast by approximately 8%.
+Though April lows are historically volatile as customers switch between heating and cooling, we have seen demand stabilize at these approximate levels over the last few weeks. We will continue to closely monitor trend as businesses within our states being to reopen.
+Looking ahead, we are basing our current forecast for 2020 on U shaped economic recovery that reflects a mid-summer phase out of the stay at home policies with modest economic recovery across the service territories over the balance of the year. Using these assumptions, our projections indicate an overall decline in retail sales for the full year in the range of 2% to 5% on a weather-normalized basis, with residential up 1% to 3%, commercial down 5% to 10% and industrial down 4% to 8%. As a reminder, our electric sales mix is split about third, a third and third across each customer class.
+Retail sales in these ranges with lower total non-fuel electric revenue by approximately $250 million to $400 million on a consolidated basis. We plan to mitigate these impacts by continuing to aggressively manage non-fuel O&M throughout the remainder of the year. While the current situations is unprecedented, we demonstrated a similar level of cost discipline in response to the 2008, 2009 recession, which gives us confidence in our ability to deliver in the current environment. Of course, actual impact will be highly dependent on the duration of stay at home policies and the pace of economic recovery.
+As visibility into these factors improves, we will horn our expectations around an appropriate level of cost control. At this time, we do not anticipate significant sales or financial impacts from COVID-19 on Southern Power or Southern Company Gas. Due to the long-term contracted nature of Southern Power's business model, we expect it to be largely insulated from pandemic impacts.
+Southern Company Gas has already achieved roughly half of its expected full year net income in the first quarter and we expect earnings over the remainder of the year to be consistent with our forecast. In addition to sales, we are also assessing the potential for an increase in bad debt expense specifically on electric utilities.
+Our utility sellers [Phonetic] most around the country are not disconnecting customers for non-payment and we are temporarily waiving late payment fees. Our state regulators are taking constructive steps to allow utilities to defer incremental bad debt expenses related to the pandemic for recovery in future rate proceedings.
+In addition, our gas utilities are largely decoupled and they have -- many have bad debt mechanism is already in place which help to insulate them from both sales and non-payment impacts. We also expect increased federal funding for programs like [Indecipherable] and certain provisions in the TTT program to assist eligible customers with bill payments. Between regulatory mechanisms and customer assistance programs we believe bad debt expense impacts will be largely mitigated.
+Turning now to liquidity. Because of the actions we took in the first quarter, Southern's net liquidity at the end of March improved by $800 million relative year end 2019 and currently it stands at over $7 billion. In the second quarter, we have already taken steps to further strengthen our liquidity position, including completion of a $1 billion issuance at the parent in April. At this juncture, we believe we have ample liquidity for our capital investment plans, protect our dividend, and weather potential COVID related volatility in the debt markets, as well as elevated periods of customer non-payments.
+With solid results through the first quarter, our current belief is that O&M reduction can largely offset pandemic related sales impacts and with peak electric loads still to come, we see no reason to deviate from our current financial objectives.
+Consistent with historical practice, we will address earnings for the year relative to our EPS guidance after the third quarter. For the second quarter we assume that pressure on retail sales will persist, so it's too early to predict with precision, what the overall impact will be. Recognizing all of these factors, we are providing adjusted EPS estimate for the second quarter of $0.65.
+Before I turn it back to Tom I'd like to give a brief update on some regulatory matters. In March, the Mississippi Public Service Commission unanimously approved the rate case settlement reached between Mississippi Power and the PSC staff resulting in a rate decrease for customers and an increase in the allowed equity ratio for Mississippi Power to 55%. On the global front, we filed VCM 22 with the Georgia PSC at the end of February requesting verification and approval $674 million of spend for the period of July through December of 2019. We expect a decision from the PSC in August.
+Before I turn it back to Tom, I'd like to thank our Southern family for an outstanding job through this period. Everyone is taking the new normal and the stride is to remain focused on our customer at all levels. You showed superior performance and total commitment and for that I'm thankful. I hope everyone stays well.
+And with that, I'll turn it back to Tom.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thanks, Drew. As our nation seeks the path to recovery from the coronavirus pandemic, at Southern Company, we are resolute in our commitment to provide clean, safe, reliable and affordable energy for our customers. To ensure that we are actively supporting recovery efforts, Southern Company and our subsidiaries are engaged with policy makers at both the state and federal level as they make critical decisions about reopening our economies.
+Notably, Alabama Power CEO Mark Crosswhite and I were named as part of the President's Economic Revival Initiative, along with the work that I do to help lead the Electricity Sub Sector Coordinating Council, the principal liaison between the federal government and the electric power industry, which has been heavily involved in pandemic recovery efforts. Southern Company continues its leadership at a national level.
+Before we take your questions, I also want to highlight the extraordinary response of our teams after the recent severe storms. In April, we experienced two successive weekends of devastating tornadoes across our Southeast service territories that damaged or destroyed hundreds of homes and businesses.
+Our employees on the front lines worked tirelessly to restore service to the thousands of electric and natural gas customers that were affected by these storms. In the aggregate, we restored service to over 600,000 customers within 24 hours, improved our capacity to work under duress effectively with coronavirus protocols.
+I am grateful for, and extremely proud of the men and women of Southern Company who continue to work hard each day to deliver value to customers and shareholders during these extraordinary times.
+In closing, the COVID-19 pandemic will undoubtedly have a lasting impact on the U.S. and global economies and on the communities we serve. Under what we currently view is a reasonable economic recovery scenario we are positioning ourselves to mitigate potential financial impacts on our company through aggressive and thoughtful cost control.
+The next several months will be particularly instructive for Southern and our utilities as we monitor the pace of recovery move into the warm summer season and work to increase productivity at Vogtle Units 3 & 4. We expect our business will remain reliable and resilient over the long term in keeping with our long history of delivering on our commitments to customers, employees and shareholders.
+Thank you for joining us this afternoon. Operator, we are now ready to take questions.
+Operator
+Thank you. [Operator Instructions]. Our first question comes from the line of Shar Pourreza with Guggenheim Partners. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello Shar, how are you?
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Good, how are you doing?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Great.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+So just a couple of questions here. First, just sort of thinking about some of the moving pieces. We're looking at COVID sales impact for a 2% to 5% reduction versus prior guidance of flat to up 1%; better than expected Q1; slightly weaker Q2 guidance versus I guess expectations; O&M levers. If we're assuming kind of normal weather, where do you see coming in within your earnings guidance range for the year? And then just remind us the sales growth figures for March and April on Slide 11, are they weather-normalized, especially with the recent storms in your jurisdictions? How do we extrapolate how much of that was weather versus COVID versus anything else? And I got one more.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+So with respect to the first question, when we said a guidance range, I think we broadly think kind of the midpoint of the range is a place that without all these other impacts we do, that we would expect to land. I think we remain consistent with our financial objectives for the year. I will add, I know we received some conversation about should we reaffirm. Let me just hit that real quick.
+It has never been our practice to reaffirm guidance in interim periods. We give you guidance at the end of the year so that would be late January, February. And then, once we get through our peak kind of earning season, which would be the third quarter, that's when we give an update as to our guidance.
+We believe we're committed to hitting our financial objectives. Of course there is uncertainty in front of us and we run the same uncertainty everybody else does. But with what we know right now, with reasonable impacts, we remain committed to everything that we've said so far. So we're sticking with that. I think further evidence of that is the recent increase in dividends. Shar, what else did you want there?
+Shar Pourreza -- Guggenheim Partners -- Analyst
+So, just -- that weather on Slide 11 the impacts that you have from March through April, how much -- is that weather normalized and how much of it is impacted from COVID versus the recent storms?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+That is weather-normalized.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+So well will think of it as, virtually all is opened. Shar, I think I'll just address one other piece of your question related to our guidance around estimates for second quarter. Second quarter typically is a relatively light quarter for us in terms of total demand. And you can imagine that there is a big difference between June's expectation and April's expectation.
+We also feel like this is the period where COVID-19 is going to have the greatest amount of impact across the retail customer base, whether it's residential, commercial or industrial. And even though we are putting measures in place to reduce expenses, those will largely be levelized over the balance of the period and you're looking on an adjusted to, when is a very constrained quarter in terms of sales.
+So I would just take it in that light. Also, if you look at last year, I think we reported $0.80 for the quarter, $0.08 of that was weather related and so I think what we're putting out, consistent with what we've already reported for the first quarters.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. Drew, thanks for that. I actually went back over the last eight years and just looked at what did we estimate. And believe it or not, this is within the range of estimates the kind of low was $0.65. In fact I want to say in 2018, we estimated $0.65. And when you consider it, you have the effect of the virus -- the coronavirus impacts. You know who knows, but this seems -- it seems like a reasonably conservative estimate from my standpoint. I'm OK with it.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Got it. And just on Vogtle, given the impact of COVID and then move to push the aggressive Unit 4 site plan back to May from March. I know we've -- in the past, we've talked about being hopeful that we could see the units come online somewhere between the budgeted and the more aggressive timelines. Is that kind of not reality at this point, and I know you will continue to keep that May aggressive schedule until there is zero probability could be met. What probabilities are the site managers placing now on meeting the aggressive schedule? And at what point could you move away from May to something closer to the midpoint between the aggressive and budgeted schedules? Thanks.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, hey Shar, let me take it, one of the predicates in your question and that was until there is zero probability. That's really not the case. We always kind of do a reasonable shot and we stick with that. Look, we have used some margin here. We had an extra month of kind of hidden margin between non- functional test and fuel load. Essentially we have seen so far losing kind of 10 days to 14 days in the aggressive schedule, we think through May we'll lose another two weeks.
+The site people are going to work like crazy to mitigate the loss of that month. But we had a month of, if you will, margin in between now and fuel load that we're just consuming. Is it riskier than it was before? Yeah, but it's still a reasonable objective, otherwise we wouldn't stick with it, OK.
+One last point. When we go from in the schedule from fuel load to in service, recall we have maintained and I know this has been the conversation in many earnings calls, we have maintained a six month schedule there. China did it in 4.5 months and we think we can meet or beat China. So, we actually have a little more margin even to November and to May.
+So look, November is what matters. We got to beat November and our eyes are on that. This site continues to believe they can hit a May schedule. Has it gotten more aggressive? Yeah, still there is a reasonable shot at it.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Got it. Congrats, guys, on the results and stay safe and we'll see you soon.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Shar, thanks. Same to you Bud.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Alright.
+Operator
+Thank you. Our next question comes from the line of Steve Fleishman with Wolfe Research. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hey Steve.
+Steve Fleishman -- Wolfe Research -- Analyst
+Hey, Tom. Good afternoon.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Good afternoon.
+Steve Fleishman -- Wolfe Research -- Analyst
+So a couple of questions. So the -- has the workforce reduction been implemented now and did it end up being around 20% that took [Phonetic] that plan?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. Yes.
+Steve Fleishman -- Wolfe Research -- Analyst
+Okay. And is it -- OK is it-- and maybe just give some colour on, obviously, there's different people doing different things there. Are there areas where you need to refill people with certain skills or just how did that play out?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, in general, what we were able to do is to bring people off of four on to three. That's how we filled whatever gaps we thought we may see. Recall, and this was in the 8-K, I think the first reduction was voluntary. And then we moved to what we call rightsizing. So the voluntary effort didn't produce an optimal kind of result for all the work phases that we have at the plant.
+And remember, as I said in the script and everything else, we're particularly concerned with getting the right mix and the right productivity in electrical and with subcontracts. And so what we did by moving resources away from four, we bolstered the mix on Unit 3 so that we believe that there is a reasonable shot to maintain the aggressive schedule, which has a May in-service date.
+So that really is what has happened. Now the other thing I just want to put out is that we are in transition. In the script I mentioned the idea about this sawtooth effect. We've seen that every time now and those of you that follow these calls will remember that every time we open up a new workforce a new work face in the plant, every time we lead to an increase in personnel. Well, and now even with the decrease in personnel as we remix crews and schedules and everything else, we believe that sawtooth effect will occur. And so that's why we're being reasonably conservative with May.
+In other words, we did 1.25% in April which still beat the 1% that we need for November. May maybe similarly challenged. We hope it's a little better, but don't be surprised if it's not that great. But then we expect in June and beyond to really pick up the sawtooth effect and achieve what we want to do, as we have done in the past. So, when we've talked to you about this sawtooth effect in the past, in fact it has occurred. So let us readjust, get the teams right, get the work practices back together and then we think we'll get the performance we want to see.
+Steve Fleishman -- Wolfe Research -- Analyst
+Okay. And then, when will we kind of get an update of how the Commission is kind of feeling about how Vogtle is going? Is that -- would that be in this VCM or really the next one? Are they going to do any special hearing on it?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. Well, let me answer that in a couple of ways. Steve, I know you're really good about this and others on the call are in terms of contacting the commission directly or looking at all the filings and everything else. So you have heard directly kind of from the commissioners themselves, I would never put words in their mouth.
+But the other thing that I would just highlight to people is that Tuesday this so -- just a few days, the company will be testifying and you'll be able to see the interplay between the company and the staff and everybody else. And so we'll get some illumination there.
+Steve Fleishman -- Wolfe Research -- Analyst
+Okay and then my last question is just on, just making sure I understand the assumptions for sales and when you talk about kind of start-up later in the summer and then recovery. Is recovery kind of off of this very low level now or when you're talking about recovery what do you mean by that?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+You know Steve -- actually can you hear me alright. We're having sort of technical difficulties as Tom and I are socially distanced.
+Steve Fleishman -- Wolfe Research -- Analyst
+I hear you well.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Good. We're modelling a lot of different things, whether it's a V, a U, a W or an L. In general, the midline of our sort of to 250 to 400 is probably something like delayed reemergence from stay at home kind of through mid-summer maybe even into August. And then some recovering through the balance of year, but certainly not complete.
+If we look at the different customer classes that we're tracking to say, I mean our Industrial segment, which is not the largest contributor to earnings, by the way, is actually performing quite well. But it does vary. And so things like pulp and paper, some of the larger segments, chemical are doing quite well because of low input cost or because of demand on product.
+Some of the things like precursors to automotive or like steel are going to take a little bit longer to rebound, but those industries, as we're watching, are starting to reopen and automotive production is beginning to restart across Georgia and Alabama in particular.
+On the commercial side, we've seen a pretty exaggerated decrease. Some our bigger customers there are certainly in retail and education, but some of those segments are starting to move back. And so I think 2 to 5 total that we gave you really represents those different actions in aggregate. But we're looking at it in a pretty detailed way.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You know, and I'll just add to that too. So everybody I think knows that Georgia is one of the safe, stepping out on reemerging. Of course, we're doing it in a thoughtful phased process. The other issue that I would put out there is fuel prices are really low for the quarter. Natural gas was a $1.88 per million BTU and I think the amount of natural gas cost borne by customers was around $0.25 billion, $247 million, lower than last year.
+So cost of electricity and therefore consumption of energy is more cost efficient than it has been before. There is a lot in the mix right now. And also I'll just say this, I've been in contact with my friend Jay Powell from the Fed.
+I would complement and I know there is all kinds of disagreement about this, but I would complement broadly the federal response, whether it's the administration, whether it's Congress, whether it's the Fed in terms of the timeliness of their response and supporting the economy, especially as compared to say 2008-2009.
+These guys are on top of it, and I'm sure we could all criticized one step here or there, but I think all the necessary chemicals are in the sea to produce something that will minimize, hopefully, the impact going forward.
+Steve Fleishman -- Wolfe Research -- Analyst
+Okay, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Stephen Byrd with Morgan Stanley. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hey, Stephen. How are you?
+Stephen Byrd -- Morgan Stanley -- Analyst
+Hi, good afternoon. How are you Tom?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Good afternoon. Great.
+Stephen Byrd -- Morgan Stanley -- Analyst
+I just wanted to follow up on the status of COVID at Vogtle worksite. And you've taken steps to reduce risk, is there -- we're trying to sort of track the number of cases. Is there a risk of a trajectory of more cases such as you have to sort of adjust work practices at the site further or do you feel that sort of the changes you've made of -- have made the impacts to the number of cases that you were looking for?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+No, in fact, look -- we started very early on before there were any COVID-19 effects, we were planning that there would be. And one of the very first things we did, I remember it was a weekend call of the Executive Team, was to move to the site essentially a medical village staffed by nurses and doctors. We have a disease specialist that's been advising the site daily. We have all the PPE we need.
+We have turnaround and testing conservative work practices and in fact our realization, I kind of -- we've debated about talking about this on the call, but I'll throw a little bit of it out there. Our incidence rate compared to the utility industry is about half maybe 40% something like that. Our severity of cases is way lower.
+One of the very smart steps that the site did very early on was to remove from the site or at least on a voluntary basis with pay people that would be most likely to be severely impacted, that is elderly or older. Like I'm probably in that category, I don't describe myself as elderly, and if they had a pre-existing condition.
+So if you look at it, one other thing we do that's very conservative that other people aren't doing that is, if somebody at the site just feels funny, if they don't feel well and want to get tested, we get them tested. Not only that, we take their work associate out that had the close contact and we test them.
+When you look at the amount of testing per person at the site relative to anywhere in the communities we serve, it is somewhere -- we are testing between five and 10 times more people than what's being tested elsewhere in the region.
+So its amazing stuff. Sometimes in these close contact cases, we will test somebody that is asymptomatic, oh, ensure they turned up positive, we remove them. And the other kind of telling factor is severity. I think we've only had one or two people be hospitalized or go to a hospital otherwise they're being tested with the folks on site and about half of the people that have been tested positive have returned to work. I think that all pretty positive stuff.
+A couple more things that we're doing; at any work front, we limit the amount of people three per worksite, so sometimes we exceed that with everybody's approval, but that generally is the practice; we have eliminated close quarters break areas; close quarters lunch areas; the big buzzing and all that stuff. We really have worked hard right away early on to make sure and the principal was that we wanted plant Vogtle 3 & 4 to be a better environment for the workers there than what they could find elsewhere in their homes or in their communities in the surrounding area. And I think we've done that.
+Stephen Byrd -- Morgan Stanley -- Analyst
+That's really helpful color. Thank you very much. And just checking in on the status of just equipment testing on the site, would you mind just giving a high-level update on, I guess, maybe percentage of equipment tested or whatever else is most relevant as we think about just sort of overall status of testing all the equipment on site?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Well, all the major equipment is tested, right. So in fact, it was, I mean right as we entered the call, we got the sign-off from Westinghouse, the open vessel testing, the testing was complete. Just as you yell at your children and teenagers, check your work before you turn it in. That's what we have been doing in the past, just recent day hours whatever. And in fact, we just got clearance from Westinghouse, and in fact we had -- they had verified that we had passed all the tests on OVT. So we were very happy to announce that today. I don't know how -- what else would you want to hear.
+Stephen Byrd -- Morgan Stanley -- Analyst
+I think that makes sense. I think in the past, there were some sort of metric of percentage of equipment that's been inspected, but I can follow up afterwards.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+All the major equipment is there and had been tested. We'll test it again once it goes into a system. But we're done. Hey, one other thing, the RCP, right, is all on-site and everybody admires it as they walk by it. It's a spare. We got that from Summer.
+Stephen Byrd -- Morgan Stanley -- Analyst
+Great. That's all I had. Thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you.
+Operator
+Thank you comes from the line Yogesh Chopra with Evercore ISI. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thanks for joining.
+Yogesh Chopra -- Evercore ISI -- Analyst
+Thanks Tom. Thanks for taking my question. Just -- I want to take you back to '08, '09. You mentioned you were able to offset a lot of the impact there with cost cuttings. But also, I believe it was Georgia and correct me if I'm wrong, were you were able to amortize some of the regulatory accounts to kind of mitigate the earnings hit there? Is that sort of an opportunity available this time around?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Boy you've got a great memory and you're correct that is in fact what we did, we took some steps to lessen the burden. But we don't feel the need to take those steps right now. Those are certainly options in the future to approach regulators, if we need to. The one thing I think that you can just point to around the system is that I think we received, in fact I would just go broadly, our PSCs but also I would say FERC and NERC at the national level, folks have really I think, bend over backwards to accommodate the needs of this unique environment.
+And I think the issue of being able to set aside as a regulatory asset recovery of you know disconnect costs and a variety of other things has been another evidence of constructive practice by our state. And at the NERC and FERC level, I'll tell you, they've been on these ESCC calls. Likewise, they're doing what they need to do in order to help the industry get through this period, not by imposing over regulations, etc. I'm very complementary of what are generally very tough regulators taking constructive approaches to help in assisting through this time frame.
+Yogesh Chopra -- Evercore ISI -- Analyst
+Got it. Thanks, Tom. And then, maybe just shifting gears and can you talk a little bit about the credit metrics and -- you're really confident in your 2020 EPS numbers, but I'm just kind of curious as to what impact, if any, are you seeing or do you expect to see on your FFO to debt versus the targets and any colour on any dialog you may have had with the credit rating agencies?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+So, this is Drew. As we said we've had numerous conversations with the credit rating agencies across a variety of topics and did a very fulsome review of each of those individual business units, not four weeks ago. While we're meeting targets, FFO debt doesn't change much. Our goal is to sort of stay with a buffer relative to what's expected for the ratings categories that we maintain.
+And generally, as we get through the construction of Vogtle that are on an improving trajectory, which is a function really of just how the economics work of Vogtle. The other thing that we've been working through is general liquidity, which we think is paramount operating a well-functioning business.
+And we were fortunate to be good credit in good reasonable markets, and we accelerated all of the debt issuance that we needed to do for the balance of the year, at least for ourselves in a position to not have to face those challenges later on. So I think very comfortable with how we're managing liquidity and credit in total.
+Yogesh Chopra -- Evercore ISI -- Analyst
+Yeah, and Drew. I'm just going to ask you if you're comfortable saying something here. But our relationship was not only our regulators, but also the rating agencies etc. is continuous, not discrete. And just recently, you went through a pretty intensive review by the rating agencies. What, can you say about their response to that?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Just as you would expect and probably very similar to 2008 and 2009 they have sectors that they worry about far more than utility. I think what they're focused on is, on the constructive and proactive nature of regulators and the behaviours that we've seen insulating us from things like bad debt expense I think is a very protected and productive thing. But in general, the rating agencies are still concerned with the same things they were concerned with before but I think certainly our sector is less of a concern than most others.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And I think we got a favourable review from them.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yeah.
+Yogesh Chopra -- Evercore ISI -- Analyst
+Okay, perfect guys. Really appreciate you taking the time to answer our questions today. Thank you very much.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes, sir. Thank you.
+Operator
+Thank you. Our next question comes from the line of Sophie Karp with KeyBanc. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello Sophie.
+Sophie Karp -- KeyBanc Capital Markets -- Analyst
+Good afternoon. Congrats on a solid quarter and thank you for squeezing me in here.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Absolutely.
+Sophie Karp -- KeyBanc Capital Markets -- Analyst
+Yeah, a lot of the questions have been asked and answered, but maybe if I can just follow-up on a couple of points here. Sort of firstly on Vogtle, you mentioned that you reduced the size of the teams to three people, I think you said, and the overall workforce by 20%. I mean, is that based on going to CDC guidelines or your internal guidelines that you've developed? And like when may you go back to like larger teams or reduce this because obviously it would be fair to say, I believe that this is causing some productivity declines right. So is that sort of a new normal sort of duration of the project, in your mind, or are we going to go back to like more normal staffing at some point?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes, Sophie, that's a great question. So, if you recall the -- I think we've done it in the past kind of capex by quarter just on these curves, we're kind of at the peak of our curve. And assuming that we continued to be productive. The curve actually starts to turn down on Unit 3. It will ramp up a little bit more on Unit 4 going forward. So my senses is, we're going to evaluate our progress in the months ahead. But it could be that this level of activity is appropriate.
+So where we want to be on Unit 3 & 4. We were around the down turn of activity at Unit 3, just right there. The drop in the -- drop in the whole site from nine to seven isn't exactly unexpected. It's a little accelerated, which means that we're probably going to push out some hours. But it's not unexpected and we didn't intend it when we resnatch the schedule the refinement, we did in February.
+But accelerating for those two month gave us essentially a bank of more margin that we're able to use in moving people from 4 to 3 to accommodate the difference in the resizing after this voluntary reduction. So it's actually not a bad place to be. Let's see what happens in the months ahead.
+Sophie Karp -- KeyBanc Capital Markets -- Analyst
+Got it, thanks. And then my other question was on bad debt expense, right and that would predict early I guess in this as far as the win cycles go. But is there a point where it might be an issue for the balance sheet that where you might want to approach your regulators to maybe recover it before the next rate case cycle, which is some time away. I guess how do you think about it internally or what is the threshold. If any?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+So Sophie, this is Drew. I can say a number of things. In general our gas utilities have riders or trackers for these types of things. And so our exposures were probably more isolated to the electric utilities. We've had very constructive regulatory conversations and in fact, not so much in mechanism, but at least in understanding that bad debt expense would track through regulatory asset that we could recover when we get together next to discuss rate.
+Your question I think was around the interim period and you know be honest, bad debt expense is not one of the things that I fear. It's a relatively low percentage of our total revenue. The thing that we're tracking really is sort of late payment of bills and so we've been monitoring the number of customers in arrears. It has not changed materially over the last month.
+We typically have about 15% of our customers in arrears, then we give them time, maybe more of a normal time and we know that if we were to have the provision to something likely a 40% for our customers being in arrears, that we would probably have to provision somewhere between $800 million and $1 billion worth of additional capital per quarter. All of that is incredibly manageable within the existing liquidity that we have within the business.
+And so, we don't anticipate that there'll be anything more than maybe some temporary impact to liquidity but really no long-term impact to bad debt.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah and let me add another comment. It's under the who-knows, but I think it's still something we've talked about getting ready for the call. And that is, when you think about the intensive impact of COVID-19 it's occurring during light revenue months for us. It's occurring during April and May, which are not strong month. This is Atlanta particularly but the Southeast is known for these beautiful long springs and our big revenue months 60% of our revenue, I think comes out of the summer.
+So that's going to be -- so when you think about the intense impacts, it's coming during low revenue and therefore if we have some recovery that's the who-knows part that will get us back to, I think, a good spot.
+Hey, Sophie one more thing, you mentioned somebody pointed out to me that I didn't cover, you said do we follow CDC guidelines? In fact, yes, we do, and in fact, I think we're even more conservative than CDC in terms of recovery and all that stuff. We keep people out 14 days even if they've been around somebody that's been tested and a variety of other things.
+And one other things [Speech Overlap] Yeah, just one last thing. We do survey. We do stay in touch with the other mega projects around the U.S. and their experience is not that different than ours. I think 95% are still progressing kind of as we are.
+Sophie Karp -- KeyBanc Capital Markets -- Analyst
+Great, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Michael Weinstein with Credit Suisse. Please proceed.
+Michael Weinstein -- Credit Suisse -- Analyst
+Thank you Tom, how are you doing?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+How are you doing?
+Michael Weinstein -- Credit Suisse -- Analyst
+Hey, on residential sales, it looks like your forecast is about 1% to 3% open. It is a little bit light versus forecast for up compared to what I've been hearing from other utilities were in the range of 3% to 4% for residential sales. Is there something about residential sales that you expect to be a little more, I guess, not as enthusiastic about it an offsetting factor?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+So, Michael I think probably what you're noting maybe is difference in time period. The 2% to 3% that we've got on our churn on slide 11 really is meant to represent what we think the full year impacts might be. We certainly are seeing across all the classes for commercial, industrial and residential more exaggerated response than what's the take of the year. What we're trying to show is just that this is what we think the full-year impact would be given the point in time or the point in the heating and cooling cycle of where we are today.
+And as Tom said, April was sort of an interesting month in Georgia as people are starting to change over from heating into air conditioning and so demand is quite light. What we expect in May is a fraction of what we expect in June.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And August and September here are crazy.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Right. Hey for global where we are [Technical Issues]
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Where are they manufactured -- did you say -- you're breaking up, did you say where is the fuel manufactured?
+Michael Weinstein -- Credit Suisse -- Analyst
+Yeah.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+South Carolina. [Technical Issues] Yeah I'm sorry you're breaking up. I'm sorry, you're really breaking up. But what we hear is where is the fuel manufactured and it's South Carolina.
+Michael Weinstein -- Credit Suisse -- Analyst
+Are there any issues on site for manufacturing process?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Is there any fuel on site? No, [Technical issues]
+Michael Weinstein -- Credit Suisse -- Analyst
+Got you. Okay, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, Michael. Thank you. If we missed your question there, please call us after and we'll be glad to hit it for you. You were just breaking up a lot.
+Michael Weinstein -- Credit Suisse -- Analyst
+Thank you. Thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes, sir. Thank you.
+Operator
+Thank you. Our next question comes from the line of Jeremy Tonet with JP Morgan. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello Jeremy, how are you?
+Jeremy Tonet -- JP Morgan -- Analyst
+Good. Good afternoon. Thanks for having me.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You bet.
+Jeremy Tonet -- JP Morgan -- Analyst
+Want to come back to Vogtle here a little bit, if I could. And with a lower Vogtle workforce, I was just wondering what type of working hours per week are you guys achieving now and kind of what levels would have you concerned with regards to the schedule? Or asked differently, what type of working hour numbers do you guys need to see to hit that monthly completion rate of about 1%?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, I think we're on five-tenth and then we don't do as many weekends. As we have. So we've backed off a little bit. That gives us a little bit of optionality should we need to work weekend. So we've backed off a little bit during this timeframe and less density in everything else. Further, we have shifted more work into the daylight hours as opposed to the night shift. And we have shifted more hours onto Unit 3. So that's kind of the broad approach there.
+Jeremy Tonet -- JP Morgan -- Analyst
+That's helpful there. Thanks. And just want to shift gears, I guess to load and appreciate that it might be just well too early to tell, but it seems like Georgia has recently started to reopen a bit here. With that process started, just wondering if you could share anything you're seeing with us live time. And was that able to inform kind of your load projections that you provided earlier in the call?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Well, look, we're in contact with our key account customers. I think we always do a pretty good job there. And let's let the estimate stay where the estimates are. You ask a little bit of a different question, kind of what's our pulse of the community. I think there is a positive vibe right now that people are trying to figure out ways to start again. The restaurants are doing on this take out. It just, it feels a little better and Drew is in a different part of. He lives right in the heart of the city. I live in the burbs. What's kind of your experience?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Well, you know another way to sort of think about this is we have real-time data on actual usage. And then as you described Tom we have four holding of all of our commercial and industrial customers. And I would say that the fact that the Governor has opened the state does not change human behavior materially, but I would say that in general as we poll commercial customers in particular confidence around coming back as load has improved in the last couple of weeks, the last set of data that I still have of Georgia in particular.
+But these are just sort of early shoots kind of signs and we'll have to look at what the actual demand is. We certainly have some categories where we don't expect any immediate improvement. Education is one of our top commercial segments and we don't anticipate people being back in school or this season. And then there are some other loads like hospital where they've exceeded historical consumption, that's to be expected and so I just -- give us a few more quarters -- few more months and we'll be able to give you a little bit better data.
+Jeremy Tonet -- JP Morgan -- Analyst
+Hey, but Drew, you remind me too. I think you guys would find this interesting, Drew is on the Board, probably half the hospital beds in the state here in, in Georgia anyway, and his wife is a doctor. Give a sense as to how many of the beds are being used, because this is kind of capacity flattening the curve concept.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yes. It's -- I probably have to stay away from absolute numbers. And I prefer that some of these institutions report for themselves. I would just say that I am intimate with the functioning of Emory and Grady sort of safety in hospital, our academic institutions in town. I'm incredibly amazed their ability to ramp to an expected demand.
+And in general, I think that we're seeing cases in those hospitals that are a little bit lighter than models were projected. But the ability of those hospitals to grasp to accommodate them, what could be a crush there has been really incredible, very sophisticated institutions in our area.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+So we have a 100% more capacity than what we're seeing in terms of actual cases right now. So when you think about coming back to work, there's a whole lot of gating issues that we've been working on. I've been working on at a national level in the industry and here at Sutton. One of the big indicators is have we flattened the curve? Do you have capacity? Yes.
+The fact is, and I think it's been very instructive at Vogel that we have to learn to work with the virus. We have to learn for American Commerce to get along because the only way you can be assured you don't have the virus, is that widespread available vaccines and we don't have that yet.
+Until we get there, you won't have complete recover. So how do you act, how are you able to persist in this environment and I think that's why, I mean, who knows. But I think that's why Governor Kent, that was one of the issues he was looking at. Do we have available capacity? Yes. The next question we will all have as a nation is, do we have a second wave later this fall, we'll see.
+Jeremy Tonet -- JP Morgan -- Analyst
+That's really helpful, thank you for taking my question.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, you bet. Thank you.
+Operator
+Thank you. Our next question comes from the line of Paul Fremont with Mizuho Securities. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello, Paul. Glad to have you with it.
+Paul Fremont -- Mizuho Securities -- Analyst
+Hey, great to be here. Hope you're all safe and healthy
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And you. Yeah, we're great.
+Paul Fremont -- Mizuho Securities -- Analyst
+You had initially planned turnover and testing to occur simultaneous with construction. Is that still the plan and does COVID-19 complicate this to the small footprint of the plant?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Turnover and testing and construction had been going hand and glove along the way. We get thorough reports -- I know we do thorough reports once a month with everybody at the PSC and the co-owners and everything else. That's going according to pace and sometimes you speed up testing.
+Remember we got into a discussion about that in past calls, sometimes you slow it down letting construction catch up or test another areas of the plant while you focus on construction in a particular area. All that's going as expected. I wouldn't say that's anything other than a -- than exactly what we've expected and I think this approach has really served us well. We've talked about that in the past but fail fast and learn in other areas has been really helpful to us.
+Paul Fremont -- Mizuho Securities -- Analyst
+And then secondly, can you update us on how many final approvals you've had from the NRC on ITAC and are you going to have to wait until construction is fully complete for a lot of the remaining ITACs to be signed off on or how should we think about the timeframe for that?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, let me just give you a quick numbers. The ITACs that have been submitted all the UIN. So this is the -- the ITACs has been submitted in form formed without the number, have been accepted by the NRC. So every one of the -- so that really lessen the bad wave that we have.
+We had originally I think 449 ITACs fully that need to be submitted for Unit 3 and we've had a whole lot of those complete. I guess, we still have about 270 left before they're certified and we get the clearance to load fuel. That's been going well. At the end [Speech overlap] Yeah, go ahead Paul.
+Paul Fremont -- Mizuho Securities -- Analyst
+I was going to just ask for the 270 to be approved, do you essentially have to wait until construction is complete or are you expecting that to happen earlier?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+There's -- it's a pace along the way. These is some elements of the 270 that are after construction, but we think it's -- ITACs are going well. We're either ahead of schedule or whatever. Paul, you may remember I used to say that ITAC would reach my top three of concern and while we're concerned about everything I think electrical work and subcontract work are much bigger concerns at this point and our ability to deliver on our ITAC.
+I really think those guys have done great. And I want to throw a bouquet to the NRC. They have staffed up appropriately and the teams that have been charged with approving the UIN, then the ITAC that are fully complete. They've done a very timely job of doing that.
+I personally have worked with Steve Kaczynski and team visiting with the NRC commissioners and they are committed to holding up their end of the bargain I feel -- I feel good, it's still a big issue. Let me not minimize it, but it's something I feel pretty good about.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Tom, I think the only thing I'd add, we've tried to emphasize with folks that the testing and turnover occurs constantly and the best indicator that we're making progress on testing and turnover are the actual starts of the milestone and so you will see a couple of those milestones and our progress against those this summer and that's the best indicators you could have a successful testing and turnover.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. And it's just been following I forget. I did -- we do a variety of these town halls. I did one with Shar recently and some time ago with Fleishman. And sure enough, back then I said end of the month. Well, we finished OVT end of the month. So we're able to follow through on the scheduled despite the challenges of COVID.
+Paul Fremont -- Mizuho Securities -- Analyst
+And then after implementing the 20% workforce reduction, are you anticipating a significant improvement in productivity of the plant.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. Yeah. And you just got to remember the sawtooth discussion we've had before. Anytime we staff up or now staff down and we have to right size and bring new people on and getting used to a new work front and new people working together and new supervision, there always is a bit of a learning curve. That's the sawtooth. Yeah, we are expecting an improvement.
+But let me point out again we have been ahead. I think this chart on Slide 7, really shows it. But even with April. It's just a slight downtick from our aggressive schedule. And I think pretty far away from November. Even during April, we completed 1.25% target was 2%. The November schedule calls for 1%. So we even made some margin to November even during a bad month.
+Paul Fremont -- Mizuho Securities -- Analyst
+And then my last question, looking sort of at your Slide 11, with respect to potential cost reduction. Where in relation to the $250 million to $400 million of potential revenue erosion, where would you see the ability to sort of offset that with O&M toward the lower end, the middle, the high-end, how should we think about that?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Well, I think we're going to have see how this quarter goes. But we're going to put plans in place that at least give us book-end to achieve at either end of the spectrum, is the simple way to describe it to you. There are certainly cost that we will categorize that are things where you reduce the absolute on the run expense. The travel and entertainment or travel in particular is a perfect example, a workforce of nearly 30,000 people very few people were travelling for a number of months. We don't expect that that creates backlog of travel that will then come back into our cost range.
+There will be things toward the far end of this spectrum where we will be delaying expenses into future periods. And so, we're just going through an effort to identifying both of those categories and across this entire spectrum of potential revenue declines, how you might function in either -- with either of these outcomes.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+We're not -- yeah, as a principle, we're not refilling open jobs without CEO approval, which really freezes them. It has the effect of a freeze. Yeah, and look...
+Paul Fremont -- Mizuho Securities -- Analyst
+And then, I mean are there -- are there sort of examples of like past years where you've gone through cost reduction and any numbers that you can share based on past experience?
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yeah. So In '08 and '09, I think the number was probably a little bit toward the lower end of this range. But I think a pretty good indication of what the capabilities are, understand in '08 and '09 the company was a bit smaller. So, the acquisition of AGL Resources came in, hence our cost complex is quite a bit large and our O&M -- total O&M is something in the $5 billion-plus range, maybe addressable, it's a little bit smaller than that. And I think it gives us plenty of room to be responsible around this range.
+Paul Fremont -- Mizuho Securities -- Analyst
+Great, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes, sir. Thank you.
+Operator
+Thank you. Our next question comes from the line of Michael Lapides with Goldman Sachs. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hey, Michael, how are you?
+Michael Lapides -- Goldman Sachs -- Analyst
+I'm well, Tom. How are you? Glad to hear everybody in the Southern Company and family is doing as well as possible. Thank you for taking the question. Actually I want to ask you about the jurisdiction that people don't ask you about that may be one of the best one people don't think about enough.
+Can you talk about Alabama and can you talk about both where thing stands with the approval of both the gas plants and the solar both the PPAs and ownership that you all filed at PSC.
+And also, I thought there was a rate docket there this year as well and undergoing in the winter and into the spring. Can you just give us an update on that? And then finally how different is Alabama demand trends relative to Georgia ones.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, I would say, in general, you're in a giant process that's on track in Georgia for all that stuff -- I'm sorry in Alabama. Yeah, I think everything is going as we thought it would there.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Your and to question around customer mix. Just like in the entirety of our jurisdiction tends to more toward more industrial as you move west generally.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+That's true, but what's interesting in Mississippi; 25% of Mississippi sales are wholesale and those wholesale sales are largely residential. So you get a bit of a different mix in Mississippi, but it's small. But Drew is exactly right, Alabama and Georgia pretty similar.
+Michael Lapides -- Goldman Sachs -- Analyst
+Okay. And can you remind us in Alabama, what the rate request was and also what the timeline to get approval for the gas plant both acquisition and development?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+I think we were looking toward a June, weren't we? It's the summer, early summer for that process to occur.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Okay.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And I think the only other piece of news there. It's not Alabama PSC news, but the FERC data prove the gas plant acquisition that we projected early summer, but we got that out of the way.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Thank you, Tom. Much appreciated.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you my friend.
+Operator
+Thank you. Our next question comes from the line of Julien Dumoulin-Smith with Bank of America. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello. Julien, how are they?
+Julien Dumoulin-Smith -- Bank of America Merrill Lynch -- Analyst
+Hey how're you guys. Thank you very much. Hope you're well. Just wanted to follow-up on the O&M front. So you guys have [Technical Issues] right. I just wanted to be very clear about this. When we spoke about the cost savings efforts, just to quantify just a little bit more. Basically you're saying this is going to offset anything in that range or how do you think about the sort of the magnitude of cost savings that you're contemplating today. You're looking this as 250 to 400 as, that's the equivalent O&M amount that you're looking at when you're planning this.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yeah, I think the simple way to think about this is we're going to put plans in place or work through plans that could help us at either end of this range. What we actually have to execute against is going to be determined by how quickly the economies respond in our service territories.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You know, and the other thing I would just say. I mean, that's the range -- here again, I hate to say with all this uncertainty, it's kind of a who-knows, but I think earlier, maybe a month ago I was saying $250 million to $350 million. We tacked on $50 million just out of conservatism and a more prolonged to kind of effect.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+I don't want to give you the impression Julien that this is limitless pool. There are certain limitations and we're just going to have to see how the demand responses also overtime.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+But there again too, that would even the highest end, we're still within the range, yeah.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yeah. And probably most folks don't know, but the easiest way to turn this into earnings per share that that we general are up $10 million per $0.01 and so you can divide this by 10 and get some sense of the range of impact in total on a gross revenue basis and then adjust it.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You need to tax effect that. Drew just gave you an after-tax net income effect. So this is pre-tax.
+Julien Dumoulin-Smith -- Bank of America Merrill Lynch -- Analyst
+Yeah, understood all right, let me come back to the [Technical Issues] when you guys talk about this sawtooth, you know 40% reduction here in workforce. How you guys are making it up, on the project. And you also talk about delaying Unit 4 into next year. Are you thinking if you're going to ramp back up labour later in the schedule here at this point or how do you make up for that 20% workforce reductions cumulatively?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, thanks Julien, I wish I could draw with my finger here in the air, but we were doing a one-on-one, I draw my little piece of paper, my hand written things and so payments were there. Just imagine this, if I had a curve that showed 9,000 people on site as we wind down Unit 3 construction, heading into hot functional test, the wind down of people on site for Unit 3 occurs.
+So the curve actually goes down. What we're doing is and what we've said about kind of hot functional test being kind of now August-September all we did was push it out a little. Imagine you pushed your hand down on the peak of 9,000 and it pushes out a little bit to the right. So all we've done is try to maintain that level.
+I don't think you're going to see another big peak here. We were already at the peak, and I think now that peak starts to wind down, that's why we feel comfortable with the movement from 9,000 to 7,000 on-site drawing some off of 4, which pushes 4 back to its original schedule. And still maintaining our ability to hit the aggressive site plan for Unit 3. All we did was shift the curve a little bit and we and we funded that curve with Unit 4.
+Julien Dumoulin-Smith -- Bank of America Merrill Lynch -- Analyst
+Got it, OK. Maybe just quick follow up here to round it out here. Under what scenarios would you consider stopping construction around COVID? So it sounded you guys have a lot of mitigating factors already implemented a lot of compartmentalization of labour already going on in terms of mitigating factors but how do you think about what that scenario might look like and when you might trigger that. Just to address the range of scenarios here?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, you know what, I suppose there is a hypothetical in there. Julien, I just don't think that's likely. I think America -- let me just speak broadly and I'll take it down to site. America has to learn to live with the virus.
+Our experience so far knock on wood, has been much less than what you've seen in the industry about half and our experience on site likewise has been less severe. I think largely because of the smart actions the people on the site have taken. For example removing the at-risk personnel and paying them well before we saw the effect of the site -- on the site.
+People are now coming back to work. One other point is, it looks like the average over the past I don't know four weeks, if you do a four week look at average, it looks as if we may be past the peak on the site. Now that will only be borne out in the next few weeks to come. But if you do a seven day rolling average, it looks as if incidence levels are decreasing.
+So look, there is a hypothetical in there. I really it's a practical matter that the job at hand is continue the good work we're doing on site, make that an attractive place for people to work, which I think we're doing and I think the labour unions at all are calling us out for that kind of unprecedented response and keep going. I just don't think, I don't see it right now. But we'll see.
+Julien Dumoulin-Smith -- Bank of America Merrill Lynch -- Analyst
+Excellent. All right. Yeah, you can tell me you're confident. Excellent. Well, thank you for the time. All the best.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you, Julian appreciate it bud.
+Operator
+Thank you. Our next question comes from the line of Andrew Weisel with Scotia Howard Weil. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello, Andrew. Thanks for joining us.
+Andrew Weisel -- Scotia Howard Weil -- Analyst
+Hey everyone. In the interest of time I'll really stick to one question here on Page 11. I'm a little surprised, maybe I missed this I apologize if I did, but you're forecasting a bigger decline for commercial volumes than industrial most other utilities are talking about it the other way. And I know you mentioned your mix is roughly a third, a third, third. So, can you explain why you're expecting a deeper hit to commercial than industrial?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, look I -- and the good news there is that that's where your big hit is. I think your ability to come back is much better. It will come back quicker. Your ability to shut down a plant and then it get back, it's harder than restarting a restaurant. In fact, I was on CNBC this morning and I know right after me was the CEO of IMAX. He says our ability to turn theatres back on is almost instantaneous.
+So look that is an assessment of our key accounts and our marketing teams across the system. That's just what we see. Our industrial make up the kind of folks that we see, really had been having a great quarter. And in fact if you look at the month by month sales at industrial, gosh, our momentum statistics I'm fond of mentioning we're showing really quite positive momentum through February, and it's just with COVID what we saw were some companies taking outages.
+They said well, you know if we're going to want to socially distanced, why don't we go ahead and take an outage and do some maintenance, sending a lot of people home? We actually think industrial will recover faster, more resilient. The other thing that we have in the Southeast here is Industrial dependent natural gas as a feedstock particularly in the chemicals area. I think that's number one industrial customer.
+And with natural gas being where it is. Those guys are producing product at really attractive levels. We saw this again in 2008, 2009 and especially, I would say Alabama has been particularly proactive in putting in place rate plans that preserved industrial load where across the United States, they didn't have those things and industrials tended shut down plants in other parts of the United States, and move their productive capacity to the Southeast. For all those reasons, that's why we think industrial is more resilient than commercial. Good news is, commercial is going to recover pretty quickly, in my opinion.
+Andrew Weisel -- Scotia Howard Weil -- Analyst
+Okay, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You bet.
+Operator
+Thank you. Our next question comes from line of Paul Patterson with Glenrock Associates, please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thanks, Paul. Glad to have to with us.
+Paul Patterson -- Glenrock Associates -- Analyst
+How are you doing? Sounds like you guys are doing well.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, we're hanging on here.
+Paul Patterson -- Glenrock Associates -- Analyst
+So, well I wanted to touch base with you with sort of just basically your economic forecast I guess. It sounds like you guys are quite optimistic that once this -- the sort of stay at home and social distancing stuff is resolved, people will be just sort of coming back and it will be business as usual. Is that the case or are you guys basically thinking that -- just wondering what is your economic forecast, given your growth rate, and are you still sort of expecting 1% sales growth after this year.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+You know the $400 million estimate assumes that there is more of a through the year impact.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yeah, I don't know that we want to portray too much optimism. I mean Certainly, U shape, it feels better where we're sitting today than it's -- maybe on the downward slope. We've got a couple of week ago. But our projection for a 5% reduction in total retail sales is quite exaggerated relative to what we've seen in history. And so this will not be without economic pain for sure. We do think that our economies generally in the Southeast benefits from the fact that we've got good in migration and that's a good place to do business. And so, long term relative to others, we think that we've got pretty decent economic climate. The amount of time it takes to get back to normalcy thought though is inestimable.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, there is lots of degrees of freedom and all that. It's just our most reasonable guess at this point, and I know and I -- my heart goes out to most of you guys on the phone that live in the New York area. You know I'm from New Jersey, we all have relatives and people who have been impacted by this. And so we're very mindful of the grave circumstance. That's not the case down here. At least, we haven't seen it. It's much less sever in the Southeast than what you're experiencing up there.
+Paul Patterson -- Glenrock Associates -- Analyst
+Okay. But just to sort of make sure I understand this, did you guys see a hit this year? But then it sounds like, beginning of next year or pretty soon thereafter you expect in terms of your earnings guidance and everything, your long-term growth rate, that -- essentially that the economy will -- that the global pandemic will not have a -- that meaningful an impact on economic activity in your region.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+So, yeah. Okay, so now that's -- I'm sorry, that's like a different question and it's interesting, will there be a destruction in the economy. As a result of the COVID deal. You know that may be. My sense is the United States is in a pretty good position relative to global economies. With respect to this issue, we will see.
+In other words, is there going to be less demand from Europe for American products? What about China? One of the other impacts that we've been talking about at a federal level on this return to work is kind of revitalizing the supply chain to the United States making up a little less dependent particularly in critical infrastructure for reliance on foreign economies.
+Still sitting there in Congress is an infrastructure bill. My sense is, there is more energy squeezed upon behind future legislative initiatives that could overcome some continuing sustaining impact of disruption in the economy, some other things could emerge. My sense is right now, if I just sit here and think about 2021 and 2022, there may be some continuing impacts, but at this point, I don't think they're at all significant to the point where we would change our forward guidance on a 4% to 6% EPS growth rate
+Recall the dominant issue for us is getting Vogtle built. Once we clear Unit 3 and Unit 4 to service the rate of increase, because of the earnings rates inside the construction period recover to a full return on capital, it's hard to beat that down.
+Paul Patterson -- Glenrock Associates -- Analyst
+Okay just on Vogtle just sort of quickly here, it looks like you guys are -- if I'm correct and I've been estimating. It looks like for the people that you been testing it I think it's up into the 400 range now or something, it looks to me -- from the reports I'm seeing that it's remarkably pretty consistent at 28% to 30% or something.
+And I'm just wondering is, is there any thought of maybe -- I mean, obviously there are a lot more people that that working at the site. Is there any thought about doing antibody testing? Or are you guys thinking anything about heard immunity or anything like that? Or is it just basically sort people who come in and say, hey, I don't feel well. Give me a test kind of thing.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Look, we're, we got early availability on the best test we could get at the time this antibody tests are really pretty interesting. In fact, we're talking about that at a national level. We have had Admiral Giroir from HHS. You know he is the Director of Health and he kind of has the whole testing regime in place, that's something that's attractive, but it's just not available right now.
+You know, we can test all over the place and in fact you can test everybody and they go home and you have to retest him the next day and the next day and the next day. Testing is really valuable and I don't underestimate it, but it doesn't solve the problem. Until we get a vaccine in place, we're going to be having to live with this environment in the nation.
+Paul Patterson -- Glenrock Associates -- Analyst
+Okay and then just, just really quickly on the sales numbers. They include -- they're not adjusted out for leap year, is that correct for the quarter?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Think they are not adjusted.
+Paul Patterson -- Glenrock Associates -- Analyst
+Okay, that's it from me. I really appreciate it. Thanks so much.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Thank you. Appreciate you join us.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Thanks Paul.
+Operator
+Thank you. Our next question comes from the line of Charles Fishman with Morningstar. Please proceed with your question.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hey Charles.
+Charles Fishman -- Morningstar -- Analyst
+Thank you, hi. Hey, just one question, you got a $40 billion five year capex program. The bulk of it is not Vogtle you've given us great detail on Vogtle, you had a statement no expected supply chain problems, disruptions. What -- I get that, but what is causing you some concern within the supply chain. Is there something that's going to be more expensive in that capex? Is there something maybe you've pushed out a year or two that you'll still get done within the five years plan. Any additional color on that. No expected supply chain disruption comment would be appreciated.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes. So we're the size of the nation of Australia in round numbers. I get that statistic. We're a little bit smaller, but when you think about energy production, we're kind of in that league. We have long-standing relationships, and we are considered a high priority customer with a variety of resources.
+And when I say, we don't see any problems in the long run, that doesn't mean people aren't working really hard to make sure that they understand what the perturbations may be, and what they're going to do to resource them. We have been seeing some challenges, but we've always been able to overcome the challenges. And I want to say, Drew, we have about at least a six-month kind of forward window where we're absolutely confident of no problems. So that's kind of our safety margin, if you will.
+When you think about the nature of our capex budget, however, it is really tied up in making our system more resilient from a transmission and distribution standpoint. It is tied up in future generation, whether it is renewables or some of the new generation required in Alabama and Georgia. And then it is tied up in environmental matters, particularly for us, Ash Ponds, which I think is $10 billion over 10 years in round numbers.
+So it is stuff that I think we've got great visibility into the availability of the equipment required to support that program. It's not subject to, I guess, Drew uses the word smalls, we have a lot of visibility and we're a big customer and people generally work very hard to meet our needs. And we have pushed on this a lot. We've got a great guy, Jeff Franklin that runs our supply chain for the system. We don't see a problem right now.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Yes. I'd say labour is a large component of our total capex plan. And as you said, environmental remediation at Ash Ponds isn't really reliant on technology in general. And we've got enough material for a pretty decent work front for a good period of time and expect in the long-term, some block chain will replenish to meet whatever need we might have about.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And let me throw one more factor out there. I'll throw another bouquet at somebody. The Director of CISA and in Homeland Security is a guy named Chris Krebs. He's doing a terrific job within the confines of his responsibility in calling out. And in my word, they put out an advisory bulletin of essential functions in America. And of course, Health and Human Services is right at top right now. But right behind that is the electricity function in America. That's also part of the recommendations by NIAC, National Infrastructure Advisory Council, and also the work product, of the Solarium Commission that I'm on.
+Look, people will put a high priority on making sure that our needs are met. One last point, we have a terrific relationship with our valued partners in the labour market. So the U.S. building trades have done a hell of a job, making sure that the people are there. And I think we work very hard to make sure that they are valued partners and treated as well as anybody treats them in the United States. They are strategic partners for decades, and we treat them like that. And I think the labour will be there when we need it.
+Charles Fishman -- Morningstar -- Analyst
+Okay. Tom, thank you for the extra long call on extraordinary times. That was it.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah, thank you. No, we appreciate your attention.
+Operator
+Thank you. Our last question comes from line of Ashar Khan with Verition. Please proceed.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Hello, Ashar. Always glad to have you with us.
+Ashar Khan -- Verition -- Analyst
+Great, Tom. Doing -- the progress is, I would say, exceptional and really very well you guys are doing. Can I just ask, I didn't want to ask the question, but I thought because of Reg I have seen -- because of disclosures and less contact, usually you have earned around $0.80 for the last four years in the second quarter except for one year '17, where we had like $0.05 or $0.06 of dilution, which hurt that quarter. And even then we earned $0.73. So can you just ascribe to me why the pattern of earnings is going to go from the average $0.80 to like $0.65 in the second quarter? What is it making it an abnormal second quarter versus the prior trajectory of how the earnings have come up?
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yes, Ashar, let me actually -- I went deeper in preparing for this for the call. But like I said, I have in front of me the data last eight years, our low was $0.66, but we had three years in the 60, $0.66, $0.69, $0.68, $0.71, $0.73, $0.75. And only the last two years have been $0.80. All we're doing is taking a conservative shot at what the second quarter, COVID-19 thing is. It's always a fight. I always laugh. I used to be CFO, and I had always extract an estimate from the system CFOs.
+And well, the inside joke inside Southern is when the CFOs kind of report what they think, they always have a conservative bias. And the joke is that, the positive variances are always temporary and the permanent variances -- the negative variances are permanent. So we always have to fight through what the right answer is.
+I think Drew has done a great job. I can't say that $0.65 is light. I'll just say that, it's reasonable. There's a lot of degrees of freedom of conservatism around what's going to happen with COVID 19. We'll see, but that's the data. I got the data right in front of me.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Ashar, it is fair to say that, this quarter will have most -- hopefully, the largest open hopefully the due to largest COVID-19 impact of any quarter that we'll experience. That's the hope and that's the expectation. If we're going to reduce our expense structure and as Tom said, that's generally through halting, adding additional headcount, which was part of our plan that is something that will reduce expenses over the course of the year and not be isolated to the second quarter. So we have to plan for a light revenue in second and less expense mitigation that we think we can achieve over the balance of the year.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+So we're still committed to our financial objectives for the year. I wouldn't get excited about the second quarter. We're still committed for the year.
+Ashar Khan -- Verition -- Analyst
+Okay, thank you.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And boy, we had a good first quarter.
+Ashar Khan -- Verition -- Analyst
+I know you did. Excellent quarter.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Yeah. So a good start. Operator. Anything else?
+Operator
+That will conclude today's question and answer session. Sir are there any closing remarks.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Drew, you want to lead us off.
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Again, I'd just say, thank you to all the folks that are working hard on behalf of customers every day. I think we're living our core values. And I'm impressed that with 15,000 or 17,000 people working from home, we're getting the job done. So thank you very much to all the work teams that are working hard to have such a great outcome for us.
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+And from my perspective, working at a national level, whether it's thinking about Homeland Security with Chris Krebs and his team, Department of Energy, Secretary Dan Brouillette, all of his team is doing a terrific job. The industry is responding exceedingly well and you should know that the industry in this case is a union of the investor-owned utilities and the cooperatives and the municipals. We are all working together to solve the problems as they arise.
+And in fact, the favourite Gretzky saying of skate to where the puck will be. I think this industry is way beyond reacting to the present and really into thinking about the future. We're very mindful that hurricane season, storm season is ahead of us and being able to demonstrate as we have for decades, effective mutual response to the problem that will arise this year. I think the industry is doing a terrific job, so kudos to all of my brothers and sisters out there.
+And then finally, for Southern, what a great start to the year, that's given us some tailwind I think to address some of these things. There is a lot of uncertainty ahead. I'm very encouraged with the team at Vogtle. When you look at the data, I think they're managing these unexpected conditions in an exceedingly prudent manner. And the rest of the system is going great with their ability to respond to the storms and still serve customers well with this coronavirus protocol in place. I'm just very encouraged about our ability to deal with whatever comes our way for the rest of the year. That's why we remain committed.
+I want to thank you all. I know, especially those of you all in the Northeast, you know I'm from New Jersey. I got relatives up there and I know you guys are dealing with some very tough times. And I know maybe your families or maybe friends of family are all being impacted. My thoughts and prayers go out to you all and I think working together, we're going to get through this thing.
+Thanks everybody for being with us today. I know it's an extra-long call, but I hope we gave enough color around not only Southern situation, but the national situation to give everybody confidence in the next steps forward. Thanks, everybody. Talk to you soon.
+Operator, that's the conclusion of the call.
+Operator
+[Operator Closing Remarks]
+Duration: 104 minutes
+Scott Gammill -- Investor Relations Director
+Thomas A. Fanning -- Chairman, President and Chief Executive Officer
+Andrew W. Evans -- Executive Vice President and Chief Financial Officer
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Steve Fleishman -- Wolfe Research -- Analyst
+Stephen Byrd -- Morgan Stanley -- Analyst
+Yogesh Chopra -- Evercore ISI -- Analyst
+Sophie Karp -- KeyBanc Capital Markets -- Analyst
+Michael Weinstein -- Credit Suisse -- Analyst
+Jeremy Tonet -- JP Morgan -- Analyst
+Paul Fremont -- Mizuho Securities -- Analyst
+Michael Lapides -- Goldman Sachs -- Analyst
+Julien Dumoulin-Smith -- Bank of America Merrill Lynch -- Analyst
+Andrew Weisel -- Scotia Howard Weil -- Analyst
+Paul Patterson -- Glenrock Associates -- Analyst
+Charles Fishman -- Morningstar -- Analyst
+Ashar Khan -- Verition -- Analyst
+More SO analysis
+All earnings call transcripts
+
+
+
+
+

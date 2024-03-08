@@ -1,0 +1,246 @@
+Image source: The Motley Fool.
+Prologis Inc (PLD 0.15%)Q2 2019 Earnings CallJul 16, 2019, 12:00 p.m. ET
+Operator
+Welcome to the Prologis Q2 Earnings Conference Call. My name is Chris, and I will be your operator for today's call. [Operator Instructions] Also note, this conference is being recorded.
+I'd now like to turn the call over to Tracy Ward. Tracy, you may begin.
+Tracy A. Ward -- Senior Vice President, Investor Relations & Corporate Communications
+Thank you, Chris, good morning, everyone. Welcome to Prologis second quarter earnings call. If you have not yet downloaded the press release, it's available on Prologis's website at prologis.com under Investor Relations. This morning, you will hear from Tom Olinger, our Chief Financial Officer and Gene Reilly, Prologis's Chief Investment Officer. Also joining us today for the call is Hamid Moghadam, Gary Anderson, Chris Caton, Mike Curless, Ed Nekritz and Colleen McKeown.
+Before we begin our prepared remarks, I'd like to state that this conference call will contain forward-looking statements under Federal Securities laws. These statements are based on current expectations, estimates and projections about the market and the industry in which the company operator as well as the beliefs and assumptions of management. Some of these factors are referred to and Prologis's 10-Ks or SEC filings.
+Additional factors that could cause actual results to differ include, but are not limited to the expected timing and likelihood of the completion of the transaction with IPT including the ability to obtain the approval of their stockholders and the risk that the conditions of the closing of the transaction, may not be satisfied.
+Forward-looking statements are not guarantees of performance and the actual operating results may differ. Finally, this call will contain financial measures such as FFO, EBITDA that are non-GAAP measures and in accordance with Reg G, the company has provided a reconciliation to those measures and it's, and our earnings package.
+With that, I will turn the call over to Tom. Tom, will you please begin.
+Thomas S. Olinger -- Chief Financial Officer
+Thanks, Tracy. Good morning, and thank you for joining us today. We had another excellent quarter. Our proprietary operating metrics continue to reflect strong demand. Shellings, average gestation and conversion rates remain either in line or better than last quarter as our customers further build out their supply chain capabilities in the [Technical Issues].
+Market conditions in the U.S. continue to be very healthy. Demand is diverse and overall supply is disciplined. Starts in the U.S. are concentrated in low-barrier markets, while supply and the high-barrier markets is not keeping pace with GDP growth. Let alone demand for logistics facilities closer to the end point of consumption. Continental Europe remains strong and we expect rent growth this year to be the highest in more than a decade.
+In Japan, despite moderating economic growth business is quite good. Demand continues to be boosted by e-commerce while supply is being steadily absorbed. With the improvement we are seeing in the Osaka market we are removing it from our market watchlist.
+We are raising our 2019 global rent growth estimate by approximately 100 basis points to over 5.5% as low vacancies and rising replacement cost continue to push market rents higher. Looking to the quarter, we leased 37 million sq ft including 5 million sq ft in our development portfolio. Period end occupancy was flat sequentially. Rent change on royal continues to be outstanding, but our share at over 25% and led by the U.S. at 30%. We expect rent change to trend higher in the back half of the year.
+Our share of cash same-store NOI growth was 4.6%. Notably Europe was 5.3% driven by rent growth, which we have anticipated. Core FFO was $0.77 per share for the second quarter. G&A in the quarter was higher than expected driven by stock-based compensation resulting from the increase in our share price. This impact was mostly offset by higher than forecasted from [Indecipherable]. For deployment starts for $324 million in the quarter the pace of starts will increase meaningfully in the second half of the year. In fact, we've already started $250 million of build-to-suits in the first two weeks of July.
+We completed over $600 million of dispositions and contributions, resulting in $200 million of realized gains in the quarter. Now for 2019 guidance highlights, which are on an our-share basis. And note that our guidance does not include the impact from the IPT acquisition. We are increasing and narrowing our cash same-store NOI guidance to a range of 4.5% to 5%. We're holding the top end of our range, as we continue to prioritize rents over our occupancy. We are raising the midpoint for both development starts and contributions by $100 million and realized development gains by $50 million.
+We still expect about $400 million of net users which we plan to fund with free cash flow at a modest increase in leverage. Net promote income for the full year is now expected to be $0.16 per share, an increase of $0.02 from our prior guidance. Effectively all of the remaining net promote income will be earned in the third quarter. For the full year, we are increasing our 2019 core FFO guidance midpoint by $0.05 and narrowing the range to between $3.26 and $3.30 per share. At our revised midpoint growth in core FFO per share excluding promotes is 9.5% higher than last year.
+Over the past five years, our growth has clearly been exceptional with a CAGR of almost 12%, while delevering by 800 basis points. As I mentioned, this guidance does not include IPT. The acquisition of this high quality portfolio which Gene will cover in more detail, capture significant cost and revenue synergies, delivering shareholder value on day one. We plan to hold the portfolio through one or both of our U.S. private vehicles and expect the transaction to close no later than the first quarter of 2020.
+Depending on the ultimate allocation, our investment via the ventures is likely the range between $1 billion and $1.4 billion, which we will fund with cash and debt. The resulting annual core FFO accretion is expected to range between $0.05 and $0.06 per share on a stabilized basis. This transaction will have a minimal impact on leverage with loan to value rising about 150 basis points upon the completion of the non-strategic asset sales to approximately 21%. We do not plan to add any corporate overhead in connection with this acquisition and as a result, we expect G&A as a percentage of AUM decrease by [Technical Issues]. I fielded several questions lately about how we will continue to grow given our size. We think about growth in three components, the first is organic and based on the quality and strength of our portfolio. This is by far the most important and sustainable driver of growth. It also deserves the highest multiple. The second is the value creation from development and the build out of our land bank. The third component is arbitraging the pricing between public and private markets. This is episodic, out of the hands of management and non-sustainable over the long term. We focus on the first two components, which have been the driver of our superior performance and will continue to be the foundation of our long-term growth. To sum up, the second quarter was a continuation of what is already been a very good year. I have never felt better about our growth outlook.
+And with that, I'll turn it over to Gene.
+Eugene F. Reilly -- Chief Investment Officer
+Thanks, Tom. I'm pleased to share the details about our merger agreement to buy IPT. Portfolio comprises 37.5 million square feet and 24 U.S. markets, 22 of which are Prologis target market. The assets are located in submarkets we consider a strategic and where we already have the benefit of scale and a proven operating presence. The portfolio is slightly younger than the balance of our existing U.S. assets, and otherwise, very similar in terms of customer profile and physical characteristics.
+Over the normal course of business, we anticipated disposition program of approximately $800 million or 20% of the portfolio. The $4 billion price works out to 4.5% stabilized cap rate and a cap rate of just under 4.9% using current market rents. And then $106 a square foot, we believe we are purchasing the portfolio at a small discount to replacement cost. We are not purchasing the IPT operating platform and therefore our incremental hiring activity will be limited to leasing and property management personnel necessary to manage the portfolio.
+As IPT leases roll over time, the Prologis teams will have the benefit of deeper market knowledge and relationships, greater flexibility, access to better information, bigger market share and ultimately the ability to provide the best service to our customers and generate more revenue. The $0.05 to $0.06 of accretion that Tom mentioned does not include the potential benefits of procurement, ancillary revenue sources or our other platform initiatives currently under way.
+During the past eight years, we've integrated over $45 billion in very large portfolio transactions including the AMB-Prologis transaction, KTR and DCT. In each case, we outperformed our synergy forecast, we expect to do so here. So ensure we're highly confident in our ability to integrate these assets into our portfolio.
+And with that, I'll turn the call over to the operator for questions.
+Operator
+[Operator Instructions] Your first question comes from Jeremy Metz with BMO. Your line is open.
+Jeremy Metz -- BMO Capital -- Analyst
+Hey, good morning, guys. Hey, Tom, you mentioned your allocation to IPT will be in the 25% to 35% range or your share you've noted in the past, you have a queue of investors waiting to get into the funds. You've talked about wanting to bring your stake there down to the 15% level, give or take over time. So is there a thought to take even lesser this deal initially and then sticking with that maybe you can talk about the promote opportunity and how much of that $0.05 to $0.06 of accretion is fee driven. Thanks.
+Thomas S. Olinger -- Chief Financial Officer
+Thanks, Jeremy. A couple of things. So the way to think about our incremental investment. If you, if we split the portfolio equally between the two funds our ownerships 41%, and USLV it does not use equity USLV -- USLF does. So we would think about 50% leverage targets to fund this deal from an USLF transaction. So think about $3 billion of equity that needs to come to the table or 40% of that is $1.2 billion. When you think about the, the accretion -- the accretion is primarily the vast majority of the accretion is operating efficiencies. So the $0.05 to $0.06 is $0.035 of operating efficiencies, between $0.015 to $0.02 of incremental leverage and about a penny -- about half a penny or less of actual purchase accounting adjustments, so the accretion is quite strong most of that is cash. The fee component would be baked in that $0.035, I talked about and that's roughly $0.02.
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, at the beginning of that, Tom mentioned that you won't require any equity he meant it doesn't require any debt.
+Jeremy Metz -- BMO Capital -- Analyst
+Thank you.
+Operator
+Your next question comes from Manny Korchman with Citi. Your line is open.
+Michael Bilerman -- Citi -- Analyst
+Hey, it's Michael Bilerman here with Manny. I guess if you step back from it, if there is such a strong amount of NOI potential within this portfolio. Why not own the whole thing and clearly you have the ability to finance at lower rates, whether it's in Europe or in Asia, which would provide you even more accretion buying a U.S. portfolio and owning $4 billion of assets and getting all of the 40 basis point of upside in the market rent would all flow to the bottom line versus the trade off of the incremental fees you're getting. And your equity part certainly is there to be able to do it too, right? At north of $80, you certainly could issue equity and/or debt a little bit as well.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Sure, this is Hamid, Michael. We don't really view our strategic capital business as where we put our bad deals or the ones that are not accretive. It is an integral part of our business and it is a part of our strategy going forward. And that's the vehicle, those are the vehicles that we've established exactly for doing this sort of thing. So we're sticking to that business plan and it's not like the good ones, go to the balance sheet and the bad ones go to the funds. It's we all do at the same way. Also, the return-on-equity in the funds is obviously greater because of the leverage share through the asset management fees and the like so, that's the strategy, it's been the strategy and it will remain the strategy.
+Thomas S. Olinger -- Chief Financial Officer
+Michael, on your debt question about U.S. versus non-U.S. debt, we only would do that extend where we're matching foreign assets with foreign debt, about 79% of our debt back today is nondollar. We have not assumed in our accretion that we would use any nondollar financing periods, all U.S. dollar financing. Do we have the ability to do a little more non-dollar financing. Sure. But none of that's baked into these numbers.
+Operator
+Your next question comes from Derek Johnston with Deutsche Bank. Your line is open.
+Derek Johnston -- Deutsche Bank. -- Analyst
+Hi, everyone. I guess switching to Europe. Certainly, a strong contributor in 2Q and this is while EU and global consensus gross that submits were falling. Is there a lag that we should be concerned about filtering through to the back half of '19 leasing metrics and is there are any further update on the outlook for rent growth where the healthy absorption rates that we've seen in the EU post 2Q?
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, it's Gene, I'll with the answer. And I think Chris Caton will pile on as well. So we just don't see headwinds in the operating environment in Europe, you've got basically 3% vacancy rates across the continent, you get steady demand -- the demand in excess of very low economic growth, but you have steady demand and we just don't, we don't see trade concerns, we don't see Brexit coming up and any customer dialog. So things were pretty good right now and we also don't see excess of supply, other than in some very isolated individual market.
+Christopher N. Caton -- Senior Vice President & Global Head of Research
+Yeah, Gene spot on the market is, this is Chris. The market unfolding a lot like we anticipated at the beginning of the year, that's low 3% vacancy rates that rental rates on a net effective basis that are on pace to rise -- more than 6% on the continent rents are up call it more than 3% in the first half of the year. So there's really good momentum and we feel confident, looking forward.
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, but on the other side of that, the U.K. has slowed down a bit and the continent is stronger than we thought. So I don't think Brexit not having any effect is right. I think -- definitely, the U.K. has slowed down some, particularly in the Midlands.
+Operator
+Your next question comes from Caitlin Burrows with Goldman Sachs. Your line is open.
+Caitlin Burrows -- Goldman Sachs. -- Analyst
+Hi, good morning. Maybe back to the IPT acquisition. I was just wondering if you could comment on what the interest level like or was like a competition from other potential acquirers and what do you think differentiated Prologis are there in your assumptions financing or something else, allowing you to ultimately win this deal?
+Thomas S. Olinger -- Chief Financial Officer
+Well, ultimately, I can't tell you who bid on the portfolio. I can tell you is a competitive process and as I think everybody knows in this call, there is plenty of capital interested in this kind of real estate. As for our competitive advantage. I don't think it's any of the items you listed. But I -- but I do think certainty of clothes, particularly for a vehicle like this publicly held vehicle was critical. And so I think -- I think their confidence in our ability to negotiate complete this transaction smoothly, it was important.
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, also the proxy will have plenty of the details from what they looked at on the other side so will both find out.
+Operator
+Your next question is from Steve Sakwa with Evercore ISI. Your line is open.
+Steve Sakwa -- Evercore ISI -- Analyst
+Thanks, good morning. I just wanted to see if you could comment a little bit on the NOI guidance, Tom, you did about 5% in the first half of the year. The high-end you kind of kept unchanged at 5%. So that's sort of assumes kind of flattish growth in the back half. At the low end kind of assumes 4%. I realize you're facing some tougher occupancy comps in the back half of the year, but just kind of. Can you help us think through kind of the low on the high end, given where we sit here today and kind of what drives you to kind of both of those two points.
+Thomas S. Olinger -- Chief Financial Officer
+Yeah, absolutely nailed it on. It's really, occupancy impact. We are continuing to push rents. We are seeing occupancies dip a little bit, I think we certainly have room to push rents more, if you just look at our retention. If you look at our occupancy, you look at our rent growth. As I mentioned in my prepared remarks, I think we're going to see, we will see rent change on the roll accelerate in the second half, we talked about rents, growth, increasing why aren't we taking the top end up is because of occupancy.
+We're going to push rents and we don't have a lot of role in the second half, but this is really setting up for just longer durable runway for same-store growth for mark-to-markets holding at over 15% even with rolling 25% in the quarter. And if you really look at same store, think about as we said in the last couple of calls 2019 to transitional year for same-store in that -- we have lower occupancy. So that's been a headwind this year, but if you think about the drill driver of your same-store rent change enroll it's been accelerating our trailing fourth quarter rent change on role is up over 300 basis points in the last fourth quarters, it is going to go higher going forward.
+So the fundamental driver same-store is intact and is growing and it will grow. The one thing on retention, we're seeing retention is very high on the larger spaces and we're pushing rents across the board. I think we have an opportunity to push rents, across all of our space sizes.
+Operator
+Your next question comes from Jamie Feldman with Bank of America Merrill Lynch. Your line is open.
+Jamie Feldman -- Bank of America Merrill Lynch -- Analyst
+Great. Thank you. I know you had said that you expect your development starts to ramp up in the back half of the year. Can you just talk about what that both build-to-suit and spec pipeline looks like today. And as we think ahead to next year, do you think that and we're hearing across a lot of markets that there is an expectation that pipelines may actually shrink given less available land and even maybe less capital to put to work. I just wanted to get your thoughts on how you think things are shaping up over the next 12 months or so in terms of the supply demand story and your ability to keep putting capital to work.
+Michael S. Curless -- Chief Customer Officer
+Jamie, it's Mike Curless. I had to build-to-suit and then I'll flip it to Gene on the aspect certainly seen a lot of you've seen some public announcements from some of our larger customers with major plans for a significant roll out. So I'd say there is definitely an up arrow on the requirements in the demand. It is more challenging to deliver build-to-suits these days with zoning and Liens availability in some of them more global markets. But we're certainly working through that are build-to-suit percentage while was in the 27% range this quarter that's very lumpy as you know, Jamie. I think you got to look at it across fourth quarters and I fully expect a very robust quarter coming up as we speak right now as Tom mentioned, with $250 million to build-to-suit starts already under way. And I look toward our build-to-suit percentage to be in the range in the high 30s, largely driven by some significant national rollout. Gene, do you want to explain.
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, sure. So Jamie, we have -- as you could see taken up the midpoint $100 million some of that's captured by the increased build-to-suit activity might talked about. So I'd say there is a very modest increase in the spec, but I don't, we see opportunities. As you know, we have a robust land bank. So we have the ability to start buildings. We're not going to do it unless we see market opportunity, and we do so basically the answer to your question is, we're going to have a modest increase based on our prior guidance throughout the rest of this year.
+Operator
+Your next question comes from Vikram Malhotra with Morgan Stanley. Your line is open.
+Vikram Malhotra -- Morgan Stanley -- Analyst
+Thanks for taking the question. So just wanted to clarify, I think you said mark-to-market across the whole portfolio was holding at 15%. Can you break that between the U.S. and Europe and also just clarify what the mark-to-market is an IPT?
+Thomas S. Olinger -- Chief Financial Officer
+Yeah, I'll take the first piece. So in our portfolio today Prologis U.S. is around 17% and Europe is around 11%. So our blended is about 15.5% [Phonetic].
+Eugene F. Reilly -- Chief Investment Officer
+Right. IPT is pretty much in line with the rest of our U.S. assets.
+Operator
+Your next question comes from Craig Mailman with KeyBanc Capital Markets. Your line is open.
+Craig Mailman -- KeyBanc Capital Markets -- Analyst
+Hey, guys. Quick question for you, just looking -- I know you guys didn't buy the whole IPT portfolio relative to kind of the numbers that they had in their financials, but it looked like it's '17 and '18 there were kind of trending below 2% same-store growth. And I'm just curious, I know you guys have some operational efficiencies kind of baked in. But as you guys look at your legacy PLD portfolio growth profile versus what you're ultimately going to bring into the portfolio. Well, this ultimately be accretive to your growth portfolio? Or kind of in line or dilutive from your perspective?
+Thomas S. Olinger -- Chief Financial Officer
+I think slightly accretive and -- I mean, to be frank, we have not started their historical operating performance. What we have started is the location and quality of the assets, which we like we bolt them on our platform, I'd say it's marginal increase.
+Operator
+Your next question comes from Ki Bin Kim with SunTrust. Your line is open.
+Ki Bin Kim -- SunTrust -- Analyst
+Thanks. Just a couple of questions on the IPT portfolio. First, can you talk a little bit about what prompted this deal, what was the thinking behind it. I don't think it's scale. You have enough of it. And even the financial accretion of $0.05 to $0.06. It seems like that buying itself wouldn't prompted deal the size, so can you maybe talk about the other point that we haven't covered?
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Yeah Ki Bin, this is Hamid. I think the level and the availability of high quality portfolios is dwindling and these portfolios are going into capital sources that are permanent. And I think there is a limited supply of this stuff and then really good market. So whenever there is an opportunity to pick up some of those assets in scale, you will see us competing for those opportunities. And because of the clustering effect around our own portfolio, which is also focused on the same markets we can really squeeze a lot more juice out of those oranges.
+Operator
+Your next question comes from Nick Yulico with Scotiabank. Your line is open. Nick Yulico if you're on mute, your line is open.
+Nick Yulico -- Scotiabank -- Analyst
+Hi, can you hear me. Sorry. For IPT, I think it's a 20% of the portfolio is a sale candidate, nonstrategic assets. Can you just talk about why they're non-strategic and how you underwrote those assets from how we should think about a cap rate on a sale of those assets?
+Thomas S. Olinger -- Chief Financial Officer
+Could you repeat the first part of your question. Excuse me?
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Since I heard it. The -- for sale portfolio, which is 20%, a small portion of it is 2 markets, Memphis and Salt Lake City, which were not present in. So that's about 5% of it and the balance of it is the pruning of the markets where we have a presence, but we don't really see a fit between that portion and then our assets. That portion of the portfolio and our existing assets. So it's a combination of market exits in those two cases and pruning in the case of the rest.
+Thomas S. Olinger -- Chief Financial Officer
+And I just want to highlight on that a bit. These disposition assets are good assets, they are not assets that are consistent with our strategy, but I think these assets will be relatively easy to disposals as compared to some of the prior activities.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Yeah, one other data point for you. This is not the first time we've gone through cleanup of assets. We've, we sold about $14 billion of assets in the last five or six years. And you might be interested that on average, we've exceeded our expectations by about 6% on the sales prices. So we're pretty comfortable that we can exit these assets of the premium.
+Operator
+Your next question is from Dave Rodgers with Baird. Your line is open.
+Dave Rodgers -- Baird -- Analyst
+For Tom or Hamid, maybe talk about the construction pipeline just nationally or maybe even internationally. You said you took off the watch list for -- it's kind of a market. If you added any and where do you see the most competition today, I think, Tom, you referenced the supply in your comments?
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, it's. Gene. I'll start and then Chris will finish the answer. But if we look at the globe as compared to last quarter, there really aren't very many differences. As you heard I say over the past four or five years frankly certain markets in South Dallas and certain markets in Atlanta, i.e. in Chicago, Central Pennsylvania once in a while Empire East in the U.S. Come on and come off the list. And what's interesting is that in prior cycles, markets never came off the list. They just kept overbuilding them into in a crisis. So that picture really hasn't changed internationally. The one note that we have is Osaka, Osaka is vacancy was very elevated. It's now I think 9% or 10%. So it may come back on the list, but at this point, we're pretty comfortable. A lot of reduction in that vacancy rate recently. Chris, I don't know if --
+Christopher N. Caton -- Senior Vice President & Global Head of Research
+Yeah, Gene, you're spot on. I'd add in fact there have been no additions this year and that you have to look back to last year for the additions to this list. And as we mentioned in the Midlands in the market and then also Houston were additions late last year, so no additions this year and one subtraction.
+Operator
+Your next question is from Jon Petersen with Jefferies. Your line is open.
+Jonathon Petersen -- Jefferies -- Analyst
+Okay. Great. Thanks. Probably a question for Gene or maybe Chris Caton. I think with the DTP transaction, you talked about how, when you get a certain concentration and sub-markets, you're able to push rents a bit harder exactly how you frames that. But I'm curious with the IPT transaction if you call out any submarkets that you now have a dominant market position that you didn't have before? And then second one, probably for Tom, just to clarify this transaction won't require any new common equity for Prologis, right?
+Thomas S. Olinger -- Chief Financial Officer
+I'll take the second one. Absolutely not. No equity.
+Jonathon Petersen -- Jefferies -- Analyst
+Okay.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Got it. So the way we look at asset clusters, and that's the one way we describe this is if we're adding assets in a market that, let's say, we have 20 buildings, 25 buildings and call that 3 million or 4 million square feet there is a clustering effect that we have tracked and we have tested and there is no question you get incremental NOI. I'm not going to go into any specific details on that, but you have a situation where you're adding to a cluster, or you're adding enough to a smaller concentration that we already own that you've been created a cluster.
+And in this case, we have one market that you for sure have created a cluster that will be Portland. There's a pretty good concentration here in Portland. PA and Baltimore also certainly fall in that category. And otherwise, we're just adding on to a very, very big, big concentrations. And Chris, I don't know if you add anything to that.
+Christopher N. Caton -- Senior Vice President & Global Head of Research
+Perfect.
+Derek Johnston -- Deutsche Bank. -- Analyst
+Well, the only thing I would add is that the benefit doesn't just accrue to the newly acquired portfolios also accrues to the existing portfolio, which is by far the more important of the two pieces.
+Operator
+Your next question is from John Guinee with Stifel. Your line is open.
+John Guinee -- Stifel Nicolaus -- Analyst
+Great. Hamid, first congratulations. As I recall you acquired DCT at about a $118 a foot, and 4.2% in place cap rate. Talk a little bit about the quality difference between IPT and DCT which obviously had the same initial investment in the strategy in the initial routes.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Yeah. So we bought DCT at the 4.6% cap rate. And it was a stock for stock deal. So it was more of a relative valuation exercise than an absolute valuation exercise. So I don't think you can conclude much about market cap rates based on looking at that, but this one in terms of quality I would say if you look at the whole proportion, DCT was 95% hold. This is 80% hold, 20% sell. So in that sense I would mark the DCT portfolio as better because it had less to dispose. But if you look at the 80% and the 95% I would say they were comparable.
+Operator
+Your next question is from Eric Frankel with Green Street Advisors. Your line is open.
+Eric Frankel -- Green Street Advisors -- Analyst
+Thank you. Just to go back to the price in the IPT deal that the 4.5% cap rate, you quote that based on your definition of stabilization. So maybe the cap rate will be a little bit higher based on current input occupancy? And then second, do you guys believe that you paid some sort of maybe aggregation premium rather than if you brought this entire portfolio on a one off basis. And then finally, based on where interest rates have gone in the last few months. Do you think cap rates in general have declined for a good quality industrial assets. Thank you.
+Thomas S. Olinger -- Chief Financial Officer
+So, Eric, couple of comments on the cap rate. I mean, cap rates are really difficult things to talk about because all kinds of people will use different approaches to them. Just to be clear, the way we call something a cap rate is that it's the purchase price plus all the closing costs, plus the CapEx required to get into stabilize occupancy if necessary, and includes a vacancy allowance, which is critical, because of the portfolios over at least 95%. You know, we just it back down to 95%.
+So our cap rates often times we shake our heads to the reported cap rates that we see in the marketplace because that's certainly not the cap rates that we underwrote, then you can imagine that we look at pretty much every deal. So that's one commentary on methodology. With respect to the direction of cap rates. I will tell you that this was, since DCT, the third significant portfolio that we looked at and competed for, and obviously in the other two cases we were not successful, our pricing did not change as to the whole portion of those portfolios at all pretty consistent. I'm not smart enough to tell you whether there was a portfolio or not, but we did not attribute one to the portfolio on this one, or any of the other ones, but on the other ones we were in successful and on this one will be successful. So who knows. Hi, Eric is one more thing on the cost side of that equation we also mark any debt-to-market. And I think often people leaves that out of the equation as they're going to -- and you have to, you have to -- you can factor it.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+And in this one, there wasn't any of that. But on others, there have actually been significant mark-to-markets.
+Operator
+Your next question is from Michael Carroll with RBC Capital Markets. Your line is open.
+Michael Carroll -- RBC Capital Markets -- Analyst
+Yeah. Can you provide a quick macro update, I know you included some conservatism in your prior guidance ranges. Did you remove that conservatism in the updated range? And how's the logistic real estate market remain largely inflated from the headline trade fears is that have we continue to hear about?
+Thomas S. Olinger -- Chief Financial Officer
+So -- also no more conservative in our guidance. And I would just tell you from what we see from our customer perspective as I mentioned in my opening remarks, we're seeing very consistent sequential quarter activity as it relates to showings gestation conversion rates, all that's holding or slightly better. So from what we see in our pipeline it's ,continues to be quite good.
+Michael S. Curless -- Chief Customer Officer
+And this is Mike, from a customer perspective, no meaningful impact other than perhaps a little blip with some increased inventories and spot examples, but nothing significant.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Yeah, I think you may be referring to the commentary on the fourth quarter call, where we were just coming off of a significant stock market sell off and things were little lovely generally with the overall economy in January and we talked about having in that most recent two weeks reduced our internal planning, that's all gone, we're back on track. So if you're referring to, that you can't ignore all that.
+Operator
+Your next question is from Michael Mueller with JP Morgan. Your line is open.
+Michael Mueller -- JPMorgan -- Analyst
+Yeah, hi, excuse me. What's the time frame to dispose the remaining IPT sale assets? Will it all be done in 2020?
+Eugene F. Reilly -- Chief Investment Officer
+Yeah, Michael, this is Gene. We -- not to put hard deadlines on that. In the current environment, I would tell you, I think we, you do it fairly quickly. In that time frame, but we do it on the normal course of business it has to be consistent with everything else we're doing. And then we have to see where the demand patterns are. Sometimes you can aggregate portfolio and move quickly other cases maximizing value means one-offs. So but that time frame within 2020 is probably reasonable.
+Michael Mueller -- JPMorgan -- Analyst
+Got it. Okay. Thanks.
+Operator
+And our last question comes from Manny Korchman with Citi. Your line is open.
+Michael Bilerman -- Citi -- Analyst
+It's Michael Bilerman. I had a few more, I hope you can address them all one at a time. But just in terms of --
+Thomas S. Olinger -- Chief Financial Officer
+Yeah, Michael you can go continuously because we -- you are the last one, so you can [Indecipherable]
+Michael Bilerman -- Citi -- Analyst
+How much time do you have?
+Thomas S. Olinger -- Chief Financial Officer
+Don't get carried away.
+Michael Bilerman -- Citi -- Analyst
+So just in terms of the upside potential squeezing more juice out of these oranges in this portfolio. You talked about I think Gene mentioned, the 4.5% stabilized in 4.9% cap rate assuming current market rents, but then when another analyst asked about the mark-to-market you mentioned the Prologis portfolio was 17%. But these assets were similar, but the difference in cap rate 4.5% to 4.9% is only about 8% upside on the market rent. So I didn't know what the difference was or what may be dragging down the yield, it just the numbers didn't match up.
+Thomas S. Olinger -- Chief Financial Officer
+It's cash -- cash versus effective cap.
+Michael Bilerman -- Citi -- Analyst
+So the 4.5% -- the 4.9% is a cash. So your mark-to-market on a cash basis in the Prologis portfolio would be 8%, 9% also, that's 70% is a GAAP number?
+Eugene F. Reilly -- Chief Investment Officer
+It's not 10%. So the 4.5% and the 4.9% are not precise numbers either obviously. So we were going to take it out four decimals and then [Indecipherable]. Michael, the other thing is that is there is a difference between the whole portfolio and the sell portfolio. So the whole portfolio has a bigger mark-to-market, because those are stronger -- stronger markets by and large, and they've had more rent depreciations. But the primary difference is the cash versus GAAP number, which is about five points.
+Michael Bilerman -- Citi -- Analyst
+And then just to go through. Actually on the whole portfolio is the plan to warehouse that $800 million of assets on Prologis is balance sheet? Or is the entirety of the $4 billion going into one or the two funds and those assets will be sold out of the fund. I'm just trying to understand the dynamics going on.
+Thomas S. Olinger -- Chief Financial Officer
+It's the latter, Michael, it's, the latter.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Assets will be go into the funds. Any sale assets will be sold by the funds.
+Michael Bilerman -- Citi -- Analyst
+By the funds and that will just reduce your effective ownership or your contribution in those front?
+Thomas S. Olinger -- Chief Financial Officer
+Not really Michael, because we just -- we have a revolving line of credit that we pull up and down. So we're probably not going to pull capital out of -- out of the fund. We'll just leave it in there for future growth.
+Michael Bilerman -- Citi -- Analyst
+Okay. And then, just wanted to come back to my original question about doing this wholly owned versus in the funds and I recognize DCT was a stock-for-stock transaction. But that didn't leave you from having the ability to sell DCT assets to the funds if you chose to. So I'm just really trying to understand these two larger scale M&A transactions. One, yes, we will stock-for-stock. This one is a cash deal nontraded public REIT that you're doing for all cash. I guess why was DCT our balance sheet? And why was IPT of fund assets?
+Thomas S. Olinger -- Chief Financial Officer
+Good question. First of all, the choice of currency is not always ours. Sometimes a seller demands different types of currencies. But yes, stock deals we do on balance sheet. And to then buy a deal and then sell it to the funds, they're just too much frictional costs associated with that and oftentimes the structuring of the transaction prevents that for some period of time. So it gets complicated to do that. In terms of cash transactions or cash portion of certain transactions we're committed to do those deals as I mentioned to you in the funds. I mean that's our business model and we'll continue to do that. These are by the way now, very, very significant funds. I mean, you'll look at where USLF will be at the end of this deal it's going to be north of $12 billion. You look at where our European fund pelvic it's about an $11 billion vehicle.
+I mean these on a stand-alone basis could be some of the largest REITs out there. So they have ongoing needs to very successful vehicles and we like the fact that we have the ability to use cash and currency to address the range of opportunities.
+Michael Bilerman -- Citi -- Analyst
+Just last one, just, in terms of Asia and the macro environment at least coming out of cities earnings yesterday there was a slowdown in loan activity out of our Asia client base. In particular, everything is happening with China and U.S., the Chinese corporates borrowing less money given the uncertainty going on between the two countries. Is there anything that you're finding is locally in Asia. I think, I know what's happening in the U.S., but anything in Asia that you've seen that would indicate any sort of slowdown on the industrial side?
+Thomas S. Olinger -- Chief Financial Officer
+Okay. This can be your last question because somebody jump -- but look, China is definitely slower, but the overall slower than it has been for some time and we see that on the ground. But the dynamics of the industrial real estate market in China are much more driven by availability of land from the one seller that has land the government and they have been always reluctant to supply the market with what it needs in terms of industrial land and the reason for that is that industrial users don't generate taxes and there is no property tax system in China, so they get their tax revenue based on registered capital and people don't usually registered their capital where their warehouses are.
+So there is always a shortage of land in the key markets in China. So even with a more modest economic growth, there is just not -- enough supply of product in lot of these markets. So the strength of the industrial market is driven by domestic consumption and a shortage of industrial land. Consumption for the first time slowed from the mid-teens to the high-single digits. So that's really important to keep in mind, and by the way my commentary about the shortage of land applies to the Tier 1, 1.5 type markets in which we operate, some of the outlying areas you can get more land, but that's not relevant to our business. And remember the tailwind of e-commerce in all of these different places where the consumption takes more space than normal consumption would have a decade ago.
+Operator
+Our last question comes from Vikram Malhotra with Morgan Stanley. Your line is open.
+Vikram Malhotra -- Morgan Stanley -- Analyst
+Thanks for taking the follow-up. Sorry for the background noise. Just one quick question. Sorry if I missed it, did you change the disclosure of the same store NOI calculation. I believe you used to provide same-store revenue and expense separately. Could you give us those two components?
+Thomas S. Olinger -- Chief Financial Officer
+Yes, we'll be giving you those components, if you look at the back of us -- you can see the detail in order for you to calculate same stores Owned and Managed, the SEC did their annual review of our K. We had one comment and one comment was that they asked us to modify our own-to-manage NOI disclosure that actually approved our disclosure quite a few years back, but in light of their view around pro-rata financial information, they asked us to modify this disclosure because they typically view this disclose pro-rate and they just assets to modify it, so we can't show you the percentage. But if you look at our footnote back this up, you can calculate the percentage.
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Great. Thank you, everybody. Look forward to seeing you next quarter, if not sooner. Thank you.
+Operator
+[Operator Closing Remarks]
+Duration: 46 minutes
+Tracy A. Ward -- Senior Vice President, Investor Relations & Corporate Communications
+Thomas S. Olinger -- Chief Financial Officer
+Eugene F. Reilly -- Chief Investment Officer
+Hamid R. Moghadam -- Chairman of the Board of Directors and Chief Executive Officer
+Christopher N. Caton -- Senior Vice President & Global Head of Research
+Michael S. Curless -- Chief Customer Officer
+Jeremy Metz -- BMO Capital -- Analyst
+Michael Bilerman -- Citi -- Analyst
+Derek Johnston -- Deutsche Bank. -- Analyst
+Caitlin Burrows -- Goldman Sachs. -- Analyst
+Steve Sakwa -- Evercore ISI -- Analyst
+Jamie Feldman -- Bank of America Merrill Lynch -- Analyst
+Vikram Malhotra -- Morgan Stanley -- Analyst
+Craig Mailman -- KeyBanc Capital Markets -- Analyst
+Ki Bin Kim -- SunTrust -- Analyst
+Nick Yulico -- Scotiabank -- Analyst
+Dave Rodgers -- Baird -- Analyst
+Jonathon Petersen -- Jefferies -- Analyst
+John Guinee -- Stifel Nicolaus -- Analyst
+Eric Frankel -- Green Street Advisors -- Analyst
+Michael Carroll -- RBC Capital Markets -- Analyst
+Michael Mueller -- JPMorgan -- Analyst
+More PLD analysis
+All earnings call transcripts
+
+
+
+
+

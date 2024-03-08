@@ -1,0 +1,287 @@
+Image source: The Motley Fool.
+JPMorgan Chase (JPM 0.92%)Q2 2019 Earnings CallJul 16, 2019, 8:30 a.m. ET
+Operator
+Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's second-quarter 2019 earnings call. This call is being recorded. [Operator instructions] At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO Jamie Dimon; and Chief Financial Officer Jennifer Piepszak.
+Ms. Piepszak, please go ahead.
+Jen Piepszak -- Chief Financial Officer
+Thank you, operator, and good morning, everyone. Before I get started, I'd like to thank Marianne for nearly seven years as CFO and for her support of me over many years, but particularly for support during my transition into this role. So a huge thanks to Marianne.
+
+
+Jamie Dimon -- Chairman and Chief Executive Officer
+And I just want to add my thanks, too. I think Marianne, as you all know, did a great job. Smart, honest, thoughtful, helped make the company a better company. So all the thanks goes to Marianne, and we also all know that Jenny will do a great job, too.
+Jen Piepszak -- Chief Financial Officer
+Thank you, James. OK.  So now onto the presentation, which, as always, is available on our website and we ask that you please refer to the disclaimer at the back of the presentation.  Starting on Page 1, the firm reported record net income of $9.7 billion and EPS of $2.82 on revenue of 29.6 billion with a return on tangible common equity of 20%. Included in these results are tax benefits of $768 million related to the resolution of a number of tax audits. Adjusting for this as well as a few other notable items that largely offset, we delivered an 18% ROTCE this quarter.  Underlying performance for the quarter was strong with highlights including client investment assets in consumer banking up 16%, largely driven by net new money flows; in card, 11% growth in sales and 8% growth in outstanding;  No.
+1 in global IBCs year to date, gaining share across all products and regions; steady results in the commercial bank with net income of $1 billion, while continuing to invest in the business; and in asset and wealth management, record long-term inflows, AUM and client assets.  Overall, for the firm, total loan growth was 2% year on year, but down 1% sequentially. Important to note here that these variances include the impact of loan sales in home lending as we continue to optimize our usage of capital and liquidity across the firm. Credit performance remained strong across businesses and we delivered another quarter of positive operating leverage.  Now on to Page 2 and some more detail about our second-quarter results. Revenue of $29.6 billion was up 1.2 billion or 4% year on year as net interest income was up approximately 900 million or 7% on balance sheet growth and mix as well as higher rates.
+And noninterest revenue was up approximately 300 million year on year, largely driven by the absence of the card rewards liability adjustment results in the prior year.  Excluding that variance and the other offsetting notable items I mentioned, noninterest revenue was about flat with strong performance in consumer across auto lease, home lending production and consumer and business banking, offset by lower markets revenue and IB fees as previously guided.  Expenses of 16.3 billion were up 2% related to continued investments in our businesses, partially offset by a reduction in FDIC charges of approximately 250 million. Credit remains favorable with credit costs of 1.1 billion, down 5% year on year.  In consumer, credit costs of 1.1 billion were flat, but higher net charge-offs were offset by net reserve releases. And in wholesale, credit performance remained favorable with a net charge-off rate of 8 basis points, which was fully reserved for in prior quarters. Once again, we do not see any signs of broad-based deterioration across our portfolios, both consumer and wholesale.  Now on to balance sheet and capital on Page 3.
+We ended the second quarter with a CET1 ratio of 12.2%, up more than 10 basis points versus last quarter. In the quarter, the firm distributed 7.5 billion of capital to shareholders, and as you know, the Fed did not adjust to our 2019 CCAR capital plan. We are pleased to have significant flexibility with gross repurchase capacity of up to 29.4 billion over the next four quarters and the board announced its intention to increase the common dividend to $0.90 per share, effective in the third quarter.  Now on to Page 4 in consumer and community banking. CCB generated net income of $4.2 billion and an ROE of 31%.
+Loans were down slightly year on year driven by home lending down 7% reflecting the loan sale I just mentioned. However, card loan growth was healthy, up 8%. Business banking loans were up 2% and auto loans and leases were flat.  We saw strong deposit and investment growth year on year, with deposits up 3% and client investment assets up 16%, growing across both cyclical and digital channel. Card sales were up 11% as growth remained strong across key products.
+And across the franchise, active mobile users were up 12% year on year given continued engagement and our new features. For example, customers had opened over 2 million checking and savings accounts digitally, activated over 60 million Chase offers and our enrollment in credit journey now exceeds 18 million.  Revenue of 13.8 billion was up 11%. This increase included two notable items that largely offset. First, the current quarter includes a negative MSR adjustment in home lending, driven by updates to our model inputs and in the prior year, as I mentioned, we had a rewards liability adjustment in cards of approximately 330 million.  Consumer and business banking was up 11% on higher deposit NII, driven by margin expansion.
+Home lending was down 17%, although excluding the MSR adjustment I just mentioned, revenues would have been up 4% driven by higher net production revenue on better margins and higher volumes, largely offset by lower NII on spread compression and lower balances.  In cards, merchant services and auto was up 18%. Excluding the previously noted rewards liability adjustment, revenue was up 11%, driven by higher card NII on loan growth and margin expansion and the impact of higher auto lease volumes.  Expenses of 7.2 billion were up 4%, driven by continued investments in the business and higher auto lease depreciation, largely offset by efficiencies and lower FDIC charges. Of note, the overhead ratio was 52% and we delivered significant positive operating leverage.  On credit, this quarter included a reserve release in the home lending purchase credit-impaired portfolio of $400 million, reflecting improvements in delinquencies and home prices, which was partially offset by a reserve build in cards of 200 million. This is primarily driven by growth, and to a lesser extent mix as the newer vintages naturally seasoning and become a larger part of the portfolio.
+Net charge-offs were up 212 million. Excluding the recovery on a loan sale in home lending in the prior year, net charge-offs were up 80 million driven by card as we continue to grow the portfolio.  Now turning to the corporate and investment bank on Page 5. CIB reported net income of 2.9 billion and an ROE of 14% on revenue of 9.6 billion. As a reminder, our performance was particularly strong last year, which featured record or near-record revenues in overall IB fees and equity markets.
+With that in mind, for the quarter IB revenue of 1.8 billion was down 9% year on year in a market that was also down.  Advisory, debt underwritings and equity underwriting fees were down 15%, 13% and 11%, respectively, reflecting lower levels of deal activity as well as a 10-year record share in equity underwriting in the prior year. It's worth noting on a year-to-date basis, we continue to rank No. 1 overall and have gained share across all products and regions, benefiting from our continued investments in bankers.  In advisory, we grew share in announced deal volumes and announced more deals than any other bank. In debt underwriting, we also ranked No.
+1, benefiting from our strong lead-left position in leveraged finance, and in equity underwriting, we have seen significant pickup in activity since the first quarter and we continue to benefit from our leadership positions in tech and healthcare where there has been some robust activity.  Looking forward, the overall IB pipeline is healthy, though lower compared to the elevated activity we saw last year and with fewer acquisition financing and refinancing opportunity with our underwriting. Dialogue with clients remains active and we expect strong deal flow to continue.  Moving to markets. Total revenue was 5.4 billion, which was flat year on year. Our results include a notable gain in fixed income from the IPO of Tradeweb.
+Excluding this gain, markets' revenue would have been down 6% year on year against a strong second-quarter performance last year.  Fixed income markets was down 3% on an adjusted basis, with relative weakness in EMEA, partially offset by increased client activity in North America rates and agency mortgage trading due to the changing rate environment.  Equity markets was down 12% against a record second quarter last year, but due to client activity and a tough compare contributed to a year-on-year decline in equities derivatives. That said, cash and primes remained stable with client balances in prime reaching an all-time high.  Treasury services and securities services revenues were 1.1 billion and 1 billion, down 4% and 5% year on year, respectively, with organic growth being more than offset by deposit margin compression. As a reminder, similar to last quarter, deposit margin was primarily impacted by the funding basis compression rather than client betas, and at the firmwide level, there is an offset.  Sequentially, treasury services was flat and securities services was up 3% on higher balances and fees.  Finally, expenses of 5 and a half billion were up 2% compared to the prior year with higher legal expenses partially offset by lower performance-based compensation expense. And the comp-to-revenue ratio for the quarter was 28%.  Now moving on to commercial banking on Page 6.
+Commercial banking reported net income of $1 billion and an ROE of 17%. Revenue of 2.2 billion was down 5% year on year, predominantly driven by lower investment banking activity due to our outperformance last year and lower NII on slightly lower deposit balances. Also worth noting here, Gross IB revenue of 1.4 billion was up 8% year to date on strong syndicated lending and M&A advisory activity and we continue to address slowly toward our long-term $3 billion target.  Deposit balances was down 1% year on year, and importantly, up 1% sequentially as balances have largely stabilized in total, although we continue to see migration from noninterest to interest-bearing deposits. Expenses of 864 million were up 2% year on year, driven by ongoing investments in banker coverage and technology.  Loans were up 1% and C&I loans being flat or up 3% adjusted for the continued runoff in our tax-exempt portfolio.
+The story here remains unchanged. We saw solid growth in areas where we've been investing, including expansion market with specialized industries, offset by lower acquisition-related and short-term financing activity.  CRE loans were up 2% with modestly higher activity in commercial term lending where clients are taking advantage of lower long-term rates, offset by declines in real estate banking where we continue to be selective given where we are in the cycle.  Finally, credit costs were 29 million with a net charge-off rate of 3 basis points.  Now onto asset and wealth management on Page 7. Asset and wealth management reported net income of $719 million, with pre-tax margin and ROE of 27%. Revenue of 3.6 billion for the quarter was flat year on year as the impact of higher average market levels was offset by lower investment valuation gains.  Expenses of 2.6 billion were up 1% year on year as continued investments in advisors and technology were partially offset by lower distribution fees.
+For the quarter, we saw record net long-term inflows of 36 billion driven by fixed income and we had net liquidity inflows of 4 billion.  AUM of 2.2 trillion and overall client assets of 3 trillion, both records, were up 7%, driven by cumulative net inflows into long term and liquidity products as well as higher market levels globally.  Deposits were up 2% sequentially and up 1% year on year and similar to the commercial bank, balances in total have largely stabilized. Finally, we had record loan balances, up 7% with strength in both Wholesale and mortgage lending.  Now onto corporate on Page 8. Corporate reported net income of 828 million, including the vast majority of the tax benefits that I mentioned earlier. Revenue was 322 million, up 242 million year on year due to higher net interest income, driven by higher rates and balance sheet mix, partially offset by net losses on legacy private equity investments versus net gains in the prior year.
+And expenses of 232 million were down 47 million year on year. Finally, turning to Page 9 and the outlook. On this page, I'll just comment on NII, which should not be surprising given the changes to the rate environment. As you can see, we're updating our 2019 full-year NII outlook to about 57 and a half billion.
+The reduction is based on multiple scenarios, which assumes, among other things, lower long-end rates and up to three rate cuts this year, which is consistent with current market sentiment. And as a reminder, this compares to a rate scenario that has seen zero cuts at the time of first-quarter earnings.  So to wrap up, the U.S. consumer remains healthy. Overall, credit is in great shape, and the earning power of the company is evident.
+We delivered strong returns this quarter and the diversification and scale of our business model positions us well to outperform in any environment. Understanding there is some macro uncertainty and potential headwinds from the rate outlook, we still expect to grow the franchise and we'll continue to strategically invest in our businesses in technology, bankers and beyond.  And with that, operator, please open the line for Q&A.
+Operator
+[Operator instructions] Our first question comes from Jim Mitchell of Buckingham Research.
+Jim Mitchell -- Buckingham Research -- Analyst
+Hey, good morning. I noticed that card loan growth was particularly strong this quarter. I just wanted to get a sense as to what you feel is driving that uptick. And do you think how sustainable is it, 8% year-over-year growth?
+Jen Piepszak -- Chief Financial Officer
+Sure. So on current loan growth, we feel very good about what we're seeing there. As we talked about at investor day, we have a real opportunity with our existing customers. And we talked about how our existing customers have about 250 billion of borrowing off us, about 100 billion of that is squarely within our existing buyback.
+So you can think of this as highly targeted to high-quality existing customers, and for the first time, we're actually seeing loan growth in cards as the majority of it coming from existing customers versus new customers. And so we're really shifting the paradigm there and we feel great about being able to harvest the opportunity that we talked to you about at investor day.
+Jim Mitchell -- Buckingham Research -- Analyst
+All right. Should we expect just sort of you to continue to reduce the mortgage footprint in this rate environment?
+Jen Piepszak -- Chief Financial Officer
+So on the mortgage business, I would say, it was a good quarter on the back of the rally, and so we did see volumes increase and we saw some margin expansion as well, and so obviously highly rate dependent. But I would say the structural challenges in that business remain unchanged. And so we continue to focus on optimizing the balance sheet across capital and liquidity. And so looking at loan sales and thinking about derisking the portfolio from a servicing perspective.
+So good quarter on the back of the rally, but it doesn't change the overall structural challenges.
+Jim Mitchell -- Buckingham Research -- Analyst
+OK, thanks.
+Operator
+Our next question is from Erika Najarian of Bank of America.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Hi, good morning. Hi, so I just wanted to go back to what you were saying earlier in that your guide or your guide lower is including up to three rate cuts this year, which would suggest to me that your net interest income is quite defensive in the face of rate cuts. I guess my first question is, could you give us your primary assumption for that $500 million swing, particularly on deposit pricing?
+Jen Piepszak -- Chief Financial Officer
+OK, sure. So first of all, I'll take you back to the first quarter where our guidance was 58 billion-plus and we talked about some pressure on the long end at that point. That pressure has persisted and in fact increased, and so we pulled the impact of the long end through in terms of our outlook. And then on the short end, the range of outcomes are obviously quite broad, and so we thought about a range of outcomes of one to three rate cuts.
+And so you can think about if it's one cut, 57 and a half billion-plus, and if it's more, 57 and a half billion-minus. And then based on current advice, you can think about the third quarter being 100  to 150 million below the second quarter and then a bit more than that in the fourth quarter given we would have a full quarter at that point.  Oh, and then in terms of betas, I mean largely speaking, you can think of betas as being symmetric, and so on the consumer side, we saw little reprice on the way up, and so there is not a lot of opportunity on the way down. On the wholesale side, if you look at large institutional businesses, like treasury services and securities services, we are largely at full reprice there, and so there should be opportunity there. And then in places like the commercial bank and asset and wealth management, we are still ahead of what the model would have assumed, but we have started to see reprice tick up there.
+But importantly, I would say, we're not going to lose any valuable customer relationships over a few ticks of beta, and so we'll see how it goes.
+Jamie Dimon -- Chairman and Chief Executive Officer
+It's all embedded with your assumption.
+Jen Piepszak -- Chief Financial Officer
+And it's all embedded in --
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Got it. And just going back to Jim's question, I noticed that investment securities balances continue to go up and mortgage loans were down another 5%. Should we think about this as part of the overall, you're saying optimizing capital and liquidity, and therefore, as we think about it going forward, we could also expect to see perhaps some release in RWA growth and some release in the continued reserve release as part of the optimization?
+Jen Piepszak -- Chief Financial Officer
+Sure. So on the RWA side, yes, that is precisely why we are doing it, and so when you see the loan sales in home lending, yes they are offset in securities purchases, which are more efficient from a capital perspective as well as a liquidity perspective. So, yes. Having said that, on reserves, I mean reserves are not necessarily going to be impacted directly by that because of course that will depend on the environment and the mix of the portfolio that remains.
+Jamie Dimon -- Chairman and Chief Executive Officer
+And I would just say that our standardized capital ratio is a 12.2%, advanced is 13%. Advanced is obviously a far more important relevant economic number. It simply does not make sense to own all mortgages when you can frame by standardizing and can't securitize.
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Got It. Thank You. 
+Operator
+Our next question comes from Mike Mayo of Wells Fargo.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Hi. So the efficiency ratio went from 56 to 55% year over year, and I guess that's with some accelerated tech spending. So do you plan to keep this pace of tech spending going? And what's the current update on that tech spending? Where is it connecting? Where is it not connecting because I think you said it accelerated for a couple of years and maybe we'd see more results in 2020, 2021?
+Jamie Dimon -- Chairman and Chief Executive Officer
+Can I just take that one? So it's about 11 and half billion dollars today. I think it was a little bit lower last year. If we had to say where it is today, for next year it would be something like 11 and a half, and I think it's becoming more efficient. When you're having tech, it's something that's becoming cheaper all the time, and then you're also investing money all the time, which we're going to do regardless of the environment.
+So we're not going to cut things we're trying to build like my rewards programs and change my loan and the credit journey because there is a resumption to something like this. So Daniel and Gordon will tell you right now that they think they get more efficient spend and that we shouldn't -- but we will -- you have to spend to win in this business. And we're very efficient which is very core to how we spend in technology. We're going to do it regardless of the environment, and we'll try to get more efficient in tech spend, too.
+Jen Piepszak -- Chief Financial Officer
+That's right, and our investments in technology create capacity in terms of productivity to continue to invest and we've talked a lot about AI, machine learning. It's early innings there and there is a lot that we're going to be able to do assuming that's there and become more productive and then cloud -- developers can become more productive using the cloud.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Look, it's amazing, our forward costs with all the things around the world today are down because of techniques with AI and big data and stuff like that. And so it's hardly about you invest. You look at our client investment asset grew 16%, portion of it is you invest, and obviously, You Invest requires hundreds of millions of dollars to build. So you've got to put all these things in perspective about how you try and make the decisions going forward.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+And then follow-up, Jamie, you mentioned the environment, all the things taking place in the world, how is the environment now? I mean on the one hand, you have trade war, you have lower interest rates, your capital markets which are down for the big banks, you have a lot of pessimism. On the other hand, you highlighted your results. What's -- when you take the temperature of the environment, what's the temperature?
+Jamie Dimon -- Chairman and Chief Executive Officer
+It's not that bad. Uncertainty is a constant, but one thing in life, as you know, is going to be uncertain going forward. And geopolitical tension is kind of a constant. Those things may be a little bit higher now than normal.
+But we -- I think what we see is global growth is north of 3%. You're kind of expecting, I think, it would be 2 and a half percent this year. The consumer in the United States is doing fine. Business sentiment is a little bit worse, mostly probably driven by the trade war.
+And if you travel around the world, you know that Japan is growing and Europe is growing a little bit and Brazil has got to negative four and zero. A lot of countries have opportunity to expand. They are doing great, but they should be doing better over the next 20, 30. So I wouldn't get too pessimistic.
+Obviously, the Fed will react to -- with the database, they always say it's more important at this point on than just what the Fed does. If the Fed is cutting rates and we're going into recession, that's not a good rate cut. If the Fed actually raises rates one day because we're booming, that's not so bad.
+Mike Mayo -- Wells Fargo Securities -- Analyst
+All Right. Thank you. 
+Operator
+Our next question comes from Glenn Schorr of Evercore ISI.
+Glenn Schorr -- Evercore ISI -- Analyst
+Hi, thanks. I'm not sure if I missed it, but I think total average loans were up 2% year on year, but that was impacted by the loan sales. Can you tell us either size of loan sales or what average loan growth was up year on year without that?
+Jen Piepszak -- Chief Financial Officer
+So yes, there's a few things going on in loan growth, as you say it, Glenn. So we have the loan sales, we also have the runoff of the tax-exempt portfolio. So you can think about loan growth probably closer to 4% if you adjust for those items, and importantly, as we always say, loan growth is an outcome, not an input, and we feel good about the loan growth that we're seeing in terms of the areas where we're investing. And then -- and for the full year, you can think about a number if you adjust for the loan sales and ex CIB of 2 to 3% full year.
+Glenn Schorr -- Evercore ISI -- Analyst
+OK, appreciate that. And then just curious on the noninterest-bearing deposits only being down 2% year on year, we've seen a lot bigger numbers of some peers. Is that just strength of JPMorgan franchise? Or are you doing anything actively to manage that lack of mix shift?
+Jen Piepszak -- Chief Financial Officer
+So as I said, we are seeing balances stabilize in the commercial bank and AWM. We are still seeing some migration from noninterest-bearing to interest-bearing, but largely we're seeing those balances stabilize. And then we do, of course, have continued growth in the consumer bank. And the second quarter is typically seasonally high in the consumer bank.
+So we have some growth in noninterest-bearing there. And even in the consumer bank, where we've seen growth decelerate, that's largely as a result of consumer spending. So that feels healthy as well.
+Glenn Schorr -- Evercore ISI -- Analyst
+OK. Maybe last one on -- appreciate the guide on 2019. Because it's a half, if you look forward into 2020 with no incremental rate cuts, is it remotely linear? In other words, if we think about if the ongoing rate in current environment persists into next year after the two or three cuts this year, are we looking at a billion, or is it way too complex to oversimplify like that?
+Jen Piepszak -- Chief Financial Officer
+Yeah, it's probably more complicated, Glenn. And so just given the range of outcomes are as broad as they are and, importantly, if we're looking at cuts that are insurance cuts that sustain the expansion versus cuts that may be in response to a broader economic slowdown, there are other things that we would be talking about. So we're not going to give further guidance on the 2020 until we know more.
+Glenn Schorr -- Evercore ISI -- Analyst
+OK, thank you. Appreciate it.
+Operator
+Our next question is from Gerard Cassidy of RBC.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Thank you. Good morning. When you take a look at your merchant services business, you had some really strong growth year over year. I think it was up 12%.
+And then your card volumes, excluding the commercial card, were also up very strong. Can you share with us what's driven that strong growth, that double-digit rate of growth?
+Jamie Dimon -- Chairman and Chief Executive Officer
+Thanks for noticing.
+Jen Piepszak -- Chief Financial Officer
+I would say that is firing on all cylinders. So it's brand, it's people, it's products. It does certainly help to have the backdrop of a healthy U.S. consumer as well and, in fact, retail sales this morning looked strong.
+So we can expect that to continue.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Is it more the market -- as you just referenced the retail sales, they were strong, is it more that or are you guys also seeing gains in market share that gives you an added boost?
+Jen Piepszak -- Chief Financial Officer
+Yes, we have taken share in -- a little bit of share in card. As you know, we're No. 1 in sales there. I think, importantly, what's helpful in card is that we don't even need to take share to grow just given the secular tailwind that we have in the card business on the electronification of cash.  And we're taking share in merchant environment.
+Jamie Dimon -- Chairman and Chief Executive Officer
+We expect to do -- take more share in the future.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Speaking of the future, can you guys give us some color on what your first read of Libra is, that the Facebook announcement about the process of -- payments system that they're going to initiate?
+Jamie Dimon -- Chairman and Chief Executive Officer
+Yeah. So just to put it in perspective, Gerard, we've been talking about blockchain for seven years and very little has happened and we then turned to Libra three years ago. So I wouldn't spend too much time on it. We don't mind competition, and the request has always been the same.
+The governments are -- we want level-playing field, and governments further insist that people who hold money or move money, all the liquidity in the world where they have right amount of controls in place, no one wants to aid, in fact, terrorism or criminal activities and that can be true for everybody involved in this, not only basically doing either KYC, BSA for a long period of time and those fears I think would just become for everybody at one point, and they should.
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+Thank you. 
+Operator
+Our next question is from John McDonald of Autonomous.
+John McDonald -- Autonomous Research -- Analyst
+Hi. I wanted to ask about the CCAR and you've got a big authorization this year. How did you approach the CCAR plan this year in relation to your long-term CET1 target of 11 and 12 that you talked about?
+Jen Piepszak -- Chief Financial Officer
+Sure. So as we think about capital distribution first, we would start by always saying that we prefer to use our capital to invest and grow our businesses and then to have a competitive and sustainable dividend and only then to return excess capital to our shareholders. And so we are pleased with the approval and the additional capacity to return that 29.4 billion to shareholders. Having said that, we are still targeting the upper end of the 11 to 12% range.
+We're always going to want to have a management buffer because, as I had said, our first priority will always be to invest and grow our businesses and then, of course, there remains a lot of uncertainty in terms of the regulatory capital framework. And then importantly, we wouldn't actually need to make that decision for a few more quarters, given the way the capital distribution plan is laid out over four quarters. But as of now, we are still targeting the upper ends of 11 to 12%.
+John McDonald -- Autonomous Research -- Analyst
+OK. Thanks, Jen. And any updated thoughts on CECL? Or could you remind us what your thoughts on initial impact there?
+Jen Piepszak -- Chief Financial Officer
+Sure. So it hasn't changed from investor day. Our range continues to be 4  to 6 billion. And we're prepared for the January 1 implementation.
+Jamie Dimon -- Chairman and Chief Executive Officer
+This is Jim. So CCAR is one test a year on stress. We do 120 a week, and so we are always prepared for stress. CCAR has us losing 20  or 30 billion over nine consecutive quarters.
+I just want to remind you all that the nine quarters after Lehman, the real stress event, we made 20 to $30 billion. And CCAR assumes you're going to grow your balance sheet, it assumes you're going to continue with dividends and stuff like that. We have plenty of capital. I mean our capital cup run it over, and we deployed that capital.
+And remember, the thing in every branch is for every branch, you tend to use $10 million of capital. So 400 branches of that should be $4 billion in capital. So it restrains on growth, also restrains on capital usage and ability to finance the U.S. economy.
+So we're really optimistic about our ability to somehow use our capital, including our InstaMed acquisition we just did, which I think closes sometime soon.
+Operator
+Our next question is from Betsy Graseck of Morgan Stanley.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Hey, good morning. Jamie, you mentioned about blockchain. We've been hearing about it for seven years and not much has happened. But I think you at JPM have built a blockchain solution for at least your correspondent banks.
+And I guess I wanted to understand where you think you're planning on taking that right now, just AML and KYC use case. But is that something that you think you could deliver more functionality over time?
+Jamie Dimon -- Chairman and Chief Executive Officer
+No, we think the blockchain is real, but the reason it takes so long is that people have to agree with protocol, people write a lot of codes to get into it. But the one you're referring to IAN, which is information network of banks. So right now banks transfer a lot of information among each other, think of trade finance and correspondent bank and stuff like that. So I think we have like 120 banks signed up.
+We're going to have -- so right now, it's for bank wholesale use needing information. You'll all have the same information. You can move things. But eventually, you're going to move money quicker with data.
+So yes, we're optimistic about that, and we're going to roll it out as soon as we can and constantly test it to make sure it's secured and all that. I remind people, when it comes to moving money, JPMorgan Chase moves $6 trillion a day quite securely and quite cheaply. You want to look at the problem you're trying to solve, but people would generally say, well, we didn't have real-time payments that were true. And now we do effectively sell for P2P, and now we do effectively [Inaudible] real-time payments in TCH.
+So we are building the things that the future is going to want, APIs, blockchain ledgers that have much more data, a real-time movement of money that also goes through floor checks, etc. So we're quite optimistic about it. It will just take a while to get everyone using it. One day it will have to be opened up to a broader customer set possibly.
+Betsy Graseck -- Morgan Stanley -- Analyst
+So one of the things that's coming out in these senate and house financial services banking committee meetings is this desire for real-time payments, desire for a cheaper solution for payments. And that's supposedly what Libra was going to offer, but to your point, it seems like you're already doing that. The question is, how do we think about the outlook for interchange? And is there -- what's your strategy toward interchange pricing here as we go over this period?
+Jamie Dimon -- Chairman and Chief Executive Officer
+This is a race. There is real-time P2P free, safe and secure sell. So when people say, really, that's not cross-border. So there are people who might want to do that cross-border.
+Remember, cross-border meant much, much more than actual use of debit card, credit card payment systems here. And we've obviously built a real-time payment solution. It's actually already in use. And to me, the issue there is to diminish fraud.
+You have to make sure that real-time payments is also put through effectively real-time code checks and stuff like that. So in the United States, credit cards, debit cards, these are people who love these cards. The beneficiaries are consumer. You guys remember that's why we're here to serve.
+And someone is going to pay eventually for services provided, but people like their credit cards. They use their credit cards more than they use their debit cards. Maybe I don't remember that's why you mentioned debit cards.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Yeah, when you get rewarded, that's great.
+Jamie Dimon -- Chairman and Chief Executive Officer
+And JPMorgan, now you're getting more free stuff. You get free -- you can buy and sell stock for free. We just gave you a very good -- we just got rolled out here in a few accounts, but global investing, very cheap, very clear. So we're going to take and give our clients more and better advancement cheaper all the time, and now we package that with Sapphire Banking or Sapphire card or discounts and mortgages that are not always made to be seen, but the future is very bright because if we can do more for our customers, that's a very good thing.
+Jen Piepszak -- Chief Financial Officer
+And don't forget, on credit cards, you get charge-back rights and you get flows.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Right. And you get -- if you go online and you're a Chase customer, you get your FICO score for free. You're going to be able to -- you got to tell customers the great potential how they can improve their FICO score. You get offers like the Chase [Inaudible].
+I mean, you don't really market, but it's really taken off.
+Jen Piepszak -- Chief Financial Officer
+Sure. So the Chase offers, we talked about that at investor day. It's like a really powerful flywheel where we can -- we can deliver value to our large merchant clients in terms of being able to bring a very large customer base to them and then we can deliver that value to our customers at zero cost to us. And so as I said in the presentation, we've had over 60 million Chase offers activated and so this is really powerful and benefits not just our consumers, but our large merchant clients at zero cost to us.
+Betsy Graseck -- Morgan Stanley -- Analyst
+So a message of more efficient, less cost maybe needs to get heard on the hill as well.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Yeah, and we talked about it a lot of time and a lot of people understand that, and of course we always want to do a better job for our consumers, which we have been referring.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Yeah. I guess the final question here is just on the under-banked. Is there something or is there an offer that you have for them or are you considering that because that I'm just thinking about where fintech is trying to exploit you and I know it's a catchphrase under-banked that is being used by Libra, it doesn't necessarily to me seem like it's solving anything for them, but maybe you've got a better solution that we just don't focus on.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Yes, so we have --  some of the stream in Chase we have 25% of branches around my neighborhoods. When we go to those neighborhoods, we do some plans. We're doing more and more financial education, I think this is really important. I just mentioned the FICO score, but maybe there might be other things we can do, we do Chase chats to get people into the branch, educate them about saving, FICO scores.
+We think we can do this to get a mortgage or buy a house and stuff like that. And then we have a product, which really is great called secure banking and think of it as a card where it's the full thing. You can overdraft, I think it's 4.95 a month. You can use ATM, you can have direct deposit, you can do online mobile payments and stuff like that.
+So we think it's a great product for the under-banked and I think that's going to have 25% and we'll kind of push that a little bit more. So we always [Inaudible]. And then we also have special, I call it venture banking, the entrepreneur color fund. We're making loans to entrepreneurs of color which are not traditional bank loans but help you grow your businesses.
+So we find a lot of ways to do it and really a lot of [Inaudible], I wish they were at the forefront of that.  Fintech, of course, all these firms are trying to eat your lunch. And I think that's good. It's called American capitalism. And we have to stay on our toes to compete.
+But we are, like Jim had said cards which we rolled out last year -- announced last year, change my plan and change my loan so that people can view their credit balance immediately to do what they want to do and do it well. We rolled out Zelle P2P that's good for everybody. So if you have a bank account, you can move money to your friends and relatives rather than pay the $10 money changer fees and stuff like that. So we're already trying to do a better job for American consumers.
+We think we'll do a great job for them and when they do have complaints, we'll fix it.
+Jen Piepszak -- Chief Financial Officer
+That's right. And you mentioned the 25% in [Inaudible]  In terms of our branch footprint. In our expansion market, that's 30%.
+Betsy Graseck -- Morgan Stanley -- Analyst
+Thanks .
+Operator
+Our next question is from Ken Usdin of Jefferies.
+Ken Usdin -- Jefferies -- Analyst
+Thanks a lot. Good morning. Just wanted to ask on the balance sheet, last year so you've seen a huge jump in the trading-related assets and I know you had the accounting changed, as you mentioned in the supplement, but could you talk about, is that related to market share gains, is it related to just specific strategies with regard to managing liquidity and it doesn't seem to be equally growing on the asset side in the trading liability. So just can you explain the dynamics behind that and how that adds to your net interest income story?
+Jen Piepszak -- Chief Financial Officer
+Sure. So in terms of the balance sheet growth that you saw quarter over quarter, that was primarily related to our balance sheet and tens of businesses in markets businesses. And then we were down on a spot basis quarter-over-quarter. But we start with deposit growth, and so we have had strong deposit growth, and so you see that reflected on the balance sheet side as well as you would have seen securities balances as well and some of that is adding duration and some of that is short-duration securities that are higher yielding than IOER, and yes.
+Ken Usdin -- Jefferies -- Analyst
+OK. So it is part of the liquidity management strategy. OK. And Jen, did you say what the amount of the gains that you had on the loan sales this quarter?
+Jamie Dimon -- Chairman and Chief Executive Officer
+Just if you get a higher return on REIT body, you get IOER, you're going to do that. If you get a higher return using standardized capital on securities or on home loans, you're going to do that, and that's what we're seeing in some of these banks.
+Jen Piepszak -- Chief Financial Officer
+That's right. The Street, I should have mentioned, do the home sales and home lending.
+Ken Usdin -- Jefferies -- Analyst
+Right. OK, got it. That makes sense. And did you say -- can you tell us what the amount of the gains on the loan sales this quarter were if they were above trend?
+Jen Piepszak -- Chief Financial Officer
+We haven't disclosed the amounts of the gains, and we had some loan sales in the fourth quarter, the first quarter and the second quarter. The first and second quarter in terms of the notional amount, the first quarter was about 7 billion and the second quarter was about 9 billion, so just a little bit more.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Beginning of the second quarter is that net. It showed up in different places, but not material.
+Jen Piepszak -- Chief Financial Officer
+Yeah, yeah.
+Ken Usdin -- Jefferies -- Analyst
+Got it. And lastly, just any thoughts on the investment banking pipeline and just continuation of the outlook across the buckets there of banks?
+Jen Piepszak -- Chief Financial Officer
+Sure. So in terms of the investment banking pipeline, I'll just remind you that the third quarter is typically a seasonally lower quarter, and so sequentially you should think about IB fees being down a bit. That said, the pipeline is healthy, although off a record performance last year, which is assumption of a resurgent to more normal levels of activity as well as some overhang from macro uncertainty. In M&A, still feels very healthy and it's still a stage where company are looking for synergistic opportunities for growth, especially in North America and perhaps Europe a bit more muted.
+ECM, we had a very strong second quarter. So that will taper off in the second half a bit. But I would say deals are getting done well in the current environment. And then DCM, DCM will be more subdued reflecting a slowdown in acquisition financing activity as well as refinancing opportunities, but albeit with a good backdrop for new issuance given the rate environment.
+Operator
+Our next question is from Matt O'Connor of Deutsche Bank.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Good morning. So I realize rate expectations can change quickly, but how do you think about managing the company in a rate environment that follows the curve that's out there for three to four cuts. And you said earlier, you would have cut back on technology, but are other areas in expenses, you think about managing the balance sheet and liquidity a little bit different?
+Jen Piepszak -- Chief Financial Officer
+Sure. So in terms of balance sheet management, we manage the balance sheet in both directions. It's a negatively convexed balance sheet, and so all else being equal, as rates are declining, we would naturally drift shorter driven both by assets and liabilities. So you would expect us to add duration, which we did this quarter.
+But we're not going to change the way we run the company because of the rate environment. We're going to continue serving our clients, investing with discipline and managing the balance sheet across all dimensions, that being capital, liquidity and duration. And then in terms of expenses, again, we're not going to change the way we run the company because of interest rate environment. And I'll just say again that the range of outcomes are very broad here, and so if we end up with insurance cuts, it's a temporary headwind, and if we end up with cuts in response to a broader economic slowdown, there will be a lot more to talk about, but as Jamie always says, we're not going to change the way we run the company because of the macro environment.
+That said, in a broader slowdown, obviously there are natural levers on our volume-related expenses and we redecision a large part of our investment portfolio on an annual basis. We will always continue to invest in the things that we think are important, but we would have that opportunity depending upon the opportunity to take a look at that.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Remember, in a real recession, there are always opportunities to reduce your costs and vendors pull all those themselves, they will give you better deals and stuff like that. There are also huge opportunities to spending money wisely. Our Sapphire card was birthed in '09, and you could imagine that this healthy growth might be a great opportunity, but we're not going to take it. And so I think you got to be very careful.
+Related to marketing money, you need better spends in a downturn, the returns on it immediately double.
+Matt O'Connor -- Deutsche Bank -- Analyst
+And you talked about the capital and your thought process there. Obviously, the authorization of the buybacks is a very big number. Is it your expectations that you will use it all or is that still to be determined based on balance sheet growth, stock price and the environment?
+Jen Piepszak -- Chief Financial Officer
+I would say still to be determined. Our first choice will always be to use our excess capital to invest and grow our business, so it's still to be determined. And as you know it's over four quarters, and so we have time to think about it, but obviously, we have the flexibility.
+Matt O'Connor -- Deutsche Bank -- Analyst
+Is the timing of that even, or is there a flexibility there, too?
+Jamie Dimon -- Chairman and Chief Executive Officer
+It has been in the past, but we can change that every day.
+Operator
+Our next question is from Saul Martinez of UBS.
+Saul Martinez -- UBS -- Analyst
+Hey, good morning. A couple of questions. First on the NII outlook beyond this year and I fully appreciate you're not giving guidance beyond this year. But you do have the guidance from investor day out there of a sustainable NII of 58 to 60 billion that was set in a very, very different rate environment.
+If we were to see multiple rate cuts, how do we think about that guidance and how -- I mean what are some of the moving parts that might get you perhaps to the lower end of that 58  to 60 billion? Is it simply dependent on how the economy responds, deposit pricing, if you can just kind of outline what you think some of those moving parts are?
+Jen Piepszak -- Chief Financial Officer
+Sure. So the guidance we gave at investor day steady-state 58 to 60, I would say, largely still stands. Importantly, because when we talked about that at investor day, we weren't assuming any further benefit from rate. So we were assuming that any incremental increases in rates would be offset and repriced, and so the majority of that growth was going to come from balance sheet growth and mix.
+And if you remember the slides, there were a number of arrows on the slide. Even at that time, which was obviously a different rate environment, we were implying that there were a number of different paths to get there. And so that obviously continues to be true. And so there may be a different path to get there and may take a little bit longer, but we still believe in that steady-state number because we still believe in the growth of the franchise.
+Saul Martinez -- UBS -- Analyst
+OK. OK. That's helpful. If I can change gears a little bit, you recently announced that you're closing Finn or you closed Finn, and I think the stated logic is you learned that millennials don't need a separate brand or experience, but can you just elaborate on the logic there? And what you learned from that experience because it does seem to maybe fly in the face of what some other entities or what financial institutions are doing with their digital banking strategy?
+Jamie Dimon -- Chairman and Chief Executive Officer
+Go ahead, Jen.
+Jen Piepszak -- Chief Financial Officer
+I was just going to say we learned a lot in Finn, that we learned the importance of power to change brands. It certainly means that we don't need a separate brand. We also learned about a number of features that our customers love and we were able to reuse those features and port them over to the Chase mobile app. And so I think we always need to be testing and learning and doing things like this and not afraid to shut them down when we've learned what we needed to learn and can serve our customers through the primary Chase mobile app.
+Jamie Dimon -- Chairman and Chief Executive Officer
+We've learned a lot how to do digital account openings only digital because we do have a retail banking center, the line that you already have, so a lot of other things there. We're always going to be learning some kind of skunkworks and learning from things like that. And so we don't look at those kind of things like failures at all. That is how you learn.
+And Jeff Bezos will tell you,  mistakes are good. Mistakes are what make you smarter and better. And so I hope we make some really good mistakes that can teach us all of our businesses at one point. The people doing Finn did a great job, they're embedded.
+And by the way, you can open a Chase account now and never go into a branch, and you could open an account or take up an account, it takes minutes to open an account. So we've got much better at digital only, but we got it separated from the physical branch system.
+Jen Piepszak -- Chief Financial Officer
+Yes, the digital account opening is now about 25% of our new account activity.
+Jamie Dimon -- Chairman and Chief Executive Officer
+And we'll be doing in small business and merchant processing and all these various things.
+Saul Martinez -- UBS -- Analyst
+Got It. Thanks very much.
+Operator
+Our next question is from Eric Compton of Morningstar.
+Eric Compton -- Morningstar -- Analyst
+Good morning. Thanks for taking my question. So this question kind of ties into some of the items already mentioned, longer-term kind of tech-focused and also related to Finn. So there has been some press recently about reasons for closing down the Finn app and one of the items I was mentioned was some of the difficulties banks can potentially run into with their legacy platforms, which, for the most part, are built on COBOL, which has been around since the 60s and depending on who you talk up to, these legacy platforms can either be like huge problems for banks or not really a big deal.
+So I guess from the outside, at least for me, it can be kind of hard to tell what really is going on there. So my question is, as you compete with fintech firms who are building new platforms from scratch, how do you strategically view dealing with your own legacy platforms? Is there a need to kind of redo these things eventually in order to actually compete with newer tech over time? Do these legacy platforms really hamstring you in any way? Or is the hype around those issues really overdone? And if so, why? Thanks.
+Jamie Dimon -- Chairman and Chief Executive Officer
+The hype has been around now for the better part of the decade, right? And we seem to be doing fine, but it is true -- and some of these legacy platforms is also the reason why we have 50 million customers. But it is true that over time, these platforms would be reformulated and refactored to be cloud eligible and things like that. And those things are more efficient. So your costs will go down, your error rates will go down.
+So the way I look at it a little bit is we run like 6,000 or 7,000 applications. Over time, those will be modularized and being refactored to be cloud eligible, either by private cloud or a public cloud. And yes, they will be more efficient. We also have tons of new digital platforms, AI built around these things that do the customer service outside that they see.
+They go over accounts in minutes. It is a frequent journey that we can modify so many things in days and weeks as opposed to years because you're not muddled with the old legacy system. And so it's a little bit of both. But those numbers are embedded in our tech spend.
+The refact rate, embedded data centers are getting better in AI, all these things are in those numbers.
+Operator
+And we have no further questions at this time.
+Jamie Dimon -- Chairman and Chief Executive Officer
+Well, thank you very much. Jen you did a great job. Look forward to all of you in a quarter. Thank you.
+Jen Piepszak -- Chief Financial Officer
+Thanks, James.
+Operator
+[Operator signoff]
+Duration: 66 minutes
+Jen Piepszak -- Chief Financial Officer
+Jamie Dimon -- Chairman and Chief Executive Officer
+Jim Mitchell -- Buckingham Research -- Analyst
+Erika Najarian -- Bank of America Merrill Lynch -- Analyst
+Mike Mayo -- Wells Fargo Securities -- Analyst
+Glenn Schorr -- Evercore ISI -- Analyst
+Gerard Cassidy -- RBC Capital Markets -- Analyst
+John McDonald -- Autonomous Research -- Analyst
+Betsy Graseck -- Morgan Stanley -- Analyst
+Ken Usdin -- Jefferies -- Analyst
+Matt O'Connor -- Deutsche Bank -- Analyst
+Matt OConnor -- Deutsche Bank -- Analyst
+Saul Martinez -- UBS -- Analyst
+Eric Compton -- Morningstar -- Analyst
+More JPM analysis
+All earnings call transcripts

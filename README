@@ -1,0 +1,31 @@
+Data:
+
+This repository containes all initial work done on the final ML for ECON project.
+The first step was builing the dataset enclosed in the Custom_Motley_Scraper folder.
+This folder contains a subfolder called trancripts which is the output folder 
+where raw transcripts are collected. There are 2 important python files called
+Scraping_Functions.py and Scraping_Operations.py. The functions file defines
+the functions needed to scrape fool.com. The operations file uses the functions
+to systematically scrape data.There are also 2 excel files called SP500 Ticker and exchange.xlsx and companies_copy.xlsx. These files contain a list of companies
+to be scraped, their ticker, and their exchange. This information is needed
+for the scraper to work.
+
+In order to use the scraper, simply download the repository and modify line 7
+of the operations file. This line defines the directory you want to output
+the transcripts to. Set it to a directory specific to your computer. 
+
+In theory, the operations file was meant to work by scanning through 
+entries of the SP500 Ticker and exchange.xlsx file in scraping all transcripts
+in one fell swoop. In practice, some unpredictability of the website caused
+errors with certain companies. Due to this, the companies_copy file was initially
+created as a copy of SP500 Ticker and exchange.xlsx. We would run the scraper,
+and let it scrape transcripts until an error occurred. When an error occurred,
+we would delete all the entries from the companies_copy.xlsc file that the scraper properly scraped. Then we would rerun the loop until an error occurred again. 
+In practice this meant that we would scrape 10-15 companies until an error 
+occurred, delete the successfully scraped companies from companies_copy and rerun
+the operations file. This resulted in a slightly tedious but manageable scraping
+process. We stopped scraping when we observed that fool.com didn't have a 
+complete 5 years of transcripts for more obscure companies. This resulted in 
+186 companies scraped and roughly 3300 transcripts as our dataset. 
+
+All analysis for the data is done in the ecma_training_proj and other R files.

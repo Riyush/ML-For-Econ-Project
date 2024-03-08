@@ -1,0 +1,15 @@
+pandas
+transformers
+fuzzywuzzy
+scipy
+torch
+typing
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+textblob
+beautifulsoup4
+requests
+selenium

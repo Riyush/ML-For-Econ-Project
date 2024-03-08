@@ -1,0 +1,357 @@
+Image source: The Motley Fool.
+Valero Energy (VLO 1.29%)Q3 2021 Earnings CallOct 21, 2021, 10:00 a.m. ET
+Operator
+Greetings, ladies and gentlemen, and welcome to the Valero third-quarter 2021 earnings conference call. At this time, all participants are on a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator instructions] As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Mr. Homer Bhullar, vice president of investor relations and finance. Thank you, sir. Please go ahead.
+Homer Bhullar -- Vice President of Investor Relations and Finance
+Good morning, everyone, and welcome to Valero Energy Corporation's third-quarter 2021 earnings conference call. With me today are Joe Gorder, our chairman and CEO; Lane Riggs, our president and COO; Jason Fraser, our executive vice president and CFO; Gary Simmons, our executive vice president and chief commercial officer; and several other members of Valero's senior management team. If you have not received the earnings release and would like a copy, you can find one on our website at investorvalero.com. Also attached to the earnings release are tables that provide additional financial information on our business segments.
+If you have any questions after reviewing these tables, please feel free to contact our Investor Relations team after the call. I would now like to direct your attention to the forward-looking statement disclaimer contained in the press release. In summary, it says that statements in the press release and on this conference call that state the company's or management's expectations or predictions of the future are forward-looking statements intended to be covered by the safe harbor provisions under federal securities laws. There are many factors that could cause actual results to differ from our expectations, including those we've described in our filings with the SEC.
+
+Now I'll turn the call over to Joe for opening remarks. 
+Joe Gorder -- Chairman and Chief Executive Officer
+Thanks, Homer, and good morning, everyone. We saw significant improvement in refining margins globally in the third quarter as economic activity and mobility continued to recover in key markets. Refining margins were supported by strong recovery in product demand, coupled with product inventories falling to low levels during the quarter. In fact, total U.S.
+light product inventories are now at five-year lows and total light product demand is over 95% of the 2019 level. Across our system, current gasoline sales are at 95% of the 2019 level, and diesel sales are 10% higher than in 2019. And on the crude oil side, medium and heavy sour crude oil differentials widened during the quarter as OPEC+ increased supply. Hurricane Ida resulted in some downtime at our St.
+Charles and Meraux refineries and the Diamond Green Diesel plant. We immediately deployed emergency teams and supplies after the storm to help our employees, their families, and the surrounding communities in the restoration and recovery effort. The affected facilities did not sustain significant damage from the storm. And once power and utilities were restored, the plants were successfully restarted.
+I'm very proud of our team's efforts and the ability to safely shut down and restart our operations. Despite the impacts of the hurricane, we also completed the Diamond Green Diesel expansion project, DGD 2, in the third quarter ahead of schedule and on budget and are in the process of starting up the new unit. DGD 2 increases renewable diesel production capacity by 400 million gallons per year bringing DGD's total renewable diesel capacity to 690 million gallons per year. In addition, we successfully completed and started up the new Pembroke Cogeneration Unit in the third quarter, which is expected to provide an efficient and reliable source of electricity and steam and further enhance the refinery's competitiveness.
+Looking ahead, the DGD 3 project at our Port Arthur refinery continues to progress and is still expected to be operational in the first half of 2023. With the completion of this 470 million gallons-per-year plan, DGD's total annual capacity is expected to be 1.2 billion gallons of renewable diesel and 50 million gallons of renewable naphtha. The large-scale carbon sequestration project with BlackRock and Navigator is also progressing on schedule. Navigator has received the necessary board approvals to proceed with the carbon capture pipeline system as a result of a successful binding open season.
+Valero is expected to be the anchor shipper with eight ethanol plants connected to this system, which should provide a higher ethanol product margin uplift. The Port Arthur Coker project, which is expected to increase the refinery's utilization rate and improve turnaround efficiency, is still expected to be completed in 2023. On the financial side, we remain disciplined in our allocation of capital, which prioritizes a strong balance sheet and an investment-grade credit rating. We redeemed the entire outstanding principal amount of our $575 million floating-rate senior notes due in 2023 in the third quarter, and we ended the quarter well capitalized with $3.5 billion of cash and $5.2 billion of available liquidity, excluding cash.
+Looking ahead, we continue to have a favorable outlook on refining margins as a result of low global product inventories, continued demand recovery, and global balances supported by the significant refinery capacity rationalization seen over the last year and a half. In addition, the expected high natural gas prices in Europe and Asia through the winter should further support liquid fuels demand as power generation facilities, industrial consumers, and petrochemical producers see incentives to switch from natural gas to refinery oil products for feedstock and energy needs. Continued improvement in earnings of our core refining business, coupled with the ongoing expansion of our renewables businesses should strengthen our competitive advantage and drive long-term shareholder returns. So, with that, Homer, I'll hand the call back to you.
+Homer Bhullar -- Vice President of Investor Relations and Finance
+Thanks, Joe. For the third quarter of 2021, net income attributable to Valero stockholders was $463 million or $1.13 per share, compared to a net loss of $464 million or $1.14 per share for the third quarter of 2020. Third-quarter 2021 adjusted net income attributable to Valero stockholders was $500 million or $1.22 per share, compared to an adjusted net loss of $472 million or $1.16 per share for the third quarter of 2020. For reconciliations to adjusted amounts, please refer to the financial tables that accompany the earnings release.
+The refining segment reported $835 million of operating income for the third quarter of 2021, compared to a $629 million operating loss for the third quarter of 2020. Third-quarter 2021 adjusted operating income for the refining segment was $853 million, compared to an adjusted operating loss of $575 million for the third quarter of 2020. Refining throughput volumes in the third quarter of 2021 averaged 2.9 million barrels per day, which was 338,000 barrels per day higher than the third quarter of 2020. Throughput capacity utilization was 91% in the third quarter of 2021, compared to 80% in the third quarter of 2020.
+Refining cash operating expenses of $4.53 per barrel were $0.27 per barrel higher than the third quarter of 2020 primarily due to higher natural gas prices. The renewable diesel segment operating income was $108 million for the third quarter of 2021, compared to $184 million for the third quarter of 2020. Renewable diesel sales volumes averaged 671,000 gallons per day in the third quarter of 2021, which was 199,000 gallons per day lower than the third quarter of 2020. The lower operating income and sales volumes in the third quarter of 2021 are primarily attributed to plant downtime due to Hurricane Ida.
+The ethanol segment reported a $44 million operating loss for the third quarter of '21, compared to $22 million of operating income for the third quarter of 2020. Excluding the adjustments shown in the accompanying earnings release tables, third-quarter 2021 adjusted operating income was $4 million, compared to $36 million for the third quarter of 2020. Ethanol production volumes averaged 3.6 million gallons per day in the third quarter of 2021, which was 175,000 gallons per day lower than the third quarter of 2020. For the third quarter of 2021, G&A expenses were $195 million and net interest expense was $152 million.
+Depreciation and amortization expense was $641 million, and income tax expense was $65 million for the third quarter of 2021. The effective tax rate was 11%, which reflects the benefit from the portion of DGD's net income that is not taxable to us. Net cash provided by operating activities was $1.4 billion in the third quarter of 2021. Excluding the favorable impact from the change in working capital of $379 million and our joint venture partner's 50% share of Diamond Green Diesel's net cash provided by operating activities, excluding changes in DGD's working capital, adjusted net cash provided by operating activities was $1 billion.
+With regard to investing activities, we made $585 million of total capital investments in the third quarter of 2021, of which $191 million was for sustaining the business, including costs for turnarounds, catalysts, and regulatory compliance and $394 million was for growing the business. Excluding capital investments attributable to our partner's 50% share of Diamond Green Diesel and those related to other variable interest entities, capital investments attributable to Valero were $392 million in the third quarter of 2021. Moving to financing activities. We returned $400 million to our stockholders in the third quarter of 2021 through our dividend, resulting in a payout ratio of 40% of adjusted net cash provided by operating activities for the quarter.
+With respect to our balance sheet at quarter-end, total debt and finance lease obligations were $14.2 billion, and cash equivalents were $3.5 billion. And as Joe mentioned earlier, we redeemed the entire outstanding principal amount of our $575 million floating-rate senior notes due in 2023 in the third quarter. The debt-to-capitalization ratio, net of cash and cash equivalents, was 37%. And at the end of September, we had $5.2 billion of available liquidity, excluding cash.
+Turning to guidance. We still expect capital investments attributable to Valero for 2021 to be approximately $2 billion, which includes expenditures for turnarounds, catalysts, and joint venture investments. About 60% of our capital investments is allocated to sustaining the business and 40% to growth. And over 60% of our growth capital in 2021 is allocated to expanding our renewable diesel business.
+For modeling our fourth-quarter operations, we expect refining throughput volumes to fall within the following ranges: Gulf Coast at 1.67 million to 1.72 million barrels per day; Mid-Continent at 455,000 to 475,000 barrels per day; West Coast at 230,000 to 250,000 barrels per day; and North Atlantic at 435,000 to 455,000 barrels per day. We expect refining cash operating expenses in the fourth quarter to be approximately $4.70 per barrel. With respect to the renewable diesel segment, we expect sales volumes to average 1 million gallons per day in 2021. Operating expenses in 2021 should be $0.50 per gallon, which includes $0.15 per gallon for noncash costs such as depreciation and amortization.
+Our ethanol segment is expected to produce 4.2 million gallons per day in the fourth quarter. Operating expenses should average $0.43 per gallon, which includes $0.05 per gallon for noncash costs such as depreciation and amortization. For the fourth quarter, net interest expense should be about $150 million, and total depreciation and amortization expense should be approximately $600 million. For 2021, we still expect G&A expenses, excluding corporate depreciation, to be approximately $850 million.
+That concludes our opening remarks. Before we open the call to questions, we, again, respectfully request that callers adhere to our protocol of limiting each turn in the Q&A to two questions. If you have more than two questions, please rejoin the queue as time permits. Please respect this request to ensure other callers have time to ask their questions.
+Operator
+Thank you. The floor is now open for questions. [Operator instructions] Our first question is coming from Doug Leggate of Bank of America. Please go ahead.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Thanks. Good morning, everyone. Hi, Joe and team. Good morning, Homer.
+Thanks for getting on the call. Joe, I want to start with a balance sheet question and then a macro question, if I may. So, this might be for Jason. But when you think forward to 2022, you've obviously completed the renewable diesel expansion at this point.
+Your capital this year, you obviously had growth capital in there still, and your balance sheet is still probably above where you'd like to see it mid-cycle. How should we think about capex and prioritizing the right level of debt or balance sheet that you'd like to have as we think about 2022?
+Joe Gorder -- Chairman and Chief Executive Officer
+Go ahead, Jason.
+Jason Fraser -- Executive Vice President and Chief Financial Officer
+OK. Yeah, on capex, I mean, our capex budget going forward, we're forecasting to be pretty consistent with as we've done in the past, so really no change there. Then as we end up with extra, as you said, excess cash flow, we have our commitment to shareholders to return to 40% to 50%. That really hasn't changed.
+We have our dividend, which we think is in a pretty good place relative to the peers, and then we'll have buybacks to make up to our target. Then cash beyond that, we are going to look at delevering a bit. That's a commitment we made. We bought back the $575 million of floater rate notes just last month, and we're looking to do more next week -- I mean, sorry, next year as we move forward. 
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Where would you like that to be, Jason, I guess, is my point. Where do you want that net debt to cap to be?
+Jason Fraser -- Executive Vice President and Chief Financial Officer
+Well, we hadn't changed what we have in our framework of 20% to 30%. So, we hadn't changed that, but we're definitely working down from where we are now. I don't know that we've changed our -- the endpoint at this time.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+OK. Thank you. Joe, my micro question is really, look, I want to try and phrase it like this. There's a ton of moving parts for you guys, in particular, with top line reversing and obviously OPEC+ having back oil and all the rest of it.
+So, you've got the spread side of it and then you've got the product side of it with jet fuel perhaps being the missing link. Maybe the simplest way to ask this question is, do you see for Valero 2022, at this point from what you know, as an above mid-cycle year or a below mid-cycle year in terms of EBITDA? I'll leave it there. Thanks.
+Joe Gorder -- Chairman and Chief Executive Officer
+Thanks, Doug.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Hey, Doug, this is Gary. I would tell you on the demand side of the equation, our view of 2022 has been fairly consistent. We see gasoline and diesel demand returning to pre-pandemic levels. Our view is jet is -- probably, it's the latter part of the year before jet demand recovers to pre-pandemic levels.
+The real change on 2022 has come from the fact that inventories are just so low. Inventories domestically are low, but globally, they're low as well. And when you look at the fourth-quarter turnaround activity, it's difficult for us to see that we're going to replenish clean product inventories before next year. And so going into next year with inventories low, we're starting to move to a view that we could see some fairly strong crack spreads.
+I think in addition to that, the high-cost natural gas also comes into play. When you look at places around the world that are paying $30 a million Btu for natural gas, it pressures that refining capacity and kind of raises the incremental crack spreads needed for them to run, which also pushes margins higher. So, I would tell you that we probably came in looking at 2022 slightly below mid-cycle, and it's trending now more above mid-cycle type levels.
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Appreciate the answers, guys. We'll talk to you in a couple of weeks. Thank you.
+Joe Gorder -- Chairman and Chief Executive Officer
+Thanks, Doug.
+Operator
+Thank you. Our next question is coming from Theresa Chen of Barclays. Please go ahead.
+Theresa Chen -- Barclays -- Analyst
+Hi there. Good morning, everyone.
+Joe Gorder -- Chairman and Chief Executive Officer
+Good morning, Theresa. 
+Theresa Chen -- Barclays -- Analyst
+Thanks for taking my question. Good morning. Gary, I wanted to follow up on your comments about the natural gas pressures internationally. And clearly, we're seeing some of it domestically as well.
+So first, maybe just on the competitive dynamics between domestic and refiners elsewhere, Europe, for example, how do you think this affects the competitive positioning of your assets? And where do you see that export are potentially going to?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Well, it's a good question. I guess I might ask for some Lane help here. So natural gas is, what, about 25% of our opex?
+Lane Riggs -- President and Chief Operating Officer
+Something like that, yes.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yeah. So, you kind of figure $4 a barrel, and $1 of that's natural gas. And if you're paying $30 versus $5, you can see what that does for overall refinery cash operating expenses, which does give us a very significant advantage into those export markets. And we're seeing that today.
+You're not seeing much flow from Europe into those Latin American markets, and we're seeing a big pull into those markets.
+Theresa Chen -- Barclays -- Analyst
+Got it. And maybe switching gears a little bit. I would love to get an update on your outlook on renewable diesel economics as DGD 2 is now starting up. And specifically, it looks like LCFS prices have hit a trough and now are seeing some signs of life consistent with Martin's previous expectations.
+Is this largely because of demand recovery for petroleum products in California beginning to higher deficit generation? Is there something else going on here? Would love it if Martin can look into his crystal ball again and give us a sense of where prices could go from here?
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+OK. Theresa, this is Martin. I'll give that a shot. I think, yes, we've seen the LCFS prices rebound to $1.75 a metric ton now.
+I think some of that is due to the expectation again the second-half data out -- second quarter of '21 data will be published at the end of the month. But if you go back and look, it's really obvious that deficits after 2019 just stopped increasing. And at that time, the carbon-reduction goal was moving from 6.25% to 7.5% to 8.75%. So historically, each year, you'd see a step-change in deficits.
+We've seen nothing happen since 2019, and credits are keeping up with deficits and the credit banks flat, so that kind of explains why the pricing went away. It's not an over-generation of credits, it's a lack of deficits. It's clear. And I think with the Delta variant now hopefully in the rearview mirror and mobility improving, we would expect to see some pretty big changes in the deficit picture in California going forward.
+And I think that's what the market is beginning to expect. As far as the renewable diesel economics of DGD, as we had signaled, we expected the margins to moderate versus the record margins in the first half of 2021. Part of this is DGD 2 getting into the marketplace. We're impacting the waste feedstock market at this point because we're changing the flows.
+And any time you change the flows and change the inertia of the market, you're going to see a temporary increase in price. Once the new flows work through the market, we expect those prices to moderate. And I'd go back to what we always talk about, the annual margins. We've been very consistent in the past three years.
+Our annual margins only moved from $2.18 a gallon to $2.37 a gallon in that three-year period. And we believe that margin history is a good indication of what to expect in the future.
+Theresa Chen -- Barclays -- Analyst
+Thank you.
+Operator
+Thank you. Our next question is coming from Roger Read of Wells Fargo. Please go ahead.
+Roger Read -- Wells Fargo Securities -- Analyst
+Yeah. Good morning, everybody. 
+Joe Gorder -- Chairman and Chief Executive Officer
+Hey, Roger.
+Roger Read -- Wells Fargo Securities -- Analyst
+Let's go ahead and beat the natural gas horse here completely to death. I know you've got the cogen plant that helps you sort of mitigate things a little bit over in Europe. As you step back and look at both your operations and think about it, you were somebody else, what are the options for mitigation of higher natural gas costs? I mean, do you hedge? Do you think others hedge? Another way to come at it is, mentioned in the intro, Joe, I think you said was probably demand for some other liquid products. So, what are some of the ratios we should think about there as to how that could pull additional product demand? And what are maybe trigger points for why you would do that over natural gas?
+Lane Riggs -- President and Chief Operating Officer
+Hey, Roger, this is Lane. So, I'll take a shot at some of this. One is, yes, we have completed our cogen project over in Pembroke, and so you'd sort of ask yourself, hey, at $30 gas, does it still even work? And it does. I mean, our fund -- our FID economics on that unit was about $105,000 a day of benefit.
+And today, we're somewhere between $130,000 to $150,000 a day. And it just has to do with the -- who the marginal supplier of electricity in that market versus sort of an efficient cogen. So that's sort of the -- we have that margin that we have running it and it does help. Now, a lot of the -- particularly in the U.K., a lot of those guys who have cogent as well, I don't know how efficient they are, because that's where these relative economics lie, is how efficient your cogen is versus the marginal guy in that market.
+But as Gary alluded to you earlier, what you're seeing is you need margin in the Atlantic Basin because there's a call on their capacity to essentially run oil and satisfy the market. So, what that means is Europe and the U.K. are going to be very marginal in their economics, but that give a bit -- that gives a substantially larger margin into people on this side of the Atlantic. In terms of ways to mitigate it through hedging, there's a few ways.
+One is you can just minimize gas, right? You can start burning propane, you can do other things. I mean, most of our refiners because of their complexity were low on gas. So, we can always get into a place where we're just essentially deriving our natural gas requirements from oil. And so, we play that arbitrage and signal around to try to see where that is.
+And the other thing is to use option strategies, you can go out and buy call options for gas and various ways of using options to mitigate your exposure. And then obviously, you can go out and buy a forward contract. I don't know how many people do that. It's an interesting question.
+We look at it all the time and we compare -- we look at it a little bit as insurance because it's not free, right? And so, you have to take a view of am I trying to use this to lower my exposure from a cost perspective, am I trying to prevent a shock. And so then, in other words, something like we saw during Winter Storm Uri or something like that. So, you have to sort of frame what are you trying to do here? Because it isn't free and if it doesn't translate into something -- that cost for somebody our size ends up being just additional operating costs that we essentially paid as insurance. And so, you have other ways to do.
+You can decide to fix or float as you're getting closer into the month. So, there's a lot of tools in our toolbox to mitigate this. But at the end of the day, to try to lock in lower prices going forward, there's almost always structural contango. If you look at the curve right now, it's kind of crazy looking.
+And so, everybody's staring at this because you can see the futures activity in the first quarter. And so, it's difficult, but there -- we do have tools to do that.
+Joe Gorder -- Chairman and Chief Executive Officer
+Did you speak to fuel switching?
+Roger Read -- Wells Fargo Securities -- Analyst
+Great, thanks.
+Lane Riggs -- President and Chief Operating Officer
+I did. I mean, that's what I was saying, we do -- we can -- we fuel switch.
+Joe Gorder -- Chairman and Chief Executive Officer
+Propane, yeah, OK.
+Lane Riggs -- President and Chief Operating Officer
+Mainly propane, but we also make gas from our operations.
+Joe Gorder -- Chairman and Chief Executive Officer
+OK.
+Roger Read -- Wells Fargo Securities -- Analyst
+Thanks. Let's look at it from a happier standpoint, the product demand side. It appears jet fuel should get a lift with some of the international travel restrictions coming off next month. And then we obviously have supply chain issues in trucking.
+I was just curious, you mentioned earlier that it looked like diesel demand was up versus '19 levels, do you think there's another lift up focused on logistics and just general trucking demand? And then how do you see the jet fuel demand picture hopefully improving as we go into year-end?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yes. So, Roger, I think there is a good chance, some upside to diesel. We've seen good harvest demand. A lot of it depends on the fourth quarter, what happens in weather.
+But specifically on the trucking side, still a lot of companies struggling to find drivers to drive the trucks and get products moved around. So, I think as we work through that and get drivers back to work, there is a chance that you see more highway demand for diesel, which is encouraging. On the jet side, we saw a nice step-change in the third quarter. We were trending 71%, 72% of 2019 levels, and that jumped into the 80s.
+So that's nice to see. At that level, your kind of overall total light product demand is about 300,000 barrels a day below where it was in 2019, but you've got 675,000 barrels a day less refining capacity. So already really tighter supply demand balances, at least domestically than we were pre-pandemic. And then we are seeing encouraging signs on the jet side.
+We don't have a lot of transparency there, but the nominations that we're seeing from the airlines that we supply seem to show that they're anticipating a pretty heavy holiday travel season. And so, we would expect the uptick there with jet demand.
+Roger Read -- Wells Fargo Securities -- Analyst
+Great. Thank you.
+Operator
+Thank you. Our next question is coming from Phil Gresh of J.P. Morgan. Please go ahead.
+Phil Gresh -- J.P. Morgan -- Analyst
+Yeah. Good morning. Just following up on the last commentary around the domestic supply/demand picture. How are you thinking about the export markets right now? It seems like Brazilian demand is really starting to pick up from recent data points.
+So just in general, what are you seeing? And then how do you think about the competitive dynamics in those export markets given the situation with European refineries right now?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yeah. So, I would tell you that our export demand has returned to pre-pandemic levels, very good mobility in Latin America, and we're seeing very strong export demand. On the diesel side, the same type thing, very good export demand. And the arb to Europe is swinging, kind of open and closing to pull to Europe as well.
+So again, trade flows seem to have completely normalized where they were pre-pandemic.
+Phil Gresh -- J.P. Morgan -- Analyst
+Got it. OK. And then my second question is just there's been a lot of discussion of the impact of higher natural gas on European refineries and the effect it's had on crack spreads. So, if we were to see a scenario where natural gas prices were to come back down in Europe, do you feel like the underlying diesel crack would still be stronger than where it was before all this happened just because of underlying demand improvements? Or just curious how we should think about that.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yeah. So, I suspect you would see some falloff in the crack spread as natural gas weakened. However, the inventory situation will continue to keep and support crack spreads. It looks to us, especially in Europe, even if they ramp up utilization and you look at where demand is versus the inventory draw that's been trending, it's going to be very difficult for Europe to really replenish their stocks.
+And as long as that's the case, we would expect it to support the cracks.
+Phil Gresh -- J.P. Morgan -- Analyst
+OK. Got it. Thank you.
+Operator
+Thank you. Our next question is coming from Prashant Rao of Citigroup. Please go ahead.
+Prashant Rao -- Citi -- Analyst
+Hi. Good morning. Thanks for taking my question, guys. Good morning.
+I wanted to ask first on -- just a little bit on the capital allocation policy. Given the commentary around EBITDA being -- looking like it could be a little bit above mid-cycle next year and what you said about a comfortable place on the dividend and looking to maintain your capital allocation framework, I'm just curious how DGD's earnings and specifically the distributions from the JV fit into that. I think many of us have been expecting maybe the distributions up to the partners come later given that you've got capex on DGD 3 coming and that project is set for a 2023 start. But is that a factor in how you think about potentially putting more money back to shareholders and specifically to the dividend? Or is sort of -- is the distribution not really that material versus the other sources of cash flow that you have?
+Jason Fraser -- Executive Vice President and Chief Financial Officer
+OK. This is Jason. I can take a shot. And you're right, it's definitely a positive development and going to get bigger and bigger as the DGDs -- more units come online.
+So, it is significant. It doesn't change our math on how we look at it. We get half of the distributions and that's cash into us, and we still apply our 40% to 50% target and our normal analysis in that aspect. But it's definitely a growing stream of EBITDA to us, which we're very excited about and will help us going forward.
+Prashant Rao -- Citi -- Analyst
+Thanks, Jason. I wanted to ask about something we haven't touched on yet, ethanol CCUS project, good progress there. A couple of questions here in one. How soon could you FID or what do you need to see to be able to roll in the remainder of the footprint into a CCUS project? And then from a macro standpoint or I guess from more of a revenue standpoint, we've gotten some news about 45Q increases for certain industries.
+We've also got some volatility around the RFS and what that means for overall ethanol demand support from the government for ethanol blending. Just wondering if the second part of the question, if you could address sort of how all those factors kind of might affect your thoughts about the project. Thanks.
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Yeah. Prashant, this is Martin. Well, we're operating 12 ethanol plants now, and eight of them are going into the Navigator system. And the ones on the eastern side, the four on the eastern side, we're moving forward with sequestration plans at three of the four and potentially all of them a little bit down the road.
+But the geology on the eastern side of the U.S., so this is Indiana and Ohio, is the eastern side of the Corn Belt, I should say, is good for CCUS. So, we're planning to do sequestration at the -- actually on site. So now that's going through our gated process and still hurdles to get through there, but that's the plan. So that's where we're headed on that.
+And we're excited about CCUS. As you stated, the 45Qs uplift of about $0.15 a gallon. And just on a gross basis, the low carbon getting to a 40 CI versus 70 is worth almost $0.50 a gallon on a gross basis. So as far as -- if we look at demand for ethanol, we're feeling, I think, pretty good about maybe something happening with the fuel spec in the U.S.
+to get to a 95 RON, higher efficiency engine, good for the autos, good for ethanol, good for oil. So, we're kind of more optimistic about that than we probably have been in the past. That would increase the ethanol blending. The ethanol is definitely in the fuel mix to stay in the United States.
+And we're seeing now we're getting into the situation, too, with pretty good export demand again that's kind of picking back up post the big impacts of COVID. So, we're pretty optimistic about the future there. But it's really what's driving our optimism is the low carbon. We're deep into corn fiber ethanol at this point, producing that at several sites and the outlook for the carbon sequestration.
+Prashant Rao -- Citi -- Analyst
+Got it. Thanks, Martin. Appreciate that. Thank you very much, guys.
+I'll leave it there.
+Joe Gorder -- Chairman and Chief Executive Officer
+Thanks, Prashant.
+Operator
+Thank you. Our next question is coming from Manav Gupta of Credit Suisse. Please go ahead.
+Manav Gupta -- Credit Suisse -- Analyst
+Hey, guys. A little bit of follow-up on Doug's question. When we go back and look at '18 and '19 and specifically your Gulf Coast crack, it was about averaging about 10.72, your indicators are indicating it's closer to 13 right now. Brent WCS is almost nine.
+I know we have still some time to go in this quarter, but the way things are shaping up, is it fair to say your strongest Gulf Coast quarter in probably two to three years is now approaching?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Well, again, we don't know how the quarter is going to shape up. But certainly, if you look at the month-to-date indicator, it is significantly above mid-cycle. We would agree with you on that.
+Manav Gupta -- Credit Suisse -- Analyst
+OK. And a quick follow-up here is there are a number of commercial technologies out there to produce sustainable aviation fuel, but nothing works like HEFA and nobody works HEFA better than Valero does. And so, we are seeing out there smaller players come out with lesser commercial technologies, get big offtake agreements with airlines, big companies. And the guy who can do it at best is still sitting on the sidelines.
+So, I was wondering what gets Valero involved in sustainable aviation fuel.
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Sure, Manav. This is Martin. Well, we're progressing our SAF production through our gated engineering process, and we're currently developing -- talking with customers. And as you stated, there's plenty of customers who are interested in SAF.
+It's not really a demand issue. And I also want to say that DGD 4 is not required for SAF as we have -- can retrofit DGD 1, 2, or 3 or any combination thereof. The thing about SAF is it does require additional investment, a fractionator at a minimum, and maybe additional equipment beyond that. So, the price of SAF needs to be such to justify that incremental investment.
+So, we're not waiting engineering-wise for the final outcome on the SAF blenders tax credit, but we do think a favorable tax credit compared to the $1 a gallon that you get on the blenders tax credit, so a favorable one to that is likely needed to proceed beyond engineering. And as you say, it's not a question of if we're going to produce and sell SAF, it's a question of when. But again, we're looking for positive incremental EBITDA out of this and not just to do it. So that's kind of what the holdup is right now.
+Manav Gupta -- Credit Suisse -- Analyst
+Thank you.
+Operator
+Thank you. Our next question is coming from Paul Sankey of Sankey Research. Please go ahead.
+Paul Sankey -- Sankey Research -- Analyst
+Good morning, everyone. 
+Joe Gorder -- Chairman and Chief Executive Officer
+Hello, Paul. 
+Paul Sankey -- Sankey Research -- Analyst
+It's a long time since we've worried about natural gas prices. Can you remind me what the sensitivity -- the sort of rule of thumb you guys use for how battle-good it is and how much that's changed since it's been 10 years or so since it's really been a problem? Has your asset base changed in terms of its sensitivity? Thanks.
+Lane Riggs -- President and Chief Operating Officer
+This is Lane. It's still about $1 change per million Btu. It's about $0.20, $0.22 per barrel for us.
+Paul Sankey -- Sankey Research -- Analyst
+Great. Lane, while I have you, the crude slate has changed a lot over that period as well. Nothing from Venezuela. Very low, Saudi.
+Plenty from Canada. Issues with Mexico. Can you just talk about -- and also notably some significant discounts, for example, West Africa to Brent, Dubai to Brent. Can you talk a bit about how you're managing the crude market? Thanks.
+Lane Riggs -- President and Chief Operating Officer
+I'll let my good friend Gary answer that question.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+So far, today, if you look, we're seeing the widest margin in some of the heavy feedstocks we run. You mentioned heavy Canadian has good margins. Some of the fuel blend stocks that we're running today have good margin. In terms of the other light sweet to medium sour, it kind of comes and goes.
+If you look at today's market, it would favor light sweet over medium sours. But in general, what we're seeing is kind of in our Gulf Coast assets. As you move east in the Gulf, you tend to have better economics on the medium sours. And as you move west, it favors running more light sweet.
+Paul Sankey -- Sankey Research -- Analyst
+Got it. Has the lower amount of crude coming out of the U.S. itself had a major impact?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+No. As long as we are still exporting crude, that really kind of sets the Brent TIR, and we're a long ways from getting to a point where we're not in the ag markets.
+Paul Sankey -- Sankey Research -- Analyst
+Yeah, that makes sense. Back to the rule of thumb for my final part. What's your sensitivity to jet fuel if there's a way of framing that? Because obviously, if we see that come back -- I would have thought it's the highest-margin product you guys produce. I just wondered maybe what the opportunity cost has been of the lost jet fuel or what the issues have been around operations.
+Thanks.
+Lane Riggs -- President and Chief Operating Officer
+This is Lane. So, I would tell you that I don't know if I would -- Gary would -- I wouldn't consider. It's all a matter of optimization. If you look at it historically, you've had the RIN in it, so you can compare jet to ULSD and you can sort of see what it -- almost always the industry [Inaudible] out to the penny.
+So, I would say most of the time, unless there's something unusual, the market is essentially in different ULSD between jet. Now with that said, our operation is such that we can actually almost go down to zero jet in the way we were configured. So, I wouldn't say there's been a big opportunity cost not making jet. Now obviously, what that means to the industry is that jet has been going into diesel, and so to the extent it created length and potentially hurt the crack.
+But as you've heard throughout the call, jet -- diesel demand is actually above where it was, so there's been some offsets to all that. So specifically, I don't think us not being able to make -- jet has been big thing to us.
+Paul Sankey -- Sankey Research -- Analyst
+Yeah, that makes sense. And it's just -- you make an interesting point about how much latent diesel demand there is with the shortage of truckers and everything else. The diesel market looks really, really tight, right?
+Lane Riggs -- President and Chief Operating Officer
+Yes.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yes.
+Paul Sankey -- Sankey Research -- Analyst
+Great. Thanks, guys.
+Operator
+Thank you. Our next question is coming from Paul Cheng of Scotiabank. Please go ahead.
+Paul Cheng -- Scotiabank-- Analyst
+Hey, guys. Good morning. 
+Joe Gorder -- Chairman and Chief Executive Officer
+Good morning.
+Paul Cheng -- Scotiabank-- Analyst
+I want to also ask a question on the natural gas. Lane, I think you talked about earlier when Sankey asked about the cost, say, $0.22 per barrel. How about on the gross margin capture, given that the hydrocrack probably for every barrel throughput, you use 0.56 Bcf of gas and hydrotreatment also use the gas. So, how should we look at the higher natural gas price, the impact on the gross margin? After that, I have another question.
+Lane Riggs -- President and Chief Operating Officer
+Yeah, it's about $0.10 a barrel in cost of goods.
+Paul Cheng -- Scotiabank-- Analyst
+Is $0.10 per barrel for every $1?
+Lane Riggs -- President and Chief Operating Officer
+Yes.
+Paul Cheng -- Scotiabank-- Analyst
+OK. And the second question is that, I think this is for Martin, when we look at the DGD result in the third quarter in ethanol, they both come in the gross margin worse than what the benchmark indicator will be. Benchmark indicator at least in our number that for renewable diesel, it seems like it's pretty flat, but gross margin actually dropped quite substantially. And then for ethanol, it's actually up on the gross margin indicator, but you guys are -- actually did not.
+It is actually down. I think for ethanol, it's the feedstock issue. And I think there's a bit of the feedstock issue on the renewable diesel in the third quarter also. So, can you maybe elaborate a little bit, help us understand what happened? And also, whether those trends continue into the fourth quarter? And also, if you can tell us that what is the current DGD 2 current run rate.
+Thank you.
+Jason Fraser -- Executive Vice President and Chief Financial Officer
+All right. Hi, Paul. I might need some help in keeping those straight. Here we go.
+I'm going to start with that ethanol. You're busted, Paul Cheng. So the third quarter, as you stated, the indicator margin was $0.70 a gallon, which was up $0.30 a gallon versus the second quarter. But what you have to remember about that indication is it's based on the CBOT corn price and does not include the corn basis.
+In most years, that's a fine approximation to our corn cost. But due to the low corn to stock ratio, the use to -- the stocks-to-use ratio this year basis was extremely high. If you look at some of the USDA reports, basis was $1, $1.20 a bushel. So that takes $0.30 to $0.40 out of the indicator.
+So, at the end of the day, the indicator was just artificially high and that kind of -- EBITDA was not achievable. So, the good news is now with the new corn crop, while the CBOT price is still high, the basis has broken. So those indicator margins you're seeing now, which are over $1 a gallon, are pretty indicative of where the industry would be. So, it's not an ongoing issue.
+But this corn price is going to stay high. And we're going to go through this period probably again next year where basis, as you get to the end of the corn crop, really gets high. But right now, kind of the basis is broken. On DGD, the indicator was down to like $2.84 in the third quarter, pretty flat to second quarter.
+But on DGD, there's quite a few things moving. The first thing I would tell you, we signaled that we would have lower margins in the third quarter. Some of that was we expected as prices -- as prices are going up, the product prices, fat prices, all that's going up. The RIN goes up immediately, but we've got a lag in our cost of goods with the fat.
+So, when you break over and that price quits increasing or starts decreasing, then your RIN falls immediately and you're still consuming a higher-priced feedstock. So, we had some of that in the third quarter. The other thing that's happened in the third quarter is we were out buying for DGD 2. We're entering the market, and I went through that earlier, anytime you go into the market in a big way and change these flows, you've got inertia the market, it's going to take a while for us to get back down.
+So, we expect these waste feedstock prices, how they price relative to soybean oil, to come off and we're seeing a little good news there now. So, we expect that to correct itself, too. And I'm trying to think what else I missed here.
+Paul Cheng -- Scotiabank-- Analyst
+What's the DGD 2 current run rate?
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+We're just in the process of starting it up, Paul, but we're moving along well. Everything looks good, but we don't have a run rate yet.
+Paul Cheng -- Scotiabank-- Analyst
+OK. So, you haven't actually started running it?
+Lane Riggs -- President and Chief Operating Officer
+Yes. So, this is Lane, we actually started it up about three days ago.
+Paul Cheng -- Scotiabank-- Analyst
+I see. OK. We do. Thank you.
+Lane Riggs -- President and Chief Operating Officer
+Thanks, Paul.
+Operator
+Thank you. Our next question is coming from Sam Margolin of Wolfe Research. Please go ahead.
+Sam Margolin -- Wolfe Research -- Analyst
+Hey, good morning, everyone. 
+Joe Gorder -- Chairman and Chief Executive Officer
+Hey, Sam.
+Sam Margolin -- Wolfe Research -- Analyst
+Follow-up on capital allocation as the cycle kind of gets farmer here. In the past, the buyback and dividend growth worked together, right? It was sort of partially enabled to grow your dividend as much as you did because you took out 30% of your shares. As we think about entering kind of the next phase of the cycle here into a potentially stronger period, do they have to be together? Or can you do one component of increasing capital returns without the other?
+Joe Gorder -- Chairman and Chief Executive Officer
+Jason is going to want me to take this one. Sam, I mean, we don't necessarily link them together, right? We do use the 40% to 50% target is based on how we make our decisions. And as Jason said earlier, we've got the dividend yield kind of toward the high end of the peer range right now, maybe at the high end of the peer range. So, we'll continue to look at it going forward.
+And he laid out the priorities really for our use of cash as we go forward. And he wants to delever a little bit. I guess we're like somewhere around 37% total debt to cap. We'd like to push it back down closer to that 30% number we had, and you can do that in a multitude of ways.
+But anyway, that's one of our top priorities. And then we haven't given up on buybacks by any stretch of the imagination. We see them as playing a part in this capital allocation framework going forward. It's funny because you guys love us when we do it.
+And then sometimes we do it and the price is high and the stock comes up and you say, "Oh, why do you do buybacks, right?" So anyway, it's a fine balancing act for us. And I think if you just revert back to the capital allocation framework and the way we've executed it in the past, I think right now, that's our plan for execution going forward.
+Sam Margolin -- Wolfe Research -- Analyst
+OK. Thanks. Very helpful. And then just a follow-up for Martin on the dynamics in the renewable diesel space.
+So, this may have been a coincidence. But at the time that DGD and a competitor plant in the same area we're down, the whole complex of bean oil and waste oils came down, too. And some people interpreted that as a signal of sort of just how tight the market is, right? A couple of plants can bring down that complex by $0.20 a pound. Is your feeling the same thing? Or was that just a coincidence? And there's actually some spare capacity in feedstock that's underappreciated.
+Thanks.
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Hey, Sam, this is Martin. It's a coincidence on -- definitely on the bean oil side. I mean, when you look at that, if you look at bean oil prices, soybean oil, just look at any veg oil price -- and veg oil price, whether it's palm oil, bean oil, or canola oil, that's the big three globally, they're -- they have doubled since the fall of 2019. And all that was led by a shortage of palm oil.
+The palm oil stocks got low in Malaysia. So, to put it in perspective, if you look at Malaysia and Indonesia palm oil, that production is six times as large as soybean oil in the United States. So, palm oil drives veg oil pricing. So anytime you see soybean oil, just crude degummed soybean oil move, it's a lot more about palm oil likely than anything else.
+So now that said, the waste feedstock price relative to soybean oil, as I said earlier, I think DGD has had an impact on that. It gets complicated because you get into all kinds of tallow and slaughter rates and the weight of animals and all this information, but we do expect that to come back out. Certainly, you've got a situation now where the waste feedstock prices are on an energy content or way above the value of corn on an energy content, so the people feeding waste oils are trying to figure out ways not to feed waste oils. So, we're still optimistic about waste feedstock in the future, and I'm really glad we have all this pretreatment capacity to handle it.
+Sam Margolin -- Wolfe Research -- Analyst
+Thanks so much. Have a good day.
+Operator
+Thank you. Our next question is coming from Ryan Todd of Piper Sandler. Please go ahead.
+Ryan Todd -- Piper Sandler -- Analyst
+Thanks. Maybe a natural follow-up on your last comment there. But over the last 12 months, we've seen a lot of headlines about potential capacity additions in renewable diesel. But I think we've also seen a shift among a lot of those additions toward what I would characterize as kind of a capital-light entry to renewable diesel, targeting vegetable oils and avoiding the cost of pretreatment facilities.
+So how do you see these trends impacting RD markets over the next few years, given your increasingly differentiated position on feedstock flexibility and sourcing?
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Sure. Yeah. Well, I would say that these higher veg oil prices, given what's going on in palm oil, it's kind of a structural shortage there now, the plantations, the trees are getting older, the yields getting less. So, there's a little bit of a veg oil issue that's been coming for years.
+So, we don't see the veg oil prices moderating. But what you have to remember that for Diamond Green Diesel, for our renewable diesel business, a high veg oil price is met with a higher D4 RIN, and the absolute veg oil pricing doesn't dictate margin for us. And also, the spread between RBD soybean oil and crude degummed soybean oil does not impact DGD. So being in this waste feedstock position with robust pretreatment just puts us in a lot better position, and the guys that are coming in and running veg oils are not.
+So that position, I think, is going to be a little tough, but we feel pretty good about our position.
+Ryan Todd -- Piper Sandler -- Analyst
+Great. Thanks. And then maybe just a follow-up on -- or a shift to refining. I assume we know your answer, for you specifically, but there are quite a few -- a lot of refineries currently being marketed out there.
+What would it take for you to seriously consider adding another asset to your portfolio? And if not for you specifically, how do you see this shaking out with a lot of these assets? Do you see more closures? Or I guess how do you see this kind of asset long position right now playing out over the next 12 to 18 months?
+Joe Gorder -- Chairman and Chief Executive Officer
+All right. Well, I'll answer it this way and then Rich can say whatever he wants, Rich Lashway. But we're very comfortable with the portfolio that we have today. And as you know, we've got a strong track record of having grown through acquisition in the past.
+And there was a time in place for that strategy to be executed, and we executed it really well. And then we spent the last 10 years-plus just getting the assets up to a standard that we were comfortable operating in. And we realized that any acquisition like that that we would make, we would end up going through the same process. And so, it would have to be an incredibly compelling case for us to give that any consideration.
+And so, although we continue to look at what's in the market just to be sure we don't miss opportunities, I wouldn't anticipate that you should expect us to be doing anything on that front. I'd rather invest in the assets that we know, continue to optimize the assets that we have, and build the renewables business right now than invest in additional refining capacity.
+Ryan Todd -- Piper Sandler -- Analyst
+Thanks, Dan. Thanks, Joe.
+Operator
+Thank you. Our next question is coming from Jason Gabelman of Cowen. Please go ahead.
+Jason Gabelman -- Cowen and Company -- Analyst
+Thanks. I guess the first one, just an easy modeling one. Is this lower tax rate, is that a good rate to use moving forward? I think you mentioned the lower rate was driven by the DGD non-op impact. So just wondering if that's a good rate and if anything else drove the lower effective tax rate for the quarter.
+And secondly, I just wanted to go back to the LCFS price volatility in California. It seems like there's a lot of renewable fuel capacity coming online next year. And I'm wondering, in the market we're in right now, at what price does the LCFS price have to go to in order to maybe consider selling some of your renewable diesel into Europe rather than in California? I'm asking because you guys have a good position in terms of your U.S. Gulf Coast optionality.
+So, I'm wondering if you could give any insight to that. Thanks.
+Mark Schmeltekopf -- Chief Accounting Officer and Senior Vice President
+All right. Yeah. This is Mark Schmeltekopf. I'll take the question on the tax rate and then hand it over to Martin for your second question.
+Yes, the tax rate for the quarter does look low, it was 11%. It's a little challenging to tell you kind of what to expect in the future. But in the near future, I would say it would be somewhat under 21%. Just as a reminder and as we said in the earnings release, you have to remember the impact that the DGD earnings have on the effective tax rate.
+So, our consolidated pre-tax income includes 100% of DGD's income. And while tax expense only reflects taxes on a portion of that income. There's no tax expense on our share of the blenders tax credits included in DGD's income, nor is there any tax on our partners half of DGD's income. So that impact is pretty -- has an out-weighted impact on our overall effective rate.
+And I just also want to remind you that our partner's share of DGD's income is excluded from our net income by backing it out in noncontrolling interest. So, if you look at it just from a purely EPS or cash standpoint, the only benefit Valero getting is not being taxed on our share of the blenders tax credit, which is quite a bit lower than I think some of the analysts are thinking it is. So, what it tells you is that our results are not driven as much by the perceived tax benefit as they were by underlying recovery in margins. And so, I'll hand it over to Martin.
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Sure. Thanks, Mark. Yeah, I would say on the LCFS, if you look at it, it's really -- to get right to your question, again, this has been a lot more about deficits out there driving the price down and too many credits. In the first-quarter '21, renewable diesel blending was 23% in California.
+The highest previous quarter was 18%. But still, the credits aren't just exploding in California, it's just a lack of deficits. And I think as we get out of the COVID and the Delta variant and back to work, and we've got a big data lag right now in California, right, we don't know what second quarter that is. We'll know that at the end of October.
+And credit prices are up. They've hit a low of, what, [Inaudible] $158 a ton, now they're $175. But to get to your question, we routinely go to Europe and Canada with our fuel already. We're always looking at the different markets and working for the highest netback.
+And given our long-term contracts, we'll sometimes be constrained, but we're always in those markets.
+Jason Gabelman -- Cowen and Company -- Analyst
+All right. Thanks.
+Operator
+Thank you. Our next question is coming from William -- I'm sorry, Matthew Blair of Tudor, Pickering, Holt. Please go ahead.
+Matthew Blair -- Tudor, Pickering, Holt & Co. -- Analyst
+Hey, good morning, and thanks for squeezing me in here. I was wondering if you anticipate being a shipper on Capline to Louisiana refineries. And if so, would that be WCS or perhaps some other crude? Looking at that Capline tariff filing from earlier this week, expected volumes are only 102,000 barrels per day. It just seemed kind of low.
+So just trying to suss out if that's due to a lack of interest from Louisiana refineries or that's due to the lack of supply with the connector pipeline not going through? Thanks.
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Yeah. So, this is Gary. With most of the pipelines in Capline, really not too much different for us. Our focus has been on getting good connectivity to those pipelines, but not necessarily taking a shipper commitment.
+We let the producers ship and then we buy at the other end. And I think that's what we would plan to do with Capline as well.
+Matthew Blair -- Tudor, Pickering, Holt & Co. -- Analyst
+And do you think those volumes will be WCS coming down or something else?
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Well, that's a good question. I think the -- it looks like, initially, it will be mainly a light sweet crude, certainly with the Line 3 replacement, we could see heavy Canadian making its way into Capline at some point in time and that would be good for us, a more efficient way to get heavy Canadian to our St. Charles refinery.
+Matthew Blair -- Tudor, Pickering, Holt & Co. -- Analyst
+Indeed. Thanks. I'll leave it there.
+Joe Gorder -- Chairman and Chief Executive Officer
+Thanks, Matthew.
+Operator
+Thank you. At this time, I'd like to turn the floor back over to management for any additional or closing comments.
+Homer Bhullar -- Vice President of Investor Relations and Finance
+Thanks, Dana. I appreciate everyone dialing in today. If you have any questions you want to follow up on, please feel free to reach out to the IR team. Thanks, everyone, and please stay safe and healthy.
+Operator
+[Operator signoff]
+Duration: 65 minutes
+Homer Bhullar -- Vice President of Investor Relations and Finance
+Joe Gorder -- Chairman and Chief Executive Officer
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+Jason Fraser -- Executive Vice President and Chief Financial Officer
+Gary Simmons -- Executive Vice President and Chief Commercial Officer
+Theresa Chen -- Barclays -- Analyst
+Lane Riggs -- President and Chief Operating Officer
+Martin Parrish -- Vice President, Alternative Energy and Project Development
+Roger Read -- Wells Fargo Securities -- Analyst
+Phil Gresh -- J.P. Morgan -- Analyst
+Prashant Rao -- Citi -- Analyst
+Manav Gupta -- Credit Suisse -- Analyst
+Paul Sankey -- Sankey Research -- Analyst
+Paul Cheng -- Scotiabank-- Analyst
+Sam Margolin -- Wolfe Research -- Analyst
+Ryan Todd -- Piper Sandler -- Analyst
+Jason Gabelman -- Cowen and Company -- Analyst
+Mark Schmeltekopf -- Chief Accounting Officer and Senior Vice President
+Matthew Blair -- Tudor, Pickering, Holt & Co. -- Analyst
+More VLO analysis
+All earnings call transcripts

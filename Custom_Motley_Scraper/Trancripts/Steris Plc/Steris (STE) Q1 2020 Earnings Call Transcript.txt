@@ -1,0 +1,191 @@
+Image source: The Motley Fool.
+Steris (STE -0.08%)Q1 2020 Earnings CallAug 06, 2019, 10:00 a.m. ET
+Operator
+Good morning, and welcome to the Steris plc first-quarter 2020 conference call. [Operator instructions] Please note this event is being recorded. I'd now like to turn the conference over to your host today, Julie Winter, senior director of investor relations. Please go ahead, ma'am.
+Julie Winter -- Senior Director of Investor Relations
+Thank you, Keith, and good morning, everyone. As usual, on today's call, we have Walt Rosebrough, our president and CEO; and Mike Tokich, our senior vice president and CFO. And I do have a few words of caution before we open for comments. This webcast contains time-sensitive information that is accurate only as of today.
+Any redistribution, retransmission or rebroadcast of this call without the expressed written consent of Steris is strictly prohibited. Some of the statements made during this review are or may be considered forward-looking statements. Many important factors could also cause actual results to differ materially from those in the forward-looking statements, including without limitation, those risk factors described in Steris' securities filings. The company does not undertake to update or revise any forward-looking statements as a result of new information or future events or developments.
+
+Steris' SEC filings are available through the company and on our website. In addition, on today's call, non-GAAP financial measures, including adjusted earnings per diluted share, segment operating income, constant-currency organic revenue growth and free cash flow, will be used. Additional information regarding these measures, including definitions, is available in today's release, including reconciliations between GAAP and non-GAAP financial measures. Non-GAAP financial measures are presented during this call with the intent of providing greater transparency to supplemental financial information used by management and the board of directors in their financial analysis and operational decision-making.
+With those cautions, I will hand the call over to Mike. 
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Thank you, Julie, and good morning, everyone. It is once again my pleasure to be with you this morning to review the highlights of our first-quarter performance. For the quarter, constant-currency organic revenue growth was 10%, driven by volume and 120 basis points of price. We continue to experience strong underlying growth from our customers and success with new products.
+Gross margin for the quarter increased 190 basis points to 44.2% and was favorably impacted by productivity, price, mix and currency, somewhat offset by higher labor and material costs. EBIT margin for the quarter was 19.5% of revenue, an increase of 160 basis points from the first quarter last year, despite an increase in SG&A expenses mostly relating to higher incentive compensation given the strength of the quarter. The adjusted effective tax rate in the quarter was 16.2%, somewhat lower than we had anticipated due to favorable discrete items, primarily the benefit related to stock compensation expenses. Net income in the quarter grew 23% to $105 million and earnings increased to $1.23 per diluted share, benefiting from revenue growth, margin expansion and the lower tax rate.
+In terms of the balance sheet, we ended June with $238.1 million of cash and $1.2 billion in total debt. During the first quarter, capital expenditures totaled $49.8 million while depreciation and amortization was $47.1 million. Free cash flow for the first three months declined as anticipated to $59.6 million due to the increased capital spending. With that, I will turn the call over to Walt for his remarks.
+Walt Rosebrough -- President and Chief Executive Officer
+Thanks, Michael, and good morning, everyone. As you've already heard from Mike, we started fiscal 2020 stronger than expected, with growth meeting or exceeding our expectations in all four segments. The additional volume and the lower effective tax rate drove earnings above our expectations for the quarter. Based on our performance in the first quarter and revised expectations for the rest of the fiscal year, we are now updating our full-year outlook.
+Starting with revenue. We now expect constant-currency organic revenue growth of 6% to 7% for fiscal 2020, up 100 basis points from our original 5% to 6% range. The updated revenue forecast suggests that the outperformance in the first quarter holds for the year and that we will experience somewhat higher volumes than we originally planned over the remaining course of the year. The two segments of our business that are driving the increased volume growth for the year versus our original plan are Healthcare Products and AST.
+Healthcare Products is seeing improved demand for both consumables and capital equipment. Our new products have helped grow consumable sales in sterility assurance, instrument cleaning chemistries and V-PRO consumables. On the capital equipment side, we have a strong backlog of capital equipment orders and a healthy pipeline going forward. When our capital equipment grows significantly, we can run into capacity constraints in our shared manufacturing facilities in any given period.
+Our revenue forecast recognizes our efforts to run our plants at normalized run rates throughout the year, which creates some risk for potential timing issues in capital equipment shipments at quarter ends and year-ends. The AST segment continues to deliver strong growth as increased demand from our core medical device customers continues, and we fill the capacity of the expansions we have made in past years. This encourages us about our significant expansion plans for AST that we have previously reported. With the additional volume growth, we are -- for the total company, we are increasingly comfortable with approximately a 75 basis point improvement in EBIT margin percentage.
+We also anticipate that our effective tax rate for FY '20 will be at the low end of our original guidance of 19% to 20%. With all these factors considered, we now anticipate adjusted earnings per diluted share to be in the range of $5.38 to $5.53, up $0.10 from our original outlook. While our first quarter exceeded consensus by $0.12, it did not meet our internal plan by that much. As a result, we continue to expect earnings in our revised forecast to be weighted about 45% in the first half and 55% in the second half.
+The rest of our outlook is unchanged as we continue to expect about $280 million in capital spending to fuel future organic growth in our businesses and $300 million in free cash flow for the year. Our capital spending has started the year a bit light, as Mike has said, but we expect it to ramp up over the next three quarters as our projects move forward. On a completely different note, as you likely saw in our proxy, we had several Board members retire as of our annual meeting. Loyal Wilson had the foresight to be the initial primary investor in Steris over 30 years ago, has served on our Board ever since and has made innumerable contributions over his tenure.
+Dr. Michael Wood has been a Board member for 15 years and has brought a unique perspective as a surgeon and former CEO of the Mayo Clinic. And Sir Duncan Nichol, former head of the NHS in the U.K., joined our board several years ago as the result of our combination with Synergy Health, where he was chairman and a long-standing board member. All three of these individuals have made significant contributions to our company over many years.
+We thank them for their service and wish them the very best. In closing, we started this year strong and continue to expect another year of record performance in FY '20. We believe the short-term and the long-term future for Steris is bright, and we appreciate your ongoing support.
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+We are now pleased to take any questions you may have. Julie, can you start Q&A, please?
+Julie Winter -- Senior Director of Investor Relations
+Thank you, Walt and Mike, for your comments. Keith, would you please give the instructions, and we'll get started on Q&A.
+Operator
+[Operator instructions] And the first question comes from Matthew Mishan with KeyBanc.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+Great. Thank you for taking the questions and an outstanding quarter. Walt, Mike, can you guys start off with AST and maybe kind of help explain the increased demand you're seeing and whether or not it's near-term transitory due to a competitor issue? Or is this just large-scale market share gains you're seeing over a multiyear period of time?
+Walt Rosebrough -- President and Chief Executive Officer
+Matt, we have been very strong in AST now for several quarters, stronger than our expectation, frankly. There's been some -- I think we reported last time some modest increase probably due to Brexit in Europe. There's been some modest increase due to the Chicago closing that you referred to. And then there's been just good underlying generic increases.
+We've talked about this before. We continue to put capacity in places where our medical device customers are expanding. And we haven't seen our -- the OEMs who are making these devices, generally speaking, haven't been building capacity for that growth. So by definition, they're outsourcing more, and we have had the good fortune of picking up probably more than our fair share of that growth due to having our plants in the right places.
+And that's why we have continued expanding kind of on the come, if you will, for the next 10 years, and we will continue to do that. So we are comfortable that we're growing a bit faster than the market, but I don't think it's radically faster. And it's not due to any particular big swing of customer A to customer B or someone from -- a customer moving to us. Our -- we call this churn.
+Our net churn has been roughly constant for quite a while. We have picked up positively for quite a while, but it's not out of range. So this is, call it, for lack of a better term, true growth in picking up the growth of the device customers, and we are obviously getting a little bit better than our fair share.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+OK. Outstanding. And then can you also give us a sense of the momentum you're seeing right now in your U.S. ORC business?
+Walt Rosebrough -- President and Chief Executive Officer
+Matt, this conversation is not dissimilar from what we've been saying, and that is that business is continuing to grow. It's growing nicely, faster than our average growth, and it will grow in a little bit lumpy terms probably in the short run. But I can tell you that the pipeline of people who are interested in doing things continues to grow, and we feel very good about the growth prospects going forward.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+Great. And then, lastly, international versus U.S. There have been other companies that have indicated there's been some international cap equipment delays. Any trends you're seeing like differently there versus here?
+Walt Rosebrough -- President and Chief Executive Officer
+Yes. We've seen Europe is kind of flat. So if you look at that relative to the U.S., no question that it has not grown as the U.S. as the U.S.
+has been hotting out for a while and continues hot in our view. Latin America for us has kind of picked up. That -- since the relative volume there is small, it's hard to tell if we just picked up some orders or if the market is a little stronger, but we feel much better about Latin America. And Asia Pacific has also done nicely.
+So we're comfortable there. So the kind of the weak spot, if you will, for growth has been in Europe the last little bit. And I think that's consistent with what other people have reported.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+Thank you very much, Walt
+Operator
+The next question comes from Chris Cooley with Stephens.
+Chris Cooley -- Stephens Inc. -- Analyst
+Good morning. Appreciate you taking the questions. Walt, I'm trying to think when's the last time it's been that I've seen you actually raise guidance on the first fiscal quarter, and it's been some time. I guess...
+Walt Rosebrough -- President and Chief Executive Officer
+I suspect, Chris, you haven't found one.
+Chris Cooley -- Stephens Inc. -- Analyst
+That's right, but my memory starts to lose me now at this age. So I guess two quick questions for me. One, when we look at the quarter, obviously, it was very, very strong. But if we did want to need anything, it's the rate of growth in the backlog to decelerate both within healthcare capital and, as expected, within the Life Science space.
+Could you just maybe remind us what you're seeing there? While I think the Life Science segment makes a lot of sense and as expected, the deceleration of basically 6% growth in the backlog year-over-year, a little bit lower than maybe I would have anticipated. So just maybe talk to us a little about what you're seeing in the capital environment -- healthcare capital environment in the short run, and I have a quick follow-up.
+Walt Rosebrough -- President and Chief Executive Officer
+Yes, Chris. We're not seeing any deceleration of, I'll call it, pipeline or order pipeline coming in. In fact, if anything, it would be the opposite. So backlog is a relatively small piece of orders, and it's orders minus shipments.
+So we shipped a bit more in this quarter than you might have expected, and the backlog fell a little bit. But in terms of order, order rates, pipeline, we're not seeing any decline. So this is a temporal change, which often happens in capital in any given quarter. And as you know, we've grown backlog a lot in the last 12 months.
+And so if it drops off a little bit, it doesn't concern us. There's some point in which -- in fact, we have two types of orders: some that ship in 12 to 18 months and some that ship in -- these are more like six to nine in healthcare and 12 to 24 in life science. But there are some points, if you have a lot of your backlog that is ASAP-type backlog, having too much actually is a problem. So when we have a bunch of ASAP orders from customers, we try to get them out as quickly as we can.
+So this does not concern us at all, and it does not reflect any concern in our view of orders coming in or pipeline for orders.
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+And Chris, this is Mike. The other number that -- you are correct in the 6%. But if you look at sequentially, we're up $33 million or 21%. So again, it has a lot to do with timing and fluctuations.
+And we were up 7% growth in capital equipment for the quarter, which is a little bit higher than we typically see anyhow. So it's all about the timing. Again, to Walt's point, I don't think there's any concern on our end.
+Walt Rosebrough -- President and Chief Executive Officer
+But I mean I don't disagree, Chris. If you see shrinking backlog, then that would give you pause. It's just that backlog is such a small piece of your total shipments. That -- it's the order rates coming in that we're more interested in, and that still looks strong.
+Chris Cooley -- Stephens Inc. -- Analyst
+Appreciate the additional color. It's what I thought. Just lastly then from me. When you look at AST, I believe you got a new high watermark for operating margin in the quarter, looking back here historically, which is really impressive.
+So talk to us maybe about where you are in terms of existing capacity utilization, maybe how the mix has shifted across sterilization techniques. Basically, just trying to get a little bit better feel for is this -- can we improve upon this new high watermark as we go through the fiscal year? Or is this kind of the new normal as we model that business? Thanks so much.
+Walt Rosebrough -- President and Chief Executive Officer
+Sure, Chris. Great question. And in terms of that, our plants -- when we grow faster than we expect -- and as we have said, we're building plants. So our plants are getting pretty full.
+And it's more a function of our plants being very nicely utilized right now on a percentage run basis than kind of any other factor. So we will see temporal fluctuations in those numbers, and right now, we're running pretty hot. I wouldn't bet my life on 44% the rest of the time. But I mean, obviously, we've been in the high 30s and low 40s for a while.
+I think those numbers are reasonable numbers to be thinking about.
+Chris Cooley -- Stephens Inc. -- Analyst
+Congratulations on the quarter.
+Operator
+Thank you. And the next question comes from Jason Rodgers with Great Lakes Review.
+Jason Rodgers -- Great Lakes Review -- Analyst
+Yes. Just looking at your improved outlook on the Healthcare Products side. How much, would you say, of that is due to the new product introductions? Is there anything on the consumable or the equipment side that you would consider a needle mover there?
+Walt Rosebrough -- President and Chief Executive Officer
+Yes. On that -- I've forgotten exactly the number, but we have something in the order of 20, 30 new products that we introduced last year which are really what's filling the pipeline for this year, and we have 20 or 30 new products that we're going to introduce this year. And I might even be a little on the light side on the Healthcare Products side. So it's not any one silver bullet.
+It's just a lot of new products that are picking up steam. I mentioned the ones where we've seen some kind of significant growth. I mentioned that in the text. The -- call it, the sterility assurance products are growing quite nicely for us right now.
+We have a number of new products in that space. V-PRO, V-PRO is driven not by new consumables but by new products, new capital products as we place those new capital products, and we have just a completely new line of V-PRO now. And those new capital products does -- do drive the consumables or allow the consumables to grow. So -- and then, our ICC business.
+Again, we have multiple new products in the instrument cleaning chemistries, and those are just continuing to take hold. We think we have the best line in ICC now by a significant margin. So they continue to grow. So it's not any one product.
+And there's a series of also sterilizers and washers, particularly for Europe. We're not seeing any one product be a dominant force here. It's just multiple products and the combination of them, washers, sterilizers and the things that go with them, ORI and tables and lights and the things that go with them. It's not so much a single product.
+It's the family of products working together that I think is the driver.
+Jason Rodgers -- Great Lakes Review -- Analyst
+All right. And any change in expectations for the impact on tariffs? I mean I don't think it's that material, but I just wanted to check on that.
+Walt Rosebrough -- President and Chief Executive Officer
+Good check. Our best estimate at this time of the newest round of China tariffs is something on the order of $1 million a year. So although we don't like seeing $1 million a year disappear, it's well within the guidance range that we've laid out.
+Jason Rodgers -- Great Lakes Review -- Analyst
+All right. Thank you.
+Operator
+Thank you. And the next question comes from Mitra Ramgopal with Sidoti.
+Mitra Ramgopal -- Sidoti and Company -- Analyst
+Yes. Hi. Good morning. Just a couple of questions.
+First, on the restructuring plan announced back in December, I was just wondering if you're still holding to about the $12 million of cost savings with half this year and half next year in terms of...
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Yes. Mitra, we are on target. That $6 million will be mostly in the back half of the year, which is reflected in our outlook for the savings, and we are definitely tracking on target. Good question.
+Mitra Ramgopal -- Sidoti and Company -- Analyst
+OK. Thanks. And Mike, it looks like you might have done a tuck-in acquisition this quarter. I was just wondering if you had any additional color on that.
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Yes. We did a small acquisition in middle of the quarter. It was a systems acquisition in our healthcare space, specifically in our IPT, infection prevention technology, space that will generate somewhere in the neighborhood of around $10 million of revenue this year.
+Mitra Ramgopal -- Sidoti and Company -- Analyst
+OK. No, that's great. And then just coming back on the Life Sciences business. I know that has obviously been a little lumpy in the past.
+But if you look at last couple of years, it's actually been holding up pretty well. I was just wondering if you think, going forward, we should continue to kind of see these numbers in terms of where the backlog is.
+Walt Rosebrough -- President and Chief Executive Officer
+Yes. As we've said, we had this huge run-up of business probably three years ago now, it's hard to remember, but -- where we were growing 20%, 25% a year for 18 months or 24 months or so. And then we've sort of leveled off at that level, and we're very comfortable with that level. Our backlog has remained roughly in the $60 million range.
+And when we're in that range of backlog, we feel we can do these numbers. So on the capital equipment side in Life Science, we are pretty comfortable. We're seeing growth, but it's modest growth, more in line with single digit -- low single-digit kind of growth, not atypical in capital equipment. But it is lumpy.
+This last quarter, it's 35% -- 40% up.
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+40%, yes.
+Walt Rosebrough -- President and Chief Executive Officer
+So -- and the previous quarter was scoff a little bit. So that's kind of the way that business works, relatively small amounts of business that comes in large sizes. Those machines can be $1.5 million apiece. So you get a couple of those together and you have a really good quarter.
+If a couple of them slip into the next quarter, you have a weak quarter. But we're pretty comfortable of sustaining that level at this point in time, and our visibility out in the future looks that way as well. So we're pretty comfortable there. The consumable side is continuing to grow very nicely, and we anticipate that continuing.
+Mitra Ramgopal -- Sidoti and Company -- Analyst
+OK. Thanks. That's very helpful and congrats again on a great quarter.
+Operator
+Thank you. [Operator instructions] And the next question comes from Larry Keusch with Raymond James.
+Larry Keusch -- Raymond James -- Analyst
+Good morning, everyone. So two questions. Walt, look, I appreciate the strong start to the year and the increase in the organic constant-currency guidance to that 6% to 7% range. But given that you just came off a 10% organic quarter, how do we reconcile the implied deceleration as you move through the year?
+Walt Rosebrough -- President and Chief Executive Officer
+Larry, we just had a hot quarter, and I don't think we would characterize our entire business growing 10% a year going forward. So obviously, I mean, the math suggests a slowdown. I haven't done the actual numbers myself. I'm guessing in the 5% to 6% range, something like that to get to that, which is well within our normal range.
+So we had a hot quarter. We're having a strong year. We anticipate continuing to have a strong year. But we're not ready to say we're 10% growth ad infinity.
+So I think that's pretty much the reconciliation.
+Larry Keusch -- Raymond James -- Analyst
+OK. Perfect. And then just given that the dollar has generally continued to strengthen, can you remind us again just how we should be thinking about some of the impacts from the currencies, whether it be the Mexican peso or the pound?
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Yes. Larry, this is Mike. So what -- in general, what we tend to like is a strong euro and a strong pound. And then on the opposite side, we tend to like a weak peso and a weak Canadian dollar.
+And the reasons for that is on the Canadian side and the Mexican side, we have manufacturing. So the lower the cost, the better for us. And then on the euro and the pound, we have a sales channel so we get more benefit by having those currencies, the pound and the euro, at a much higher exchange rate than the dollar.
+Walt Rosebrough -- President and Chief Executive Officer
+And the euro and the pound are largely service businesses for us. It's heavily -- more heavily weighted to service as opposed to product. So the revenue and cost travel together, but the margin component shrinks if it's -- if those currencies shrink. But I would say, too, Larry, all people who export, which we do export a fair amount, a -- and we've exported a fair amount from the United States, not just from Canada and Mexico and France and Finland where we have products and the U.K.
+So we export from all those places to a lot of other countries. And so pressure on those -- or as those currencies rise, it puts pressure on us. But we're getting to where we're fairly neutral to those kind of questions because it's rare for five or six currencies I reeled off where we have manufacturing plants to all be moving in the same direction against everybody else. So we're more naturally hedged, both on a profit basis and on an overall can we sell things against tougher currencies.
+We're more hedged than we've ever been.
+Larry Keusch -- Raymond James -- Analyst
+OK. Perfect. And just lastly on that. Can you just reminded me, I just don't have it off the top of my head, were there any changes made to the FX outlook for the year on this quarter?
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+We did increase the negative impact for revenue to $10 million, and we still believe EBIT is neutral. So no impact on the bottom line but increase on the negative side on the top line.
+Larry Keusch -- Raymond James -- Analyst
+OK. Perfect. Thanks, Mike.
+Operator
+Thank you. And the next question comes from Dave Turkaly with JMP Securities.
+Dave Turkaly -- JMP Securities --Analyst
+Thank you and congrats. Walt, just one sort of high-level question here. We've kind of talked around this a bit, but in the past, noting that every time there's a surgical procedure in a hospital, there's a revenue opportunity for Steris. I'd love to get your thoughts on hospital volumes, procedure volumes and what you think is sort of happening.
+If we look at this quarter, really across segments in the medical device world, there's a lot of strength. And I don't know, not pointing to any specifics, I'm curious if you're seeing anything that's maybe driving an increase in surgical procedures or operations.
+Walt Rosebrough -- President and Chief Executive Officer
+Yes. Well, no, you're exactly right. We clearly are seeing strength in medical devices in terms of volumes. Every hospital that I've talked to recently tells me their OR is busy, and so we're seeing those facilities busy.
+Now you have to separate -- you asked about hospitals. You have to separate inpatient care from inpatient surgeries from outpatient surgeries. And for our purposes, we don't really care if the surgery is inpatient or outpatient. And by the way, I use surgery in the broadest sense.
+It can be any number of procedures like endoscopic procedures where our U.S. endoscopy business works really well if they're doing those procedures. So it's procedures in hospitals and/or ambulatory surgery centers or GI centers or other procedural centers. In our view, it has clearly been strong.
+We've said before, for the long term -- if you look at the high level, for the long term, we have the baby boom in North America running through and much of Western Europe. And that baby boom wants to have new hips and new shoulders and a scoped knee and multiple other issues. And as fast as ambulatory surgery is growing, which it is -- and ambulatory surgery in the U.S. at least is fastest growing area for our business.
+As fast as it's growing, it's also getting more complexity. So -- and they need to do have real sterilization capabilities in ambulatory surgery centers and other GI centers. And by the same token, there are more and more complex surgeries being done in the acute settings. And so even though it looks like, "Oh, gee, we only did five surgeries," but if two of them are double transplants, that's very different than doing five scoped knees.
+So I think both the complexity of surgeries in acute care continues to rise. In ambulatory surgery, we're seeing faster growth as the less intensive procedures are moving more and more in the ambulatory setting where patients want them to be. And we have this push of the baby boom coming through, who is going to require more and more in all, I'll call it, the western world or the industrialized world. And then the non-industrialized world, as their GDP per capita rises, more and more people can afford this kind of healthcare.
+So we think the long-term outlook for the rate of procedures is quite good, which is why we've invested in that space.
+Dave Turkaly -- JMP Securities --Analyst
+Thank you for all the detail.
+Operator
+And next is a follow-up from Matthew Mishan with KeyBanc.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+Hey. Great. I think this is just a follow-up to David's question. I guess how has your value proposition to the hospital system kind of, especially with the rise of -- and share of the ASCs, changed over like the last couple of years?
+Walt Rosebrough -- President and Chief Executive Officer
+Well, Matt, I would say I don't think it's radically changed in a couple of years. But what we have done, as you have seen, is we bring more and more products and services around this procedural space. And so we are stronger today due to the family of products and services; bringing in IMS so we can help them with their surgical instruments, bringing in the ORC concepts, bring in the mobile units that were -- if they're out of capacity, we can help them out in addition to all the new products and services that we brought into the Healthcare Products. We just are a much stronger entity and more able to help them in many different ways in the procedural areas.
+And so -- but I wouldn't call it a radical change in the last two years. But if you look at the last dozen years, we're a very different entity when we're facing the hospital procedurals than we were 10 years ago, let's say.
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+OK. And I think last quarter, you talked a little bit about some, let's call it, stocking ahead of Brexit. And you talked about that as well as a shift in manufacturing in Life Sciences positively impacting sales by about $5 million to $10 million. And then you also talked about a headwind from your larger restructuring that you're absorbing on top of that.
+Can you just talk a little bit maybe about the timing of those? And when do you expect to see those shifts through 2020?
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Yes. Matt, great question. And I'll kind of try to walk through the two or three items that you've mentioned sequentially. First of all, vis-à-vis Brexit and -- well, vis-a-vis Brexit, we said at the time we were pretty sure there was about $5 million pull forward, and we had no idea how much else it might be.
+And so we were guessing in the $5 million to $10 million range. We still don't really know because we don't have visibility to all that space. But the fact that the quarter stayed very strong suggests that it wasn't $10 million. It was probably closer to the $5 million number that we were well aware of, plus or minus $1 million or $2 million.
+But -- so we're feeling a bit more comfortable that it was the known numbers plus a little as opposed to the unknown numbers times two or three or four. So -- and so that's point 1. Point 2, given the fact Brexit is not adjudicated, we do think whatever that number is, some point in the future, and I suspect it would be after -- it may be well after the dust settles on how the U.K. is going to Brexit or not, I would -- but I wouldn't see I think -- just speaking from ourselves, the buildup we've made, we're not planning to pull it down and then build it back up again.
+We're just letting it sit there until they sort out Brexit. And we think -- I think that's the most logical thing. So you tell me when and how they're going to exit and I'll give you the answer. But I think we're more comfortable within the few million dollar range.
+In terms of our plant closure, we saw exactly what we expected. There was order pull forward, and those orders fell off in the quarter so that -- we're over that, that's done. That's part of the reason we feel comfortable -- even more comfortable with our forecast because we absorbed that without -- in fact, not only without a loss, but that still was at our plan. So we absorbed that one.
+And in terms of the product closures, that will still be out there over probably the next 12 to 15 months. But it's relatively small numbers and will be spread over a large number of months, so I don't think you'll notice it. I think I hit all the topics there, Matt.
+Operator
+And as there are no more questions, I would like to return the floor to Julie Winter for any closing comments.
+Julie Winter -- Senior Director of Investor Relations
+Thank you, Keith, and thank you, everyone, for joining us this morning and for your continued support of Steris. Have a great day.
+Operator
+[Operator signoff]
+Duration: 36 minutes
+Julie Winter -- Senior Director of Investor Relations
+Mike Tokich -- Senior Vice President and Chief Financial Officer
+Walt Rosebrough -- President and Chief Executive Officer
+Matthew Mishan -- KeyBanc Capital Markets -- Analyst
+Chris Cooley -- Stephens Inc. -- Analyst
+Jason Rodgers -- Great Lakes Review -- Analyst
+Mitra Ramgopal -- Sidoti and Company -- Analyst
+Larry Keusch -- Raymond James -- Analyst
+Dave Turkaly -- JMP Securities --Analyst
+More STE analysis
+All earnings call transcripts

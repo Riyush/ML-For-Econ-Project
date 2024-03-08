@@ -1,0 +1,288 @@
+Image source: The Motley Fool.
+Delta Air Lines (DAL -0.71%)Q2 2020 Earnings CallJul 14, 2020, 10:00 a.m. ET
+Operator
+Good morning, everyone, and welcome to the Delta Air Lines June quarter financial results conference call. My name is Cecilia, and I will be your coordinator. [Operator instructions] As a reminder, today's call is being recorded. I would now like to turn the conference over to Jill Greer, vice president of investor relations.
+Please go ahead.
+Jill Greer -- Vice President, Investor Relations
+Thanks, Cecilia. Good morning, everyone, and thanks for joining us for our June quarter earnings call. Speaking today on the call will be our CEO, Ed Bastian; and our CFO, Paul Jacobson. We also have our president, Glen Hauenstein; and our entire leadership team here with us for the Q&A.
+[Operator instructions] Today's discussion contains forward-looking statements that represent our beliefs or expectations about future events. All forward-looking statements involve risks and uncertainties that could cause the actual results to differ materially from the forward-looking statements. Some of the factors that may cause such differences are described in Delta's SEC filings. We will also discuss non-GAAP financial measures.
+
+All results exclude special items, unless otherwise noted. You can find a reconciliation of our non-GAAP measures on the Investor Relations page at ir.delta.com. And with that, I'll turn it over to Ed. 
+Ed Bastian -- Chief Executive Officer
+Thanks, Jill. Good morning, everyone. Thank you for joining us today. We are now four months into the pandemic, and the nearly $4 billion pre-tax loss that we just posted reflects the severe impact that COVID-19 is having on our company and our industry.
+The June quarter was remarkable for a confluence of crises that have wrought our nation. In addition to the pandemic and its impact on public health and the economy, the issue of inequality and social injustice for Black Americans has been front and center. In this environment, our No. 1 focus is taking care of our people.
+This includes not only protecting the health and safety of our employees but also maintaining our commitment to supporting the fight for equality and social justice. We are committed to listening and understanding. We must be a stronger advocate for justice and equality across our business, from our operating procedures to the programs that we offer our people to support for policy change. Our people are the heart and soul of Delta, and I am incredibly proud of their perseverance and resiliency through these trying times and forever grateful for the sacrifices that they are making for our company.
+Since demand bottomed in mid-April at less than 5% of our normal traffic, we've seen a small but welcome uptick in passenger volume being driven almost entirely by domestic leisure travelers or those flying for essential reasons. And while it's encouraging to see customers start to return, the revenue environment remains challenging. We have thought from the start that the recovery will be choppy, and the past few weeks have shown that to be true. We're expecting our overall revenue for the September quarter will be only 20% to 25% of what we saw last summer, and we've seen demand growth flatten recently with the rise in COVID-19 cases.
+We are watching trends closely and have pared back our capacity plans for August. Business travel, which typically provides 50% of our revenue, has not yet returned in any meaningful way with corporate offices slow to reopen, quarantine restrictions in markets like New York and Chicago and states in the Sun Belt reversing or pausing reopening plans. We remain cautious on the pace of recovery through the balance of the year. In addition, there isn't a clear time line when international borders will open for U.S.
+travelers, so it's against that uncertain backdrop that we are taking the industry's most conservative approach to capacity. For the September quarter, we expect our seats available for sale, which accounts for 60% load factor cap, will be 20% to 25% of last year's level, up from 10% in the June quarter. Given how dynamic the current environment is, we are maintaining our flexibility, and we'll adjust our capacity plans, as needed, based on changes in demand. Since the crisis began, we have taken decisive actions to protect our people and our customers, increase our liquidity, and importantly, preserve our ability to respond in the future.
+Customer, employee safety remain our top priority, and restoring consumer confidence in travel is at the forefront of our recovery plan. We have taken extensive and proactive measures to implement a multilayer approach to protect customers and employees. Additionally, all of our aircraft are equipped with HEPA filters, generating high-quality, hospital-grade air quality on board. Restoring consumer confidence to travel on Delta is the driving force behind our Delta CareStandard, which includes requiring customers and employees to wear masks, enhancing clean protocols for aircraft, electrostatic spraying before every departure, blocking middle seats and capping load factors at 60% to provide more space on board.
+We're committed to blocking middle seats through September and expect to continue our policy beyond that date as well. We've also created a Delta Global Cleanliness organization and are collaborating with two of the world's best health organizations, the Mayo Clinic and Quest Diagnostics. The Mayo Clinic is helping to assess our safety protocols, consulting on how to improve safeguards as well as designing COVID-19 testing for our full workforce, both for the active virus and the presence of antibodies. The added layers of protection are having an impact.
+Since implementing these changes as of the first of May, the infection rate among our customer-facing employees, those who spend their days working on board our aircraft and in our airports, is well below the national average, providing another solid data point on the safety of air travel. In addition, our Net Promoter Scores have never been higher as customers recognize our health and safety efforts on board and on the ground. Our top financial priority has been to protect our liquidity. Paul and the team moved quickly and decisively to raise capital, ending the quarter with $15.7 billion in liquidity.
+Entering this crisis with a strong balance sheet allowed us to access nearly $15 billion in new capital on top of the $5.4 billion from the CARES Act without issuing equity. And while accessing capital is critical, the most important liquidity action we can take is reducing our cash burn. In June, our daily cash burn for the month averaged $27 million a day, a substantial improvement from the $100 million per day that we were experiencing in late March. The major force in that improvement is our cost performance, which has been remarkable as we will take out over 50% of our total operating expenses for both the June and September quarters.
+That's due, in large part, to the more than 40,000 Delta people who have volunteered to take short-term unpaid leaves, our crews who have seen their hours reduced as flying has been cut back and the sacrifices made by our hourly and merit ground employees whose work schedules have been similarly reduced by 25%. I want to thank all the Delta people who volunteered for an unpaid leave. They are making a real difference in helping us navigate this crisis. We also want to thank all our colleagues who have been serving our customers in the face of this pandemic.
+The spirit and teamwork of our people is inspirational and that Delta Difference has never shined brighter. With demand growth stalled at present, we expect July's daily cash burn to be similar to what we saw in June. As we go through the summer and into the fall, we'll continue to move quickly to balance what we're seeing in the revenue environment with our ability to get costs out of the business and keep us on the path to achieve our goal of breakeven cash burn by the end of the year. Given the combined effects of the pandemic and associated financial impact on the global economy, we continue to believe it could be two years or more before we see a sustainable recovery.
+So to succeed in this environment, we are building resilience across the company in creating a new, stronger Delta, albeit one that will need to be smaller for the next several years. That means accelerating strategies to streamline our company, simplify our fleet and reduce our fixed cost base in ways not possible in the past. We have made the decision to permanently retire more than 100 aircraft this year, including the entire MD-88, MD-90, 777 and 737-700 fleets. We have the most flexible fleet in the U.S.
+and are pulling forward these and additional fleet simplification initiatives which we believe will provide a lasting benefit to our cost structure. The difficult reality of resizing the airline is that we need a smaller workforce until we see demand return. We'll be wrapping up our voluntary departure and early retirement programs this month. And as of last night, we already had over 17,000 employees who voluntarily sign up to depart the company.
+We also have thousands more signed up for voluntary unpaid leaves of absence into the fall. We are hopeful that we can accomplish the vast majority of the headcount changes we need through these programs, minimizing, if not eliminating, the need for involuntary furloughs. This will require creativity and collaboration across all of our work groups, and I'm hopeful that we can get there. And as we navigate this difficult environment, we're also working closely with our airline partners around the world who are facing even more significant financial challenges.
+During the quarter, both LATAM and AeroMexico filed for bankruptcy here in the U.S. under Chapter 11, and Virgin Atlantic is working through an out-of-court recapitalization. While each of these is disappointing, none of our partners' home countries were prepared to provide governmental financial support similar to what the U.S. Treasury did with the CARES Act which necessitated their decisions to restructure.
+We have the utmost confidence in all of our partners and remain firmly committed to our partnerships which will be important when we rebuild a much more resilient international network in the recovery. In closing, we remain grounded in the strengths that are core to Delta's business: our people, our brand, our network and our operational reliability. These strengths and the shared values of the Delta family guide every decision we make, differentiating Delta with our customers and positioning us to succeed when demand returns. I want to thank everyone who's contributing to Delta's support and recovery efforts through the most challenging time in the storied company's history, our customers, partners, suppliers, owners, community leaders, government officials.
+Their support has been overwhelming. And a special thank you to the finest group of airline professionals ever assembled, our Delta people who are managing this difficult environment with grace and poise determined to return Delta to her position of leadership in our industry and in our world. And with that, I'll turn it over to Paul to go through our financials. Paul?
+Paul Jacobson -- Chief Financial Officer
+Thank you, Ed, and good morning, everybody. These June quarter results we reported this morning illustrate the truly staggering impact of this pandemic on our business. Revenues declined 91%, and we reported a $3.9 billion pre-tax loss, one of the largest in Delta's history. Results exclude several items directly related to the impact from COVID-19 and our response, including $2.5 billion in impairment charges from fleet-related decisions, $2.1 billion in writedowns related to equity partners and a $1.3 billion benefit from the CARES Act grant recognized during the quarter.
+During this quarter, our total operating expenses declined $5.5 billion or 53%. The June quarter cost performance was more than $400 million better than our original expectations, in part, due to the incredible contributions of more than 40,000 employees who have elected to take voluntary unpaid leaves. With substantially reduced flying, fuel expense was nearly $2 billion lower compared to the prior year quarter, and we generated over $250 million of savings from parking more than 700 aircraft. We were also able to reduce facilities expense by consolidating concourses and temporarily closing the Sky Clubs while eliminating nearly all discretionary spending.
+In the September quarter, we expect to achieve a similar 50% year-over-year reduction in operating expenses despite a sequential increase in capacity. This reflects the increased variability we've achieved in our cost structure and what we've been discussing since the COVID epidemic. As Ed said, our top financial priority remains to ensure that we have sufficient liquidity to weather whatever comes at us. To this end, we've taken decisive action to bolster our liquidity position, ending the quarter with $15.7 billion of liquidity.
+Daily cash burn also improved sequentially each month during the quarter to average $27 million in the month of June. This outperformed our initial expectation of $50 million cash burn per day during the two months of June — during the month of June, sorry. One-third of that improvement came from better cost performance with two-thirds from an improvement in net sales, which inflected positive in early June and remain there. It's worth nothing that approximately $10 million of our cash burn is attributable to our international business.
+So our domestic business is only burning $17 million a day, which is a testament to the efficiency of the reduced operation. As Ed mentioned, we are staying agile to balance what we're seeing in the revenue environment with our ability to get costs out of the business. This approach improves our cash burn trajectory, which helps us to preserve our balance sheet capacity for the future. The strength of our balance sheet has been evident during the pandemic as we have raised $15 billion in new liquidity at a blended average rate of 5.5%.
+When combined with funds received under the CARES Act Payroll Support Program, we ended the June quarter with this $15.7 billion of liquidity. Even with no improvement in our cash burn rate, this equates to 19 months of liquidity. This is more than sufficient to address our upcoming maturities. But if needed, we have the ability to continue to raise additional capital through either our own efforts by leveraging our unencumbered assets or electing to participate in the CARES Act secured loan program.
+In an effort to ensure compliance and flexibility throughout the recovery, we also amended all of our bank credit facilities to permanently replace the fixed charge coverage covenant with a $2 billion minimum liquidity covenant. So in spite of the significant amount of debt we have raised, our adjusted net debt has only increased by $3.4 billion since the start of the year to $13.9 billion. Reducing our daily cash burn is critical to keeping the net debt down, and that is why we remain uniquely focused on it. In closing, while we have a long road ahead of us, we've made tremendous progress in just the last four months.
+By raising cash early and aggressively managing costs, we are prepared to navigate what will be a volatile revenue period while making decisions to position Delta well for the eventual recovery. Our people have acted quickly and decisively to protect our customers and our company, and I'm so proud of what the people of Delta have accomplished with that grace, professionalism and determination that Ed mentioned. They are the reason I'm confident we will emerge from this crisis as a stronger, more resilient Delta as our customers return. And with that, I'll turn the call back over to Jill to begin the Q&A.
+Jill Greer -- Vice President, Investor Relations
+Thanks, Paul. Cecilia, we are ready for questions from the analysts, if you could give them instructions on how to get in the queue.
+Operator
+Thank you. [Operator instructions] And we'll go first to Hunter Keay of Wolfe Research.
+Hunter Keay -- Wolfe Research -- Analyst
+Hey. Good morning, everybody. Ed, you mentioned — you recently said you expect some amount of business travel. I think you said 20%, which are not to be unproductive in retrospect and suggesting, obviously, it's not going to return.
+So what are some of the specific characteristics of the business travelers that do come back that might be different from the ones who don't? Like, for example, maybe they fly more per year but to fewer cities or these are the people that use lounges more often, things like that. So what do these people look like? And how do you win them or keep them?
+Ed Bastian -- Chief Executive Officer
+Well, first of all, Hunter, I think, fundamentally, business travel is going to come back, and it's going to come back at scale. I'm not one that thinks that we are in a permanently depressed level of business travel for the foreseeable future. I do think there's a lot of inefficiency, which we can all appreciate in business travel. The number of trips that the average road warrior takes, I'm sure, is going to come down in certain cases.
+The international trips that we've all been on where we've flown over to Europe for a 2-hour meeting and flown back that does nothing but beat you up, and you certainly be much easily better accommodated over a video call, but it's going to be trips that are focused on relationship building, interacting, whether it's with your customers, conventions, new contacts, reviewing performance on a global scale, those are going to stay. I just don't see a — there's a substitute for that over time. It will take some time to get back. I don't think we'll ever get back entirely to where we were in 2019 on the volume of business traffic, but the resiliency of the business traffic that we are going to now bake into our business model going forward, I think, will be a better way to measure the sustainability of the recovery.
+Hunter Keay -- Wolfe Research -- Analyst
+And then another one for you, Ed. When was the last time you talked to Steve Squeri? And what is your single biggest shared commercial concern right now? And what is it that he tells you is most important to preserve the relationship and the economics that your company share?
+Ed Bastian -- Chief Executive Officer
+I talk to Steve all the time. He's not just a great business partner, he's a great friend, and we share our thoughts and strategies together. We are their biggest and most important business partner, and American Express is ours in turn. And we're navigating this crisis together in a way that you would expect.
+I mean they've seen some meaningful recovery over the course of the quarter in volumes on the card, which is certainly one of our bright spots in a dark quarter, the revenue recovery we're seeing on spend. But they provide a great lens into customer behaviors and the types of things that are going to be very important for Delta to maintain the position we have with the company. So I continue, as Steve does, to be optimistic of the future. We're both realistic.
+We realize the T&E spend is not going to be at the levels we saw in the prior years, but we're going to both do our very best to build a better future for our respective stakeholders.
+Operator
+And our next question comes from Jamie Baker of JP Morgan.
+Jamie Baker -- J.P. Morgan -- Analyst
+Hey. Good morning, everybody. Paul, a question on labor. So as I see it, there are sort of four moving parts here.
+We've got the voluntary unpaid leaves, which have already dropped off the P&L for now, but some level phase back end in the future. We've got the early retirement, which will completely drop out. We've got what might happen or might happen after October 1. And then I assume in the event of furloughs, you have some severance expenses.
+So what I'm trying to reconcile with these various flows is whether the net is that they temporarily give you labor cost relief in the fourth quarter, and that's what gets you to cash breakeven, but then labor costs potentially rise after that. I guess another way of asking is in what quarter do you think your labor expense line will truly be reflective of the cost structure going forward?
+Paul Jacobson -- Chief Financial Officer
+Jamie, there's a lot in that question. I think we're still really assessing the overlap right now between the early retirement and the voluntary leave program, so there's a sense of duplication there. But what it does do, at an absolute minimum, is it puts a permanence around what were short-term leaves and volatility. So we expect that, in addition to the leaves that Ed mentioned, I'm sorry, the separations that Ed mentioned voluntarily, we also have leaves that will continue on top of that.
+So we're going to continue to assess and see where we stand on the salaries and related line. There's no doubt that that's been a big driver of how we've gotten our cash burn down in quick action. And as we continue to shape the airline for how we think it's going to be sized next summer and into the future, we've got to be able to manage all of that agility and flexibility, and the voluntary leaves are going to be — continue to be an important piece of that puzzle going forward. So as we think about salaries and related, we should get to that kind of trend line, I would think, in that fourth quarter, first quarter.
+But then we'll see as demand shapes back, customers are ultimately going to determine how big the airline is.
+Ed Bastian -- Chief Executive Officer
+Jamie, if I could add a couple of thoughts. For the second quarter and the third quarter, we are reducing our total operating expenses by a bit over 50%, which is enormous. And that will continue to be our goal as we progress through the fourth quarter as well. And while the composition of the savings will be more sustainable given the size of the early outset, we have 20% of the company will be exiting.
+And as you can appreciate, it's the senior-most 20% of the company as well, which is going to give us an added benefit on top. There's a lot of creativity and collaboration with our work groups about reducing. We're trying to protect jobs and every one pitching in to work fewer hours but to save more jobs. And that's across the company, there's a real spirit of doing that.
+So whether it gets to the fourth quarter, first quarter at some point, the labor savings here are sustainable. But to answer your question more specifically, it's really going to be on the commercial side of the business that's going to be much more important to getting us down to that breakeven level as demand hopefully starts to — growth picks up once again as we look into the late summer and fall. And that will be the more important contributor to getting to a breakeven cash flow position.
+Jamie Baker -- J.P. Morgan -- Analyst
+OK. That's very helpful. Second multipart question. How do we think of loyalty in the remaining unencumbered asset pool? Does Delta have the flexibility to do what United did with loyalty in terms of sort of a quasi securitization of both third-party sales and the intercompany cash flows? Or did you pledge SkyMiles as part of the loan?
+Paul Jacobson -- Chief Financial Officer
+So Jamie, we're an infinitely competitive business, but hats off to United for that execution. I thought they did a very good job with that, and it's one that I think is available to a multitude of carriers. That is not included in the most recent guidance that we've given of $6 billion to $7 billion of unencumbered assets. And we're looking at all of our options, and we'll continue to keep them open.
+We have advanced the ball with the government by signing the term sheet, which they announced a couple of weeks ago, and we continue to move along that process. But we have not decided to take a government loan, and we're assessing, really, all of our options as well as the environment that we're in.
+Jamie Baker -- J.P. Morgan -- Analyst
+Thanks for indulging my questions.
+Operator
+We'll go next to Duane Pfennigwerth of Evercore ISI.
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+Hey. Thanks. Totally agree with the perspective that Delta has been careful with capacity and how you brought it back. Just from an industry perspective, it looked like the industry has guessed wrong on July at least so far.
+So schedules indicate your capacity is up about 90%, 9-0, from June to July, yet demand has stalled. So I'm just curious how cash burn can be similar in July versus June. Was it just that we had a good July 4 on the books before demand rolled over? Or is there something going on with debt payments and capex?
+Paul Jacobson -- Chief Financial Officer
+Well I'll start with that, Duane. The trajectory that we've been on and what we articulated through June was that we had seen steadily increasing net sales that was coming, really, from both variable sales were going up and trending higher, while at the same time, refunds have been trending down, which put us from a — I think at the beginning, we said $20 million to $30 million a day we were burning in March to turning positive and staying there in June. So while we've seen that sales growth level off in the wake of the latest rise in infections, it has remained relatively stable in that area. So as we see the continued trajectory of reducing our operating expenses 50% and keeping those net sales numbers relatively flat, that's where July comes out flat to June.
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+OK. Thanks. And maybe I'll stick with you. Just high level, how is your budget for aircraft rent change for this year as we think about the net impact of sale-leaseback activity versus aircraft retirements? The only reason I bring it up is it looked like the op lease liabilities didn't really change much sequentially, so maybe you can help us understand what's going on under the covers.
+Paul Jacobson -- Chief Financial Officer
+Yes. I think, Duane, we'll take that off-line, and it will be more apparent when the Q comes out later today of just the breakdown between financing leases and operating leases under all the new accounting guidelines. So it's all there, but it has a little bit of a different geography to it, depending on the transactions.
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+OK. I'll keep it there. Thank you.
+Operator
+We'll go next to Helane Becker of Cowen.
+Helane Becker -- Cowen and Company -- Analyst
+Thank you very much, operator I appreciate the time. Hi. So I have two questions. One is your comments on international and the 777s that are leaving the fleet and some of the 767s.
+It seemed like you might have to do more pruning there. So have you like retired enough aircraft, do you think? Or do we expect to see more during the rest of the year?
+Ed Bastian -- Chief Executive Officer
+Helane, it's Ed. International is going to lag domestic. I think we have some time to watch how it recovers. The 777 fleet for us was the sub fleet that made the most sense to sit down.
+We certainly have additional international capable aircraft. We have a very large 767 fleet with opportunities to early retire as we get a better sense for where the recovery is. But some of those decisions, we have a little bit of time to take yet. As I indicated in my remarks, there's more to be done.
+And we're not investing any money in that fleet, and we can see how international recovery is shaped before we make those final decisions.
+Helane Becker -- Cowen and Company -- Analyst
+OK. That's very helpful. And then my follow-up question, really, has to do with changes in booking patterns because of increased refunds or because of more flexibility to people who book and then maybe cancel. So could you just address people booking and then actually showing up for the flight, especially in July? Or are you seeing people booking and then canceling at the last instant?
+Glen Hauenstein -- President
+Helane, it's Glen. How are you doing? We've seen the no-show rate. Good, I hope your summer is going well. We see no-show rates grow from about 3% historically to about high single digits.
+So most people at day of departure who have reservations are showing up for the flight, but the higher no-show rates also makes a little bit harder to revenue manage with the caps. So we've been managing through that, and we hope we can get better and better at that as we move through the fall. But clearly, giving people more flexibility is where we need to be as there's so much uncertainty in the virus right now.
+Helane Becker -- Cowen and Company -- Analyst
+Gotcha. Thanks very much.
+Operator
+We'll go next to Joe Caiado of Credit Suisse.
+Jose Caiado -- Credit Suisse -- Analyst
+Hey. Thanks. Good morning. My first question relates to your fleet and actually your order book.
+Any update on your discussions with Airbus regarding your order book there? And can you describe for us maybe what it is that you're hoping to achieve there? Do you just want to sort of adjust the time line for deliveries? Are you looking to restructure sort of the composition of the aircraft in the order book? Just any details there. Thanks.
+Ed Bastian -- Chief Executive Officer
+We are working with Airbus, as you can appreciate, and they've been very good partners with us, managing the crisis. Clearly, we're in a situation where we don't need any aircraft. We have a lot of aircraft on the ground and doing our best to manage through the next 18 to 24 months to minimize deliveries. We're not ready to make any announcements yet.
+I can assure you there will be no cash capex on any aircraft at Delta for some period of time, certainly through the end of this year. And Airbus has been a very good partner.
+Jose Caiado -- Credit Suisse -- Analyst
+Got it. That's very clear on the capex. But I was curious, just especially as it relates to your comments on the expected time lines for recovery of domestic versus international, if you'd also be looking to adjust the actual composition of the aircraft that are in your order book as opposed to just actually delaying or revising the time line for the deliveries? And if I could just throw up my second actual follow-up, which is just a quick clarification for Paul. On the stalled demand recovery, did you say that July net bookings are flat with June, so they are positive month to date? Can you just describe in a little bit more detail the evolution in those net bookings trends over the last two weeks?
+Ed Bastian -- Chief Executive Officer
+You want to start? No. That's OK, Joe. On your question with Airbus again, we're not providing any specifics at this point. You can rest assured everything that we're doing is pushing a lot of the deliveries to the right.
+And when we're ready to — we haven't reached a final plan with Airbus. When we do reach that plan, we'll be sure to let you know.
+Paul Jacobson -- Chief Financial Officer
+And Joe, on the cash burn, so we had seen a pretty steady progression upwards of sales and a slight decline in refunds really kind of from May to early mid-June, and that's when we started to see it stabilized. So the data that we've seen so far in July is pretty consistent with what we saw at the end of June, which is really reflective of what we've seen in this latest wave of infections throughout the country. And that's why we've got the confidence that it's somewhat stabilized here at these levels. And hopefully, if things start to improve, we can see improvements off of those levels as we get later into the quarter.
+Jose Caiado -- Credit Suisse -- Analyst
+Thank you very much.
+Operator
+We'll go next to Mike Linenberg of Deutsche Bank.
+Mike Linenberg -- Deutsche Bank -- Analyst
+Hey. Thanks. Good morning, everyone. Paul, just back to how you're thinking about the ATL as we progress through the quarter.
+I mean normally, under a normal year, the seasonal impact is that as we get to the latter part of the quarter, we tend to see it become a drag on cash. And I realize that this is not a normal year. So I mean are you sort of expecting that as we get into the latter part of the quarter that we will see it become a drag on the ATL? Or sort of where is your thinking around that right now?
+Paul Jacobson -- Chief Financial Officer
+Hi. Good morning, Mike. That's a bit of a doozy of a question because I think the one thing we all know is that the historical air traffic liability models are broken right now. It's not behaving in any way that a normalized seasonality pattern would have.
+As evidence, we've actually refunded now over $2 billion of that ATL since the beginning of the year, which the bulk of that has been done in the post-COVID, post March 1 time frame. So we actually think that a lot of that refund activity, particularly in the transatlantic and international destinations which were already booked pre-COVID, heading into the summer, we refunded a lot of that activity. And it's a little bit of a — it's a big contributor to the international cash burn that I gave that composition in my prepared remarks. So we can actually see things stabilizing, and we would expect that refunds will continue to trend down in the status quo.
+Obviously, it's going to be choppy, but any new sales data that come in, any new demand should be accretive to the ATL in a way that, seasonally, you wouldn't necessarily expect. So we're prepared for that. I think the one given is that there's a lot of uncertainty here, which is why we've gone the route of really looking to raise as much liquidity as we can.
+Mike Linenberg -- Deutsche Bank -- Analyst
+OK. That's very helpful. And then just maybe this is an easier one. You talked earlier about upcoming maturities, and I'll throw capex in there as well.
+As we look to the second part of the year, what is capex? I'm sure it's probably close to 0 now based on everything that you've cut back or deferred. And you did allude or mention upcoming maturities. What are the big maturities for the second half of 2020? Thanks for taking my questions.
+Paul Jacobson -- Chief Financial Officer
+Yes. Sure. So we didn't give any formal capex guidance because it's really the same as we gave immediately after the COVID epidemic, which is we've essentially eliminated all capex. There's some technology spend on projects that are already in process and some small purchases here and there, but it's not material to the overall story.
+As far as debt maturities go, the biggest one we have is a $450 million maturity in December. When you combine that with a $600 million unsecured in April of '21, that's the unsecured deal that we just took out. So we've already successfully refinanced that. And then we have the $3 billion bridge loan that is due in March that has collateral attached to it that we haven't decided exactly what to do with that.
+As part of the amendment to the credit facilities, we also extended by one year a $1.3 billion maturity in April of our revolver. So that's pushed out to 2022. So we've actually gotten a very, very good handle on all of the maturities, really, for the next 18 months.
+Operator
+And we'll go next to Savi Syth of Raymond James.
+Savi Syth -- Raymond James -- Analyst
+Hey. Good morning. Just a couple of follow-up questions. On the cash burn, if we don't get much of an improvement on the commercial side, what do you think you can kind of get the cash burn by the fourth quarter with some of the incremental things that are happening on the cost side?
+Paul Jacobson -- Chief Financial Officer
+Good morning, Savi. I think as we mentioned in our comments, we're kind of on this trajectory right now as things have stabilized, and we're continuing to assess what the second half looks like. So as we continue to monitor capacity and demand, that will affect what we do on the cost input side as well. I think we're really counting on some continued improvement in demand, however gradual and however choppy that might be.
+We're 90 days into this, and we already know a lot more about the virus. And that's giving a little bit more confidence in the longer and intermediate-term demand profile, but we've got to continue to be agile. So I think we'll kind of be in this mid-20s level as we continue to assess. And if we need to take further actions, we will.
+Ed Bastian -- Chief Executive Officer
+Savi, this is Ed. I don't want anyone to get a sense that we've got a gloomy forecast on revenue or demand growth, not at all. This is expected. We said at the start of this pandemic that this is going to be choppy.
+It's going to be unpredictable. It's going to be driven by factors outside of our control. It's really advances on the medical front in containing the virus. It's advances by the general public about wearing masks and doing their very best to be cautious in restoring confidence in air travel.
+I'm optimistic as we get through the late summer and the fall, we're going to see some real improvements here. We need to see improvements. And I think the sensitivity and the caution you hear in our voice for the current month is the fact that we're in the South, and we're obviously under — going back into more of a closed setting in our local economy than opening. But at the same time, that's for the goal of reopening later this summer and fall to a bit of a better standpoint.
+So I do think you're going to see continued improvement in cash burn. Cost on the margin could improve. But when you got more than 50% of your cost out, it's hard to see much more coming out. I think it's going to be the same type of momentum that we saw in June hopefully reemerging in the latter part of the summer and early fall that's going to make another material dent in bringing us down to that flat breakeven level.
+Savi Syth -- Raymond James -- Analyst
+That makes sense and helpful. And my other follow-up question is just on the business travel commentary, it looks like a lot of probably business travel might not happen until 2021. But just based on your surveys and things like that, is there any level of expectation of what we might see in the fourth quarter here? And kind of tied to that, I mean, does kind of the blocked middle seats have — get removed when demand is stronger or when the virus is a little bit more contained? Or what drives those decisions?
+Ed Bastian -- Chief Executive Officer
+We're talking to our corporates all the time, as you can appreciate, and doing a lot of work with them to get them more confident. They are starting to come back. They're in small numbers, but they're starting. And what we've been doing is taking them out with us on tours and seeing the airport.
+It's interesting for travelers that have spent their life as road warriors, the first time back in this environment, it feels very different. And they need to refamiliarize themselves with what it's like and the benefits of your travel. And I'd say the most significant observation that they give us is that it is actually not only safe, it's significantly better than what their view of air travel was pre pandemic. So there's confidence that's returning.
+I think you're going to see it improve as businesses start to reopen. I'd say, post Labor Day, businesses start to open up. As international operations start to slowly open up, you'll see that will be another driver for business travel. But business travel is going to clearly be a 12- to 18-month lag, awaiting for advances on the medical front, vaccines, therapeutics, reasons to think that it's safe, that companies can safely put their employees back out in the road.
+The other thing, and I've mentioned this in one of the interviews I did this morning, is that while the corporations may not be traveling, we know the individuals are traveling. And we see it in the SkyMiles data and our frequent flyer information. So people are learning about the new way of travel, and they're telling us it's actually better than it was previous.
+Savi Syth -- Raymond James -- Analyst
+And does the blocked middle seat, is that kind of tied to COVID? Is that kind of tied to demand levels?
+Ed Bastian -- Chief Executive Officer
+I'm sorry. I didn't hear that, Savi. Sorry.
+Savi Syth -- Raymond James -- Analyst
+Sorry. On the kind of — you mentioned that the middle seating blocked probably continues beyond September. Just wondering what drives that decision.
+Ed Bastian -- Chief Executive Officer
+Well, that's going to be consumer confidence. We're going to hear from customers as to their comfort in travel. We've got a lot of flights that we have to add back yet and opportunities to add flights back before we have to worry about filling up the middle seats. And we'll get there over the course of the end of the year, into early next year.
+But right now, I don't see a push to do that. Customers aren't pushing us to do it, and we've got — I'd rather add more flights back and more seats into the market in a safe way than trying to maximize the number of people you can put on an individual airplane. And I think that would be inconsistent with the brand that Delta represents.
+Savi Syth -- Raymond James -- Analyst
+Makes sense. All right. Thank you.
+Operator
+We'll go next to Brandon Oglenski of Barclays.
+Brandon Oglenski -- Barclays -- Analyst
+Good morning, everyone. So I guess, Ed, following up on that line of question. If business demand is going to lag here and you have some competitors out there that are going to come out of this without a lot of incremental debt, what's going to be a competitive landscape? And how do you reposition the network to be more leisure-focused, maybe lower cost? And does that impact the car strategy of really focusing on the branded products and everything on board?
+Ed Bastian -- Chief Executive Officer
+Brandon, this is Ed. I'm not sure who you're referring to. Our incremental net debt is $3.5 billion at this point, so I wouldn't suggest that we have added a tremendous amount of increased debt burden on the company. Obviously, it's a large amount of money that we raised, but we also have a significant amount of cash that we can use to hopefully retire that once we get through the other side.
+We're not changing our long-term goal for this company, this brand. We are a business-oriented airline. We are a premium-oriented airline, and there's nothing that I see from what we've been through the last four months that suggests customers aren't going to value premium value, the quality of the experience, the health of the experience. But we're going to be more resilient because there's a portion of that travel that will go away, and we'll size our business accordingly.
+So I don't see anything that gives me pause. Of course, there's going to be a lot of dislocation, disruption. It always happens in this industry during times of crisis, but I think we're pretty well positioned to come out this in a relatively stronger, competitive position than we were pre pandemic.
+Brandon Oglenski -- Barclays -- Analyst
+Well, I appreciate that response. And I know that, looking forward is anyone's guess here. But can you give us any clarity on what — and I think maybe, Paul, you alluded to it. But what level of demand you're expecting to get to cash breakeven by the end of the year? And then maybe even more importantly, where you're seeing the sizing of the network for 2021 as you're making the difficult decisions?
+Ed Bastian -- Chief Executive Officer
+So at a really high level, Brandon, if you look at our cash burn in June as well as in July in that $27 million a day number, virtually all of that needs to come through improvement in net cash sales. It's going to come in two ways. So one, the refund activity will continue to wind down. That will be a contributor in that.
+That's probably in the plus or minus $5 million a day improvement by the time we get to the end of the year, which leaves about $20 million of cash sales improvement. And that's — if you think of a company our size is about a 20% improvement in our overall business volume that will get us there. So we'll probably need to see that $25 million come from the commercial side of the business, but that's the road map to get to breakeven.
+Jill Greer -- Vice President, Investor Relations
+Cecilia, we're going to have time for one more question from the analysts.
+Operator
+That question will come from Joseph DeNardi of Stifel.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Thanks. Good morning. Ed, I think over the last few years, you and your larger peers have been of the view that the DOJ had kind of put a red light on additional consolidation. I'm wondering if you think that has changed or that it needs the change and whether the calculus around how much liquidity you think you need takes into account that maybe consolidation is eventually a part of the strategy?
+Ed Bastian -- Chief Executive Officer
+Joe, we can't speculate on that. Not to be turd, but that would be a really inappropriate response I'd have to give on that.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+OK. Fair enough. Paul, can you give us where you guys are year-to-date on mileage sales, cash proceeds? I think you did about $4.2 billion last year. Where are you guys year to date?
+Paul Jacobson -- Chief Financial Officer
+Yes. We've seen, Joe, about a 50% reduction in the last quarter. I think if you look at some of American Express's commentary, it's in line to even slightly better than some of the cards in their portfolio, which I think is encouraging. That means that people remain attached to the brand, and they see value in the miles program.
+So we're going to continue to see that, but it obviously has been far more resilient than the demand for tickets and for travel itself, which is what we expected.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Thank you.
+Jill Greer -- Vice President, Investor Relations
+And that's going to wrap the analyst portion of the call. I will turn it over to Tim Mapes, our chief marketing and communications officer, for the media portion.
+Tim Mapes -- Chief Marketing and Communications Officer
+Good morning, everybody. We have about 10 minutes of questions for members of the media. [Operator instructions]
+Operator
+[Operator instructions] And we'll go first to Robert Silk of Travel Weekly.
+Robert Silk -- Travel Weekly -- Senior Editor for Aviation
+Yes. In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, the Virgin group And Delta, as well as some new investors. So I was wondering if there's any color or detail in the matter in which Delta is supporting this effort.
+Ed Bastian -- Chief Executive Officer
+Not other than what's already been disclosed, which is that we are contributing through deferral of brand fees as well as certain other joint venture fees that we would typically earn. We were excited to see the recapitalization come about. It's been an extraordinarily difficult few months pulling that together, and all stakeholders have made some meaningful contributions to enable Virgin to fly again, and we're excited about that.
+Operator
+We'll go next to Mary Schlangenstein of Bloomberg News.
+Mary Schlangenstein -- Bloomberg News -- Journalist
+Hi. Thank you. Good morning. I wanted to see if you could break down for us how much of your second quarter revenue and possibly revenue going forward is from newly purchased tickets versus how much is from rescheduled flying?
+Ed Bastian -- Chief Executive Officer
+Sure. We have about two-thirds of the revenue coming in from newly purchased tickets and about one-third coming in from reissues and credits from postponed journeys. So getting a significant number of new journeys coming in, which is a good sign.
+Mary Schlangenstein -- Bloomberg News -- Journalist
+And did the — I assume that the new ticket purchasing fell in this recent sort of slump as well as the rescheduled. Is that right?
+Ed Bastian -- Chief Executive Officer
+If I could recharacterize it from a slump to really a much slower growth rate is that we have — the industry had an awful lot of capacity going from June into July. And so what we've seen is a — in June, we were growing at about 20% every week, week over week. I think maybe in some ways, that capacity is going to take a little bit longer to get absorbed because the growth rates have — if you take Fourth of July out, they're coming in between 5% and 10% now. So the growth is at a much lower rate.
+As we look forward, it has slowed, but it hasn't stalled. I mean it's very flattish, just up slightly, but it's not a slump.
+Mary Schlangenstein -- Bloomberg News -- Journalist
+Thank you.
+Operator
+We'll go next to Dawn Gilbertson of USA Today.
+Dawn Gilbertson -- USA Today-Consumer Travel Reporter
+Hi. Good morning. Ed, I think you mentioned employee coronavirus infections being down because of all the measures you've put in place. Can we talk about passenger infections? We had the case, the recent case with Endeavor on the flights from Atlanta to Albany.
+How many instances is Delta seeing, hearing back from passengers after a flight about coronavirus infections? And can someone put that into perspective for me? Thank you.
+Ed Bastian -- Chief Executive Officer
+Dawn, it's really minimal. The flight last week was an Endeavor flight, as you mentioned, and that was after the fact that those three customers found out. So there's no question that in the general population, there's a virus. And when we do find out, we go back and contact trace with anyone that would have been in the immediate vicinity of a customer.
+But I can tell you, those instances are really, really small, and certainly, no instances that we've been aware of where there's been any transmission on board our planes.
+Operator
+We'll go next to Tracy Rucinski of Reuters.
+Tracy Rucinski -- Reuters -- U.S. Aviation Correspondent
+Good morning. I wanted to ask about the outlook for the Trainer refinery. Do you have any plans to divest it or stop operations?
+Paul Jacobson -- Chief Financial Officer
+Good morning, Tracy. This is Paul. So the Trainer refinery in the quarter, we had about $100 million loss in the quarter, which was almost entirely focused in the month of April. So the refinery is continuing to produce economics at breakeven levels on the current trends.
+And as with everything in the business, we're looking at everything, but our plans have not changed with respect to the refinery right now.
+Operator
+And our next question comes from Claire Bushey of Financial Times.
+Claire Bushey -- Financial Times -- Reporter
+Hi. I wanted to ask whether the federal government needs to pass a law requiring masks on airplanes? Or do your flight crews have enough leverage with passengers since they can be banned from flying with the airline?
+Ed Bastian -- Chief Executive Officer
+Claire, this is Ed. I don't know that needs to pass a law, but I certainly see the opportunity to reinforce the work that the airlines are doing to ensure that customers wear their masks, both in the airports as well as on board our planes, is helpful. The airlines are, I think, are doing a very good job of reinforcing that, as well as, candidly, customers on board planes. If someone's not wearing a mask, they quickly get pointed out, and discussion with our flight attendants occur quickly.
+So it's really important that we, as a nation, comply with the mask policy. For an industry that's got a lot of regulation, I don't know that we need another regulation around mask wearing, but it'd be helpful but stronger that our federal government can reinforce the need to wear mask, the better, not just on air travel, but in life in general.
+Operator
+We'll go next to Leslie Josephs of CNBC.
+Leslie Josephs -- CNBC -- Airline Reporter
+Do you have any idea of how many pilots need to be retrained on different aircraft given the retirements and then also potential furloughs and just kind of rejiggering of what they're going to be flying and what the cost might be of that?
+Ed Bastian -- Chief Executive Officer
+Leslie, it's really premature. The pilot retirement plan still has almost a week yet to run, so we'll be in a better position to assess that over the next month. And we're continuing to work with ALPA to identify ways to mitigate the need to displace pilots and furlough.
+Leslie Josephs -- CNBC -- Airline Reporter
+Thank you.
+Operator
+Your final question comes from David Slotnick of Business Insider.
+Leslie Josephs -- CNBC -- Airline Reporter
+How are you? I'm wondering about blocking the middle seat. Have you gotten a sense from passengers or from surveys or anything that people are willing to pay a higher fare to fly a less full airplane?
+Ed Bastian -- Chief Executive Officer
+We have received a lot of customer feedback. And in fact, I would say, when we survey customers today about the reasons you're purchasing a ticket on Delta, the space on board the plane, the blocked middle seats has gone to the No. 1 reason why customers are choosing Delta. They really — they see it consistent with our brand.
+Everyone appreciates it's not going to last forever. But in the face of a health crisis, that space on board really matters, and customers are telling that. And we're seeing it in our Net Promoter Scores, which have gone up considerably on a year-over-year basis, up 20 points in the month of June over last June, which last June was already a good number. And we hear it from our corporates.
+We hear it anecdotally from many of our travelers.
+Leslie Josephs -- CNBC -- Airline Reporter
+And are you looking at charging more of a premium or raising your fares or anything? Or is this more like a brand and marketing investment for later once things stabilize?
+Ed Bastian -- Chief Executive Officer
+It's not a brand or marketing investment. And no, we're not raising our fares to block the middle seat. This is, to us, a really important safety feature, and it's a health crisis that we're in, in our country. By being the most disciplined in terms of the amount of supply and capacity that we're offering, that's benefiting our pricing and yield, of course, and that's helping us have a better price on board the overall cabin.
+So indirectly, that is coming through in price. But that's not the objective. The objective here is to make certain that we're restoring consumer confidence in air travel and being true to our brand promises.
+Tim Mapes -- Chief Marketing and Communications Officer
+That will complete the June quarter earnings call. Thank you to everyone for your time and your questions today. Have a great day.
+Operator
+[Operator signoff]
+Duration: 60 minutes
+Jill Greer -- Vice President, Investor Relations
+Ed Bastian -- Chief Executive Officer
+Paul Jacobson -- Chief Financial Officer
+Hunter Keay -- Wolfe Research -- Analyst
+Jamie Baker -- J.P. Morgan -- Analyst
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+Helane Becker -- Cowen and Company -- Analyst
+Glen Hauenstein -- President
+Jose Caiado -- Credit Suisse -- Analyst
+Mike Linenberg -- Deutsche Bank -- Analyst
+Savi Syth -- Raymond James -- Analyst
+Brandon Oglenski -- Barclays -- Analyst
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Tim Mapes -- Chief Marketing and Communications Officer
+Robert Silk -- Travel Weekly -- Senior Editor for Aviation
+Mary Schlangenstein -- Bloomberg News -- Journalist
+Dawn Gilbertson -- USA Today-Consumer Travel Reporter
+Tracy Rucinski -- Reuters -- U.S. Aviation Correspondent
+Claire Bushey -- Financial Times -- Reporter
+Leslie Josephs -- CNBC -- Airline Reporter
+More DAL analysis
+All earnings call transcripts

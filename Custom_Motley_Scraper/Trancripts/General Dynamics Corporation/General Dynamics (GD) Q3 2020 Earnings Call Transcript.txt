@@ -1,0 +1,268 @@
+Image source: The Motley Fool.
+General Dynamics (GD 0.65%)Q3 2020 Earnings CallOct 28, 2020, 9:00 a.m. ET
+Operator
+Good morning and welcome to the General Dynamics third-quarter 2020 earnings conference call. [Operator instructions] I would now like to turn the conference over to Howard Rubel, vice president of investor relations. Please go ahead, sir.
+Howard Rubel -- Vice President of Investor Relations
+Thank you Rocco, and good morning everyone. Welcome to the General Dynamics third-quarter 2020 conference call. Any forward-looking statements made today represent our estimates regarding the company's outlook. These estimates are subject to some risks and uncertainties.
+Additional information regarding these factors is contained in the company's 10-K, 10-Q and 8-K filings. With that complete, it's my pleasure to turn the call over to our chairman and chief executive officer, Phebe Novakovic.
+
+
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Thanks Howard, and good morning. Before I address the company's quite good performance in the quarter, let me briefly update you on COVID-19's continuing impact. As we discussed last quarter, we are working hard to protect our people. We adhere to CDC guidelines, encourage social distancing and have a mandatory mask policy.
+We continue to have lower infection rates in our surrounding communities. To date, of our 100,000 employees, we've had about 1,800 cases, 1,500 of whom have fully recovered and are back to work, while many of the others are working from home during their quarantine. In short, the pandemic remains an issue, but we have dealt with the health of our workforce in an effective way and continue to do so. As we turn to our results in the quarter, I'll spend less time on quarter over year ago quarter and year-to-date comparisons that are well stated in Exhibits A and B of the press release, and instead focus my remarks on operations, the significant sequential improvements and meaningful developments in the quarter.
+Regarding the company's third-quarter performance. As you can discern from our press release, we reported earnings of $2.90 per diluted share on revenue of $9,430,000,000, operating earnings of $1.08 billion and net income of $834 million, all very significant improvements over the second quarter. As one would expect, revenue was down $330 million or 3.4% against the third quarter last year. Operating earnings were down $132 million or 10.9%, and net earnings were down $79 million.
+For the defense businesses alone, the year-to-date revenue is up $98 million, and operating earnings are down only $51 million. All up, the defense business has been seriously impacted but is holding up and recovering well as you will see in the details. As you all are aware, most of the revenue and earnings shortfall this year to date has occurred in our aerospace segment which saw significant write-offs last quarter associated with reductions in force at both Gulfstream and Jet Aviation. However, there is mostly good news for both companies this quarter which I'll get into shortly.
+But before I get into the details at the operating level, particularly at aerospace and GDIT, where we experienced significant improvement, I want to spend a moment on the resilience and strength of the company's backlog. Total backlog of $81.5 billion is down $1.1 billion against the end of last quarter. Funded backlog at $60.2 billion is down only $950 million. However, total estimated contract value of $132 billion is down only $336 million against the end of the last quarter.
+While these numbers are down slightly, they represent a solid and enduring backlog. We have a good news story at aerospace this quarter across the board. aerospace had revenue of $1.98 billion and operating earnings of $283 million with a 14.3% operating margin. On a sequential basis, this is an operating earnings improvement of $124 million driven by a 620 basis point improvement in operating margins.
+Last quarter in my remarks, I told you that we fully expected to be back on track at Jet and Gulfstream in the third and fourth quarters, receiving the benefit of the cost reductions made and paid for in the second quarter. That certainly turned out to be correct in the third quarter. Gulfstream led the way with 32 deliveries, 25 large and seven midsized. The largest number of deliveries within that mix was the G650 model.
+From an order perspective, sales activity in the quarter was a quantum leap better than the second quarter. While we saw pipeline activity improve week-by-week during the quarter, demand is still dampened by fears concerning the economy, by an unsettled political climate and by a wide variety of travel restrictions. Nevertheless, we had a 0.9 to 1 book-to-bill once again led by orders for the G650. The G500 and G600 program is progressing quite nicely.
+As of October 13, we had 78 customer deliveries in the program and anticipate another 14 for the rest of the quarter. So by year-end, we should have over 90 aircraft in this family in customers' hands. The G700 development continues to proceed at pace with the first three flight test airplanes accumulating 750 hours at the end of the quarter, reaching a speed of Mach 0.99 and climbing to an altitude of 54,000 feet. First flight for aircraft No.
+4 was the week of October 5 and No. 5 flew last week. I am frequently asked about production and deliveries for next year. While I just like giving piecemeal guidance when our plan for next year is not final, it is fair to say that we contemplate fewer deliveries.
+As you know, the G550 will go out of production next year, so there will be 13 fewer G550 deliveries. Pre-pandemic, we had planned to make up that shortfall by delivering more of the other large cabin aircraft. It now appears that the marketplace will not support such an increase. So the other three large cabin aircraft will not experience much of a change in production rate or delivery.
+There will also be a modest reduction in midsized aircraft. However, we will have the opportunity to revisit this in April of 2021 to see if market demand at that point justifies turning up production. We will give you greater specificity on all of this on the fourth-quarter call after our planning is complete. Finally, we had previously forecast full-year deliveries for 2020 of 125 to 130.
+It now appears that we will be right around 130. Turning to combat systems. They had revenue of $1.8 billion, up 3.5% over the year ago quarter. Operating earnings of $270 million were up $6 million or 2.3% over the year ago quarter.
+Sequentially, revenue was up $47 million or 2.7%, and operating earnings were up $31 million or 13% on 140 basis point improvement in operating margin. The year-to-date figures show a 4.5% growth in revenue and a 2.8% growth in earnings, pretty impressive given the COVID-related problems which were incurred early in the year, particularly in Spain. Combat systems had nice order activity in the quarter with over $1.65 billion in funded orders. Funded backlog, total backlog and total estimated contract value all grew nicely in the quarter.
+The group had a book-to-bill of 0.9 to 1, together with favorable exchange rates and the acquisition of Medico. The three taken together result in good growth in backlog. Our European land systems business had a particularly strong order book in the quarter, and OTS has the largest total estimated contract value in their history. land systems estimated potential contract value also rose in the quarter.
+Undergirding combat systems strengths are several important facts that I am not sure are well understood by investors. First, we are, without question, the premier integrator of land combat systems worldwide. Second, we are the U.S. Army's leading source of innovation through our rapid prototyping facility in Sterling Heights, Michigan.
+Third, we have a well-earned reputation with the Army for high-quality, on-schedule and on-budget performance that is unrivaled in the industry. All of this underscores what we have been talking about for some time that combat systems will continue to grow into the foreseeable future. As I indicated earlier, information technology, our defense business most directly impacted by COVID-19, had a very good third quarter. They had revenue of over $2 billion in the quarter, operating earnings of $146 million, with an operating margin of 7.2%.
+There are very nice sequential improvements in revenue, operating earnings and operating margin. The year-over-year comparisons are reasonably favorable as well. GDIT continued its strong cash performance. It produced free cash flow of 140% of imputed net income in the quarter and 149% year to date.
+This is the best cash performance across General Dynamics, both in the quarter and year to date. From an order perspective, GDIT's wins in the quarter, a number of which are highlighted in our release, demonstrate that GDIT is gaining traction and expanding their footprint in key technology focus areas, such as cloud computing, cybersecurity, artificial intelligence and digital modernization. COVID-19 has accelerated trends in technology that began before the pandemic including the speed with which technology is being developed and deployed to meet emergent mission requirements. We saw strong momentum on the growth front at GDIT with the largest award quarter this year and significant contract wins across all markets including over $1.5 billion of awards in our federal, civilian and defense divisions.
+Through the first three quarters of 2020, we have won considerably more new competitive work than in all of 2019, over 50% of awards in the third quarter are from competitive new business. This improved award performance is encouraging and bodes well for the business as it submits a record number of proposals this year. Third quarter was the largest dollar quarter this year for submitted bids with over $9 billion of proposals submitted. These third quarter submittals are additive to billions of dollars of prior proposal submissions awaiting customer decision.
+We are beginning to harness the power of the broader corporation to drive wins including working even more closely with our tactical communications business at mission systems. With respect to mission systems, revenue of $1.22 billion is essentially the same quarter over quarter, but up $40 million or 3.4% sequentially. Similarly, earnings of $168 million are up $4 million or 2.4% sequentially. Year-to-date revenue is down $137 million or 3.7% and earnings are down $15 million or 3% versus last year.
+This is not bad considering the divestiture of our ground-based satellite antenna business in the second quarter and the impact of COVID-19. We saw lighter customer activity with reduced expected sales of some products, but we expect that to remedy as customers return more fully to work. From an order perspective, mission systems had a book-to-bill of 0.8 to 1 in the quarter. We have done some portfolio shaping at mission systems so we can concentrate on growing our nuclear triad lines of business, cyber defense, intel and assured navigation and positioning, all of which are critical capabilities that support U.S.
+defense strategy. Marine systems is yet again a good news story with quarter over year ago quarter growth in both revenue and earnings. This growth is attributable largely to our submarine programs and electric boat. Over half of the 7.6% growth year to date is Columbia with considerably more coming.
+We've been talking about Columbia for some time and you're beginning to see the significant growth of this program. On a sequential basis, revenue of $2.41 billion is down modestly, but earnings are up $23 million on a 120 basis point improvement in margin. The 9.3% operating margin is handsome. It is part of our continuing effort in the Marine group to improve operating margin to go with the very real growth in revenue over time.
+This is a work in process, but on balance, I am confident that we are on a path to improved operating margins. So with respect to forecasting, I think the guidance we gave you last quarter is still our best view. Let me turn the call over to our CFO, Jason Aiken, for additional remarks, and then we'll turn to your questions.
+Jason Aiken -- Chief Financial Officer
+Thank you Phebe, and good morning. I'll start with some comments on our cash performance in the quarter and our latest thinking on how the year is shaping up. Cash from operations in the quarter was $1.1 billion and our free cash flow was $903 million, a 108% conversion rate. We ended the quarter with $1.5 billion of cash on the balance sheet and a net debt position of $11.9 billion, down almost $400 million from the second quarter.
+As anticipated when we started the year, the cash performance has stepped up markedly in each sequential quarter this year. And consistent with that original expectation, we have a big fourth quarter ahead of us. That said, our forecast for the quarter is right in line with what the fourth quarter has looked like in each of the past three years, so not an unusual task at this point. So with that as a backdrop, we continue to target free cash flow for the year to be in the 80% to 85% of net income range.
+The biggest variable in achieving that mark will be Gulfstream order activity and our ongoing efforts to support our supply chain as we settle on production and delivery rates for next year. You heard Phebe's remarks on that subject. So assuming things continue to trend favorably as we've seen of late, we've got a path to close on our cash target for the year. On the defense side, our Pentagon customer continues to lean forward with accelerated contract payments to support the industrial base and we, in turn, continue to do the same for our supply chain.
+Through the end of the third quarter, we've received approximately $400 million of accelerated payments from our customers and advanced more than $1.7 billion to our suppliers. To the extent we eventually see additional relief from our U.S. government customer in the form of incremental contract funds to offset the ongoing impact of COVID to our business, we'll include the benefit of that relief in our results only when it's authorized and funds are made available. As I mentioned earlier, our net debt is down to just below $12 billion, and our interest expense in the quarter was $118 million versus $114 million in the third quarter of 2019.
+That brings the interest expense for the first nine months of the year to $357 million, roughly unchanged from $350 million for the same period in 2019. At this point, we expect interest expense for the year to be approximately $480 million. On the capital deployment front, capital expenditures were $216 million in the quarter or 2.3% of revenues. We're still targeting capex to approach 3% of revenues for the full year before declining over the next couple of years to our more typical 2% range.
+In the quarter, we paid $315 million in dividends, and we did not repurchase any shares of our stock. Our effective tax rate for the quarter was 14.7%, bringing the rate for the first nine months to 15.2%. The third quarter rate was, as expected, below our full-year target as a result of lower taxes on international income and increased research and development tax credits. So we're right on track to achieve our full-year target in the mid-15% range.
+Just recall, that implies a somewhat higher tax rate in the fourth quarter to get to that full-year rate. And lastly, a little color on the backlog story for the quarter. As Phebe noted, the backlog held up particularly well given the impacts of COVID so far this year. As of the end of the quarter, our funded backlog, total backlog and total estimated contract value are all up significantly compared with this point a year ago.
+Notably, this growth is broad based with year-over-year increases in four of our five segments. So a solid foundation for resumed growth as we emerge from the pandemic. Howard, that concludes my remarks. So I'll turn it back over to you for the Q&A.
+Howard Rubel -- Vice President of Investor Relations
+Thanks, Jason. As a reminder, we asked participants to ask one question and one follow up so that everyone has a chance to participate. Rocco, would you please remind participants how to enter the queue?
+Operator
+[Operator instructions] Today's first question comes from Ron Epstein with BofA. Please go ahead.
+Ron Epstein -- Bank of America Merrill Lynch -- Analyst
+Hey. Good morning.
+I'm certain there'll be a bunch of questions on Gulfstream. So I'll just start with defense, right? I'll leave those for other folks. In the naval business, there's been some discussions and whispers about a third Virginia class. What do you think of that? Is that a possibility? And what does that mean for you guys if that happens? And then I have one follow-up after that.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So yes, so we've been talking to our navy customer about the ability of essentially the supply chain and the facilities to ramp up production. And as you can imagine, we're developing plans to do that as well. But you'll note that in all of the recent discussions about U.S. National Security strategy, and particularly the navy's articulation of the criticality of the size of its fleet, submarines figure prominently in all of those conversations because they remain a national competitive advantage for the United States.
+So we'll continue to work with our customer and we'll see where that takes us. At the moment, we are not planning for that increase. But if the nation needs it, we'll accommodate it.
+Ron Epstein -- Bank of America Merrill Lynch -- Analyst
+All right. And then my follow-up kind of dovetails in one of your comments. When you look at -- there's been discussion I guess Secretary Esper was talking about a 550-ship navy. A portion of that is unmanned undersea vehicles.
+What opportunity does that present for General Dynamics?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, let's think about it in two parts. In the first instance, it's the job of our shipyards to integrate those capabilities into the existing platforms. And we are very good, as you can imagine, about integrating mission payloads into our ships and our submarines. With respect to individual lines of business within the unmanned world, we have -- mission systems has a number of lines of business that have been very active for quite some time in the undersea domain -- an unmanned undersea domain.
+So I would imagine those continue to grow. It's all going to be about performance, and their performance throughout testing has been outstanding. So I think there's a lot more to come on that.
+Ron Epstein -- Bank of America Merrill Lynch -- Analyst
+OK, thank you.
+Operator
+And our next question today comes from Cai von Rumohr with Cowen. Please go ahead.
+Cai von Rumohr -- Cowen and Company -- Analyst
+Yeah. Thanks so much.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Hi Cai.
+Cai von Rumohr -- Cowen and Company -- Analyst
+So Phebe -- yes. Hello. So the aerospace impact of $541 million of COVID, what do you base that on? Is that deliveries you planned to do that you didn't do? And then given that it looks like the decremental margins on the revenues you missed were 22%, would the profitability -- I assume the profitability would have been even better if you'd gotten those deliveries?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So think about what we did very quickly in response to COVID. We lowered our production. We did it in two respects. One, to better meet demand, but very importantly, to allow the supply chain to catch up.
+So that is really what has driven all of the -- or actually overriding factor that's driven all of the performance at Gulfstream. Now within that, we have also, quite predictably, and as we told you, rightsized that business and will continue to do so, so that we manage our margins and really push them to be as high as they can. So I think Gulfstream has done a remarkable job in bringing down its cost, both the restructuring and then cost savings and productivity. So with respect to the profitability of Gulfstream, I think we've seen really some good discipline actions to size the business accordingly and then continue to perform superbly on the manufacturing line.
+Cai von Rumohr -- Cowen and Company -- Analyst
+And then the last one, Jason mentioned you had $400 million in advances COVID cares related and yet you advanced $1.7 billion to your supplier. So that's a delta of like $1.3 billion. When do you expect to recover that? When do you expect that to burn down to near 0?
+Jason Aiken -- Chief Financial Officer
+So Cai, keep in mind, that's a cumulative number that's been building throughout the year. And so that sort of pays in and then gets phased out and paid in and phased out over time. That said, you'll note, if you look at our cash flow statement in our exhibits, our receivables and unbilled receivables in the quarter as well as payables on the supply side continue to be a bit of an OWC headwind for us, and that's really all attributable to a lot of that timing. So I think you'll see that phased out as this pandemic starts to abate and the customer sort of moves its payment practices back to normal and we'll, in kind, sort of move back to a normal cadence from our perspective.
+In the meantime, our priority is to make sure that our supply chain which is we're all in a symbiotic relationship here, and what's good for one is good for the other. We've got to continue to support the elements of that supply chain that need it, particularly on the smaller business side. And so we're going to continue to do that as the impact of the pandemic continues.
+Operator
+And our next question today comes from Robert Stallard with Vertical Research. Please go ahead.
+Robert Stallard -- Vertical Research -- Analyst
+Thanks so much. Good morning.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Good morning.
+Robert Stallard -- Vertical Research -- Analyst
+A couple of questions. First of all, perhaps on GDIT, you had quite a few comments there, Phebe, about the demand environment, the bidding that this business has been doing. Have we finally turned the corner in this division? And can we expect revenues to accelerate from here and to hold on to this operating margin?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, the -- look, the operating margin, let's take that in inverse order, was severely decremented last quarter by a loss that we had on a legacy GDIT program as well as the impact of COVID. And if you recall, we had a significant number of our workforce who were covered under the CARES Act. And I -- Jason, I don't know if you recall those numbers, but it was a lot of revenue that carried no earnings.
+Jason Aiken -- Chief Financial Officer
+It's about $150 million in the quarter.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So those are considerable headwinds. GDIT has, from the very get-go, had superior industry-leading, and not by a little, but by a lot, EBITDA margins. And I would expect that performance to continue. There's a predicate that we finally turned the corner.
+So we can quibble over the predicate. But let me just give you some idea of what's going on, on the order front at GDIT. In the quarter, our overall win rate was in excess of 75% and our recompete win rate was over 90%. And I think it is really a dispositive factor that in the third quarter was our largest quarter, over 50% of the awards coming from competitive new work.
+And so I think that that's an important indicator of this business on a going-forward basis. We have a number of nice enduring wins in the quarter. Our performance has been very, very strong on our existing contracts. So I very much like where this business is.
+And again, they have continued to have outstanding cash performance.
+Robert Stallard -- Vertical Research -- Analyst
+OK. And then on the aerospace division, I was wondering if you could give us any clarity on the order intake in terms of were there any differences by model or by region that were notable in the third quarter?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, I think I noted in my remarks that the 650 led the order book. That has been an extraordinarily successful airplane and continues to endure and successfully endure. So internationally, we saw more of a pickup. I was pretty I think fulsome in my remarks about the demand environment, but we saw good order activity internationally.
+Robert Stallard -- Vertical Research -- Analyst
+That's great. Thank you very much.
+Operator
+And our next question today comes from Carter Copeland with Melius Research. Please go ahead.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Hi Carter.
+Carter Copeland -- Melius Research -- Analyst
+Hi Phebe and hello Jason an Howard. Phebe, I wondered if you might talk a little bit about the performance at EB. I'm pretty intrigued by the margins given the COVID costs that you've outlined year to date. I mean obviously those come through -- the reimbursement of those, the treatment there just implies you guys have found some performance efficiencies there.
+I wondered if you could speak to that.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So electric boat has continued to find and will continue to find performance improvements as well as cost cutting. This is a very efficient yard that's getting better and better and better at what they do. So I expect their performance to continue. And as I noted in my remarks, we are -- with all of that top-line growth, we're going to push for margin expansion.
+So you see -- we're going to see bottom-line growth. But the more that we can accelerate that bottom-line growth, the better. And that's all about productivity and efficiency at electric boat. And they've done a superb job in the last four quarters, even within this environment, of driving productivity improvements.
+And even -- if you think about it, and this is just not with respect to the shipyards, but across all of our operating divisions, the COVID has amplified the underlying strength of the operations in this business to the extent that they're driven by disciplined, continuous improvement. That helps manage any crisis including this pandemic. So you're continuing to see each and every one of our businesses improve their bottom-line performance on the operating side. And we've long talked about that strong operations is the key to financial success, adding good contract bidding.
+So I think you'll continue to see this march toward productivity improvements, and electric boat is leading the way. More to come.
+Carter Copeland -- Melius Research -- Analyst
+OK, great. Thank you for the color.
+Operator
+And our next question today comes from Richard Safran with Seaport Global. Please go ahead.
+Richard Safran -- Seaport Global Securities LLC -- Analyst
+Phebe, Jason, Howard good morning. How are you?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Good. You?
+Richard Safran -- Seaport Global Securities LLC -- Analyst
+Thanks for taking my question. Phebe, just a quick -- you discussed portfolio shaping in your opening comments. So I wanted to get your thoughts on further portfolio shaping. Are you considering any further divestitures or additions to the portfolio? Do you think that there are any holes in the portfolio right now that you need to fill? Just any color you can provide on just how you're thinking about it right now.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Richard, I know how much you'd like that. But I think that portfolio shaping is only effectively discussed after the fact. So we are always looking for opportunities to improve and focus our activities, but really no comment in the moment. There's really nothing on our horizon at the moment.
+We're sticking to our operations, doing what we do best.
+Richard Safran -- Seaport Global Securities LLC -- Analyst
+OK. And as a follow-up then. At Mission, you noted expansion into naval, air and electronic systems. I want to know if you could elaborate on that a bit more.
+Was this share gains, new contract wins? Was this expansion into new markets? Just any color you could provide there?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+These are really within our core that we've had continuing contract wins. And that is a business where we have done a fair amount of portfolio shaping because they've got some nice growth looking in front of them. And I talked about the cyber defense tactical communications, we have a decades-long history and expertise in the nuclear triad, that will continue to grow. And missile fire control as well as assured position, navigation and timing.
+In a world where on the battlefield, GPS reliability is questionable, that's a key and critical factor that we have developed over quite some time and a very strong expertise in. So I think it's important when you see these really critical important franchises that you divest yourself of non-core businesses and that's exactly what we've done.
+Thanks very much.
+Operator
+Our next question today comes from Doug Harned with Bernstein. Please go ahead.
+Doug Harned -- Sanford C. Bernstein -- Analyst
+Good morning.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Hi Doug.
+Doug Harned -- Sanford C. Bernstein -- Analyst
+Phebe, you mentioned earlier about leveraging the breadth of GD -- of the corporation for opportunities. And then there were some things that really fit right into that like unmanned undersea. But when I think of General Dynamics over the long history, I've thought of the units as operating very independently driven by numbers within the unit. Does this suggest that you're thinking differently about how you manage from the corporate center?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So look, I believe in centers of excellence at the business units in which they concentrate on the real value-creation levers at their disposal. That said, we have a long history of our units working together and mission systems, in particular. They are heavily embedded in combat systems platforms within the Marine group and with GDIT. So we are moving increasingly -- in response to the market, I might add, increasingly working on joint activities between those two businesses.
+And they work well together. They blend well together. So there's no fundamental change in how we see our business across our portfolios. I really do think people excel when they stick to what they know.
+But where we have opportunities to augment that value creation through partnerships across the units, we've done so. We've done so for 20 years.
+Doug Harned -- Sanford C. Bernstein -- Analyst
+And one of the opportunities could be in the area of 5G, and you've won contracts both at GDIT and at mission systems related to that. Is this something that we should expect to see as a strong growth area? And when might we see it if that's the case?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, I think the department is still working through how to operationalize 5G. It is an enormous capability advantage for our Warfighter. And we have been a part of both share planning and thinking at our customer levels for some time. And look, we -- the way we define how we operate, both in the moment and going forward is how to meet our customer needs.
+So as their need and the clarity around its use, with respect to 5G, in this instance, gets increasingly clear, we'll be there to work with them.
+Doug Harned -- Sanford C. Bernstein -- Analyst
+OK, thank you.
+Operator
+And our next question today comes from David Strauss with Barclays. Please go ahead.
+David Strauss -- Barclays -- Analyst
+Thanks. Good morning Phebe.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Good morning David.
+David Strauss -- Barclays -- Analyst
+Thanks for the color on Gulfstream as you looked out to 2021 deliveries. With regard to that, I think you're forecasting $1.13 billion in EBIT in '20. Would you still expect some Gulfstream EBIT growth in 2021 despite lower deliveries?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, look, let us continue to work that. But in addition to efficiency, the number of airplanes delivered really drive EBIT. So we've got a long way to go in determining what the final plan is. But I tried to be very specific in my remarks about how to think about the delivery plan that we have, at least at its current notional level.
+It's really the 550 has gone away and we're not able in this demand environment to replace it with new airplanes -- with our new airplane models that we had anticipated. So the production is going to be very similar on our existing fleet with a little bit of a decrement on the midterm -- or midsized cabin. So I think that's all we can say in the moment about any specificity around the future.
+David Strauss -- Barclays -- Analyst
+OK. And as a follow-up I guess Jason, on free cash flow as we think about next year. How much potentially could that conversion number bump up? I mean, is 100% conversion next year out of the question at this point?
+Jason Aiken -- Chief Financial Officer
+I don't want to say anything is out of the question, David. I think what we're focused on is growing free cash flow year over year. And obviously, the two major muscle movers there that have really been all part of the operating working capital side of that story are, on the one hand, the combat systems international program. We've told you I think a good bit about that throughout this year and that is on a trajectory.
+It's sort of set on a path with timing to eventually unwind that working capital over the next three years. And then the other side obviously is Gulfstream with the inventory build that really is largely associated with three different aircraft models with test aircraft. And the unwinding of that, those test aircraft as well as just the general inventory build into new aircraft models, is all going to be predicated on the macroeconomic recovery and when that production rate gets back into full stride and starts to unwind that. So I don't want to put too many caveats around it, but I think the most important takeaway is we expect to see growing free cash flow year over year, and we'll work out the details as to whether we get to or above 100% as we were projecting before the pandemic.
+David Strauss -- Barclays -- Analyst
+OK. Thanks very much.
+Operator
+And our next question today comes from Robert Spingarn with Credit Suisse. Please go ahead.
+Robert Spingarn -- Credit Suisse -- Analyst
+Hi. Good morning.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Good morning.
+Robert Spingarn -- Credit Suisse -- Analyst
+Two quick ones. Phebe, for you, I know you talked about Gulfstream demand, but I just wanted to ask from one other angle, has the customer mix lately, since COVID, changed between the number of high net worth individuals versus corporate buyers? So that's the first question on Gulfstream.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, let me address that. I talked about that in my remarks that I think there's a lot of uncertainty with respect to the economy, political uncertainty. And then we still have highly restrictive travel restrictions across the world. So that is an issue that's going to affect corporate buyers.
+But as I also noted, we are seeing international pickup is nice, and high net worth individuals continue to be in the market. So as the economies recover with the diminution in infection rate, we'll see a pickup in all of that.
+Robert Spingarn -- Credit Suisse -- Analyst
+But you see what I'm getting at is, are -- is the virus causing people I guess the high net worth group, to want to travel privately where they might not have before?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, I think ascribing motive to people is very difficult, but the high net worth individuals have always been an important part of our portfolio, and they remain that -- they remain so.
+Robert Spingarn -- Credit Suisse -- Analyst
+OK. And I had a quick one for Jason. And that's just on mission systems' implied margin in Q4. It sounds like the guidance holds in the mid-14.
+So just what's driving that fourth quarter?
+Jason Aiken -- Chief Financial Officer
+I think what you're looking at there is mostly a mix issue for that business. As Phebe talked about as well with some of that portfolio shaping, some of that is to get out of noncore businesses, and by association, in many cases, some less-than-desired margin businesses. So that has an uplift effect as well. So I think they're expecting to see a little bit of a rebound in some pent-up demand that they've experienced over the past several months that will drive some of that product flow-through which will bring some strong mix-based incremental margin in the quarter.
+Operator
+And our next question today comes from George Shapiro with Shapiro Research. Please go ahead.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Hi George.
+George Shapiro -- Shapiro Research -- Analyst
+Good morning. Hi. How are you?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Good.
+George Shapiro -- Shapiro Research -- Analyst
+A couple of quick questions. Was the book-to-bill of the 650 in the quarter above 1?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Well, let's not parse that out for you, but it was quite awesome. As I said, that's a spectacular airplane that continues to be in demand.
+George Shapiro -- Shapiro Research -- Analyst
+OK. And then just one for you, Jason. Can you clarify a little bit the impact on the free cash from the $400 million that you received that you -- and you gave out $1.8 billion? I mean, if I look at the balance sheet in the Q3, it looks like between -- the working capital would have been $10 million worse with receivables and unbilled receivables, etc. And so I'm just trying to reconcile what the actual impact on the cash in the quarter was from your earlier comment.
+Jason Aiken -- Chief Financial Officer
+Yeah. No. Just to clarify, George, I think the numbers you're quoting from the cash flow statement are pretty much on point as it relates to the impact of OWC in the quarter. The numbers on the payment advances and accelerations from our customers and to our suppliers, keep in mind, that's not a cumulative $1.3 billion of implied pent-up cash on the balance sheet as of the end of the quarter.
+As we are accelerating -- this is what I was trying to get into on an earlier question. As we are accelerating cash to suppliers, we're helping keep them going on an ongoing basis from month-to-month and quarter to quarter. So if they've got implicit receivables that are due 60 days from now and we're accelerating that to paying immediately, well, 60 days later, that payment was due. And so that kind of comes off the balance sheet naturally.
+But cumulatively, we've been accelerating over time for call it the past six -- five, six months in excess of $1.7 billion to those suppliers. So you've got to kind of reconcile that with the -- in the quarter, what was the net build of OWC which speaks to the numbers you were speaking to coming off the cash flow statement. So that's kind of how you reconcile those two concepts.
+Operator
+And our next question today comes from Joseph DeNardi with Stifel. Please go ahead.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Thanks. Good morning. Phebe, it wasn't too long ago that you used to provide kind of backlog duration by platform at Gulfstream. Would you be willing to provide that now just given some of the changes in build rates that you're seeing? Thank you.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+That was appropriate when we had all existing long-term airplanes that had been in the backlog for some time. This is a whole new fleet. And we're not going to start that until these have been in our production for some time.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+OK.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+You understand? I mean, there's a material difference in the kinds of airplanes that we have. These are all new models. And frankly, as you well know, we are the only airplane manufacturer with a truly clean sheet airplane. And best to just focus on how well we're doing in selling those.
+I think it is an important indicator that by the end of the fourth quarter, we're going to have 90 of these 500s and 600s in customers' hands. And let's not forget also, we've got over 450 G650s out in the fleet. It's pretty impressive if you ask me.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+OK. Yeah, understood. And then just on GDIT, I think the traditional metric that folks look at to kind of understand growth is book-to-bill, and book-to-bill there for you all is OK. Is that expected to turn?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+One to one on growing revenue, I think it's quite nice.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+OK. So that's what you expect from that business going forward? There's not an expectation that book-to-bill improves materially there?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+You're going to have some variances over the quarter. But look, there's -- I wouldn't say that we don't expect book-to-bill to stay the same in perpetuity. It's all going to depend on the win rates in any given quarter and when the customers start deciding all of this enormous pent-up backlog of proposals they've got in front of them. And as you can well imagine, the velocity at which these contracting decisions are made on the part of the contractors -- or the part of the customers has been slowed down by COVID.
+So we'll get through all of that and the key areas for us to win more than our fair share and this business is doing I think quite well in that regard.
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Thank you.
+Howard Rubel -- Vice President of Investor Relations
+Operator, we'll take one more question please.
+Operator
+Absolutely. And our final question today will come from Seth Seifman with JP Morgan. Please go ahead.
+Seth Seifman -- J.P. Morgan -- Analyst
+Thanks very much. And good morning everyone.
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Hi Seth.
+Seth Seifman -- J.P. Morgan -- Analyst
+Hi. Phebe, I wonder if you could talk a little bit, I know you don't give multiyear guidance, but maybe in kind of a qualitative way, thinking about the growth in Marine that's going to be driven by Columbia, just so we have maybe some way to size the magnitude of that in the coming years and have some guardrails around it and are aware of the timing of any kind of occasionally we see hiccups and growth as programs move from development to production and kind of when those happen. And any additional color around that?
+Phebe Novakovic -- Chairman and Chief Executive Officer
+So I think the way to think about the future, and while this will be somewhat lumpy on a going-forward quarterly basis, the fact that 50% of our growth this year has been in Columbia I think is a nice indicator of what this is going to mean to us in the future. Electric boat, alone, size will double in the next five to six years. It's already quite a large business, and it will continue to grow. This is, as we've been talking about for some time, an enormous program of critical national importance.
+We have -- and we've geared up to both facilities to support it as well as prepared all of our manufacturing processes to support it. I'll give you one little note to give you a sense of what's going to propel this growth. We go into production on Columbia with 80% of the construction drawings done compared to 43% on Virginia, and Virginia was one of the most successful programs the department has ever seen. So that tells me that all of the growth that's embedded in those current budget numbers and future year budget numbers within the Department of the navy are going to be able to be capitalized by us and nice, nice top-line growth.
+And then as I noted, we continue to work on margin expansion. So we'll give you a sense of what next year looks like. And over time, as we really get into the -- in the fourth-quarter call and over time, as we really get into full rate production on Columbia, you'll get an awful lot of clarity on what the future looks like.
+OK. That's all for me today. Thanks so much.
+Howard Rubel -- Vice President of Investor Relations
+OK. Thank you Rocco.
+Operator
+Ladies and gentlemen, I'll turn the call back over to Mr. Rubel.
+Howard Rubel -- Vice President of Investor Relations
+Thank you.
+Duration: 51 minutes
+Howard Rubel -- Vice President of Investor Relations
+Phebe Novakovic -- Chairman and Chief Executive Officer
+Jason Aiken -- Chief Financial Officer
+Ron Epstein -- Bank of America Merrill Lynch -- Analyst
+Cai von Rumohr -- Cowen and Company -- Analyst
+Robert Stallard -- Vertical Research -- Analyst
+Carter Copeland -- Melius Research -- Analyst
+Richard Safran -- Seaport Global Securities LLC -- Analyst
+Doug Harned -- Sanford C. Bernstein -- Analyst
+David Strauss -- Barclays -- Analyst
+Robert Spingarn -- Credit Suisse -- Analyst
+George Shapiro -- Shapiro Research -- Analyst
+Joseph DeNardi -- Stifel Financial Corp. -- Analyst
+Seth Seifman -- J.P. Morgan -- Analyst
+More GD analysis
+All earnings call transcripts

@@ -1,0 +1,390 @@
+Image source: The Motley Fool.
+Diamondback Energy Inc (FANG -0.21%)Q3 2019 Earnings CallNov 6, 2019, 10:00 a.m. ET
+Operator
+Good day, ladies and gentlemen, and welcome to the Diamondback Energy Third Quarter 2019 Earnings Conference Call. [Operator Instructions] After the speaker's presentation, there will be a question-and-answer session. [Operator Instructions]
+I would now like to introduce your host for today's conference, Adam Lawlis, Vice President, Investor Relations. Sir, you may begin the call.
+Adam Lawlis -- Vice President, Investor Relations
+Thank you, Annie. Good morning, and welcome to Diamondback Energy's third Quarter 2019 Conference Call. During our call today will reference an updated investor presentation, which can be found on Diamondback's website. Representing Diamondback today are Travis Stice, CEO and Kaes Van't Hof, CFO. During this conference call, the participants may make certain forward-looking statements relating to the company's financial condition, results of operations operations, plans, objectives, future performance, and businesses.
+We caution you that actual results could differ materially from those that are indicated in these forward-looking statements due to a variety of factors. Information concerning these factors can be found in the company's filings with the SEC. In addition, we will make reference to certain non-GAAP measures. The reconciliations with the appropriate GAAP measures can be found in our earnings release issued yesterday afternoon. I will now turn the call over to Travis Stice.
+Travis Stice -- Diamondback Energy, Inc.
+Thank you, Adam. And welcome to Diamondback's third Quarter Earnings Call. Normally, I jump right in and review key milestones in the quarter, but with the challenging market conditions. I feel the need to reflect on where we are today. Investor sentiment toward energy remains decidedly negative even in the face of commodity prices performing fairly well this year.
+The US rig count is now down over 25% year-over-year and we expect that downward trajectory to continue with frozen capital markets, tighter lending conditions, and the search for free cash flow sector wide. As a result of these conditions, we expect continued pressure on US production growth numbers and expectations for 2020 US production growth need to recalibrate lower, all of which may potentially support oil prices pending demand growth.
+We believe these market conditions call for a 2020 investment framework that's focused on flat to down capital spending, an efficient low cost structure and returns on capital, and excess of cost of capital, all of which were strategies Diamondback has been focused on for many years and plan to address with our 2020 plan presented today. Late last year we laid out our plans for the upcoming 2019 year. There was a tremendous concern surrounding Diamondback's ability to integrate the Energen acquisition and deliver on acquisition strategies.
+The fundamental question was whether we could maintain our industry leading cost structure and capital efficiency on a company with twice the scale and double the people. We also spoke of the significant shift to consistently returning capital to shareholders, while continuing to grow production and we set ambitious targets for production growth and execution on operational efficiencies.
+Since then we've exceeded our own expectations of synergies realized from the Energen transaction delivering on every synergy ahead of schedule and at a greater value to our shareholders, even creating a synergy scorecard updated quarterly since the transaction closed to transparently document our progress.
+We have successfully taken our midstream entity, Rattler, public raising over $700 million in proceeds and creating a high-margin, high growth, midstream subsidiary, we have dropped down mineral assets from Diamondback and Energen to Viper increasing Viper's exposure to Diamondback while receiving cash and stock in consideration.
+We've executed on our grow improved strategy by divesting legacy Energen conventional properties for gross proceeds of $285 million. We have realized and continue to realize operational efficiencies with average well cost today over 15% lower and Diamondback's cost prior to the Energen acquisition leading the industry in efficiency measures such as recycle ratio and demonstrating the strength of Diamondback's execution machine.
+We've accomplished a remarkable set of corporate objectives while still delivering on execution and cost measures. These are the things I reflect on in considering Diamondback's performance during 2019. Our business is complex. In this quarter we had a number of anomalous events that caused several of the metrics we follow and are held accountable for to underperform our expectations. We understand that the market monitors performance on a quarterly basis, which is why we have been as transparent as possible as to the impact of these events, and our path forward.
+But let me be clear, none of this performance requires a course correction or change in strategy in Diamondback. After growing significantly for the first two quarters of the year, Diamondback's oil production declined in the third quarter due to the sale of 5800 barrels per day of low margin oil from our Central Basin platform assets effective July 1, 2019.
+Without considering this effect, Diamondback's quarterly production grew but the oil production decline, the completion of 18 wells in our Vermejo area in Reeves County, and 14 wells in Glasscock County, five of which were DUCs completed or drilled rather prior to the closing of the Energen merger, drove oil cut down since these two areas begin production with oil cuts below 65%. These 32 wells made up over 35% of total gross wells completed in the third quarter versus 12% of the wells completed in the first half of the year and 15% of the wells that will be completed in the fourth quarter.
+While we are accountable for forecast in our production, the impact from offset completions were dramatic during the quarter. Another strong reminder why we do not provide quarterly guidance. Specifically in Howard County, one of our most active and highest oil cut fields the combination of Diamondback frac activity and offset operators, both to the east and west of our leasehold cut production in half, over 20,000 gross barrels of oil per day during portions of the quarter.
+While we will plan to model this impact more conservatively going forward, we expect frac impacts to continue to be significant, primarily in the Midland Basin with operators in full field multi-well pad development mode.
+Taking all of this in consideration along with current production levels, we expect fourth quarter 2019 oil production to grow over 3% from the third quarter but offset frac impact is still expected to be large in the fourth quarter, particularly in Howard County where there is significant rig and completion activity due to the economics of the area.
+Looking ahead to 2020, our goal in putting together our capital plan was to maximize oil weighted production growth within a similar budget framework as 2019, getting more with less. As a result, we expect to grow oil production 10% to 15% year-over-year and complete over 10% more net lateral footage than 2019.
+Most importantly, our budget assumes we cover our budget in base dividend above $45 oil and have over $675 million of pre-dividend free cash flow at $55 oil. Our 2020 commodity price assumptions have weakened since our last communication around 2020 free cash flow, which now assumes $13 per barrel NGLs down almost 40% from May and $1.50 realized gas prices. Regardless of the commodity ***part 02***
+price assumptions we are committed to offering an industry-leading combination of growth and free cash flow yield in 2020. We believe this capital operating plan reflects the optimal capital efficiency for achieving differential growth and significant free cash flow in 2020. Should commodity prices decline, we will be prepared to act responsibly and cut capital further just like we've done multiple times in the past. If commodity prices rally, we plan to use excess free cash flow to accelerate our capital return program and reduce debt.
+The biggest concern related to the mix we experienced versus internal and Street expectations in the third quarter and as a result, 2019 full year oil production or one, how can we be confident the oil production mix in the third quarter is not the start of a continuing trend. And two, how are the lessons learned from the third quarter accounted for in the four guidance.
+Well, first, when there is a mix of the magnitude that we just experienced in the third quarter, we have to fundamentally reexamine the assumptions that lead that led to this performance. We've done this and as a result, we've more conservatively modeled our expectations for the future, particularly external issues that are out of our control, such as offset operator frac hits, like those experienced in the third quarter.
+Full-field development by Midland Basin operators including Diamondback increased the amount of production water down on average throughout the course of the year, which was not modeled conservatively enough in 2019.
+These are operational challenges not reservoir problems. Second, we've increased the amount of co-development zones across more productive zones, which will begin in 2019 and we expect to increase that in 2020, particularly in the Midland Basin. While this strategy is expected to maximize the net present value and extend inventory loss in some areas this capital allocation decision generates lower first year oil production per developed pad.
+Our Midland Basin development plan prior to 2019 was predominantly focused on the Wolfcamp A in the Lower Sprayberry. In 2019 and carrying into 2020, we're increasing our exposure to other zones, such as the Jo Mill Middle Spraberry and Wolfcamp B due to the improved well performance in these particular zones and the estimated net present value benefit of this co-development.
+This holds true to a lesser extent for the Delaware Basin as well where we have more second and third Bone Spring development plan along with our primary development zone in Wolfcamp A. Again this is a well mix issue not a reservoir problem.
+Lastly, on a percentage basis, we're adding fewer new drill high flash volume wells and high oil cut wells to the 2020 production mix than in previous years, which also lowers the corporate oil mix. You can see in our 2020 guide that we're now guiding to oil only to address this confusion.
+While these changes in modeling assumptions and development strategy translate to an overall lower 2020 oil production expectation relative to consensus, our 2020 capital efficiency will be slightly better than in 2019 due to execution improvements and lower cost structure as measured by drilling capital spent per barrel of oil production added, after taking into account our over 36% oil base decline rate in 2020.
+Our current capital forecast for 2020 incorporates today's service costs, which should decline from here, pending a reduction and expected basin wide activity levels. As a result of all the data presented here, I'm reiterating this is not an inflection point in our course correction and the value proposition for Diamondback remains unchanged.
+Comfortable double-digit oil growth, a mid single-digit free cash flow yield, and the lowest cost structure in the business. Today Diamondback is poised to grow production at the highest margin and capital efficiency in industry, while maintaining a strong capital structure and activity, and actively returning cash to shareholders.
+With these comments complete, Operator, please open the line for questions.
+Operator
+[Operator Instructions] Your first question comes from the line of Neal Dingmann. Your line is open.
+Travis Stice -- Diamondback Energy, Inc.
+[Speech Overlap] Good morning, Neal.
+Neal Dingmann -- SunTrust Robinson Humphrey -- Analyst
+Morning, your 2020 oil and total production guidance suggests about 10% to 15% growth in that 19 midpoint while still generating what I would assume, around 5% free cash flow yield. My question is could you speak to some of the assumptions around the guide you kind of hit on this specifically how you risk this and then the assume number of rigs and spreads and potential OFS and OLS cost baked in there?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. So I'll answer in reverse. The OFS cost, we just back in what we actually saw in the third quarter. So again has acted level continues to slow down out here in the Permian we expect to continue to see service cost reductions and then actually is going to provide a tailwind for our free cash flow generation next year I think specifically the risking that we took on frac hits was more aggressively modeled this year than we did in 2019.
+And what that means is that you actually end up with a more severe hit across more wells that last longer, but also when you look at the things that impacted the third quarter and how that adjusted some of our assumptions on a go-forward basis, even the -- even down to the details of like, how long it takes for a well to recover once it's been watered out we've extended that time. When the co-development of some of the zones we've talked about, we've extended the time to peak production in order to also reflect kind of what we've seen in the third quarter.
+But, look, when you have a mix of the magnitude that we did in the third quarter. You really have to, like I said in my prepared remarks reexamine every single thing we've done. And we -- every single assumption that was made and we've done that. I mean, we're down to -- we're looking at the daily increase in your heart's rate on sub pumps after frac. We've really brought the business down into a fundamental part.
+So I think when you stub your toe like we did in the third quarter, you've got to be able to adjust your future forecast to make sure that that you can hit those numbers. And we've done so with the assumption we put in place.
+I think the rig cadence and completion cadence, the low end of our guidance probably is going to reflect in order to -- if we hit that low-end, it will probably be a function of slowing down activity and the high-end of the guidance is probably a function of saving some money and maybe a couple of more wells drilled and completed during the year.
+Neal Dingmann -- SunTrust Robinson Humphrey -- Analyst
+Got it, got it. And then lastly, can you speak to Slide 6 in your deck, particularly the part up on top there where you talked about and you hit this a little bit in the prepared remarks about the increased co-development between zones in the Midland and Delaware. I mean should we consider this a shift in overall strategy and will this impact your M&A going forward?
+Travis Stice -- Diamondback Energy, Inc.
+I don't think there's any read through to M&A. M&A is a function of a low-cost, high-efficient operator, acquiring assets that we can do more with under our execution and cost structure than others can. But it does reflect it how we think about the future. We believe that these that these co-development is fundamentally the right thing to do, and that's the way our strategies laid out for the next several years.
+Neal Dingmann -- SunTrust Robinson Humphrey -- Analyst
+Very good. Thanks for the details.
+Operator
+We do have another question from the line of Brian Singer from Goldman Sachs. Your line is open.
+Brian Singer -- Goldman Sachs -- Analyst
+Great, thank you. Good morning.
+Travis Stice -- Diamondback Energy, Inc.
+Hey, Brian.
+Brian Singer -- Goldman Sachs -- Analyst
+A follow up on a couple of comments you mentioned. First can you add a little bit more color on the frac hit impact that you're forecasting for next year and how that relates relative to what you've seen this year? And then as well, you mentioned not a reservoir issue.
+So we see the impact when -- on the negative side to production. Can you talk about what happens when it goes away, how the wells respond, how quickly they get back or if they get back to the production levels that they were at before the hit and how that leads to a declining -- or how that leads to an evolving decline rate in both basins?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. So specific, it's -- we -- as we've done the forecast in 2020, we've looked at each individual field. And so, we've gone back and historically modeled the number of days of zero production of oil. And then once it starts returning oil, the number of days it takes to get back to peak production. And both of those two elements, the number of days that it produced zero, plus the number of days that it takes to get back to peak *** part 03 ***
+production were extended in our forecast for 2020 and we've done that in each of the areas. Now, again, what we've seen is they do return to peak production and so that's why I made the comment that it's not a reservoir issue, because the AUR or the area under the curve remains unchanged. It's now the delivery of that AUR is -- has been more conservatively models with respect to these frac hits.
+Adam Lawlis -- Vice President, Investor Relations
+Yeah, and I'd say, Brian on top of that, we've been modeling frac hits for a long time in Spanish trail. In this case, Q2 -- sorry, Q3 was extraordinarily difficult in Howard County because of the size of the pads offset us, right? Traditionally, we've completed four well pads. To the east of us, there is a 24 well pads completed and that frac spread was on site for 2.5 months. And so that's a significant hit even higher than what we originally expected.
+So that particular field, the Howard County field, was hit by about 12,000 gross barrels of oil a day for the whole quarter which on a net basis is about 8,000 net barrels a day.
+Brian Singer -- Goldman Sachs -- Analyst
+Got it.
+Travis Stice -- Diamondback Energy, Inc.
+And I'll just add to that. I'll just add to that Brian. When you look at what we've been doing and Spanish drill now for over five years, we've seen the impact of our frac hits and are confident that because of the experience we've seen full recovery and it's not just the first time you hit it. Some of these wells in Spanish drill have been hit multiple times, but each time that return back to their previous forecast.
+Brian Singer -- Goldman Sachs -- Analyst
+Great, thanks. And you partially answered this just in the earlier question. But if we think about that capex -- if you think about the capex in the production range. And let's assume that the capex is at the midpoint of your guidance for 2020.
+Is there a scenario or what would be the scenario where production would end up at the lower end of the range? and I think you kind of highlighted with the scenario would be at the higher end of the range. But essentially if you're investing at the midpoint of your capex guidance, what do you see as the risk to both the downside and the upside to the -- to that oil production guidance that you put up?
+Travis Stice -- Diamondback Energy, Inc.
+Yes, certainly, the things that impacted us in the third quarter we believe we've addressed those more aggressively or more conservatively in the form of forward guidance. To spend the same capex next year and the midpoint of the capex and coming at the low point of the whole guide then you've got to have something. You've got to have poor well performance that we're not expecting right now and we've not guided at direction all. As I said the low end of the guide is more a function of lower total activity.
+Brian Singer -- Goldman Sachs -- Analyst
+Great, thank you.
+Operator
+We do have another question from the line of Derrick Whitfield from Stifel. Your line is open.
+Derrick Whitfield -- Stifel -- Analyst
+Thanks, good morning all.
+Travis Stice -- Diamondback Energy, Inc.
+Hey, good morning Derrick.
+Derrick Whitfield -- Stifel -- Analyst
+Perhaps for Travis Stice, If we look at the 2020 capital program, are there any quarters that have outsized activity in Glasscock over May of next year?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, I think the quarters -- again, we've learned of what we've -- what we saw in the third quarter of this year. So, the guidance that we put in place, reflects a more steady diet of Vermejo and Glasscock County wells on a quarter-over-quarter basis.
+Derrick Whitfield -- Stifel -- Analyst
+Great. And perhaps for my follow up. Referencing slide 7 your asset base is quite resilient at lower prices. Assuming lower growth in 2020, how would this slide look for 2021 in terms of your cash flow breakeven?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. There could be and that's all dependent upon activity. Right? I mean, at the same activity level, Cash flow would still grow in 2021. I don't think it will grow 11% -- 15% but you'd still see growth. We feel like we have a lot of tailwinds going into next year. Particularly 10% better realizations on the oil side. For the year. We've got some LOE tailwinds were LOE is going to be declining throughout the year, next year. So that all supports a lower breakeven as we continue to grow, but don't continue to spend every dollar we make back in the ground to fund that growth.
+Adam Lawlis -- Vice President, Investor Relations
+And Eric, I just want to add. Since you brought up Slide 7. When you look at the $55 oil barrel. It's a $675. As I said in my prepared remarks, we had originally communicated $750 million of free cash flow at $55 oil. But the deterioration of NGLs right now at $13 bucks a barrel, we lost $7 bucks a barrel relative to our last communication and that's about $100 million worth of free cash flow that went away from us in that scenario.
+Derrick Whitfield -- Stifel -- Analyst
+Great thanks for your time guys.
+Operator
+We do have another question from the line of Tim Rezvan from Oppenheimer. Your line is open.
+Tim Rezvan -- Oppenheimer -- Analyst
+Good morning, folks. I had an organizational question, which perhaps is best suited for Travis. In the last year Diamondback's closed the Energen acquisition, they've IPO'd another subsidiary and it's organization lost its COO in September. I know Diamondback is an organization that's prided itself on running lean when there's a laser focus on G&A. But I guess my question Travis is with your organization complexity and at the 3Q miss that we saw last night, is the organization too lean? Are you rightsized to kind of execute like you wanted to and should investors be concerned about the complexity?
+Travis Stice -- Diamondback Energy, Inc.
+No complexity is part of our fundamental DNA. What looks complex to our investors, we intend to make it look simple. And organizationally I've said I think in the last earnings call, I said we're probably 150 people short and we're probably still somewhere around 100 people short and that's across every aspect of our business.
+But I'm not going to stand here and say that the function of third quarter was a result of one, either complexity or wo, lack of people that we own it and that's what do you expect me to do is to staff the organization adequately into simplify complexity and that's what I intend to do every day.
+Tim Rezvan -- Oppenheimer -- Analyst
+Okay. Okay, but thanks for that. And I guess as my follow-up. In your prepared comments you talked about kind of a well mix issue from more zones and kind of your pad development. Could you talk about why year one oil goes down, is that a controlled flowback issue or is it because it oil cuts in other zones? I'll leave there. Thanks.
+Travis Stice -- Diamondback Energy, Inc.
+No. The oil goes down on a year-over-year basis, because when you add in a Jo Mill or Middle Spraberry well into a four zone development, it has a different oil delivery type curve than does the Wolfcamp A or the Lower Spraberry which we've historically had a heavier dose of those two development zones. So, when you look at the oil relative for a four-zone where I've added in the Jo Mill[Phonetic] and the Middle Spraberry, you see the corresponding impact.
+Tim Rezvan -- Oppenheimer -- Analyst
+Okay, thank you.
+Operator
+We do have another question from the line of Jeff Grampp. Your line is open.
+Jeff Grampp -- Northland Securities -- Analyst
+Morning guys.
+Travis Stice -- Diamondback Energy, Inc.
+Hi, good morning Geff.
+Jeff Grampp -- Northland Securities -- Analyst
+I was wondering It looks like the 3Q Delaware well costs are already at kind of the low end of your 2020 budgeted cost there. I was just wondering is that, I guess, a well mix consideration that maybe drove 3Q lower or do you think -- is it fair to think that maybe there is some embedded conservatism in what you guys are assuming budget wise for 2020?
+Adam Lawlis -- Vice President, Investor Relations
+Yeah, Jeff, [Indecipherable] is the cheapest of the three fields in the Delaware Basin from a DC&E any perspective. So we did have a lot of from [indecipherable] wells come through in the third quarter, which is why that number looks low relative to the guide. But as Travis said, we're not guiding to service cost reductions from where we are today. We certainly expect to continue to see some deflation and continue to get some efficiencies. But for the third quarter relative to 2020, really that's more a higher percentage of [indicepharable] rolling through the capital side.
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. Listen, as I prepared for this quarter we go through our normal quarterly review process where we do a well by well analysis of wells that contributed in the quarter. And I couldn't be more proud of the continued focus, laser like focus of the operations organization on driving cost out and the improving recovery. So that part of our DNA is spectacularly in place and and it's something I monitor almost on a daily basis.
+Jeff Grampp -- Northland Securities -- Analyst
+Got it. Understood, thanks for those comments. And for my follow up just kind of a bigger picture question for you, Travis, can you talk about why 10% to 15% is the right growth for Diamondback in 2020 versus evaluating maybe trade-offs of slower growth and more free cash flow to fund the buyback and maybe dividend growth? And just kind of how you guys evaluated the potential trade-offs of those types of scenarios.
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, you know, it's not a precise calculus granted, but we had the balances. We're trying to, and we believe we have presented a business model *** part 04 ***
+that has this kind of sustainable free cash flow on a go forward basis. And so if we had lower growth and greater cash flow in 2020, then you're going to impact the out-years as you development plan. So what we believe we've done struck what is an appropriate balance of maintaining and sustaining the free cash flow generation of this machine capable of, but at the same time kind of at the upper end of anybody out there in terms of production growth. And listen I still believe that Diamondback is the best executor and the lowest cost producer we should grow, and that's what we presented in the 2020.
+Jeff Grampp -- Northland Securities -- Analyst
+All right. Understood. And appreciate the transparent prepared remarks, Travis.
+Travis Stice -- Diamondback Energy, Inc.
+You bet. Thanks man.
+Operator
+Our next question from the line of Ryan Todd from Simmons Energy. Your line is open.
+Ryan Todd -- Simmons Energy -- Analyst
+Good, thanks. Maybe one more follow-up on the co-development strategy. Did the shift toward more co-development next year have any impact on the way that you approach facility design the construction or even on operating costs.
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. Not really. I still expect facility cost and operating cost to decline year-over-year, quarter-over-quarter, but that's part of my of pre-disposition though. But the co-development whether the only thing that could possibly impact that would be is if we added, like in the Delaware a higher percentage of Second Bone, third Bone Springs wells that have higher water-cut and will not have to adjust to it. But we've accounted for all of that facilities design in our 2020 guidance.
+Adam Lawlis -- Vice President, Investor Relations
+Yeah. Ryan pad sizes and changing -- the mix of the wells within the pad is changing. So overall your facility size and spend is similar. Now in 2020 we do have more gas lift projects in our infrastructure budget. Those are one-time expenses that should roll through in 2020 and help LOE over the long term.
+Ryan Todd -- Simmons Energy -- Analyst
+Okay, great, that's helpful, thanks. And then maybe just a question on use of cash, I mean you guys have a significant increase in free cash flow next year. iI terms of use of free cash, I know you get asked about this all the time, but can you talk about priorities for use of cash specifically, like buybacks versus dividend growth, how do you look at the balance there and have you ever entertain the idea at all of variable distribution in excess of a base dividend rather than a buyback?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, I think if you go back and look at the previous communications that we've had about what our primary form of return to shareholders is and that's in the form of a di -- of an increase in dividend and that's what we intended to do on a go-forward basis.
+The variable distribution something that's not -- that's really not something we've considered. We don't want to overly complicate the business. There is not a lot that you can do with free cash flow and we believe we've addressed each of those in the form of share buyback potential for, as we said, we are always going to increase the dividend on a go-forward basis and that's what we intend to do.
+Ryan Todd -- Simmons Energy -- Analyst
+Okay. Thanks, Travis.
+Operator
+We do have another question from the line of Drew Venker from Morgan Stanley, your line is open.
+Drew Venker -- Morgan Stanley -- Analyst
+Hi, everyone. Just wanted to follow up on the guidance for 2020. I was so hoping you could give us a sense, and very simple terms. How much downtime you're assuming of your base production for 2020, and if you can compare that to what you had assumed for the original 2019 guidance?
+Adam Lawlis -- Vice President, Investor Relations
+Yeah. Drew, I mean, traditionally, the base production we assume high single digit downtime as a percentage of total. You know, 6%, 7% downtime. That number has stayed about the same for your base production. What we've risked is the additional production. Right? So you are not -- not only are you dish -- you're risking the new wells put online. But on top of that we have a -- the data we have, we shut in offset wells within a certain perimeter of the well getting completed ahead of time.
+So, your traditional risking stays in place. But on top of that, you need to risk any well that's being watered out within a certain parameter or a certain diameter of the well that you're completing for a certain period of time.
+Drew Venker -- Morgan Stanley -- Analyst
+Okay. But presumably you could still have watering out or shut an impact from new wells on office operators that would impact here your base production. Am I thinking about that incorrectly?
+Adam Lawlis -- Vice President, Investor Relations
+Yeah. Communication between offset operators is important I think in the Midland Basin, particularly where we're all really close to each other and there is not big fields that's important. But we model that impacts via some conservatism, and we also know where those guys are operating. We have a view into their six-month frac schedules.
+So we take that into account. I think what happened here is you had a larger pad on -- watering us out for a longer period of time than originally expected, and therefore going forward in those fields where we have offset operators we're very conservative on the water it out fields there.
+Drew Venker -- Morgan Stanley -- Analyst
+Okay.
+Travis Stice -- Diamondback Energy, Inc.
+I think just to wrap that up. I mean, we've got the visibility and we believe we've got more data analytics-driven decisions or data analytics now that can increase the predictabilities effect and we've accounted for that and it's in our go-forward plan. Probably more so in this year's plan than any plan we've previously submitted.
+Drew Venker -- Morgan Stanley -- Analyst
+Understood. Thanks for that Travis. Just as a follow-up, as you think about 2020 and the transition overall to I think the bigger projects, on average, how do you think about the cadence of growth throughout 2020? Is there a pretty wide range of project size and timing that would affect the cadence growth throughout the year? Just some more color on that.
+Adam Lawlis -- Vice President, Investor Relations
+Yeah, not too much, Drew, project sizes aren't changing much. I'd say the type of wells within the project is changing, right? So Midland Basin, we still do 4, 5, 6 well pads. But there's more co-development between zones. And so from a production growth perspective we are going to get back to growth in the fourth quarter and grow fairly consistently through the first half of 2020 and there is not a big lumpy month or third big lumpy quarter in that assessment. So it's going to be consistent POP growth and and production growth.
+Drew Venker -- Morgan Stanley -- Analyst
+And then, similar growth in the second half of the year, you think you is still consistent?
+Adam Lawlis -- Vice President, Investor Relations
+yeah, for 20.
+Drew Venker -- Morgan Stanley -- Analyst
+Thanks.
+Operator
+We have another question from the line of Asit Sen From Bank of America. Your line is open.
+Asit Sen -- Bank of America -- Analyst
+Thanks, good morning. Thanks for the details on the frac hits you provided to quantify in 3Q. Could you case broadly quantify the impact of frac hits that you're assuming in the 3% sequential growth in 4Q?
+Adam Lawlis -- Vice President, Investor Relations
+Yeah. I said, traditionally we model About 8% to 10% of our total production being watered out on any given time. I think as you think about the fourth quarter, Howard County is coming back. Today that field is back up to 40,000 gross barrels a day from the bottom of 25. But you are watering out other areas, such Spanish drill and small stuff in packets [Phonetic].
+But on an overall basis, I'd say, as a percentage of total production, our frac hits will be lower in Q4 than it was in Q3 and pretty consistent through 2020, especially as you get to full-field development in the Midland Basin.
+Asit Sen -- Bank of America -- Analyst
+Okay, great. And then some of your peers have -- are showing strong results in the third Bone Spring and just wondering if you have any incremental thoughts on that zone and the number of completions you're planning to complete in the zone, I can exactly for read hard on slide 6, but any rough estimation would be good.
+Adam Lawlis -- Vice President, Investor Relations
+Yeah, I think we're excited about it in the reward area in the Vermejo area. As you get into our packets County asset, we're more excited about the Second Bone Spring, or the third Bone Spring. So while we're not as excited about the Second Bone, in reward and and Vermejo that's where the third Bone is prevalent. And then, on the contrary, in the packets area, particularly on the eastern portion -- or western portion of the packets area, the Second Bone is probably our secondary zone behind the Wolfcamp A.
+Asit Sen -- Bank of America -- Analyst
+Thanks a lot.
+Operator
+We do have another question from the line of Jeoffrey Lambujon Tudor, Pickering, Holt Company. Your line is open.
+Jeoffrey Lambujon -- Tudor, Pickering, Holt -- Analyst
+Good morning, thanks for taking my questions. Just a few follow-ups on co-development. First one is, as we look at the number of wells and zones like the Wolfcamp B even though it's spread there in the Jo Mill. On the Midland side and the third Bone, Second Bone on the Delaware side as a percent of total wells for the next year, how has that percentage compared to 2019's mix and how does that change as you look forward 2021 and beyond?
+Adam Lawlis -- Vice President, Investor Relations
+Yeah, Jeff. I'll take the Delaware first because it's less of an impact *** part 5***
+Travis Stice -- Diamondback Energy, Inc.
+In 2019 I'd say the Wolfcamp A was almost 90% of 2019 development in the Delaware Basin, going to the closer to 85 or so in 2020. In the Midland Basin the big move actually happened in 2019 versus 2018-2017. So you take 2018 and 2017, we're probably closer to 65% to 70% Wolfcamp A and Lower Spraberry versus 2019 and 2020 closer to 50% or 55% in Wolfcamp A and the Lower Spraberry.
+Jeoffrey Lambujon -- Tudor, Pickering, Holt -- Analyst
+Okay. Should we expect -- just a quick follow-up to that, should we expect that percentage to continue kind of decreasing over time as you continue progressing on the co-developments?
+Travis Stice -- Diamondback Energy, Inc.
+I don't think it will decrease. I think the shift has been made and we are getting what we believe to be all the economic zones at once in the Midland Basin.
+Jeoffrey Lambujon -- Tudor, Pickering, Holt -- Analyst
+Got it. And then on these additional zones, can you just give more detail on how the early time productivity compares again as you look at the Wolfcamp B and the Middle Spraberry, for example, versus what you've historically seen in the Lower Sprayberry and Wolfcamp .
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. So very clearly you know the Middle Spraberry takes longer to clean up. So you do have less production early time in the Middle Spraberry and the Jo Mill versus the Lower Spraberry. And between the Wolfcamp A and Wolfcamp B, Wolfcamp A was just so strong. They have a similar production profile between the two Wolfcamp zones, but where we are the B is not as good as the A, but still highly economic. So you have high early time production is just not as high as what you see in the Wolfcamp A.
+Jeoffrey Lambujon -- Tudor, Pickering, Holt -- Analyst
+Thank you.
+Operator
+We do have another question from the line of David Deckelbaum from Cowen. Your line is open.
+David Deckelbaum -- Cowen -- Analyst
+Good morning, Travis and [Indecipherable]. Thanks for taking my questions guys.
+Travis Stice -- Diamondback Energy, Inc.
+You good David.
+David Deckelbaum -- Cowen -- Analyst
+I was hoping to get some color. You talked a lot about '20 guidance. You laid out that free cash projection of 675 accounting for the lower NGL prices. Can you add more color on just the Carlyle JV, the 15 to 17 wells being drilled. One where that development is taking place, and then two, what you think the net cash benefits going to be to Diamondback this year?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, David, so this is the first year where the Carlyle JV is a significant portion of our total well count, 16 wells about 5% of 2020 total well count. That's in the San Pedro Ranch which is the southeast corner of our packets County asset. Carlyle and Donvac have elected to drill out the northern portion of that -- the North half of that in 2020. We have to account for that at 100% of the production, but also 100% of the capital and we estimate that JV in 2020 actually produces $50 million more free cash flow.
+And then we're presenting on on slide 7. So, we're putting up 15% of the capital for 20% of the production. And after certain return thresholds are met, we will control 85% of the production.
+David Deckelbaum -- Cowen -- Analyst
+Okay. So it's helpful. The other question I had was just you all made a lot of headway this year in terms of LOE coming down, it sounds like you have some infrastructure investments that you're hoping will pay off to similar effect in '20. The margins that you're assuming, I guess in that '20 free cash guide, is that just holding your current cost structure flat?
+Adam Lawlis -- Vice President, Investor Relations
+No, there. I think we're going to see another couple of binds of health here into the fourth quarter and into 2020 on the LOE side. So we're kind of modeling mid fours for LOE going forward. But every cent counts $0.01 cent is $1 million of free cash. So there is certainly some benefits in some tailwinds, we'll see even into 2021 as we get some permanent infrastructure in place.
+Jason Wangler -- Imperial Capital -- Analyst
+Appreciate the color, guys.
+Travis Stice -- Diamondback Energy, Inc.
+Thank you, David.
+Operator
+We have had another question from the line of Jason Wangler from Imperial Capital. Your line is open.
+Jason Wangler -- Imperial Capital -- Analyst
+Good morning, guys. Just had one question. As you think about the free cash flow, you talked about in 2020, where does reducing the debt on the credit facility kind of come into that equation? Is that something more that if you look at asset sales and things or is that something that's kind of normal course business alongside the other initiatives?
+Adam Lawlis -- Vice President, Investor Relations
+yeah, Jason, we feel like we've got the revolver to a point where we're comfortable, we have a significant borrowing base behind it, we haven't even added the Energen properties, which had a borrowing base of $2 billion, so our pro forma borrowing base, is closer to $5.5 billion.
+We were trying to run this company like an investment grade company and we hope that time comes. And at that point we would reduce our revolver borrowings to zero and term out our debt. But from an absolute basis other things to be at the margin, certainly, but we feel very comfortable about our growth profile and what our absolute leverage and leverage metrics look like.
+Jason Wangler -- Imperial Capital -- Analyst
+I appreciate it. Thank you.
+Travis Stice -- Diamondback Energy, Inc.
+Thank you, Jason.
+Operator
+Our request -- our first -- another question from the line of Betty Jiang from Credit Suisse. Your line is open.
+Betty Jiang -- Credit Suisse -- Analyst
+Thank you and good morning. Appreciate your comments earlier about showing steady production growth cadence through 2020. I was wondering if you could give us some type of range on where oil production could be in the 4Q 2020.
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, Betty. I'm hoping we we exit the year and the mid to high teens exit-to-exit versus Q4 2019.
+Betty Jiang -- Credit Suisse -- Analyst
+Got it. And then the 4Q 19 level will be sort of in the low '90s and so that will put us in probably close to mid 220s for 4Q.
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, I mean, I think we tried to very accurately describe what we think Q4 2019 is going to look like, and a growth rate on top of that.
+Betty Jiang -- Credit Suisse -- Analyst
+Great. Thank you for that. And then, follow-up is on the sort of buyback, how are you guys thinking about peso buyback going forward, would it more likely follow the quarterly free cash flow cadence through the year? Or would it be pretty opportunistic, depending on price actions?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. Primarily it will be based on free cash flow and being revolver neutral. I certainly think, we have an opportunity here to be a little more aggressive in the near term. But over the long term, it's focused on buying back stock within the free cash flow framework.
+Betty Jiang -- Credit Suisse -- Analyst
+Got it. Makes sense. That's all from me. Thanks.
+Travis Stice -- Diamondback Energy, Inc.
+Thank you, Betty.
+Operator
+We have another question from the line of Richard Tullis from Capital One Securities. Your line is open.
+Richard Tullis -- Capital One Securities -- Analyst
+Thanks, good morning.
+Travis Stice -- Diamondback Energy, Inc.
+Good morning, Rich.
+Richard Tullis -- Capital One Securities -- Analyst
+Travis, when you look at the oil mix projected for 2020, I guess, it's down a couple of percent from where you were, say, in the first half of this year. How do you see the oil mix trending over the next several years assuming no additional acquisitions? Does it move closer to the 1P reserve number?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. Ultimately, we'll move closer to the 1P number. But for the next couple of years, I think, what we've got modeled at this kind of activity pace and that balance of kind of growth and yield you'll -- I think, you'll see more of a steady oil cut on a go-forward years.
+Adam Lawlis -- Vice President, Investor Relations
+On a yearly basis.
+Travis Stice -- Diamondback Energy, Inc.
+On a yearly basis, yeah.
+Richard Tullis -- Capital One Securities -- Analyst
+Okay, thank you. And just lastly. Shifting over to the limelight prospect, it sounds like you had some appraisal drilling in the past quarter, what are you thoughts on what you saw there and how many wells might be planned for 2020?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. We certainly -- we didn't disclose any results this quarter, but we like what we saw and we've got another appraisal well I think planned back half of this year, or back half of next year.
+Richard Tullis -- Capital One Securities -- Analyst
+Okay, all right. That's all from me. Thank you.
+Operator
+We have another question from the line of Charles Meade from Johnson Rice. Your line is open.
+Charles Meade -- Johnson Rice -- Analyst
+Good morning. Travis, you and your team, you guys have covered a lot of ground already this morning. I think, I have just a couple of quick ones. First one, on the Vermejo area, I understand that that's a relatively a guess here, but I think it's also my understanding that that's one of your -- or at least has been one of your best most attractive areas at the top of the portfolio. Is that still the case? Or has there been anything...
+Travis Stice -- Diamondback Energy, Inc.
+Still the case.
+Charles Meade -- Johnson Rice -- Analyst
+Okay. Thank you. And then second this is maybe a bigger picture question Travis about the service environment. You and a lot of other operators are talking about a service-deflation in service costs. But from the outside looking in and certainly you see this with their stock prices that looks like a sick business model that's not doing very well.
+So, did you guys ever -- do you guys spend any time thinking or talking about the viability of this -- your service partners? And is that something that you have anything you'd want to share your thoughts on?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, look, we need that sector to perform well. They are business partners and they're vitally important to us prosecuting our development plan on a go-forward basis. I believe that the headwinds the upstream E&P *** part 6***
+guys are facing are also being applied to the service sector. But I don't concern myself with viability as much as I do maybe availability.
+There could be some elements of the OFS sector that gets put under more harsh pressure than some of the big guys. And that's why we try to be open and transparent with our service sector business partners is to make sure that they understand our plans and we understand their plans.
+Charles Meade -- Johnson Rice -- Analyst
+Thanks, Travis.
+Travis Stice -- Diamondback Energy, Inc.
+You bet. Thanks, Charles.
+Operator
+We have another question from the line of Biju Perincheril from Susquehanna. Your line is open.
+Biju Perincheril -- Susquehanna -- Analyst
+Hi, thanks. Good morning. Travis just when looking at the frac hits and impact, when you look at how quickly those wells can recover, what -- is there a relationship between the vintage of that well the producing well on the formations? And how should we think about that?
+Travis Stice -- Diamondback Energy, Inc.
+No, I don't think vintage is the relevant indicator. It's just proximity. So, if you're within a certain amount of lateral feet from that particular well, we shut in the well we're producing early and then it comes back five to 10 days after the frac job is complete.
+Adam Lawlis -- Vice President, Investor Relations
+Yes, we've got wells -- I think I mentioned earlier, we've got wells in Spanish Trail that have been what -- frac hit five or six times over the last five or six years. And as we go through into down with our reserve auditors, you see the frac hit and then you see the recovery back to the former decline rates. So it has nothing to do the vintage, it just really has to do with the proximity of where the offending waters being injected in the frac operations.
+Biju Perincheril -- Susquehanna -- Analyst
+Got it. And then just going back to the other question on the oil mix. So if you're in that maintenance mode that you've referenced in the press release, the $1.7 billion capex scenario -- not that's what you're doing, but if that's the case sort of we better understand the impact on fresh wells coming on, where could the oil mix line out?
+Adam Lawlis -- Vice President, Investor Relations
+Yes. So, oil decline -- base decline is 36%, 37% next year. BOE base decline is 33%. So, you will see a little bit of a lower oil percentage if you went into maintenance mode or if you went into full decline. If you went into a maintenance mode, we kind of estimate you'd lose from an oil percentage perspective, 1%, 1.5%.
+Jason Wangler -- Imperial Capital -- Analyst
+Okay, that's very helpful. Thank you.
+Travis Stice -- Diamondback Energy, Inc.
+Thanks, Biju.
+Operator
+Thank you. We have another question from the line of Scott Hanold from RBC Capital Markets. Your line is open.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Thanks, appreciate it. Real quickly. Just to go back to the frac hits in the Howard County area. When you step back and look at how you planned for it in third quarter, was there any kind of miscommunication between you and the non-op that was fracking close to you? Or was it just the amount of time it took for those wells to get online that was the delta?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. They fracked, I think 24 wells, it took 2.5 months to get out 24 wells completed. And I don't know if they had operational issues or not, but that was a long time to be pumping water in the ground immediately adjacent to some of our best oil producers in the county.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Yes. So I guess to my -- the point I was trying to get to is, is there constant communication between you all when they're going to be close to you? Or how does that operationally work when they're going to be fracking close to you and keeping in touch with them to understand where they're at and issues that they're having?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah. Across the basin, we have good communications with all the operators, and specifically again in Howard County is -- those -- that big pad that was developed was physically adjacent to the lease line. And so as they continue their development scenarios, they're moving further to the east more away from our good producers. So we think that -- again we think we've got models more conservative on a go-forward basis and maintain good communication with all of our offset operators because we do the same to them. So we treat them like we want to be treated.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Okay. That's good to hear. And my follow-up is you mentioned in the press release talking about the -- how the mix of oil has changed prior -- since the closing of the Energen merger. Has -- anything with the GoR with the Energen assets? Is that any different than what you would have expected at this point in time?
+Travis Stice -- Diamondback Energy, Inc.
+No, it's just, -- it's what we've expected.
+Scott Hanold -- RBC Capital Markets -- Analyst
+Okay, thank you.
+Operator
+We have another question from the line of Leo Mariani from KeyBanc. Your line is open.
+Leo Mariani -- KeyBanc -- Analyst
+Yeah. Hi guys. I don't want to beat a dead horse on the issue here of third quarter, offset brackets and shut-ins. But I was hoping to look at it slightly differently. Would you guys be able to quantify what you think you lost on production in third quarter relative to two quarter? Was this like a two or three times standard deviation event versus what you normally would have seen in the prior few quarters?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, I'd say the two times standard deviation of that. We traditionally model out good amount, 10% or so of gross production watered out and this was closer to 15% to 20% for the quarter. I estimate that it's probably an additional 4,000, 5,000 net oil barrels than what was expected going into the quarter.
+Leo Mariani -- KeyBanc -- Analyst
+Okay, that's helpful. And just moving over to co-development. Obviously, you guys talked about doing more zones that maybe you had in past years here in 2019. Maybe just philosophically, can you talk about how you think about that from a returns perspective? Do you think that that kind of hurt your returns a little bit, but maybe just gives you a lot more NPV and save costs in the longer term, maybe just talk about some of the trade-offs there?
+Travis Stice -- Diamondback Energy, Inc.
+Yeah, let's just talk about the most germain one, which I believe is you see a potential based on way we haven't modeled the degradation of rate of return. But that's offset because of the fact we're increasing net present value. We believe if you don't catch some of these zones now that we've actually been really surprised how good they've turned out. If you don't catch them now, if you think you're going to come back in five to six years and get them.
+We've seen that that's just not going to work. I think Energen -- legacy Energen assets in Martin County, they did a lot of zone development and then came back in and did zones beneath it. And using that data set and seeing the degradation of not doing them concurrently kind of involving us to make this strategy.
+Leo Mariani -- KeyBanc -- Analyst
+Thank you.
+Operator
+Our next question comes from the line of Michael Hall from Heikkinen Energy. Your line is open.
+Michael Hall -- Heikkinen Energy -- Analyst
+Thanks. Leo,just kind of hit on something I was going to ask, I guess maybe coming out again a little bit. Is it the parent well that has the degradation? Or is it -- maybe parents not even the right word. But is it the primary reservoir or those secondary reservoirs that have the degradation in performance, if you come out after it too long distances...
+Travis Stice -- Diamondback Energy, Inc.
+[Speech overlap] Michael, let's -- yes, I said earlier that if you're trying to compare a Wolfcamp A well in Howard County, which is probably a 80% to 100% rate of return versus co-developing with it Jo Mill or Middle Spraberry, which is probably 35% to 50% rate of return. That's the delta that we're seeing.
+Obviously, if we -- when we've made the decision to singularly develop the zones is really back in 2015 and 2016 when the oil prices and free fall and we were trying to do the highest rate of return, highest rate of return zones. And now we've seen that we believe that co-development is the right strategy on a go-forward basis.
+Michael Hall -- Heikkinen Energy -- Analyst
+Okay. And it's kind of a use or lose it. It sounds like for the Tier 2 reservoirs and it's those reservoirs that suffer not the Tier 1 if you come back too late. Is that right?
+Travis Stice -- Diamondback Energy, Inc.
+Yes that's correct. I mean I wouldn't say you can lose it. If you just use it or you'll have significant degradation in seven -- five, seven years when you come back and try to get the secondary zones.
+Michael Hall -- Heikkinen Energy -- Analyst
+Okay. That's helpful. And then just circling back quickly on the San Pedro JV. So is it right to think that -- I mean, the actual net capex this year, sorry in 2020, is just shy of 2.7% to 2.9 as opposed to 2.8 to 2.3. Just trying to understand like how the actual cash impact will look for 2020
+Travis Stice -- Diamondback Energy, Inc.
+Yes. So really, it's net $140 million of less capex but you probably get net $80 million or so less of production cash flow. So on a free cash flow basis you're getting $50 million *** part 07 ***
+to $60 million more of free cash flow.
+Michael Hall -- Heikkinen Energy -- Analyst
+Yeah. Okay. So -- but the production guide is net, is that right?
+Travis Stice -- Diamondback Energy, Inc.
+The production guidance is gross and the capital guidance is gross ...
+Jason Wangler -- Imperial Capital -- Analyst
+[Speech Overlap] The production is gross. Okay, got it. All right. Thank you.
+Operator
+There are no further questions at this time, I will now turn the call back over to Mr Travis Stice, the CEO. Sir?
+Travis Stice -- Diamondback Energy, Inc.
+Thanks again to everyone participating in today's call. If you have any questions please contact us using the confirmation -- contact information provided. We're in the office all the rest of this week.
+Operator
+This concludes today's conference call everyone. Thank you for joining us. You have a good day.
+Duration: 59 minutes
+Adam Lawlis -- Vice President, Investor Relations
+Travis Stice -- Diamondback Energy, Inc.
+Neal Dingmann -- SunTrust Robinson Humphrey -- Analyst
+Brian Singer -- Goldman Sachs -- Analyst
+Derrick Whitfield -- Stifel -- Analyst
+Tim Rezvan -- Oppenheimer -- Analyst
+Jeff Grampp -- Northland Securities -- Analyst
+Ryan Todd -- Simmons Energy -- Analyst
+Drew Venker -- Morgan Stanley -- Analyst
+Asit Sen -- Bank of America -- Analyst
+Jeoffrey Lambujon -- Tudor, Pickering, Holt -- Analyst
+David Deckelbaum -- Cowen -- Analyst
+Jason Wangler -- Imperial Capital -- Analyst
+Betty Jiang -- Credit Suisse -- Analyst
+Richard Tullis -- Capital One Securities -- Analyst
+Charles Meade -- Johnson Rice -- Analyst
+Biju Perincheril -- Susquehanna -- Analyst
+Scott Hanold -- RBC Capital Markets -- Analyst
+Leo Mariani -- KeyBanc -- Analyst
+Michael Hall -- Heikkinen Energy -- Analyst
+More FANG analysis
+All earnings call transcripts
+
+
+
+
+

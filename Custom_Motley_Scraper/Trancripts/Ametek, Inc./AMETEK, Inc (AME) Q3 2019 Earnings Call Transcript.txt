@@ -1,0 +1,280 @@
+Image source: The Motley Fool.
+AMETEK, Inc (AME -0.01%)Q3 2019 Earnings CallOct 31, 2019, 8:30 a.m. ET
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Q3 2019 AMETEK, Inc. Earnings Conference Call. [Operator Instructions]
+I would now like to hand the conference over to your speaker Kevin Coleman, Vice President of Investor Relations. Thank you. Please go ahead, sir.
+Kevin Coleman -- Vice President of Investor Relations
+Thank you, Justin. Good morning, and thank you for joining us for AMETEK's third quarter 2019 earnings conference call. With me today are Dave Zapico, Chairman and Chief Executive Officer; and Bill Burke, Executive Vice President and Chief Financial Officer. AMETEK's third quarter results were released earlier this morning, and are available on market systems and in the Investors section of our website. This call is also being webcast and can be accessed on our website. The webcast will be archived and made available on our site later today.
+During the course of today's call, we will make forward-looking statements, which are subject to change based on various risk factors and uncertainties that may cause actual results to differ significantly from expectations. A detailed discussion of the risks and uncertainties that may affect our future results is contained in AMETEK's filings with the SEC.
+AMETEK disclaims any intention or obligation to update or revise any forward-looking statements. Any references made on this call to 2018 or 2019 results will be on an adjusted basis, excluding after-tax, acquisition-related intangible amortization and excluding the fourth quarter 2018 gain related to the finalization of the impact of the 2017 Tax Cuts and Jobs Act. Reconciliations between GAAP and adjusted measures can be found in our press release and on the Investors Section of our website.
+Also this morning, we announced the closing of the Gatan acquisition. Our fourth quarter 2019 guidance and our updated full year 2019 guidance, which Dave will speak to you shortly, include Gatan. We'll begin today's call with prepared remarks by Dave and Bill, and then open it up for questions.
+I'll now turn the meeting over to Dave.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you, Kevin, and good morning everyone. AMETEK delivered another outstanding quarter with exceptional operating performance, earnings above expectations. Solid organic sales growth and the acquisition of two highly strategic businesses. Our execution of the AMETEK growth model, including an increased focus on operational excellence allowed us to report record levels of EBITDA, operating income and diluted earnings per share in the quarter. Additionally, our businesses generated record operating cash flow, providing the capital to support our growth model and drive strong long-term shareholder returns. Given our results in the quarter, we will once again raise our earnings guidance for 2019.
+Now on to the financial highlights for the quarter. Total sales were $1.28 billion, up 7% compared to the third quarter of 2018. Organic sales were up 3%, acquisitions added 5% and foreign currency was a one point headwind. AMETEK's operating performance in the quarter was exceptional, resulting in record operating results and robust margin expansion. EBITDA in the third quarter increased 12% over the prior year to $349 million. EBITDA margins in the quarter were also excellent at 27.4%. Operating income were $301.1 million in the quarter, up 13% over the third quarter of 2018. Reported operating income margins were up an impressive 140 basis points to 23.6%. And excluding the dilutive impact of acquisitions operating margin increased 150 basis points over the prior year period. Earnings in the third quarter, were $1.6 per diluted share up 16% over the same quarter in 2018.
+This comfortably exceeded our guidance range of $1 to $1.2 per share. Additionally, our business is generated $330 million of operating cash flow in the quarter, up an impressive 33%. Over the same period last year, resulting in outstanding cash conversion in the quarter.Now on to the individual operating groups. First the Electronic Instruments Group, EIG sales in the quarter were $815.6 million, up 10% over last year's third quarter. Recent acquisitions contributed 7%, organic sales added 3% and foreign currency was a one point headwind.
+We continue to see solid growth across our aerospace, defense and process businesses with particularly strong growth again in our Materials Analysis Division. EIG delivered fantastic operating performance in the quarter with operating income up 15% to a record $219.5 million. Reported operating income margins increased 130 basis points to 26.9%. And excluding the dilutive impact of acquisitions EIG is operating margins expanded an impressive 170 basis points over the third quarter of 2018.
+The Electromechanical Group also performed exceptionally well in the quarter with solid organic sales growth and superb operating performance. Sales in the third quarter for EMG were $461.1 million, up 2% over the same quarter in 2018. Organic sales grew 3% with contributions from the acquisition of Pacific design technologies being more than offset by foreign currency headwinds. Strong growth across our Engineered Materials and Aerospace and Defense businesses in the quarter was offset in part by continued slowing in our Automation business. EMG's operating performance in the third quarter was also outstanding. Operating income increased to a record $103.5 million, up 12% over the 2018s third quarter. EMG's operating income margins increased sharply to a record 22.4%, up 180 basis points over the prior year period. Excluding the dilutive impact from acquisitions EMG's margins expanded 190 basis points in the quarter.
+To summarize, AMETEK delivered another quarter of fantastic results reflecting the strength and flexibility of the AMETEK growth model and the excellent work of our colleagues worldwide. Before providing our updated guidance for 2019, I wanted to provide some additional highlights for the quarter. First, I'd like to congratulate the team at CAMECA, for their recent launch of the EIKOS-UV atom probe microscope. CAMECA is the world leader in Atom Probe Tomography. The new Atom Probe Microscope reinforces the leadership position with increased ease of use at a lower cost of ownership. The EIKOS-UV delivers nanoscale structural information enabling a new understanding materials for research and faster development of products for industrial applications.
+This new product complements CAMECA's Leap [Phonetic] 5,000 atom probe which drives the fastest more sensitive 3D imaging and Analysis System with nanoscale resolutions across the wide range of applications. Developing leading-edge technologies is the core to AMETEKs success. We are committed to continuing our strong levels of investment in research, development and engineering of new products in the solutions to drive innovation across our businesses. For all of 2019, we expect to invest more than $260 million in RD&E, a 13% increase over 2018. This level of investment and success of our R&D average leads to a healthy Vitality Index.
+Our Vitality Index, which is a measure of sales from products and solutions introduced over the last three years was excellent at 24% in the third quarter. We also remain committed to investing in our sales and service capabilities to support our global and market expansion initiatives. And in September, we unveiled our newest Center of Excellence in Singapore. This center of excellence, which is similar to other centers we have around the world includes products and solutions from numerous AMETEK businesses includes products and solutions from numerous AMETEK businesses including Rauland, Taylor Hobson, Zygo, EDAX, Programmable Power and others. This state-of-the-art facility serves as a product showcase, application lab and service facility for our customers and partners in the region. Congratulations to our teams on this important effort.
+Now shifting to acquisitions. It has been another very active and highly successful year on the acquisition front. Since our last earnings call, we've acquired two excellent business, Pacific Design Technologies or PDT for short and Gatan. I'll touch briefly on these acquisitions. First PDT. PDT is a leading provider of advance mission critical thermal management solutions. Their custom engineered liquid cooling systems and components are used across a broad set of current and next generation commercial aerospace, defense and space platforms.
+PDT is an excellent fit with our thermal management systems business given their complementary thermal management solutions and deep R&D expertise. PDT is headquartered in Galena California, and has annual sales of approximately $40 million. We deployed approximately $125 million on the acquisition.
+Now moving to AMETEK's largest acquisition today, Gatan which we acquired this week. Gatan is a tremendous acquisition for AMETEK. Market leading technologies, premier brand, highly complementary fit with our existing instrumentation businesses, attractive mid-to-high single-digit growth rates, excellent profitability and cash flow and the ability to drive improved profitability with excellent returns on capital. Overall, an excellent acquisition.So a little more on the business. Gatan is the leading brand in direct detection technology for electron microscopy, supporting high-end research and materials and life science applications. Their solutions enable improved microscopy workflows and specimen preparation, imaging and analysis.
+Gatan's technology and product offering nicely complements our Materials Analysis business, providing AMETEK with an enhanced position in high-end analytical instrumentation and expanded capabilities in the Life Sciences market. The business has headquartered in Pleasanton, California and has annual sales of approximately $180 million. We deployed approximately $925 million on this acquisition. Thus far in 2019, we deployed nearly $1.1 billion on these two acquisitions. This follows 2018, when we deployed over $1.1 billion on six acquisitions, resulting in approximately $2.2 billion of capital deployed on acquisitions over the last two years. This success speaks to the strength and discipline of our acquisition and integration process.
+Even with this level of activity, our acquisition pipeline remains full and we have significant balance sheet capacity to continue our acquisition strategy. As we integrate these recent acquisitions into AMETEK, we look for them to embrace each of the elements of the AMETEK growth model, including our operational excellence strategy focused on cost and asset management. As evidenced in our tremendous operating performance, margin expansion and cash flow generation this year, our businesses continue to drive meaningful efficiency improvements through the implementation of our operational excellence initiatives. We have again increased our full year target for operational excellence savings from $85 million to now $90 million of savings in 2019. Our operational excellence strategy plays an increasingly important role, given the uncertain global economic environment.
+Now shifting to the outlook for the fourth quarter. Given our strong results in the third quarter, we now expect 2019 earnings to be in the range of $4.12 to $4.14 per diluted share, up 13% over 2018’s earnings per diluted share. This new guidance range has increases from our previous guidance range of $4.04 to $4.10 per diluted share. We expect overall sales for the year to be up mid-to-high single digits with organic sales growth of approximately 3%. Fourth quarter sales are expected to be up mid-single digits with earnings in the range of $1.01 to $1.03 per diluted share, up 5% to 7% over the prior year. To summarize, our third quarter performance was excellent. We are well positioned to managing in a challenging economic environment, given the flexibility of our growth model and proven operating capability.
+I will now turn it over to Bill Burke, who will cover some of the financial details of the quarter, then we'll be glad to take the questions. Bill?
+William J. Burke -- Executive Vice President & Chief Financial Officer
+Thank you, Dave. As Dave noted AMETEK had an excellent third quarter with strong operating performance. Let me provide some additional financial highlights. Core selling expense in the quarter was down slightly versus the third quarter of last year. Third quarter, general and administrative expenses were up $4.1 million year-over-year on higher compensation expense. For the full year, we expect general and administrative expenses to be approximately 1.5% of sales, in line with 2018.
+The effective tax rate for the quarter was 19.5%, down from last year's third quarter tax rate of 21.9%. For 2019, we now expect our effective tax rate to be approximately 20.5%, and as we've stated in the past, actual quarterly tax rates can differ dramatically either positively or negatively from this full year estimated rate. Working capital was 18.2% in the third quarter, down slightly from 18.3% in the second quarter of this year. Capital expenditures were $18 million in the quarter and $62 million for the year to date. For the full year, we continue to expect capital expenditures to be approximately $100 million or about 1.9% of sales.
+Depreciation and amortization expense was $55 million in the quarter. For the full year, we continue to expect depreciation and amortization to be approximately $235 million including after-tax acquisition-related intangible amortization of $100 million or $0.44 per diluted share. Our businesses continue to generate very strong levels of cash flow. Third quarter operating cash flow was a record $330 million, up 30% over last year's third quarter. Free cash flow was $311 million, up 35% over the same period. As a percentage of net income, free cash flow conversion was an impressive 141% in the quarter.
+For the full year, we expect free cash flow conversion of approximately 110% of net income. Total debt at the end of the third quarter was $2.43 billion, down from $2.63 billion at the end of 2018. Offsetting this debt is cash and cash equivalents of $735 million resulting in a net debt-to-EBITDA ratio as of September 30, of 1.2 times. As Dave noted, we continue to be very active deploying our capital on strategic acquisitions. In the third quarter, we acquired PDT and subsequent to the end of the quarter, we acquired Gatan. Combined, we deployed $1.1 billion on these two acquisitions.
+Our pipeline remains healthy and we have significant financial flexibility to continue to execute our acquisition strategy, with approximately $1.3 billion of cash and existing credit facilities available following the Gatan acquisition. In summary, our businesses delivered excellent results in the third quarter and through the first nine months of the year. We remain well-positioned to support our long-term growth strategy given our strong balance sheet and excellent cash flows. Kevin?
+Kevin Coleman -- Vice President of Investor Relations
+Thank you, Bill. Justin, could you please open the lines for calls for questions.
+Questions and Answers:
+Operator
+[Operator Instructions] Our first question is going to come from Matt Summerville from D.A. Davidson. Your line is now open.
+Matt Summerville -- D.A. Davidson -- Analyst
+Thanks. Good morning. Couple of questions. First, Dave, can you maybe talk a little bit about what incoming organic order rates look like during the quarter in total for AMETEK and across the two segments?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah. Sure, Matt. Overall orders were up 3% in the quarter. Organic orders were down, negative 2.5%. And if I look at that by Group, EIG organic orders remain solid, they were positive solid across most of the EIG portfolio, Aerospace process medical. EMG orders were down, mainly due to our Automation business and Asia. As we highlighted last quarter were experienced soft conditions in those two areas and which continued into quarter three.
+William J. Burke -- Executive Vice President & Chief Financial Officer
+And then maybe just talk a little bit more about the Gatan acquisition. Historically speaking, shied away might be too strong of a term, but you haven't really done much in the life sciences space opting instead more for medical and healthcare with Rauland and some of the other businesses. So maybe talk about what attracted you now to life sciences. So maybe sort of the, why now question. And then what you see in that business potentially from a synergy standpoint and the level of cyclicality, we should expect out of that business.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Right. Yeah. Our Materials Analysis business that Gatan will become a business unit of has had an existing life science presence and it's been a small presence and we haven't talked about it much but certainly with Gatan -- end market there are 50-50 split between Life Sciences so biology, cancer research and then material sciences. So it fits our existing profile, but it does add life sciences capability and we really like that and with their technology and with their market exposures there is really attractive growth opportunities, we think it's a mid-to-high single-digit grower. I mean, and I think about the Gatan business, it's a very differentiated technology business. It's a sizable transaction with strong profitability for AMETEK shareholders will get a good return on capital.
+It's a premier brand, we followed this business for a long time. It's a premier brand, they have highly specialized intellectual property is over 150 patents in the business and strong management team, that's staying with the business we're pleased about that, and it's a business that is dependent on new product introductions. So we're going to have to work on the new product introduction cycle because that drives a lot of growth. And I think you can expect it to fit into MAD, and MAD is performing very well for AMETEK. So it's a great add to MAD. So we're very excited with the acquisition.
+Matt Summerville -- D.A. Davidson -- Analyst
+Thanks, David.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thanks, Matt.
+Operator
+Thank you. And our next question comes from Deane Dray from RBC Capital Markets. Your line is now open.
+Deane Dray -- RBC Capital Markets -- Analyst
+Thank you. Good morning, everyone.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Good morning, Deane.
+Deane Dray -- RBC Capital Markets -- Analyst
+Hi, Dave, maybe pick up on your last point about the macro environment, you said it's a challenging operating environment. But you put up great margins and cash flow. But you did point to some weakness in automation in Asia, and this is consistent with what we've seen elsewhere in the sector this quarter, short cycle pressures and Asia in particular. So could you expand a bit on what you're seeing in the automation side in terms of the softness and then, how would you characterize the softness in Asia, is that trade uncertainty related?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, sure, Deane. Asia was down for us by -- I'll start with the geography question. Asia was down mid-single digits and it was driven by China. So very similar to quarter two for us, it was really the same trend, our Automation business did not weaken sequentially was the same trends. But at the same time, the other geographic results were similar to the second quarter we were up mid single digits with broad-based growth in the U.S. And in Europe, we were up mid single digits, and we have the Aerospace in our oil and gas business and really a lot of businesses did well in Europe.
+So, it felt like Q2 the weakness played in the Q3 continue to didn't get weaker and we did see a little bit of incremental industrial weakness that showed up in our Power Industrial business in quarter three. But overall, when you think about our portfolio. Our Aerospace business is very strong. Our Process businesses are rock solid and our medical business is holding up well. And we have a weakness in automation in Asia, and then we have a bit of incremental industrial weakness and that's the full picture that we have.
+Deane Dray -- RBC Capital Markets -- Analyst
+That's certainly is consistent what we've been seeing. Any comments about how October has played out. And then I know you're not in the business, yet of giving 2020 guidance. But just qualitatively for this challenging operating environment, what's the set up for next year for AMETEK in the way you have discussions with customers, the visibility on product introductions and so forth. Thanks.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+I'll start with the insight in 2020, as is typical for this time that we're not going to give guidance for 2020 as you know Deane, and during November and December, we're going to sit down with our teams and work with the businesses to build a bottom-up budget and this will include a detailed review of our niche markets, which are sometimes different than the overall macro and the risks and opportunities that our businesses are seeing their 2020 business plan.
+I think in terms of operating in this kind of environment with trade tensions and customers hesitant to spend, and ordering patterns changing a bit in terms of just giving you an order for what you need versus giving you a longer-term outlook at something, there are some issues to deal with, but AMETEK is ideally suited to thrive in this environment, because we have the OpEx capability. It's in our DNA, and we have the M&A driver. And we're going to put those two elements of our strategy to work and succeed in the current environment that's the way we're looking at it and then I'll go into our 2020 planning.
+Deane Dray -- RBC Capital Markets -- Analyst
+And any comments on October?
+William J. Burke -- Executive Vice President & Chief Financial Officer
+Well, I'll cover. Yes, I get back to that. Throughout the quarter, we looked at our orders and they were OK in July. They stepped up a bit in August, as we typically have, and then September sometime when September was stronger than August, but we didn't get the big spike of orders in September. So it was a bit muted. It was still better than August. So we had a normal stair-step through the quarter. And then October starting out right on plan. So October feels better, a lot like the first quarter of -- the first month of Q2, so -- and Q3. So we got this trend where we're stepping up by month of the quarter, but it's a bit muted usually in the last month of the quarter.
+Deane Dray -- RBC Capital Markets -- Analyst
+Terrific.And then, congratulations on Gatan. That's a great asset. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you. Thank you, Deane. We feel the same way.
+Operator
+Thank you. And our next question comes from Josh Pokrzywinski from Morgan Stanley. Your line is now open.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Hi, good morning, guys.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Hi, Josh. Good morning.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Just one of the questions we get a lot is kind of AMETEK compared the cycle to maybe the last industrial slowdown. I know it's something that comes up from time-to-time on calls that folks are always worried that the next move of the ISM is going to be down for AMETEK. But you guys have been much more resilient, especially this year. Can you talk, David all about how you're mixing up through M&A whether that's margins organic growth and maybe specifically on how the kind of portfolio evolution of exposure to customers R&D versus capex spend is may be changed?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, sure. I mean every slowdown is a bit different, Josh. So basing performance on the prior slowdown is often is not going to work out, but what we see is we really have, as I mentioned to Deane earlier, we have elements of our portfolio that are continuing to perform very well. Our Aerospace business is strong and that's strong across all segments of Aerospace, and we have some good wins in Aerospace that we're going to continue to benefit from our process and analytical instrumentation we added some healthcare to that and that's holding up very well for us.
+The commodity parts of our businesses that were about 22% of our sales. Before we head into the 2015, 2016 downturn, but they're down around 16% of our businesses as we grew around them. At the same time, those businesses are performing well right now. So this doesn't feel like the prior downturn to us. And, but there is -- this one is our self-induced. And it's different. And it's really trade-related to started it and it's affecting the customer behavior because of that and what we're going to do is, whatever the economy brings to us, we're going to operate well in it. And we think we're well positioned with our operational excellence capability and we have the M&A driver is working very well. So we're, like I said before, we're looking to outperform in the current environment.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Terrific. And then just a follow up, obviously margins have been pretty spectacular throughout the year. I think another step-up in the third quarter. How should we think about kind of the progression from here? And any kind of puts and takes, either related to seasonality or any kind of blue birds in the quarter that may have helped out?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Right. Yeah, you said we had excellent margin performance in the quarter and it was primarily overall excellent execution. I mean, we had good price in the quarter. Excellent cost reductions that plant efficiencies were fantastic and we have the incremental contribution margin on incremental sales. So we plan to keep executing that way. I don't know if the margins are going to continue at that level, we certainly the way we think about our business as we think we're going to get 30 to 40 basis points of core margin expansion every year, that's kind of built into our operating model and that's built into the way we think about operational excellence long term. So there is -- there is cost reduction drivers that we have in our business that and we pull those levers, and there is plenty of runway on margins. So that's how we think about it.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Great. Thanks for detailing congratulations.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah. Thanks, Josh.
+Operator
+Thank you. And our next question comes from Nigel Coe from Wolfe Research. Your line is now open.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks, good morning.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Good morning, Nigel.
+Nigel Coe -- Wolfe Research -- Analyst
+Just I'll echo the comments on operating margins. Great execution there. And I did want to put a finer point on kind of go to the next level on 4Q guidance. And really want to dig into Gatan, broker mentioned that the business would be a very heavy skewed toward 4Q, much more so than usual this year. So I'm just curious what you're baking in for sale of EBITDA and the level of accretion, if any, that you have baked in the 4Q. And anything else that you're sort of baking into your guidance for 4Q would be helpful?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+All right. To talk about -- we'll own Gatan for two months. And we have about $35 million of sales in our forecast, over those two months and we're planning that to be neutral to Q4 earnings at the cash EPS level. I mean we have there is purchase accounting is a lot of inventory in the business. So the inventory step up charges are significant. We have all the deal costs, we have higher interest expense, one-time charges. And as a matter of fact, Q4 was front-end loaded per Gatan's forecast. So when you take the $35 million that we're forecasting and what we think Gatan did in October, really, quarter-over-quarter, it's about the same as it did last year. And the management team is -- they've been through a lot -- they've been through an extended sales process through the lot of integration activity and, but we're going to push forward with Q4 equal to last year's Q4, which was good.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+[Speech Overlap] I was on mute. Sorry about that. That's helpful. And if you want to prognosticate on Gatan EPS increasing for next year, that would be great. But I did want to touch on Josh's question a slightly different way and then -- if we take the acquisitions you've done in the past -- call it two or three years, and so I'm thinking here about Rauland-Borg, Telular, Spectro, etc. How those business is performing right now relative to the 3% you just put up, I mean, now they above that bar, are they stable, I mean, how does that look?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah. I think the acquisitions being primarily, North America focused like Telular, like Rauland-Borg and the end markets that they're in, they're performing very well. So they're at or above our model and the U.S. centricity of some of those businesses is just clearly helping us in the current environment.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Okay. Great. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you.
+Operator
+Thank you. And our next question comes from Andrew Obin from Bank of America. Your line is now open.
+Andrew Obin -- Bank of America -- Analyst
+Hey guys. Good morning. Great quarter.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, good morning, Andrew. Thank you.
+Andrew Obin -- Bank of America -- Analyst
+Just a question, can we talk a little bit about Aerospace? And specifically, a, can you remind us of the composition of your Aerospace exposure. And can we talk about what are you seeing about commercial aftermarket business as traffic slows? And also, what are you guys seeing on bizjets? Because I know that's an important business for you as well?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Right. So broad brush, our Aerospace business is about 35% military, above 30% third-party MRO, about 25% commercial and that's equally split between the OEM and the proprietary spare parts that come from that. And about 10% of the business jet market. And the Aerospace business for us in Q3, the whole business was up high-single digits. I was strong in all segments, our commercial business in Q3 was up mid-teens. So we had strong OEM sales to the Airbus A320 platform, the 787. The LEAP and GTF engines are doing well. Our third-party MRO business had an excellent quarter up high-single digits. Our military business was up high-single -- mid single-digits. So solid demand in both the U.S. and international programs. There's stress in missiles, radar systems, general spending tied to improving fleet readiness and our business jet market was up high teens and had an easier comp. It was up high teens. So we really had a fantastic performance in our Aerospace business in the quarter and the backlog are very solid and -- I would say your specific question, our aftermarket was very solid in Q3 and we're not seeing a sign of a slowdown.
+Andrew Obin -- Bank of America Merrill Lynch
+I guess Eleanor is doing quite well, huh?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Eleanor has a fantastic quarter.
+Andrew Obin -- Bank of America Merrill Lynch
+Just a follow-up question and this is more for modification, how should I think about the relationship directionally between your order rates and organic growth, because clearly order slowed last quarter we did not see a similar slowdown in revenue this quarter what has continued to slow and clearly you guys think that revenue can continue to outpace -- what's the disconnect? Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+I think the biggest disconnect here is we have a pretty healthy backlog. So it's about a $1.63 billion backlog at the end of Q3 and it provide some conversion opportunities. And the balance of our business, besides the Aerospace & Defense business, we're probably going to a quarter leaning about 50% of the orders to make the quarter, but we have some visibility in our Aerospace and Defense businesses and we're operating the company well and we're able to convert on them. So we feel comfortable with our guide and we have cautious given the global macro conditions and but our factories are executing is extremely positively right now. So I feel very confident that if there is incoming orders are opportunities in our backlog to execute on we can and that's how you bring together a flat to slightly declining order picture and combine it with the growing organically.
+Andrew Obin -- Bank of America Merrill Lynch
+Now very clear that the team is executing very well. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you.
+Operator
+Thank you. And our next question comes from Allison Poliniak from Wells Fargo. Your line is now open.
+Allison Poliniak -- Wells Fargo -- Analyst
+Hi guys, good morning.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Good morning, Allison.
+Allison Poliniak -- Wells Fargo -- Analyst
+Just following up on that backlog commentary. Are you getting any sort of pushbacks or delays within that backlog that sort of -- I guess delaying some of that conversion?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, there is a changing ordering pattern that we saw in the quarter, and typically customer will give you a purchase order with three or six months visibility. And now when they're giving us a replenishment purchase order, they're really giving it month-to-month, just what they need. So deal with that on. And turn things very quickly, but certainly there is a change in the ordering environment that wasn't there six months ago.
+Allison Poliniak -- Wells Fargo -- Analyst
+Great. And then just on the OpEx savings. Is that because of that step-up because of Gatan in the acquisition? Or is that organic that you guys are accelerating some of that?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, there is no OpEx savings in the final two months for Gatan. It's organic savings. We boosted our material savings from -- up to $70 million that was the $5 million increase and with all the tariff activity we have a world-class sourcing organization and they're executing on resourcing the products at a faster rate than we thought they would and we're getting incremental savings from it because we're finding lower cost and other places in the world. So it's -- that's what's driving the savings up to the $90 million it's all materials cost savings.
+Allison Poliniak -- Wells Fargo -- Analyst
+Perfect. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you, Allison.
+Operator
+Thank you. And our next question comes from Robert McCarthy from Stephens. Your line is now open.
+Robert McCarthy -- Stephens -- Analyst
+Good morning, everyone and congratulations on the quarter.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you, Rob.
+Robert McCarthy -- Stephens -- Analyst
+I guess first on the Gatan, kind of stepping back. Obviously, a very well-run company under Roper's purview. But obviously, Roper in terms of its governance and its overall model is not big on centralization and cost synergies among their various disparate businesses. Clearly, that's a point of differentiation. So could you expand qualitatively or quantitatively about how you see the opportunity to expand margins and maybe a little bit color around fixed cost leverage, SG&A, gross margins, where do you think are the biggest buckets, where you can drive incremental value onto that?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Sure. So obvious question. And we're going to work with the Gatan team to come up with a plan that we both agree with because we think there are some opportunities but we get by in from the management teams. But what we see is, it's more like a typical deal synergy for us. The -- there is a lot of opportunity in the supply chain to reduce cost. There is eight remote sales and service offices, so a bigger than typical opportunity to benefit from the AMETEK G&A internationally. There's also opportunities to improve working capital. This business is running out of working capital level in the mid '20s and our equivalent business is running at about 14% in Materials Analysis.
+AMETEK's overall working capital is about 18.2% in the quarter. So we add that all up the cost synergy from the supply chain, the substantial synergy from the international offices, the ability to reduce working capital and we think it's going to be a great return for our shareholders. We think we'll get a return on invested capital of 10% in year three, and we're excited about it.
+Robert McCarthy -- Stephens -- Analyst
+And just on that point as a one brief follow-up on Gatan. What do you think about the perspective of the growth rate, because, I think you talked about mid-single digit organic growth. But just in doing our own due diligence, it could be fairly lumpy. And part and parcel of that is it definitely seems to be more of a product cycle business granted their hit rate on product cycles are very high, but after market may be more of a concern. So how would you talk about kind of the sustainability of growth and managing a little bit of a lumpiness there.
+William J. Burke -- Executive Vice President & Chief Financial Officer
+Right. Yeah, naturally, the business is a bit lumpy and but their direct detection cameras, there are fantastic technologies. They were -- and they've really enabled a new technique called cryo-EM, cryo-electron microscopy. And this technique is being developed for drugs and vaccines, and it's opened up the life sciences market to a greater degree for them. So they're really in the -- they have a good long-term demand driver only about 10% of the business is aftermarket. But, and it is a bit lumpy and it's driven by new product cycle. So one of the things we're going to try to do is increase the velocity of the new product cycles, but we'll deal with a bit of a lumpiness and we like the business a lot.
+Robert McCarthy -- Stephens -- Analyst
+I'll leave it there. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you.
+Operator
+And our next question comes from Richard Eastman from Baird. Your line is now open.
+Richard Eastman -- Baird -- Analyst
+Yes, good morning. Could you just give us a sense of what price did price capture net price capture in the quarter.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, Q3 was much like the first half of 2019. We had an excellent quarter. So we achieved a little bit more than two point of price across our entire business. Total inflation and the impact of tariffs was a bit less than 1.5%. So we're very pleased with the results and they were stay and they speak to the highly differentiated nature of our product portfolio. We have leadership positions in the niche markets around the globe and is playing itself out and these certain times.
+Richard Eastman -- Baird -- Analyst
+Okay. And then could you, Dave. Perhaps just sift through EMG's core growth rate by segment, a little bit or by business within EMG. We had 3%. I'm just, I'm just a little bit curious, I mean automation soften, but just and could you do that please?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, I could. If you look at the market segments in Automation & Engineered Solutions, so there you got -- the automation business is about half of it, and Engineered Solutions, which is basically EMIP, is about the other half of it. So we had solid growth in the EMIP business. It was -- it was up -- I think it was up mid-single digits in the quarter and automation was downs and overall was up low-single for the quarter. So really, the EMIP business is performing very well. And as we mentioned we have a problem and with the slowdown in our automation business and when you think about our thermal management systems business, that's the other business in there, they had a solid quarter in line with our Aerospace business.
+Richard Eastman -- Baird -- Analyst
+Okay. And then just is the EMIP business following the Aerospace business up, I mean is that where the strength is kind of generate?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+I mean, the end markets for EMIP are aerospace and medical and specialized industrial. So that mid-single-digit growth was across all those markets. So they are really doing well.
+Richard Eastman -- Baird -- Analyst
+Okay. And then just my last question. David, as you kind of sit here today and I know we don't want to touch 2020 from an outlook perspective maybe on the sales line. But is it your sense that we're seeing enough slowing into this -- into the fourth quarter here that we may be, you have to take a harder look at the cost side of the business whether it'd be savings plans or any sort of tighter restructuring or realignment of cost? Where do you sit on that? Or is it kind of business as usual and we're going to -- we're going to walk into this with our operational excellence plan and eyes wide open?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+That's a great question, Rick. And I'll start with the point that we have people running the businesses that are good operators of the businesses. And we're going to go through our budget process with each of our business units and you can see in the results, they are already naturally reacting to the changing global conditions. And right now this feels for a -- this feels like a -- for Bill and I like a business-to-business discussion. So we're going to sit down with these budgets and we're going to understand the projects that they want to fund and what makes sense for AMETEK to fund and what makes sense for their businesses to act on. And right now, it seems like a business-to-business decision, but if it turns into a broader alignment, if it certainly weakens further. We're not there yet, but that's an option and we're going to really explore that in detail during November and the beginning part of December.
+And an important thing for us is that we're going to continue to invest in attractive opportunities that -- and make our core stronger and that's our talent development, our innovation. But we're really good at managing costs and we have a good healthy discussions during our budget process and I expect that it will be a business-to-business discussion, and the businesses will come up with opportunities to us to review them.
+Richard Eastman -- Baird -- Analyst
+And given some of -- given some of your business, I'm thinking Aerospace it’s kind of in the backlog and we're talking about backlog conversion here kind of rolling forward. Do you sense that the pricing contribution in 2020 would be as great in 2020 as it has been here in '19? I mean is there visibility in your backlog on price for next year?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+And that's a good question, Rick, and we're going to have that detail when we go through our budget, but my feeling is that the pricing power of our portfolio is something that -- through upcycles or downcycles, is there. And I think the level of pricing offsetting cost and inflation and tariffs is going to stay. So I'd be very surprised if pricing does not exceed inflation in tariffs in 2020?
+Richard Eastman -- Baird -- Analyst
+Okay. Very good. Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you.
+Operator
+Thank you. And our next question comes from Brett Linzey from Vertical Research Partners. Your line is now open.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Hi, good morning, guys. I just want to come back to thinking about the next year 2020, just in the context of margins, obviously the revenue like could go either way, but thinking if you know Q2 or Q3 is sort of the run rate, low-single-digit organic decline environment. Do you think that you know based on the deals you've done some of the actions underway that you can actually grow margins in a down organic sales environment next year?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+You know, I think it's possible, it has to do with to Ricks question, the prior question, a level of pricing that you get and the level of acquisition synergies that we're executing on. But, you know, if you have a modestly declining order input, yes, you can expand margins like that. It won't be the margins that you see in the second quarter, but certainly an up margin trajectory is possible.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Okay. Great. And then maybe just another question on metals, obviously good performance here in the quarter, I think you said mid-single digits. What's your visibility into the value chain or the supply chain on inventory levels? I know last cycle kind of got backfilled as you worked up the value chain. What does the inventory look like today?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, the metals business, as you know, the nature of that business, as we have less visibility into the -- that -- the inventory levels at the various customers than we do in our other business. So our end markets right now are driving that business, and aerospace and medical still feels solid. So that will be something that we look at closely during the budget and at the end of the next quarter to understand what's happening there.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Okay. But no indication that things are full or that -- and anything starting to back up there?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Up mid single-digit quarter.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Okay. Great. I appreciate. I'll leave it there.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Thank you.
+Operator
+Thank you. And our next question comes from Joe Giordano from Cowen. Your line is now open.
+Robert -- Cowen -- Analyst
+Hey, good morning. This is Robert in for Joe and congrats on the quarter.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Good morning, Rob.
+Robert -- Cowen -- Analyst
+Good morning. Just a high-level question as we head into next year. Not specific guidance, but are there any particular end markets that you feel are kind of like a risk versus your current view this year? And did you see any changes in any end markets this quarter that you found surprising or any changes in trends that are worth noting? Thank you.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Sure. It's really the comment that I made before, Q3 felt very similar to Q2, but we did see some incremental weakening in our industrial businesses. And when we go into next year, we're going to have a clear view of that once we work through our budget process with all of our businesses, because we have some niche exposures that are a little bit different than the overall macro and we have to understand that. But certainly the Aerospace business feels very solid right now.
+Robert -- Cowen -- Analyst
+Thank you.
+Operator
+Thank you. And our next question comes from Andrew Buscaglia from Berenberg. Your line is now open.
+Andrew Buscaglia -- Berenberg -- Analyst
+Hi guys. Can you comment just a little bit more on Gatan. And correct me, if I'm wrong, I think the price Thermo Fisher paid seems to be a little bit below what you guys -- your implied EBIT/EBITDA multiple was for then? I would think that they would be able to drive synergies -- substantial synergies as well. So can you just talk about the, how you -- how much like in terms of the valuation you've paid and was this a competitive bid? Talk about the process a little bit more there.
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah. Andrew, I think you might have your numbers wrong. If you go back and look at it we paid about the same as -- we paid the identical amount that Thermo paid for the business. And it has about 20% more in EBITDA now. So the multiple is lower.
+Andrew Buscaglia -- Berenberg -- Analyst
+Okay. And then if you could turn to Telular, so it's been about a year since you've owned that asset. Can you provide an update on this, specifically with regards to margins, where that was supposed to be a big part of the story and leveraging it across your entire business? Can you give some examples maybe of where you’re going to see that?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, that's a great question and Telular is performing well, and we're very pleased with the business. They've come into AMETEK with a lot of energy in terms of the integration. And we have a process where we're taking that IoT technologies to some specific businesses and we have developed a broader thought process of applying it to other businesses within AMETEK that should be aware of the technology. So it's going very well, we’re very pleased with that management team, and we're counting on them for 2020. It’s going to be one of the drivers for AMETEK.
+Andrew Buscaglia -- Berenberg -- Analyst
+All right. Thank you.
+Operator
+Thank you. And we have a follow-up question from Robert McCarthy from Stephens. Your line is now open.
+Robert McCarthy -- Stephens -- Analyst
+Sorry for getting greedy, but a couple of clean-ups, if you don't mind. I guess, first, I know episodically, we went through some of the order rates and some of the organic growth rates, but could we do the, in honor of Scott Graham, the state of the union in terms of where organic growth is across the segments and outlook?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Sure. Thanks, Rob. And we covered a lot of this in the call already. But I'll just go through it also, be a bit of a rehash. Our process businesses delivered excellent quarter, we talked about overall mid-teens on a percentage basis, mid-single digit organic growth and we had the acquisitions of Forza, Telular and Spectro Scientific. And our Materials Analysis business again delivered particularly strong organic growth in the quarter and they are seeing positive results from the organic growth initiatives.
+For also for all of 2019 we continue to expect our Process businesses to have organic sales up in the mid-single digit range. And we talked a bit about our Aerospace business. Our -- they performed exceptionally well again in the third quarter was strong and balanced growth across all the businesses. Our overall sales were up high -- up 10% driven by high single digit organic growth. So we have the contribution from the acquisition of Pacific Design Technologies in there.
+And similar to the first half growth in the third quarter was broad based and highlight a couple of our businesses, but it was, commercial OEM and third-party MRO that very good quarters and we expect to continue to have mid-to-high single digit organic growth for all of 2019, with balanced growth across each of the markets. And our power and industrial segments they were down slightly in the third quarter, driven by weakness in our Industrial business. And for all of 2019 we now expect roughly flat organic sales driven by incremental weakness in our Industrial business. We had a good, good quarter for our power business improving, but the industrial part -- Power & Industrial weakened a bit. And that what we talked about in the quarter.
+And our Automation & Engineered Solutions up low-single digits in the quarter again solid growth across engineered solutions, offset by weakness in our Automation business. So for all of 2019, we're now expect low single-digit organic sales growth for our Automation & Engineered Solutions businesses. And that's around the horn, Rob.
+Robert McCarthy -- Stephens -- Analyst
+And then just the kind of last question for -- how much was the contribution -- and it might have been alluded to, so I'm sorry if it's asked and answered, but how much in third quarter was pricing underlying organic growth and what is your embedded expectations for this year?
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+Yeah, I think the -- our price were about two points of price a little better than two points and similar expectation to continue for Q4. Okay.
+Operator
+Thank you. And I'm showing no further questions. I would now like to turn the call back to Kevin Coleman, Vice President of Investor Relations for closing remarks.
+Kevin Coleman -- Vice President of Investor Relations
+Great. Thank you, Justin. And thank you everyone for joining our call today. And as a reminder, a replay of the webcast may be accessed in the Investors section of our website at ametek.com. Thank you.
+Operator
+[Operator Closing Remarks]
+Duration: 55 minutes
+Call participants:
+Kevin Coleman -- Vice President of Investor Relations
+David A. Zapico -- Chairman of the Board and Chief Executive Officer
+William J. Burke -- Executive Vice President & Chief Financial Officer
+Matt Summerville -- D.A. Davidson -- Analyst
+Deane Dray -- RBC Capital Markets -- Analyst
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Nigel Coe -- Wolfe Research -- Analyst
+Andrew Obin -- Bank of America -- Analyst
+Andrew Obin -- Bank of America Merrill Lynch
+Allison Poliniak -- Wells Fargo -- Analyst
+Robert McCarthy -- Stephens -- Analyst
+Richard Eastman -- Baird -- Analyst
+Brett Linzey -- Vertical Research Partners -- Analyst
+Robert -- Cowen -- Analyst
+Andrew Buscaglia -- Berenberg -- Analyst
+More AME analysis
+All earnings call transcripts
+  
+

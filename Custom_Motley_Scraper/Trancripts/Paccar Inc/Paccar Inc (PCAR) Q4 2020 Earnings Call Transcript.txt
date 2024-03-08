@@ -1,0 +1,412 @@
+Image source: The Motley Fool.
+Paccar Inc (PCAR 0.41%)Q4 2020 Earnings CallJan 26, 2021, 12:00 p.m. ET
+Operator
+Good morning and welcome to PACCAR's Fourth Quarter 2020 Earnings Conference Call. [Operator Instructions] Today's call is being recorded and if anyone has an objection, they should disconnect at this time.
+I would now like to introduce Mr. Ken Hastings, PACCAR's Director of Investor Relations. Mr. Hastings, please go ahead.
+
+Ken Hastings -- Director of Investor Relations
+Good morning. We would like to welcome those listening by phone and those on the webcast. My name is Ken Hastings, PACCAR's Director of Investor Relations. And joining me this morning are Preston Feight, Chief Executive Officer; Harrie Schippers, President and Chief Financial Officer; and Michael Barkley, Senior Vice President and Controller. As with prior conference calls, we ask that any members of the media on the line participate in a listen-only mode.
+Certain information presented today will be forward-looking and involve risks and uncertainties, including general economic and competitive conditions that may affect expected results. For additional information, please see our SEC filings and the Investor Relations page of paccar.com.
+I would now like to introduce Preston Feight.
+Preston Feight -- Chief Executive Officer
+Hey. Good morning, everyone. Harrie Schippers, Michael Barkley and I will update you on our good fourth quarter and full year 2020 results, as well as provide you an update on other business highlights.
+First, I really appreciate our outstanding PACCAR employees around the world. Their focus on safety and health throughout the pandemic continues to be outstanding as they deliver the highest quality trucks and transportation solutions to our customers. In 2020, PACCAR achieved annual revenues of $18.7 billion and good net income of $1.3 billion. PACCAR's performance benefited from a recovery in truck demand to normal levels in the second half of the year and strong performance from our Trucks, Parts and Financial Services divisions.
+PACCAR has achieved 82 consecutive years of net income. The company has paid a dividend every year since 1941 and has delivered annual dividends of approximately half of net income for many years. In 2020, PACCAR declared dividends of $1.98 per share. PACCAR's fourth quarter revenues were $5.6 billion and fourth quarter net income increased to $406 million. PACCAR Parts achieved fourth quarter revenues of $1.070 billion and record pre-tax profits of $223 million, which was an 8% increase compared to the same period last year.
+PACCAR delivered 40,700 trucks during the fourth quarter compared to 36,000 in the third quarter. In the first quarter of 2021, we expect deliveries to be 10% higher than the fourth quarter due to stronger markets and higher customer demand for Kenworth, Peterbilt and DAF's great trucks.
+In 2020, US and Canadian Class 8 truck retail sales were 216,500 units. Kenworth and Peterbilt's combined Class 8 market share increased to 30.1% and medium duty share increased to a record 22.6%. For 2021, the US economy and industrial production are projected to expand by about 4%. The strengthening economy, low fuel prices and high volumes of freight are good for the truck industry. We estimate the 2021 US and Canada Class 8 truck market to increase to a range of 250,000 to 280,000 vehicles.
+European above 16-ton truck registrations were 230,500 last year and DAF achieved strong market share of 16.3%. In 2021, the European economies are projected to continue growing and we expect the above 16-ton truck registrations to increase to a range of 250,000 to 280,000.
+The South American above 16-ton truck industry registrations were 93,000 last year. In Brazil, DAF increased its share of the greater than 16-ton market from 4.3% to a record 5.7%. In 2021, the South American market is expected to increase to a range of 100,000 to 110,000 units. Truck and Parts gross margins were 12.6% in the fourth quarter. We estimate first quarter truck and parts gross margins to increase to around 13.5%. PACCAR takes a rigorous approach to controlling cost throughout all phases of the business cycle and continues to deliver industry-leading margins.
+Last week, we announced a strategic partnership with Aurora, a leader in autonomous driving technology. This partnership will integrate PACCAR's autonomously enabled truck platform with Aurora's self-driving sensor and software system. The goal of this collaboration is to create a commercially viable autonomous truck that enhances safety and operational efficiency for PACCAR's customers.
+PACCAR's zero emissions vehicles continue to lead the industry. Our zero emissions vehicles have accumulated nearly 500,000 miles. Peterbilt, Kenworth and DAF battery electric trucks are beginning production in the second quarter of this year. And we're continuing in the development of hydrogen fuel cell-powered zero emissions vehicles.
+Last year, PACCAR was again recognized as a global leader in environmental practices by the reporting firm CDP, which places PACCAR in the top 15% of over 9,500 reporting companies. And the Women in Trucking Organization awarded our PACCAR corporate office, Peterbilt, Kenworth, PACCAR Parts and Dynacraft as a top place for women to work. Kenworth and Peterbilt received a total of five manufacturing leadership awards from the National Association of Manufacturers and the DAF XF earned the Fleet Truck of the Year 2020 Award in the United Kingdom.
+There are a multitude of exciting things happening around PACCAR. And Harrie Schippers will provide update on PACCAR Parts, PACCAR Financial Services and PACCAR's investments in future growth. Harrie?
+Harrie Schippers -- President and Chief Financial Officer
+Thanks, Preston. In 2020, PACCAR Parts generated excellent annual revenues of more than $3.9 billion and annual pre-tax profit of $799 million. Fourth quarter parts revenues were a record $1.070 billion and quarterly pre-tax profit was a record $223 million.
+One of the great things about PACCAR Parts is that it provides steady profitability to all phases of the business cycle. PACCAR has increased market shares over the years, resulting in a greater number of truck and powertrain products opportunities. PACCAR Parts' excellent long-term growth reflects investments in distribution and technology. PACCAR Parts has expanded its global network to 18 distribution centers and is currently constructing another facility in Louisville, Kentucky. PACCAR Parts' investment and leadership in e-commerce technologies proved valuable last year as e-commerce retail sales increased by 25%. In 2021, we estimate parts sales to grow by 7% to 9%.
+PACCAR Financial Services achieved 2020 annual revenues of $1.57 billion. Annual pre-tax income of $223 million and portfolio assets of $15.8 billion. The percentage of PACCAR Truck sales financed by PACCAR Financial Services increased from 25% to 28% last year. The portfolio continues to perform well with low cost use and low credit losses. Pretax finance income increased from $55 million in the third quarter to $64 million in the fourth quarter. PACCAR Financial added used truck centers in Denton, Texas, Lyon, France and Prague, Czech Republic last year and will open a new used truck center in Madrid, Spain this year.
+Across PACCAR, last year we invested $570 million in capital and $274 million in R&D. In 2021, we're planning to increase capital investments to the range of $575 million to $625 million and R&D expenses will grow to be in the range of $350 million to $375 million. This capital and R&D projects will develop the next-generation of fuel-efficient diesel powertrains, zero emissions vehicles as well as advanced driver assistance systems, autonomous vehicles, connected services and cutting-edge manufacturing capabilities.
+PACCAR has started 2021 with strong momentum. The Truck and Parts businesses are growing. Kenworth, Peterbilt and DAF market share is increasing and we're investing in new trucks and technologies that will deliver enhanced operational efficiency, safety and environmental benefits to our customers.
+Thank you. We'd be pleased to answer your questions.
+Operator
+[Operator Instructions] And our first question comes from Joel Tiss with BMO. Your line is now open.
+Joel Tiss -- BMO Capital Markets -- Analyst
+Well, I don't think I've ever been first to anything in my life. I guess, maybe to get fired.
+Preston Feight -- Chief Executive Officer
+[Speech Overlap] Glad to talk to you.
+Joel Tiss -- BMO Capital Markets -- Analyst
+Yeah. I still got to work on that. Can you talk a little bit about -- I think your European market share hit 17% at some point. And that's a little more than 15%. Can you just talk about what's going on there?
+Harrie Schippers -- President and Chief Financial Officer
+Sure. The record we had in Europe was 16.7%. This is actually our second best year in our history. So that's up a tenth from last year and we have strong momentum as we enter into the 2021 timeframe. So it's really a good year for the European team in market share. And we have market leadership in a number of countries, including Great Britain and a lot of countries in Eastern Europe. And we grew share in principal markets like France as well.
+Joel Tiss -- BMO Capital Markets -- Analyst
+All right. And I have a lot of questions. So maybe I'll just try to glue two together to cheat a little bit here. The size of the -- can you talk a little bit about the size of the EV market today and maybe in 2025 or a couple years down the road? And what are examples of next-gen manufacturing and distribution? I was trying to think what you meant there but I couldn't figure it out. And then I'll leave it to everyone else. Thank you.
+Preston Feight -- Chief Executive Officer
+Thanks. Well, let's talk about the electric vehicles or zero emissions vehicles first. If we look at the world around us right now, the most important thing that we're doing at PACCAR is having the right technologies in place. So we've spent considerable amount of time and energy bringing to market battery electric vehicles that fit the zero emissions class both in Europe and North America both for our medium-duty and our heavy-duty products. And the key there is making sure we have the right technology and the right leverage for those products as we move forward. So we've done a good job with that.
+As we shared last time, announced the sale of the product. And now we're going to production with those trucks beginning in the second quarter. As far as volumes go of those, as we've shared last time, we expect that the industry will have volumes in the hundreds in the coming year or two. And then, as we get to the 2025 timeframe like you referenced, that might grow into the thousands. And we would expect that we'll have a good market share representation as the industry comes along. Most important thing, again, right now is, make sure we have great technology, and I got to say, I'm really excited about the products we're bringing to market.
+So, on the second point of advanced manufacturing, what we're really talking about there is how we have a connected factory. So, if we look at how the factory works together, what kind of data analytics we're sharing within the factories, how the robotics work together and making sure that we just enhance to an even higher degree already excellent quality.
+Harrie Schippers -- President and Chief Financial Officer
+And I think, just to add to that, our new paint shop in Chillicothe, Ohio that we'll open this year is an excellent example of that. So, on top of the things that Preston said, it also will be a lot more environmental friendly. It will be the most modern cab paint facility in the industry.
+Joel Tiss -- BMO Capital Markets -- Analyst
+All right. Great. Thank you very much.
+Preston Feight -- Chief Executive Officer
+Yeah. Have a good day, Joel.
+Operator
+Our next question comes from Rob Wertheimer with Melius Research. Your line is now open.
+Rob Wertheimer -- Melius Research -- Analyst
+Yeah, hi. My question is on gross margin. And thank you for the outlook in the 1Q. You're improving from the 3Q, 4Q levels into 1Q. Can you describe what the dynamic is? Is that maybe those quantifiable COVID supply chain or otherwise costs that are fading. Maybe it's mix, maybe it's pricing. What was weighing on the last half of 20 and what's getting better? Thank you.
+Preston Feight -- Chief Executive Officer
+Sure. Happy to take that. The biggest thing that's affecting gross margins is being in this global pandemic. And the fact that we have made sure rigorously that safety of our employees is the most important priority for ourselves, it's number one, number two and number three. So there is additional costs associated with that. For us, but not just for us, it also goes along with the supply base. So that has -- obviously has margin impact us to. There is raw material pricing effects that we're seeing as we see the economies recover on a global level. And we're at a different point in the cycle than we have been. We're just starting to see the truck market recovery. And so that has an impact as well. Harrie?
+Rob Wertheimer -- Melius Research -- Analyst
+Sorry. Please?
+Harrie Schippers -- President and Chief Financial Officer
+Yeah. So, the improvement is 13.5% in the first quarter. It's a nice improvement. And it's been -- we continue to achieve the highest margins in the industry.
+Rob Wertheimer -- Melius Research -- Analyst
+And is there anything from the COVID that you've got straightened out? I mean, obviously in six months, hopefully this is irrelevant. I understand that. But, I mean, I'm just a little bit curious if there's anything sort of driving sequential, and I'll stop there. Thank you.
+Preston Feight -- Chief Executive Officer
+Figured out. Again, the most important thing is safety. And so, we have figured that out. We've been able to provide a great safe environment for our people. And that's been the most important priority for us.
+Rob Wertheimer -- Melius Research -- Analyst
+Okay. Thank you, gentlemen.
+Preston Feight -- Chief Executive Officer
+You bet. Have a good day.
+Operator
+Our next question comes from Tim Thein with Citigroup. Your line is now open.
+Tim Thein -- Citigroup -- Analyst
+Great. Thanks. Good morning. I just -- maybe to take that gross margin question a step further in thinking beyond the first quarter. Typically there's -- there can be impacts, I think, especially in kind of early stages of an upcycle like this, where you have some customer mix impacts in the first quarter, whether it's dealers placing more stock orders and maybe get a little bit heavier small customer sales flowing into that first quarter, whereas you get some of the larger fleets start to take delivery in the spring. So, is that -- would you expect that to be -- just as we think about first quarter impacts potentially moving beyond, is it meaningful or is it just trying to get washed out?
+Preston Feight -- Chief Executive Officer
+I think there's a lot of factors that play into what the second, third, fourth quarter will be depending on strength of recovery and how the market continues. You mentioned some good points. Those are true things that mix can have an affect on things. We've also seen some of the larger customers, be it the people who continue buying in the fourth quarter and through the first quarter, so there's offsetting factors in that.
+Tim Thein -- Citigroup -- Analyst
+Okay. Good. Preston, I was interested to see the -- maybe you've disclosed it before, but the comment that you included in the release on the T680 fuel cell electric having a 350-mile range. I'm just curious, and obviously I would assume that you would expect that over time to probably not stay at that level and potentially increase. But I guess, the question is, what -- do you have a sense for what -- maybe what percentage of either your truckload or, I don't know, the potentially LTL customer base is -- what could that be relevant to in terms of just -- obviously the trend over time has been toward more of a shorter length of haul. I guess I'm just curious what percent of the customer set do you think a 350-mile range vehicle could be relevant to?
+Preston Feight -- Chief Executive Officer
+Yeah. What I would say is that the technologies that are being evaluated right now, batteries and fuel cell, both have capacity to expand range, just takes more batteries or takes more fuel cells. So range is really about how much space you take up on the truck. And the energy density at this point in time is higher for fuel cells -- for hydrogen fuel cells. So that's advantage they have. Of course both types of solutions in infrastructure development and infrastructural development and how close charging stations are for either system will decide how much range you need on the vehicle. So I think it's a little early to tell what's going to happen and which technology will play out in which markets.
+Tim Thein -- Citigroup -- Analyst
+Okay. All right. Thanks for the time. Take care.
+Preston Feight -- Chief Executive Officer
+Sure. You bet.
+Operator
+Our next question comes from the line of Nicole DeBlase with Deutsche Bank. Your line is now open.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Yeah, thanks. Good morning, guys.
+Preston Feight -- Chief Executive Officer
+Good morning.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Maybe just starting with a little bit more detail around the commentary on 1Q. The 10% forecasted increase in production, can you guys just talk about is that kind of across geographies, any comment you have on US versus Europe versus rest of world?
+Preston Feight -- Chief Executive Officer
+Sure. Good question. And it kind of is across geographies. We see increases in the North American market. Kenworth and Peterbilt are doing well, have strong order intake and the same is true with DAF. Both economies have strong freight activity. Trucks are moving and good order intake right now.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Okay. Got it. And then, just on the Parts business, pleasantly surprised by the acceleration there into the fourth quarter on the top line. Can you just talk a little bit about sustainability of that strength into next year or some sort of sense of what you guys are thinking for Parts revenue growth in 2021?
+Preston Feight -- Chief Executive Officer
+Yeah. I think that if you look at our Parts, they've just done a fantastic job in the past year, and for past several years really of not just serving our customers but creating creative solutions for our customers. One of the things we talked about I mentioned was e-commerce. It created a state-of-the-art system where you can go online, get your parts, makes it a lot easier. It made investments in the distribution network so that next-day delivery and even same day delivery of parts has increased in percentages. And they just do a fantastic job of taking care of all the different kinds of customers in meeting their needs, which is bringing business to them. So we do think that growth will continue in the coming years for our Parts team in kind of a similar rate.
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Got it. Thanks. I'll pass it on.
+Operator
+Our next question comes from Stephen Volkmann from Jefferies. Your line is open.
+Stephen Volkmann -- Jefferies -- Analyst
+Great. Good morning, guys. Just a quick follow-up on that one. Should we also expect gross margins in the Parts business to continue to expand as well in this scenario?
+Preston Feight -- Chief Executive Officer
+Well, I think the gross margins we enjoy in Parts are high. And we'd expect them to continue to be very high, Steve. So we'll look for that to continue through -- certainly through the quarter and year.
+Stephen Volkmann -- Jefferies -- Analyst
+Okay. And then, kind of my broader question, Preston, is just about how you guys are look at the year? I'm assuming that the first quarter will be sort of the low delivery quarter of the year. And things will sort of slowly grow as the year progresses to kind of hit your industry targets. Please disagree if that's not the way you're thinking about it. But I'm curious if we should also think about the first quarter as kind of the low gross margin quarter as well in the Truck business.
+Preston Feight -- Chief Executive Officer
+I think we're at the beginning of the cycle right now, where you look at where we're coming out of and where we're going to. And obviously a better clarity on the first quarter than we do the second, third and fourth quarter. So, right now, the quarter is full and billed [Phonetic]. We have great visibility in the second quarter. As it stands, we'd expect three and four to go that way, but there's a lot of time between now and then. So maybe your modeling is right, but I think it's a little early to kind of call this latter part of the year.
+Stephen Volkmann -- Jefferies -- Analyst
+Okay. Maybe just conceptually, then a different way. You guys have done quite a bit of work on the Parts business and on the cost structure to some extent. I guess I'm just curious if you running the company kind of expect overall margins to be higher this cycle than they were in the previous cycle?
+Preston Feight -- Chief Executive Officer
+Well, I think we've made some good investments. We have some great things happening right now. So I think the recovery in gross margins of $13.3 million that we're seeing will be around in the first quarter is good progress. And then I share with you that this is going be a really exciting year for PACCAR in terms of new product introductions. So in the coming months, both in the United States and Canada, as well as in Europe, with some big introductions that we think will be really helpful to our company growth.
+Stephen Volkmann -- Jefferies -- Analyst
+Great. Super. Thank you guys.
+Operator
+Our next question comes from Jamie Cook with Credit Suisse. Your line is now open.
+Jamie Cook -- Credit Suisse -- Analyst
+Hi. Good morning. I guess, a couple questions. One, on the fourth quarter, can you just provide any granularity on sort of pricing or mix dynamics in the quarter? I think pricing was slightly negative last quarter. So if you could help us out on that front. So I guess I'll start with that and then I'll ask my follow-up.
+Harrie Schippers -- President and Chief Financial Officer
+Pricing was very, very stable, maybe slightly down in the fourth quarter, but pretty normal for where we are in the cycle right now.
+Jamie Cook -- Credit Suisse -- Analyst
+Okay. And was there anything else like related to mix or anything besides the pricing commentary that impacted the fourth quarter? And then, I guess, my follow-up question just as I have you is, just any additional color you can provide on the R&D increase? Where the spend is going? How much of that can be attributed to the recent announcement with Aurora on the autonomous side. Thanks.
+Preston Feight -- Chief Executive Officer
+Jamie, thanks for the questions. On the pricing side, you look at just a little bit of it is cycle timing in just where we're at, how much backlog there has been. And so we're seeing improvement in that as we go through this year now. I would say, there has been commodity cost increases, which has had some impact. And obviously the effects of managing the pandemic has had some effect. So those are kind of the key factors you look at in pricing. As we progress...
+Jamie Cook -- Credit Suisse -- Analyst
+Okay.
+Preston Feight -- Chief Executive Officer
+...we see some opportunities in that. Look forward to those opportunities. And then, in terms of your second question, can you repeat what you were specifically looking for there?
+Jamie Cook -- Credit Suisse -- Analyst
+Yeah. Just any additional color you can provide on the R&D spend, I know we increased it a little from what we said last quarter and how much of that, if any, is attributed to Aurora. Any color we can provide on that? Thanks.
+Preston Feight -- Chief Executive Officer
+Sure. I would share the same thought I shared with Steve is that we have a lot of great things happening right now in the company in terms of new product introductions that we'll see this year. And some of that R&D spending is in support of those really exciting products that you'll get to hear about shortly. And also we have a great focus on technology. We mentioned in the comments for our factories but also in the space of zero emission vehicles and connected services and autonomous vehicle development and [Indecipherable] few projects. So we have a lot of great things going on that build for a strong future.
+Jamie Cook -- Credit Suisse -- Analyst
+Okay. Thank you.
+Preston Feight -- Chief Executive Officer
+You bet.
+Operator
+Our next question comes from the line of Ann Duignan with JPMorgan. Your line is now open.
+Ann Duignan -- JPMorgan -- Analyst
+Hi. Good morning, everybody.
+Preston Feight -- Chief Executive Officer
+Good morning, Ann.
+Ann Duignan -- JPMorgan -- Analyst
+Good morning. Maybe you can give us some color on your outlook for both regions. What you think the biggest drivers are going be, whether it's line haul in the US, whether it's severe service, just some color on both North America and Europe, maybe Europe by region also as well as mix. Thank you.
+Preston Feight -- Chief Executive Officer
+Sure. Let's just start with the US-Canada markets and say that we have good housing starts. The auto industry is performing well, expected to perform even better in 2021. So those are both good for our businesses. People continue to live their daily lives as they need to. So they're refrigerating carriers and protein haulers are doing a good job as well. Basically the Truck industry's kind of doing pretty well. And I don't expect that to change. Truck utilization is high. And so I think that we are even starting to see signs of green shoots in the oil and gas industry. All of that combined points to a good year for us in the US and Canada. I don't think it's very dissimilar in Europe.
+Anything you would add, Harrie?
+Harrie Schippers -- President and Chief Financial Officer
+Europe transport activity remains strong as well. We just got the German mile statistic in. That's the number of miles of which trucks have to pay toll in Germany. That was up more than 4% in December after 4% increase in November. So that just shows that trucks are driving. Our customers are doing well. In terms of regional, probably would expect Central and Eastern Europe to do a little bit better than the UK maybe. But it's the trend we see across Europe.
+Ann Duignan -- JPMorgan -- Analyst
+Okay. Thank you. I appreciate that. And then, with the R&D spend increase and the number of new products that you're launching that you've alluded to, should we anticipate that SG&A will be higher also in maybe second, third quarter as you launch all these products? And you increase your marketing, you increase your spend above and beyond maybe any impact it might have on manufacturing and gross margins as you launch these products?
+Preston Feight -- Chief Executive Officer
+No, I don't think so. I think, as you look at last year, we had improvements, reductions in our SG&A and for the full year and also even on the fourth quarter. And we'd expect kind of the fourth quarter to be at a run rate for 2021. So, the effective last year and trimming things in the business will continue. We always want to make sure that we're diligent in providing the lowest fixed cost that we can to our shareholders.
+Ann Duignan -- JPMorgan -- Analyst
+Okay. And no incremental costs from commodity prices, steel prices or anything. I know you're more of a dissembler. So, the impact on you being muted, but are you anticipating any kind of supply shortages, supply chain issues related to lack of availability of steel or anything like that?
+Preston Feight -- Chief Executive Officer
+So we have a great team in our materials teams and purchasing teams around the world. And while there's been much written about supply shortages, they have done a fantastic job of making sure we have all the parts we need to put the trucks together and create our products. And we don't anticipate anything significant in the first quarter. It's tight for the whole world. But they are just doing a really good job. One of the reasons we were able to do that is they do a good job of forecasting out to our supply base what our schedules are. And I think that's much appreciated. And it allows our suppliers to be successful and it allows our company to be successful.
+Ann Duignan -- JPMorgan -- Analyst
+Okay. I appreciate that. I'll get back in line. Thank you.
+Preston Feight -- Chief Executive Officer
+Sure, Ann.
+Operator
+Our next question comes from Steven Fisher with UBS. Your line is now open.
+Steven Fisher -- UBS -- Analyst
+Thanks. Good morning.
+Preston Feight -- Chief Executive Officer
+Good morning.
+Steven Fisher -- UBS -- Analyst
+Curious about how your order share in Q4 trended. Was it higher or lower than your retail share in Q4 as an indicator of where market share might be going in the relative near-term? And just curious how's it look in North America versus Europe.
+Preston Feight -- Chief Executive Officer
+Sure. If you look at our order share and I think it's easier to look at it in bigger chunks because of cyclicality. And order share grew in 2020 as a percentage of the industry. So that's a positive thing. And obviously we grew our market share a little bit. And we feel well positioned to continue growing in 2021.
+Steven Fisher -- UBS -- Analyst
+Okay. And then, I know it's still just very early days on this, but curious how the orders on the electric trucks looked in Q4? And if you're seeing any just momentum building on that in Q1.
+Preston Feight -- Chief Executive Officer
+There is definitely momentum building. Good question. There's momentum building but it's momentum building from -- out of a very, very low level. Now I think people are interested in trying a truck or two or 10. And so that's kind of the scale you're talking about in terms of the industry right now for zero emission vehicles. It does still depend heavily on government subsidies to make it an economically workable solution. So, again, I'd emphasize I expect the industry will see hundreds of units in sales this year and that we'll get a good percentage of those.
+Steven Fisher -- UBS -- Analyst
+Terrific. Thank you.
+Preston Feight -- Chief Executive Officer
+You bet.
+Operator
+Our next question comes from David Raso with Evercore. Your line is now open.
+David Raso -- Evercore -- Analyst
+Hi. Thank you. So, on the gross margins, just trying to think about every year, there's always a lot of investment in products initiatives that are clearly not in full production. But just given the technology push that we're seeing right now across a variety of drivetrains and autonomous and so forth, is there any level of costs that you would call out that's incremental this year than normal? Again, the first quarter gross margins are pretty impressive. I mean, it implies like a 25% incremental sequentially. And I'm just trying to think through or maybe some of those new costs not going up that much year-over-year so the volume really gets levered more than normal? I'm just trying to think through just going to be some costs that are above normal. And again, it makes the gross margin guide a little more impressive. I'm just trying to sanity check it.
+And then I had a quick follow-up related to the factories. [Speech Overlap]
+Preston Feight -- Chief Executive Officer
+I would start by saying that if you look at the gross margin effects of it, it has a lot more to do with the COVID and global pandemic than it has to do with the R&D that we're doing. I don't really think of those relatably. And I would just say that we are seeing a pretty good improvement coming for the first quarter in gross margin with the 12.6 turning toward around 13.5 level and feel good about the growth we're getting. And again, it's tied to the place we are in the market and the market's improvement. More about that in the gross margin to me than the R&D spending. The R&D spending is going be great because we're bringing out these fantastic new products. And that should be helpful us to in gross margin.
+David Raso -- Evercore -- Analyst
+But beyond the R&D, are there any incremental costs for products that are not providing much of any revenue, let alone profits, than you would normally see in the cycle? And the R&D is not an immaterial number but I'm just trying to think through the ramping cost, given it's a bit of a unique time and the technology rollout in the industry. Are you saying you wouldn't describe this as any more abnormal than, yeah, maybe the R&D is up a bit given the new product rollout. You would not describe this as a bit abnormal. Is that fair?
+Preston Feight -- Chief Executive Officer
+I think our R&D spending is an increase that's on the product we're introducing and it's on the technology we're introducing, but we continue to have R&D as a percentage of sales at the lowest levels of anybody. We do a great job [Indecipherable] fantastic job of working with partners and having those partnerships so that we bring great technology to our customers that we co-develop. And that seems to be a great model and it's part of the story around it was, we pick industry leaders like them that are fantastic with technology. And we're fantastic in developing an autonomously enabled truck, and together that becomes an efficient way to bring in industry-leading solution to the market at a reasonable cost.
+David Raso -- Evercore -- Analyst
+And then when it comes to my factory question, where are the factories? I mean, the real core ones like Denton and Chillicothe, and embracing the cycle in the sense of adding the extra shift, adding the skeleton third shift? I'm just trying to get a sense of where are you in balancing adding the capacity? Which of the order book is very strong that's not necessarily risky, but just the idea of where are you in adding that in the confidence in the order book and second, of course, is always the balance of adding capacity versus pricing. Any of those shifts running right now?
+Preston Feight -- Chief Executive Officer
+The truck factories have done a fantastic job of managing the increases that we've seen over the last quarter. They've just done a beautiful job of keeping people safe. I just kind of keep emphasizing that because that's our most important priorities of our employees. And they've done a great job of being able to increase build while protecting people and giving the safe working environment. And we don't see any limitation, so that we see the ability to keep increasing build rate as we need in the factories to support the market, really not any limitation on that. So they're not operating at near max capacity at this point.
+David Raso -- Evercore -- Analyst
+Are they all on second shift to full second or is it skeleton? I mean there's always those inflection points in the cycle where you have to make that jump. And I'm just...
+Preston Feight -- Chief Executive Officer
+[Speech Overlap] some of them as appropriate would be on second shifts and some of them are not as appropriate. So each factory is in its own balance right now.
+David Raso -- Evercore -- Analyst
+I mean I appreciate the time. Thank you.
+Preston Feight -- Chief Executive Officer
+Thank you. Have a great day.
+Operator
+Our next question comes from Jerry Revich with Goldman Sachs. Your line is now open.
+Jerry Revich -- Goldman Sachs -- Analyst
+Yes, hi. Good morning. Good afternoon.
+Preston Feight -- Chief Executive Officer
+Hey, how are you Jerry?
+Jerry Revich -- Goldman Sachs -- Analyst
+Doing well, thanks. And you?
+Preston Feight -- Chief Executive Officer
+We're all staying healthy out here. Hope you are too.
+Jerry Revich -- Goldman Sachs -- Analyst
+Absolutely. Preston, I'm wondering if you could just expand on your comments about expectations of very good market share on truck and hydrogen vehicles. What's your win rate now out of what's been bid for delivery over the next year? You mentioned industry size couple hundred units and I'm just curious what are you folks seeing in terms of your success rate on those bids?
+Preston Feight -- Chief Executive Officer
+Our success rate tends to be pretty good. And we obviously have strong relationship with our existing customers, provide them great products, low operating costs and repeat. That is extremely high levels. And our win rate continues to be high where we go out and are able to show people, Kenworth, Peterbilt and DAF trucks that have never tried them before. When they get to experience them, they're impressed also. That's the reason we've been growing our market share and the reason we expect to keep growing our market share.
+Jerry Revich -- Goldman Sachs -- Analyst
+Part of the reason why you folks have higher market share and heavy duty and the medium duty is because you get paid for the higher features and higher spec trucks. And in an EV world, obviously the per truck costs are higher. I'm just wondering, is that a tailwind that you're seeing? Is that what you're [Indecipherable] some customers that would be more value-focused now trying your trucks in medium duty. So this dynamic could potentially be a market share tailwind for you folks. Am I understanding it right?
+Preston Feight -- Chief Executive Officer
+I think it could be. But, Harrie, do you want to?
+Harrie Schippers -- President and Chief Financial Officer
+I think, Kenworth, Peterbilt and DAF have been real leaders in customization and giving customers exactly the trucks the way they want them and how they want them. And with electrification, that's probably even more important that we just configure the truck exactly to their needs, their transport task and make sure the weight and the charging and all of that is optimized for their requirements.
+Preston Feight -- Chief Executive Officer
+To add on to that, it kind of brings a more integrated experience for the user. Because you got to think about how much time you need to charge it. That's why one of the reasons we're selling challenging stations through PACCAR Parts is we think the whole energy management opportunity is good for our customers and should be good for PACCAR.
+Jerry Revich -- Goldman Sachs -- Analyst
+Okay. And lastly, I'm wondering if you can provide an update on telematics now that you have even more data with more trucks in the field. Is there anything that you're able to offer customers or anything that you can do incrementally within your operation to increase efficiency building on that growing dataset?
+Preston Feight -- Chief Executive Officer
+That is a fun topic we can spend all day talking about. Maybe when we get back to real life, we'll spend more time on it. But in brevity, I would say that our connected services business really is a growth opportunity. All the trucks in North America come from the factory connected. A majority -- vast majority in Europe come connected as well. And so we collect a lot of data from them, which we share with the customers their data. We share that with the customers and talk about how to improve their operating efficiency and talk about how the vehicle is performing. That involves a great distribution network as well. So our dealers are looking at that data. They know how to take care of the customers well. We have event management capabilities. We understand where vehicles are in the network, how to take care of them better. It's really kind of all about optimizing our customers' experience. And that obviously can be good for PACCAR as well.
+Jerry Revich -- Goldman Sachs -- Analyst
+Okay. I appreciate the discussion. Thank you.
+Preston Feight -- Chief Executive Officer
+You bet. Have a good day.
+Operator
+Our next question comes from Chad Dillard with Bernstein. Your line is now open.
+Chad Dillard -- AllianceBernstein -- Analyst
+Hi. Good morning. Good afternoon, guys.
+Preston Feight -- Chief Executive Officer
+Hey, Chad.
+Chad Dillard -- AllianceBernstein -- Analyst
+So you guys are diving through pretty solid start to first quarter on trucks. I was just curious on how you're thinking about the first half versus second half seasonality and cadence, recognizing it's still early but [Indecipherable] how you guys are thinking about it?
+Preston Feight -- Chief Executive Officer
+Sure. I think the way we're looking at the world right now is that it's the beginning of an improvement toward replacement level. And that as we trend toward replacement level, we'll see where the market goes. If we're, say, in the midpoint is 265,000 both Europe and in North America, that's a healthy market. And it feels like it's a sustainable market for a while, but obviously it depends a lot on the economy and generally happening.
+Chad Dillard -- AllianceBernstein -- Analyst
+And can you talk about your approach to building your autonomous platform? Will it be more like open source, still many digital drivers like Aurora can interface with it or will it be a little bit more exclusive and maybe walk through your thought process behind making that decision?
+Preston Feight -- Chief Executive Officer
+Sure. The way we're looking at this right now is, this is a nascent technology that has a lot of development in it. It takes several years to do as we shared in our announcement. Aurora is a great company with a lot of really skilled people. They're a very impressive group of people. And our team is working on autonomously enabled trucks that's also skilled. We think that the best approach to bring something robust, safe, secure to market is to work together. Our leadership with their leadership to create a capable level for autonomous vehicle. And we do our testing on that and we'll have the end game be to provide our customers a safe efficient vehicle. It take several years to do that.
+Chad Dillard -- AllianceBernstein -- Analyst
+Thank you.
+Preston Feight -- Chief Executive Officer
+You bet.
+Operator
+Our next question comes from the line of Ross Gilardi with Bank of America. Your line is now open.
+Ross Gilardi -- Bank of America -- Analyst
+Hey. Good morning, guys. Thank you.
+Preston Feight -- Chief Executive Officer
+Hey, Ross.
+Ross Gilardi -- Bank of America -- Analyst
+Preston, maybe you can just elaborate a little bit more on Aurora since you're on the topic. Anything incremental that you can provide just to help us think about it a little bit more, whether it's the economics of the collaboration, how should we think about it in terms of your competitive position? Is it something that's going to drive the fastest speed to market for PACCAR with Level 4 autonomy and do you think that you'll experience a meaningful increase in pricing power as you do that?
+Preston Feight -- Chief Executive Officer
+Well, I think that Aurora again is a really good company. We chose them because of our working relationship with them. And I think that what you'll see is, as we develop capable systems that have redundancy and steering, braking, power systems, control, software and they develop the autonomous driver with sensors and software stacks that are integrated to that. That integration will be important. I think it will provide a good strength for our customers. It will be obviously advantageous for Aurora, and PACCAR will benefit because we'll have this autonomous-enabled platform which will be a value to our customers. And it will use our distribution system, it will make their operations potentially more efficient and it should be one of those situations that [Phonetic] creates a win for us, a win for Aurora and a win for our customers.
+Ross Gilardi -- Bank of America -- Analyst
+And any particular milestones we should just think about? Obviously it's a great opportunity and should give you guys an advantage. But what's to look out for? Is this just something that over the next three years we'll just get occasional updates or is there anything you can point out as kind of the next key milestone to look for, for Aurora?
+Preston Feight -- Chief Executive Officer
+I think that we'll be conservative in our milestones and we definitely get some interesting progress right now. It's really exciting inside. But as far as laying out milestones, I think we probably not want to do that right now.
+Ross Gilardi -- Bank of America -- Analyst
+Okay. And then, just the last thing I want to ask you. I realize you've gotten a lot of questions on gross margin already. I'm sorry to dwell on it. But I'm just looking, for first quarter, your implied truck deliveries seem to put you on a level of deliveries that were similar to the first quarter of '18. In the first quarter of '18, your gross margin was 14.8%. And now you're saying it's going be about 13.5%. And I understand that you've invested in safety and so forth. And you've got some inefficiencies in the supply chain and what not. But is it possible to say how much of that difference is really tied you think are sort of COVID-related in efficiency? More importantly, is there any reason to expect lower gross margins through the next cycle versus prior cycles?
+Harrie Schippers -- President and Chief Financial Officer
+Yeah. I would estimate that the cost associated with increased safety and higher absenteeism. And over time, as a result of the safety measures we've taken would be around 40 basis points maybe for us. So that's a little bit of a drag, but yeah, but despite that COVID impact, we still see markets nicely improve to 13.5%. And like I said before, that's probably the highest margin in the industry.
+Ross Gilardi -- Bank of America -- Analyst
+Okay. Thanks, Harrie.
+Harrie Schippers -- President and Chief Financial Officer
+I think that was -- we keep thinking about this. We are going to continue rigorously focus on providing the industry's highest gross margins and we do that. And we expect to continue doing that. So it's kind of a -- pretty happy with the margins being industry-leading.
+Ross Gilardi -- Bank of America -- Analyst
+But for the fact that they already are industry-leading, do you feel like there's a ceiling on them at this point? And that you're going to potentially drift lower, just because where you are saying you're going be in the first quarter and I get this is a very odd cycle forward we're going through, to say the least. It just seems like you're on just a lower level at the beginning of the year relative to where you were on a similar amount of deliveries several years ago?
+Preston Feight -- Chief Executive Officer
+Yeah. I think you have to -- I think you said it well in saying it's an odd cycle. We'll see how the year develops on that cycle.
+Ross Gilardi -- Bank of America -- Analyst
+Okay. Fair enough. Thank you, guys.
+Preston Feight -- Chief Executive Officer
+You bet.
+Operator
+Our next question comes from Matt Elkott with Cowen. Your line is now open.
+Matt Elkott -- Cowen -- Analyst
+Thank you. Good morning and good afternoon. If we take a very long, say, 10-year view, do you guys have any broad vision or high level opinion of what percentage of your truck production might be Level 4 and Level 5 autonomous? And basically same question by energy type, what percentage might be anything other than conventional diesel in 10 years?
+Preston Feight -- Chief Executive Officer
+Well, Matt, that is asking us to prognosticate out there at the decade level. And I would share with you is the way we think about that question, which we obviously do, is we want to make sure we have the right capabilities for what the customer's needs are so autonomy. if there was the right operating environment for a Level 4 Level 5 autonomy, we want to have the right products there for our customers as soon as that makes sense to. And that's why we took the step we did.
+And similarly on zero emissions vehicles, there is going to, at some point, be an economic payback for them. And so that's why we keep being invested in all the different battery electric and hydro fuel cell and hybrid capabilities, so that when the market chooses, PACCAR is there for the product that they want. And we kind of think of ourselves as powertrain agnostic and want to make sure that we can provide the customers the product they need. But in summary, we do think diesel engines will be a primary mode of power for the time frame up to the next decade.
+Matt Elkott -- Cowen -- Analyst
+Got it. That's very helpful. And if I may ask just one more intermediate-term question here. You mentioned that the truck market has been very strong. But the driver market has gotten tighter in TL specifically. Do you see any signs that the Class 8 orders that you're getting from growth may begin to moderate as carriers worry about ceding [Phonetic] trucks. And if so, do you think whatever replacement demand is less will be enough to keep the order momentum going this year.
+Preston Feight -- Chief Executive Officer
+Well, we don't see, simply we don't see any moderation in order intake from the strong demand for DAF, Peterbilt and Kenworth trucks right now. And we expect that would continue as the cycle goes. So things feel good. But it looks a very reasonable lead times are competitive if customers want to have trucks in the second quarter, we can provide them and make sure they get what they need.
+Matt Elkott -- Cowen -- Analyst
+Got it. Thank you very much. Appreciate it.
+Preston Feight -- Chief Executive Officer
+Yeah, you bet. Have a good day.
+Operator
+Our next question comes from Brett Linzey with Vertical Research Partners. Your line is now open.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Hi, good morning. Just one from me and back to the parts distribution strategy. 18, currently, I think you said you're going to add another one this year. What is the right investment to support that strategy and budgeting continued upward move in investment related to distribution. And then, just as a follow up, could you just talk about, in the second half of '20, how the e-commerce retail sales trended versus your fleet billings versus engine parts as the markets recovered. Thanks.
+Preston Feight -- Chief Executive Officer
+Well, if I think about the parts distribution strategy, our goal is to make sure that we service our customers as effectively and efficiently as possible, which is getting parts of them same day next day with expertise that being a critical part of it and then make sure that we're supporting their organizations through not just a part, but also technical knowledge and interface with our fantastic dealer networks around the world as well. So the distribution strategy as to how to optimize that, one part of that is bricks and mortar like you mentioned the 18 distribution centers in the Louisville center that we'll be working on this year and opening next year. So that's an addition.
+And then, as we look forward to it, we'll add the bricks and mortar we need, but there is going to continue to be a key focus on technology so that we can continue to expand the service excellence we provide to the customers.
+And as far as the other part of the question on tariff, Harrie, any thoughts?
+Harrie Schippers -- President and Chief Financial Officer
+Yeah, sure. E-commerce, of course, has been the fastest growing segment within PACCAR Parts, 25%, like we said. And engine part is a good second with the 13% growth year-over-year. I think that was the trend that we expect to continue going forward.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Okay, great. And just a follow-up on R&D. Obviously sort of a snap back here off pandemic low in 2020, but it was up or at least the expectation for '21 is up about 10% of the 2019 base. What is the right incremental jump we should see over the next two to three years? Is it 10% plus or do you think you're at a good level? Any color you can give us?
+Preston Feight -- Chief Executive Officer
+I feel like we're going to be at a good level with this number. And one of the things we always do is, it's a great project for us to work on, we work on them. We have a really strong balance sheet, a lot of cash and we deploy it wisely to benefit our shareholders.
+Brett Linzey -- Vertical Research Partners -- Analyst
+Okay. Got it. I'll leave it there. Thanks for the questions?
+Preston Feight -- Chief Executive Officer
+Awesome. Have a good day.
+Operator
+Our next question comes from Adam Uhlman with Cleveland Research. Your line is now open.
+Adam Uhlman -- Cleveland Research -- Analyst
+Hey, guys. Good morning, good afternoon.
+Preston Feight -- Chief Executive Officer
+Hi, Adam.
+Adam Uhlman -- Cleveland Research -- Analyst
+I wanted to start with -- I appreciate you sharing your expectations for industry truck sales and the Parts business. I'm wondering if you could do the same for the finance subsidiary, any thoughts on sales and earnings this year?
+Preston Feight -- Chief Executive Officer
+Yeah. Finance company saw a nice improvement in profit from the third to the fourth quarter. And if you look at the profit level in the fourth quarter of $64 million with low past dues, good performing portfolio, strong credit qualities. That's the kind of level that we would anticipate for the coming quarters as a range.
+Adam Uhlman -- Cleveland Research -- Analyst
+Okay. And it seems like used truck valuations have moved quite a bit higher recently. Could you -- what are you seeing in the market and is there any chance that positively benefits your business?
+Preston Feight -- Chief Executive Officer
+Used trucks have seen positive momentum both in Europe in North America. You're probably bottoming out right now, but North America has seen a nice improvement, about 10%, 12% so that's a really nice trend. At the same time, our used truck groups have so -- a number of used trucks and as a result, our inventories right now have come down very nicely to very healthy levels.
+Harrie Schippers -- President and Chief Financial Officer
+And I'd just add that our teams have done a great job in Europe and North American in establishing these retail centers that we've added. Lyon, France and Prague in the Czech Republic, one we're creating in Madrid, Spain in Denton, Texas, so that really strengthens our ability to provide customers great used trucks and help their operations too.
+Preston Feight -- Chief Executive Officer
+Absolutely.
+Adam Uhlman -- Cleveland Research -- Analyst
+Okay. And then, just a clarification. Could you update us on your MX engine penetration here recently in any plans or goals for penetration rates in 2021?
+Preston Feight -- Chief Executive Officer
+I think over the years, we've seen steady growth in the MX engine and we expect that growth to continue. And we think about, I think we're talking about is, if we had 10 years ago to estimate our proprietary engine share with probably 30% and now it's 60% and it continues to grow and each year is a different story depending on who's buying trucks and parts of the market are alive. We do expect steady growth on MX engines.
+Adam Uhlman -- Cleveland Research -- Analyst
+Okay, thank you.
+Preston Feight -- Chief Executive Officer
+You bet.
+Operator
+Our next question comes from Rob Salmon with Wolfe Research. Your line is now open.
+Rob Salmon -- Wolfe Research -- Analyst
+Hey. Good morning, guys. Thanks for taking the questions. A few follow-ups with regard to Aurora. Could you give us a sense with this partnership if you guys were taking a stake in Aurora? And kind of big picture, how did the economics look for PACCAR? Obviously you'd be signing a higher spec truck, but curious if there's any sort of revenue you'd be getting on a mileage base or anything along those lines?
+Preston Feight -- Chief Executive Officer
+The team down there led by Chris and Sterling are great in terms of technology. Their understanding with the model might be going forward, our understanding of the model might be going forward looks the same and we distribute trucks through our network and obviously providing a driver -- an autonomous driver for them. It's something that would have lots of updates and lots of engagement with, it's not a sell and forget thing, it's a sell and engage and maintain and update. So that would be, I'm sure, part of their model. And for us, a similar thing, right. The truck will need updates. It will be really important that the trucks the industry uses for the autonomous are at the highest quality, highest reliability, safest products, which is what PACCAR provides. So it puts us in a strong position. We rely on having a great distribution network of dealers, which we do to take care of trucks. That will still be a need. And you'd expect that there will be an engagement of software and updates and how the truck performs. So that will provide opportunity for PACCAR on a steady basis as well as just a one-time sale.
+Rob Salmon -- Wolfe Research -- Analyst
+And Preston, do you have a sense, I know you've talked about kind of looking out a few years where this penetration goes that you guys are currently thinking about from an EV?
+Preston Feight -- Chief Executive Officer
+I think it's a little bit early to make that call. I think people have tried to make that call in the car industry a few years ago and found that that was a difficult decision. I think the most important thing is to make sure that it's completely safe and completely reliable. That's where our focus is.
+Rob Salmon -- Wolfe Research -- Analyst
+Got it. Appreciate the time guys.
+Preston Feight -- Chief Executive Officer
+Yeah, you bet.
+Operator
+[Operator Instructions] Our next question comes from Courtney Yakavonis with Morgan Stanley. Your line is open.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Hi. Good morning. Good afternoon, guys.
+Preston Feight -- Chief Executive Officer
+Hey, Courtney.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Just wanted to follow-up on the conversation on used truck pricing. You mentioned that the finco margins had improved. I think, last quarter, you talked about the trucks really flowing through at no margin. But just wanted to understand, has the used inventory been kind of entirely worked through at this point? And then, what are the implications then when you think about new pricing for next year? So I think you had mentioned that new pricing was about flat in the quarter. So how we should be thinking about the impact to your new pricing.?
+Harrie Schippers -- President and Chief Financial Officer
+So, if you look at the used truck inventory that has come down nicely, it's not that we don't have any used trucks anymore. We continue to have used trucks, but it's like 16% lower than it was at the beginning of the quarter. It's lower than what it was at the beginning of the year. We continue to sell those trucks through used truck center, like Preston said and sell them at those used truck centers. Typically we get a premium over $5,000 per truck. So that will support margins. And used trucks of course provide better trade-in value for our customers and it will be a good thing for them too.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Got it. And then just any thoughts on new truck pricing for this year? And then, I guess, especially with respect to some of the comments that you've made on commodity price pressure, can you just give us a sense of how much steel and aluminum could be impacting your margins this year and what you're thinking about as it relates to price cost?
+Preston Feight -- Chief Executive Officer
+I don't think there's anything specifically to say about that. I mean, we're working with our customers on the trucks they need for the -- from the big to the small vocational to the on-highway, and we have a strong relationship with the dealers as we do that and make sure we provide the best parts, trucks, finances, all together for our customers.
+Harrie Schippers -- President and Chief Financial Officer
+And working with the supply base of course, typically we have long-term agreements with our suppliers. That allow us to see six months between the raw materials go up and the prices for those components would go up. So that gives us enough lead time to price it into truck [Indecipherable] when needed. So that's very normal.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Okay. Got you. And then just lastly, you mentioned your Parts gross expectation for next year, I think coming out of 3Q you talked about the acceleration that you saw in parts growth. Have we seen Parts growth largely stabilized at the size of high digit level or with the budget exiting the quarter much higher and have kind of continued to grow throughout the quarter?
+Preston Feight -- Chief Executive Officer
+I think the parts team showed their real strength and capability by having a record quarter. Their fourth quarter was an all-time record for them. So that's steady and strong growth for them. They did a great job. And we expect to see that continue through the year.
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+Okay. Great. Thanks.
+Preston Feight -- Chief Executive Officer
+You bet. Have a good day, Courtney.
+Operator
+There are no other questions in the queue at this time. Are there any additional remarks from the company?
+Preston Feight -- Chief Executive Officer
+We'd like to thank everyone for joining the call and, thank you, operator.
+Operator
+[Operator Closing Remarks]
+Duration: 60 minutes
+Ken Hastings -- Director of Investor Relations
+Preston Feight -- Chief Executive Officer
+Harrie Schippers -- President and Chief Financial Officer
+Joel Tiss -- BMO Capital Markets -- Analyst
+Rob Wertheimer -- Melius Research -- Analyst
+Tim Thein -- Citigroup -- Analyst
+Nicole DeBlase -- Deutsche Bank -- Analyst
+Stephen Volkmann -- Jefferies -- Analyst
+Jamie Cook -- Credit Suisse -- Analyst
+Ann Duignan -- JPMorgan -- Analyst
+Steven Fisher -- UBS -- Analyst
+David Raso -- Evercore -- Analyst
+Jerry Revich -- Goldman Sachs -- Analyst
+Chad Dillard -- AllianceBernstein -- Analyst
+Ross Gilardi -- Bank of America -- Analyst
+Matt Elkott -- Cowen -- Analyst
+Brett Linzey -- Vertical Research Partners -- Analyst
+Adam Uhlman -- Cleveland Research -- Analyst
+Rob Salmon -- Wolfe Research -- Analyst
+Courtney Yakavonis -- Morgan Stanley -- Analyst
+More PCAR analysis
+All earnings call transcripts
+
+
+
+
+

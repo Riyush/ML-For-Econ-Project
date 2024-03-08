@@ -1,0 +1,282 @@
+Image source: The Motley Fool.
+HCA Healthcare (HCA 1.03%)Q1 2022 Earnings CallApr 22, 2022, 10:00 a.m. ET
+Operator
+Welcome to the HCA Healthcare First Quarter 2022 Earnings Conference Call. Today's call is being recorded. At this time for opening remarks and introductions, I would like to turn the call over to Vice President of Investor Relations, Mr. Frank Morgan.
+Please go ahead, sir.
+Frank Morgan -- Vice President, Investor Relations
+Good morning and welcome to everyone. Today's call with me this morning is our CEO, Sam Hazen and CFO, Bill Rutherford. Sam and Bill will provide some prepared remarks and then we'll take questions. Before I turn the call over to Sam.
+Let me remind everyone that should today's call contain any forward-looking statements that are based on management's current expectations, numerous risks, uncertainties and other factors may cause actual results to differ materially from those they might be expressed today. More information on forward-looking statements, and these factors are listed in today's press release and in our various SEC filings. All in this morning's call, we may make a reference measure such as adjusted EBITDA, which is a non-GAAP financial measure. A table providing supplemental information on adjusted EBITDA and reconciling net income attributable to HCA  Healthcare Inc.
+
+is included in today's release. This morning's call is being recorded and a replay of the call will be available later today. With that, I'll now turn the call over to Sam.  
+Sam Hazen -- Chief Executive Officer
+Good morning and thank you for joining our call. The Covid-19 pandemic continued to influence our results in the first quarter with the American surge, which slowed in the middle of the quarter. More significantly, the challenging labor market pressured margins as the cost of labor increased more than we expected as compared to the first quarter of the prior-year. In the face of these challenges, however, we had a number of positive volume and revenue indicators that were encouraging compared to the first quarter prior-year.
+Same facility admissions increased 2%. During the quarter, we provided care to approximately 49,000 Covid-19 in-patients, which represented approximately 10% of total admissions consistent with prior-year. Non-Covid admissions grew 2.2%. This growth occurred in February and March.
+In-patient surgeries grew approximately 1%, and across our in-patient business, acuity levels and payer mix continued to be strong. Outpatient volumes also rebounded strongly in the quarter. Same facility emergency room visits grew 15%. Same facility, outpatient surgeries grew nearly 7%.
+And outpatient cardiac related procedures grew by approximately 7%. We continue to believe that overall demand for healthcare remains strong in our markets across most categories, with favorable population trends and other contributing factors that developed during the pandemic driving it. Total revenues grew 6.9% compared to the first quarter of 2021. Same facility in-patient revenues grew 5.4% and same facility outpatient revenues grew 10.6%.
+They will provide more color on our revenues in his comments. I realize that our bottom line financial results were not what we expected, but these top line metrics were positives. Diluted earnings per share. Excluding gains on sales of facilities were $4.12, which was down $0.02 from the prior-year.
+In the quarter, we experienced higher levels of contract labor expenses than planned. As compared to the fourth quarter, we saw modest improvements in certain contract labor metrics. We expect further improvements in the remainder of the year as we align the workforce appropriately by reducing both the utilization of contract labor and the associated hourly rates for these contracts. In some situations, the challenges in the labor market also constrained our capacity preventing us from delivering hospital services to certain patients.
+By the end of the quarter, we were able to overcome some of these capacity constraints and for the most part, our transfer centers were able to operate normally and move more patients to the proper setting in our networks. It is important to understand we are doing what we absolutely have to do to take care of our patients, and we will always do that. This past quarter, our teams continue to show up and deliver on our promise to provide high quality care to patients who need our services. I want to thank them for their commitment and hard work during these challenging times.
+We do, however, have numerous initiatives underway around retention, recruitment, capacity management and new care models that we believe will help offset some of these labor pressures. However, we now believe improvement in our labor costs will be slower than originally anticipated. This factor primarily influenced our revised outlook for 2022. We will continue to invest in our people, in our relationships and in our networks.
+We believe these investments are appropriate and should help us address the long term opportunities for growth that exist in our markets. At the end of the quarter, we had approximately 2500 facilities or sites of care and HCA Healthcare networks. This represents a 15% increase over last year. Recently we published our annual impact report for 2021, which highlights the tremendous impact our colleagues had on the patients and communities we serve.
+You can find the details on our website. Before I turn the call over to Bill, let me in my comments with this. Over the past few years, we have demonstrated an ability to adjust effectively to whatever our realities are, and I'm confident we will do it again. With that, I'll turn the call over to Bill.
+Thank you.
+Bill Rutherford -- Chief Financial Officer
+OK. Thank you, Sam. And good morning, everyone. I will provide some additional comments on our performance for the quarter.
+Then addressed our 2022 updated guidance. First, let me provide a little more commentary on our revenues in the quarter. We are encouraged with certain trends we saw in our Non-Covid activity during the quarter. Same facility Non-Covid admissions grew 2.2% versus the prior-year, and our Non-Covid revenue per admission grew 2.4% as a result of maintaining our acuity levels and a slightly favorable pay remix as compared to the prior-year.
+Within our Covid activity, our same facility common admissions were slightly above last year and represented approximately 10% of our total admissions. But we did see lower acuity and intensity with the Omicron variant this year. Our Covid in-patient revenue per admission was down approximately 15% from the first quarter of last year, which resulted in approximately 150 million less Covid revenue this year compared to the first quarter of last year. Let me transitioned to discussing cash flow and balance sheet metrics.
+Our cash flow from operations was 1.345 billion as compared to 2 billion in the first quarter of 2021. We did pay 344 million of deferred payroll taxes from 2020 during this quarter, representing 50% of the total amount deferred. Capital spending was 860 million as compared to 650 million in the prior-year period. And we completed just over 2.1 billion of share repurchases during the quarter.
+Our debt to adjusted EBITDA ratio at the end of the quarter was slightly below the low end of our target range and we had just under $7.9 billion of available liquidity at the end of the quarter. We plan to use approximately 2.6 billion of this amount to redeem our 2023 bonds in the second quarter. Finally, I will mention, as noted in our release this morning, during March of this year, CMS approved the direct repayment portion of the Texas waiver program. As a result, we recognized 385 million of revenue and 160 million of additional provider tax assessments related to this portion of the program from the period September 1st, '21 through March 31st, 2022.
+Of these amounts, approximately 244 million of the revenue and 90 million of the provider tax assessments related to the September or December of '21 period. As noted in a release this morning, we are adjusting our full year 2022 guidance as follows. We expect revenues to range between 59.5 billion and 61.5 billion. We expect net income attributable to HCA Healthcare to range between 4.95 billion to 5.34 billion.
+We expect full year adjusted EBITDA to range between 11.8 billion and 12.4 billion. We expect full year diluted earnings per share to range between $16.40 and $17.60. And we expect capital spending to remain at 4.2 billion for the year. So let me provide some additional commentary on our adjusted guidance and three primary areas that we have considered.
+First, our cost of labor was higher than anticipated in the first quarter, primarily due to the utilization and cost of contract labor. We now believe the disruption in the labor market and the pressure this places on labor cost inflation will be slower to moderate than we originally anticipated. Second, as I previously discussed, we saw reduced acuity and revenue from Omicron Covid patients in the quarter, and the slower acuity has been factored into our guidance as well. And lastly, we made assumption around increased inflationary pressures and expect that to have greater impact on us going forward, including for professional fees, energy procurement costs utilities and other purchase services.
+So let me close with a brief discussion on some of the initiatives we have underway to respond to these current market dynamics. We've spoken in the past of our resiliency efforts, which now include three main focus serious. First is around staffing and capacity, as Sam mentioned in his comments. We have teams working on and focused on multiple workstreams in this category.
+These workstreams stand around investing in and enhancing employee recruitment and retention efforts and enhancing capacity management through new case management models and technology solutions. In addition, we are exploring new delivery models through our care transformation initiatives. All of these are focused on supporting our care teams and easing some of the current labor pressures. Second, we have our original resiliency programs that are continuing.
+Many of these are advancing efficiencies through our next generation of shared services. Examples of these include a consolidation and alignment of laboratory operations, facility management, environmental and food and nutrition support areas. And in the third major effort underway as an initiative around advancing our capability to benchmark key performance metrics across the organization. This is intended to identify variation and opportunity to share best practices across several areas, such as supply utilization, provider support costs, discretionary spending and other similar cost areas.
+Many of these were factored into our original planning assumptions, and we remain focused on these efforts to help offset some of the contract labor and inflationary cost pressures we are experiencing. So with that, I'll turn the call over to Frank to open it up for Q&A.
+Frank Morgan -- Vice President, Investor Relations
+Thank you, Bill. As a reminder, please limit yourself to one question so that we might give us as many possible in the queue an opportunity to ask a question. Emma, you may now give instructions to those who would like to ask a question.
+Operator
+Thank you. [Operator instructions] Your first question today comes from the line of A.J. Rice with Credit Suisse. Your line is now open.
+A.J. Rice -- Credit Suisse -- Analyst
+Thanks. Hi, everyone. Maybe just try to drill down a little bit more on that I know within the range you've changed your outlook for EBIDTA by about 650 million at the high end, 750 million at the low end. There's a lot of moving parts in the first quarter with what's happening with Texas supplemental payments.
+Can you tell us how much of that adjustment was due to what you saw in the first quarter and how much is you're changing in your thinking for the rest of the year? And particularly maybe just drill down on the labor comments about maybe what you were thinking before versus what you're thinking today in terms of use of contract labor rates and so forth, if there's anything that can be shared there.
+Bill Rutherford -- Chief Financial Officer
+A.J., this is Bill. Let me give that a shot. So, you know, as we're looking forward and we're trying to take what we saw in the first quarter to make some assumptions and revision of our assumptions going forward. Let's talk about the three areas.
+And first, as I mentioned, the pressure on the labor cost and what we're seeing is it's higher than we originally planned. It's primarily related to the use of contract labor, but we're also adjusting our base wages to be responsive to the market as well. As I would think about it, our original plan was to kind of manage our overall cost per FTE, somewhere between a 3% and 3.5% level. What we saw in the first quarter is our cost per FTE was about 1.5% higher than we expected.
+So as we forecast this going forward for the balance of the year, it could have a $4 to $500 million impact so we factor that into our guidance. The second areas regarding the Omicron variant are less security and revenue. Not only that, we saw in the first quarter, but, to extend that, we continue to see some Covid at a reduced level than what we saw in the first quarter we factor that in. And then lastly, as I mentioned, just some inflationary increases above what we originally anticipated.
+So I think the way I would characterize it, approximately two thirds of all a revision I would apply to kind of our wage and inflationary cost pressures and a third of that due to the revenue acuity, primarily to the Covid patients.
+A.J. Rice -- Credit Suisse -- Analyst
+OK. Thanks a lot.
+Frank Morgan -- Vice President, Investor Relations
+Yup. To my next question.
+Operator
+Your next question comes from the line of Pito Chickering with Deutsche Bank. Your line is now open.
+Pito Chickering -- Deutsche Bank -- Analyst
+Hey, good morning, guys. I take my questions embedded on the guidance reductions. Can you walk us through the contract labor? Percent of nursing hours in fourth quarter and first quarter and how you assume that rolls off throughout the year. And then the same question on the rates for contract labor and just because stocks had a big move to any chance you guys can give us sort of a range for how we should be modeling to EBITDA?
+Bill Rutherford -- Chief Financial Officer
+I'll think let me give it a shot at that. I think we talked about on our fourth quarter call our contract labor as a percent of nursing hours was around 11%. And first quarter is about that level too. We were 11.4 specifically in the fourth quarter, about 11.6 in the second quarter.
+We are experiencing elevated cost per hour of that contract labor. Principally, we believe, related to the Covid surges, our plans going forward or to continue to reduce the utilization of that contract labor and eventually moderate the average hourly rate that we're having to spend for that contract labor. But we think that moderation will be slower than we originally anticipated. So that's what's based on our assumptions and it's basically influenced with what we saw in the fourth quarter.
+Sam Hazen -- Chief Executive Officer
+And let me let me add to that, Pito, this is Sam. I think as we have gone through two years of up and down periods with surges, short cycle, normal period surges, no other short cycle nor normal period, we saw in the surges an acceleration in both turnover and the use of contract labor. As I mentioned on my prepared comments, we do what we got to do to take care of our patients. What we're anticipating is no more significant surges as we move through the rest of this year, and that gives us some opportunity and some level of confidence that we can moderate the use of contract labor in some of our other initiatives, should provide support, recruitment, some of our retention efforts and so forth, giving us an opportunity to wean ourselves off the high levels of contract labor.
+And we saw that in the short cycles to a certain degree, but we never were able to sustain it simply because it was just that a short cycle. So as we go through the rest of this year, we think the cycle will be longer with respect to no surge, and that'll give us an opportunity to gain some traction with some of these initiatives. Our teams are working diligently across the facilities to make this happen. And again, I'm confident, just as we've done in the past, that we can make these adjustments over time and get us to where we need to be. 
+Frank Morgan -- Vice President, Investor Relations
+OK. Next question.
+Operator
+Your next question comes from the line of Justin Lake with Wolfe Research. Your line is open.
+Justin Lake -- Wolfe Research -- Analyst
+Thanks. Good morning. First, just a quick follow up on Pito's question. Can you give us a number as to where you expect to end the year on contract labor as a percentage? And just to confirm that, does that in the operating expense or other operating if that was the line item, that looks like it was a bit off? And then my my actual question is, if you take a step back, right.
+There was a huge improvement in margins during Covid. They looked like they took a step back here. I'm just curious, do you think this is a sustainable margin or a sustainable EBITDA level to kind of think about jumping off for next year? Or do you think some of those improvements could help you close the GAAP versus where you were when you when you started the year originally?
+Bill Rutherford -- Chief Financial Officer
+Justin this is Bill. Let me start with the first part of that. Without giving us specific numbers, you've heard us talk about we expect to decrease the utilization. You know, if I look before you would we would be hovering around 9% to 10% of hours, I don't know exactly.
+There's so many uncertainties, but we expect it to sequentially improve going forward. That does come through the STPB line, not the other operating. You did mentioned the other offering that was primarily influenced with the provider tax assessments that I mentioned in my prepared remarks.
+Sam Hazen -- Chief Executive Officer
+This is Sam. Justin with respect to the margins in the first quarter, I think the margins in the first quarter were clearly pressured, as we've indicated here, with somewhat unprecedented levels of cost on the labor side. We yet again, those costs were driven in some respects by the surge that we were reacting to and in that pressured them in a very significant way. I do believe over time we can recover some of that lost margin as we continue to appropriately align our workforce with more permanent workforce or more efficient workforce coming from the contract labor category.
+As setting a target, we don't necessarily have a target for contract labor. Obviously, in 2019 we were maybe half of what we're running today somewhere in that zone. I don't know if that's realistic in the short run, but I'm hopeful in the intermediate run with the number of initiatives that we have, plus our Galen College of Nursing Expansion Program that we can start to get back to those kind of levels. But I do think the first quarter was uniquely pressured from a margin standpoint simply because of the elevated levels of contract labor and the cost thereof.
+Frank Morgan -- Vice President, Investor Relations
+OK. Next question.
+Operator
+Your next question comes from the line of Kevin Fischbeck with Bank of America. Your line is open.
+Kevin Fischbeck -- Bank of America Merrill Lynch -- Analyst
+Great. Thanks. Just wanted maybe follow up on that question there. I think last quarter you were talking about something like a 20% to 21% margin as kind of ultimately being sustainable.
+Is that the right way to think about it or have some of these things changed your view? And it sounds like for the most part, you talked about recapturing, like you're talking about cost savings. Is there anything on the rate side that is part of that equation? And if so, you know, does that take a couple of years to play out or is that something that we can think about more normalized margins as soon as next year? Thanks.
+Bill Rutherford -- Chief Financial Officer
+OK. If you look at our guys, I think it would apply, you know, close to those 20% margin levels. Obviously, we've had to adjust some of our thinking given kind of these inflationary cost pressures that we're seeing. So we're doing everything we can to operate the company as efficiently as possible.
+There's a lot of variables that we know go into margin volume, acuity, payor mix, continuing to manage our cost structures appropriately. So, I would use that 19% to 20% level in the short run. And over time, we're going to continue to find ways to continue to operate efficiently.
+Sam Hazen -- Chief Executive Officer
+On the payor contracts. We are having more discussions, obviously the payers understand the inflationary pressures that providers have and there's early discussions. It doesn't change our revenue mix in the 2022 period because we're largely contracted for 2022. But as we move into 2023 and 2024, Kevin, we have opportunities to utilize our payer contracts to get some relief from the inflationary pressures.
+And as we further our discussions with those commercial payers, optimistic that we can gain some escalators that are more in line with the inflationary pressures of today versus the inflationary pressures of the past.
+Frank Morgan -- Vice President, Investor Relations
+OK. Next question.
+Operator
+Your next question comes from the line of [Inaudible] Securities. Your line is open.
+Unknown speaker
+Thanks. Bill, what are you assuming in your algorithm this year for the guidance around Covid and Non-Covid? I think you were assuming Non-Covid was going to be, 2% to 3% of the total. How is that shifted? And is there anything that you can share on how Non-Covid either in-patient, outpatient or anything is tracking through April. That might just give us a sense of the run rate.
+Thanks. 
+Bill Rutherford -- Chief Financial Officer
+I can't say April with this point, but we said, in our prepared remarks, is up 2.2% and that was really in February and March. And February and March, we were seeing 4.5% to 5% potentially in those levels. So again, that's why I said we're encouraged by those trends. I don't think really what we saw in the fourth quarter really and broad terms affect our volume outlook.
+We still see good volume demand in the marketplace. So, originally we said 2% to 3% volume growth would still be in between that maybe 3% to 5% of our total admissions. And I think right now, I think that's mostly in line with our current expectations.
+Frank Morgan -- Vice President, Investor Relations
+OK. Next question.
+Operator
+Your next question comes from the line of Ben Hendrix with RBC Capital Markets. Your line is open.
+Ben Hendrix -- RBC Capital Markets -- Analyst
+Just a real quick follow up on a comment you made just a second ago, Sam, about improving efficiency of contract labor. We've always kind of characterized this as kind of the labor backdrop as the contract being the contradictory piece and wage inflation being more permanent. Is that can we read that kind of improving efficiency comment? Is maybe your expectation that contract labor utilization at higher rates is more of a permanent construct now going forward in the labor market? 
+Sam Hazen -- Chief Executive Officer
+Well, I think it's higher than it was in 2019. I don't think it will be higher than it was in the fourth quarter or the first quarter. I think rates will naturally come down as the surges subside and as a workforce is aligned with more permanent staff and so forth. And and so we're dealing in the first quarter, in the fourth quarter and a little bit in the third quarter as well, very high cost per hour for contract labor and we do not believe that is sustainable.
+And and so we're anticipating improvements in that. Additionally, I think we will see reductions in the number of contract labor personnel that we use. Again, as our initiatives gain traction. We've invested heavily in our recruiting function and really improved the candidate experience.
+Inside of that, we have some improving retention efforts, efforts in compensation programs that we think are going to support that component of our set of initiatives. So all of that leads us to believe that we can get the cost per FTE down from where it was in the fourth quarter in the first quarter. And so that's our thinking.
+Frank Morgan -- Vice President, Investor Relations
+OK. Thank you Ben. Next question.
+Operator
+Your next question comes from the line of Ann Hynes with Mizuho. Your line is open. 
+Ann Hynes -- Mizuho Securities -- Analyst
+Hi, Good morning. Can you tell us when I look at in-patient admissions and adjusted admissions versus 2019, they're still down about 3%. Can you tell us what's embedded in guidance for 2022 versus the 2019 based baseline trends? Thanks.
+Bill Rutherford -- Chief Financial Officer
+Hey, and this is Bill. So as I mentioned before, I still believe we'll end up seeing 2% to 3% admissions for the full year '22. You're right, we are down a little on '19. I'd have to take a moment to see what that represents.
+And I think about 1% is what I think that would be our '21 number versus the baseline '19 would be down about 1%.
+Sam Hazen -- Chief Executive Officer
+Let me color that in a little bit more, Bill, if I may, please. I think a couple of things when it comes to our same store, 2019 versus our same store 2021, our uninsured volumes are down 11% from 2019. So that's a very significant point. The second point I would say is we've had a fairly significant shift of orthopedic total joint surgeries go from in-patient to outpatient from 2019 to 2022.
+Again, that's put pressure on the admissions. Our surgeries were actually up over 2019 and then again with our emergency room visits, if you look at the categories that are the pain categories, we're slightly up, but our uninsured activities were way down. So I think you've got to look at the components of the business and understand the different components. And so the mix slightly better shift in-patient to outpatient, which we've talked about over the last couple of years, and that influences the 2022 to 2019 comparisons.
+Frank Morgan -- Vice President, Investor Relations
+OK. Thank you Ann. Next question.
+Operator
+Your next question comes from the line of Gary Taylor with Cowen. Your line is open.
+Gary Taylor -- Cowen and Company -- Analyst
+Hey, good morning. What I did think about seasonality of revenue in EBITDA if you can hear do we go back to sort of pre-Covid and think about first quarter, fourth quarter EBIDTA or is being higher? Or do we think about, J&J and some of the other device companies have said all time high cancelations in January, things really started improving in March and April. And obviously you've got some anticipation that labor costs could ease a bit sequentially. So are we back to normal EBITDA seasonality yet or is the year still more complex? And can you help us at all?
+Bill Rutherford -- Chief Financial Officer
+But I think a couple of things, Gary, I thank you for that question. The the seasonality we talked about this in the fourth quarter call was really difficult for us to discern because, again, we were weaning ourselves off the delta variant and then ramping up on the Omicron variant. I think the seasonality, again, with our volume is a bit uncertain to us right now. My sense is this could be a more normal period on seasonality for volume in 2022 than any that we've had over the last two years, obviously.
+But the seasonality on our costs, as we've indicated, I think are going to be different and they're going to be different because we're at a high watermark on labor cost per FTE in the first quarter and typically our costs would go up seasonally. But we think as we work through the initiatives and in the alignment of our workforce, we'll have a different pattern to our costs in 2022 than what we've had in previous years. And then hopefully 2023 gets back to normal. So that's how we're thinking about it.
+Obviously, there's still. Much to come here for us to understand. In fact, if that does play out. But that's our thinking at this point.
+Frank Morgan -- Vice President, Investor Relations
+Thank you, Gary. Next question.
+Operator
+Your next question comes from the line of Brian Tanquilut with Jefferies. Your line is open.
+Brian Tanquilut -- Jefferies -- Analyst
+Hey, good morning, Sam. Just to follow up some questions on labor, right. So one question we're getting asked is why now? You guys have done a great job managing through labor over the last year and a half and maybe any color you can share on what you're thinking in terms of turnover on your nurses. And then I guess for for Bill to follow up to that, as you called out, acuity as a driver of the revenue guidance cut.
+But as we pulled back and temp staff, is there going to be an impact on labor or on volumes that we should be thinking about? Thanks.
+Sam Hazen -- Chief Executive Officer
+So the first half of last year, our costs were not in what I call an elevated state from labor. And we mentioned this on our third quarter call. We also mentioned it again on the fourth quarter call, and now we're mentioning it on the first quarter calls. We're working ourselves out of some comparisons, number one.
+But our cost of labor were dramatically disrupted in the Delta variant for a couple of reasons. One, we jumped our census from the second quarter to the third quarter by 8.5%. We had record census levels in the company in the third quarter, not for the third quarter, but forever. And that forced us to respond to those patients in an appropriate way.
+The market the labor market was being tremendously impacted during the summer of 2021, and we had to use more contract labor at that time than we had in previous periods. Well, that's continued into the fourth quarter and into the first quarter. Again, we think some of that is influenced significantly by the surges. So that's part of what we occurred.
+As Bill alluded to at the Delta variant was the most intense revenue per patient population that we had. So the third quarter covered a lot of that cost because the revenue intensity of the Delta patients was quite high. The fourth quarter had a blend of Delta and Omicron, and it still was higher than the first quarter. And so the labor costs really haven't changed per FTE in the in three quarters.
+I'm considering that to be a good thing. And I'm also considering it to be the opportunity because we're using too much contract labor and it's still at elevated outsized rates. And so our rate trend has continued in the quarter to be reduced. I think our contract labor cost per hour in the first quarter was down 5% from the fourth quarter.
+And within the quarter, within the first quarter, it was better each month, month over month. Again, it gives us some confidence that the assumptions we're making for the remainder of the year are reasonable. So that's part of why doesn't look like we. Manage through it in historical ways, our productivity.
+Is at a very efficient level when it comes to employees per patient. So we're managing on that front as well as we possibly can. And as again, we get these other underlying initiatives into a normal period, hopefully of no Covid surges, we're going to gain ground on the pressure that we've experienced over the past three quarters.
+Frank Morgan -- Vice President, Investor Relations
+Thank you.
+Unknown speaker
+We're right here at a follow up question to say, I think Sam mentioned, too, in his comments there, there's always the potential where the labor pressures could affect your volume. Well, we've seen that as in Covid surges as we've managed through transfers. 
+Bill Rutherford -- Chief Financial Officer
+Again, I think as Sam alluded in his comments at the end of the quarter, we were really back to our normal levels, but we're continuing to manage through that dynamic.
+Frank Morgan -- Vice President, Investor Relations
+OK. Thank you. Next question.
+Operator
+Your next question comes from the line of Scott Fidel with Stephens. Your line is now open.
+Scott Fidel -- Stephens, Inc. -- Analyst
+Hi. Thanks. So we just had the Medicare IPPS, proposed contract for 2023 and certainly had a couple of different moving pieces and that. So I thought it'd be helpful if you can give us, the gross versus net sort of projection for your rates from that proposal.
+And then just more broadly, how you feel about CMS, as sort of factoring in this inflationary pressure. And ultimately, if you think that CMS well start to factor that more accurately as we look out maybe to '24 beyond. Thanks.
+Bill Rutherford -- Chief Financial Officer
+Scott, this is Bill. I mean, obviously, we're still assessing it, but I think on first blush, we saw kind of the gross increase we saw would be hovering just under 2%. And that's pretty consistent with what we've seen. But I think to your point, it does get that it out when we see the delay in the sequestration cuts out there.
+So we'll still assess that. So it may move it closer to flat net net all in. But we're seeing at the top line, just under 2% growth on that. And so we'll see how the final rule comes out as we go through comments.
+Sam Hazen -- Chief Executive Officer
+Yeah. And in forward years, typically it takes a little bit for the wage index to be adjusted to reflect what's going on in the industry. So I think as '21 and '22 start to get baked into the formula for inflation around the wage indexes of the hospital industry, it will start to influence the reimbursement in slightly different ways. 
+Frank Morgan -- Vice President, Investor Relations
+Thanks for the question, Scott. Next question.
+Operator
+Your next question comes from the line of Andrew Mok with UBS. Your line is now open.
+Andrew Mok -- UBS -- Analyst
+Hi. Good morning. Just wanted to follow up on the revenue commentary. Can you take us through the components of the lower revenue guidance in more detail, maybe help bucket the $500 million decline between volume, acuity and mix? And are there any other government related items that you would call out in that revenue decline? Thanks.
+Bill Rutherford -- Chief Financial Officer
+Yeah, Andrew, this is Bill. I would tell you it's principally related to the drop in the Covid acuity that I mentioned in my comments. And, you know, we're estimating it to be approximately 150 million in the quarter. You know, Covid obviously was higher at 10% of our admissions and we expect in the full year.
+But if you run that out, I would say the vast majority of that revenue decline would be due to the lower acuity that we're seeing with the Omicron variant and expect to see going forward. And outside of that there's no other really major item that I would call out, just the have and flow of of kind of normal volume patterns.
+Frank Morgan -- Vice President, Investor Relations
+Thank you. Next question.
+Operator
+Your next question comes from the line of Stephen Baxter with Wells Fargo. Your line is open.
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Yeah. Hi. Thanks. Just want to ask another one on the labor market.
+So I'm sure part of your process. Around this issue involves a great degree of competitive intelligence about what's going on in your markets. I was hoping you could share a little about what you're seeing from your local market competitors and whether they're strategies around, you know, contract labor or employee labor force or even maybe potentially putting certain service lines on pause or maybe exacerbating some of the pressures you're feeling. I guess, big picture, do you think they're being as disciplined as you are? And if not, how should we think about the longer term implications of that? Thank you.
+Sam Hazen -- Chief Executive Officer
+So from a competitive standpoint, I mean, obviously, our wage programs have to be competitive. And, that means different things in different circumstances. And we have made adjustments to our compensation programs really starting back in the third quarter of '21 to respond to some of the market dynamics. We continue to be very fluid in in that particular area of our business in responding to the different circumstances from one market to the other.
+I would say that. We think we're in a pretty good spot. We haven't seen any unusual maneuvers. Broadly, we are fortunate, again, to have competitors that tend to be only local and in one market or two markets at the most.
+So we don't see sort of patterns that permeate all 43 markets for HCA Healthcare and so that's a positive on that front. But we haven't seen anything unique yet from the competitive landscape with contract labor and so forth. But I've got to believe that they are. Facing many of the same challenges as we do.
+And I believe over time we've been able to use our operating discipline, use our systems, use the learnings that we have across the company to create advantage for us. And I believe we will continue to do that. 
+Frank Morgan -- Vice President, Investor Relations
+Thank you, Stephen. Next question.
+Operator
+Your next question comes from the line of Joshua Raskin with Nephron Research. Your line is open.
+Joshua Raskin -- Nephron Research -- Analyst
+Hi. Thanks and good morning. Appreciate your taking the question. Quick follow up on contract labor.
+How long are those typical contracts in place? And then my real question, are you having any issues with discharges, post-acute discharges? Is that impacting length of stay driving up cost? And obviously the same DRG, the same payment.
+Bill Rutherford -- Chief Financial Officer
+Yeah. Joshua, Bill. Typically, those contracts range around 13 weeks, and so it takes time to adjust. But, given the size, they're always flowing through our system on there.
+And relative to post-acute and discharge planning, I would say, yes, I think that's part of our case management initiatives that I spoke to and in my prepared comments. I think the supply and demand dynamics in post-acute, whether it be skilled nursing or other post-acute settings from time to time, can cause a backup in our discharges. And and that's why we're trying to advance, and utilize some technologies, advance a common organizational structure around case management so we can continue to focus on that and improve that. Like to stay when patients are ready to go home and there's appropriate levels of discharges.
+But there is a dynamic out there, there's no doubt about it. But I think we're focusing a lot of effort and energy and resources to try to continue to improve in that area.
+Frank Morgan -- Vice President, Investor Relations
+Thank you, Josh. Next question.
+Operator
+Your next question comes from the line of Jason Cassorla with Citi. Your line is now open.
+Jason Cassorla -- Citi -- Analyst
+Great. Thanks. I just want to go back to your comments around the initiatives for retention, recruitment, capacity management and new care models. Can you just help in terms of what is different with these initiatives today and maybe compared to perhaps how you utilized these initiatives back in three Q '21 when labor was picking up, is it just more intensity there or are you leveraging incremental levers that maybe weren't considered a preview utilized that back then? And then if possible, can you help quantify the offset of these programs or initiatives related to the $4 to $500 million net pressure regarding the higher wages and costs with the revised guidance? Thanks.
+Bill Rutherford -- Chief Financial Officer
+Yeah. I'll start with Sam comment. I think it's a mix of both escalating existing initiatives, new ones. One, I'll give an example on sandwich necessarily around recruitment.
+We've increased our investment in recruiter significantly and that's been our a really intentional effort. Same around retention we're putting common retention strategies across the organization on there. And then, the case management that I mentioned in my comments, we recently approved an effort to really align organizationally around our case management strategies. And we're investing in new technologies to give us better predictive assessments of patients needs at discharge.
+So it's a combination of accelerating and emphasizing existing efforts as well as implementing new ones. And it's kind of touches all bases, if you will, between recruitment, retention, capacity management and new care models, as  we can bring new support staff to support the care teams, whether it be through patient care tax, through patient safety attendance and the like. So we've got a number of initiatives to try to just as I said in my comments, continue to support the team. And it is those pressures, I would say, in our guidance, you know, and our original guys, we had already factored in, you know, some impact of those.
+And we're going to continue to focus on those to try to, I think, counter some of the market pressures that we are seeing.
+Frank Morgan -- Vice President, Investor Relations
+OK. Thank you for the question. Next caller.
+Operator
+Your next question comes from the line of Jamie Perse with Goldman Sachs. Your line is now open.
+Jamie Perse -- Goldman Sachs -- Analyst
+Hey. Good morning, guys. A question on volumes. But last year, the timing of the Covid wave was pretty similar to what it looked like this year.
+Really nice acceleration to Q2 last year in terms of volumes across the board. What do you see now in terms of volumes? And last year experienced a good proxy for how we should be thinking about the acceleration into to two Q. And then just one quick follow up. Can you guys give us what percent of your managed care contracts are in place for 2023?
+Sam Hazen -- Chief Executive Officer
+February and March, which were obviously highlights post on a crime surge behaved similarly to the holiday surge that occurred at the end of 2020 and on into the first part of 2021. Again, we had solid Non-Covid admission growth in February and March, as Bill alluded to, in the mid-single digits. So we're encouraged by that. There's nothing to suggest that the patterns will be different.
+But again, we're learning, obviously, as we go through these patterns and we're hopeful that we won't have any more surges and we'll be able to judge some of these patterns more effectively. With respect to our payer contracts, we're about 50% contracted for 2023 and about 30% contracted for 2024. Again, those capacities in each of those years give us opportunities to adjust some of the inflationary expectations to the realities that we have today.
+Frank Morgan -- Vice President, Investor Relations
+Thanks for the question. Next question.
+Operator
+Your next question comes from the line of Sarah James with Barclays. Your line is now open. 
+Sarah James -- Barclays -- Analyst
+Thank you. So you've been talking about the majority of the pressure being on temp labor, but I was hoping you could unpack that a little bit. Are you talking about two thirds, one third temp labor, two kind of the longer tailed items like wage inflation and bonuses or a more extreme split? And you guys are in a unique position earning in nursing school. So are you seeing any shift in what field students are selecting and how is that influencing your strategy?
+Sam Hazen -- Chief Executive Officer
+I don't know, Bill, if we if I have the split right in front of me and to be able to answer the first question. But let me speak to the second question and we can get back to you on that first question with a little bit more specificity, if we can. It's still early for us with the Galen College of Nursing Programs and Expansions. But just looking at some of the new schools that we've opened in Austin, Texas, Nashville, Tennessee, parts of South Carolina, the enrollment in a couple of those situations is record level enrollment in nursing program in the Galen College of Nursing.
+So we've seen a really robust initial enrollment that gives us confidence. We also believe that we have an opportunity to integrate those students into our organization to support current needs as well as hopefully create synergy as they graduate the program and want to come to work for HCA Healthcare. So we're really encouraged by the prospects. But again, that's more intermediate run kind of a gain, although there will be some short run with nurse extras and rotations and so forth that we can utilize hopefully effectively to support current day needs.
+But the the initial enrollment in a number of these new schools would suggest that there's still a reasonable supply of students who want to go into nursing schools.
+Unknown speaker
+I think you'll have an answer to the second question.
+Sam Hazen -- Chief Executive Officer
+Well, no, I don't have an answer, Sir. We'll have to get back with you. I think our overall labor market is a combination of the temporary labor and some of the base wage inflation. I can't split it for you.
+Exactly. We'll get back with you on that. But it's a combination of both.
+Sarah James -- Barclays -- Analyst
+OK. 
+Sam Hazen -- Chief Executive Officer
+Yeah, go ahead.
+Sarah James -- Barclays -- Analyst
+Just to clarify, on the nursing school, I was trying to understand like the structural shift that's going on if you're graduating, nurses are selecting one feels like. And it's surgical versus home health versus like if you're seeing just like a structural shift and we're graduating nurses are going. 
+Sam Hazen -- Chief Executive Officer
+No, we're not.
+Frank Morgan -- Vice President, Investor Relations
+OK. Thank you for the questions here. Next question.
+Operator
+Your next question comes from the line of Matt Borsch with BMO Capital Markets. Your line is now open.
+Matt Borsch -- BMO Capital Markets -- Analyst
+Thanks for squeezing me in. Question of topic for the quarter but there is I've been following this closely but there's been obviously an ongoing dialog around compliance with the price transparency regulations. And I know there's a lot of complexity to the implementation, but can you just address where from your standpoint you are with that? And you know what, when you would expect to get, if not already, to full compliance on that?
+Sam Hazen -- Chief Executive Officer
+Well, I was going to say we believe we are compliant with the CMS rules, which are tremendously complex and in many ways difficult to implement because of the variations that exist from one commercial contract to another and from one market to another. So we have, through our an internal process, established a program that we believe in CMS is is validated in certain circumstances, is compliant, and we continue to try to refine those presentations in ways that, again, satisfied CMS is evolving interpretation as well as our ability to adjust some of our postings to meet the evolving requirements.
+Matt Borsch -- BMO Capital Markets -- Analyst
+OK. I look at it. Thank you very much. I turn it back over to Emma.
+Operator
+Your last question today comes from the line of Ben Hendrix with RBC Capital Markets. Your line is now open.
+Ben Hendrix -- RBC Capital Markets -- Analyst
+Hey guys, thank you very much for the start, for twist me and for quick follow just to get to that one third of the guide down that related to the lower acuity on Covid volume is there any way that you give us an idea of the margin differential between a lower acuity patient you've seen through almost on versus Covid patient historically and then versus a Non-Covid in-patient admission. Thanks
+Sam Hazen -- Chief Executive Officer
+No. I think we have to follow up offline on that. I don't have any specifics in front of me of the specific margins. But I do know what we have the acuity drop like we did the revenue does flow through pretty much down of margin but i don't have exact percentage to share with you these very instance in same.
+Frank Morgan -- Vice President, Investor Relations
+OK. Emma I think that's got it now.
+Operator
+[Operator signoff]
+Duration: 52 minutes
+Frank Morgan -- Vice President, Investor Relations
+Sam Hazen -- Chief Executive Officer
+Bill Rutherford -- Chief Financial Officer
+A.J. Rice -- Credit Suisse -- Analyst
+Pito Chickering -- Deutsche Bank -- Analyst
+Justin Lake -- Wolfe Research -- Analyst
+Kevin Fischbeck -- Bank of America Merrill Lynch -- Analyst
+Unknown speaker
+Ben Hendrix -- RBC Capital Markets -- Analyst
+Ann Hynes -- Mizuho Securities -- Analyst
+Gary Taylor -- Cowen and Company -- Analyst
+Brian Tanquilut -- Jefferies -- Analyst
+Scott Fidel -- Stephens, Inc. -- Analyst
+Andrew Mok -- UBS -- Analyst
+Stephen Baxter -- Wells Fargo Securities -- Analyst
+Joshua Raskin -- Nephron Research -- Analyst
+Jason Cassorla -- Citi -- Analyst
+Jamie Perse -- Goldman Sachs -- Analyst
+Sarah James -- Barclays -- Analyst
+Matt Borsch -- BMO Capital Markets -- Analyst
+
+More HCA analysis
+All earnings call transcripts

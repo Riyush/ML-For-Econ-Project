@@ -1,0 +1,350 @@
+Image source: The Motley Fool.
+Microchip Technology (MCHP -1.26%)Q2 2020 Earnings CallNov 05, 2019, 5:00 p.m. ET
+Operator
+Good day, everyone, and welcome to the Microchip second-quarter fiscal 2020 financial results conference call. As a reminder, today's call is being recorded. At this time, I would like to turn the conference over to Microchip's chief financial officer, Mr. Eric Bjornholt.
+Please go ahead, sir.
+Eric Bjornholt -- Chief Financial Officer
+Thank you, and good afternoon, everyone. During the course of this conference call, we will be making projections and other forward-looking statements regarding future events or the future financial performance of the company. We wish to caution you that such statements are predictions and that actual events or results may differ materially. We refer you to our press releases of today as well as our recent filings with the SEC that identify important risk factors that may impact Microchip's business and results of operations.
+In attendance with me today are Steve Sanghi, Microchip's chairman and CEO; and Ganesh Moorthy, Microchip's president and COO. I will comment on our second-quarter fiscal year 2020 financial performance and Steve and Ganesh will then give their comments on the results, discuss the current business environment as well as our guidance and provide an update on the ongoing integration activities associated with the Microsemi acquisition. We will then be available to respond to specific investor and analyst questions. We are including information in our press release and this conference call on various GAAP and non-GAAP measures.
+
+We have posted a full GAAP to non-GAAP reconciliation on the Investor Relations page of our website at www.microchip.com, which we believe you will find useful when comparing our GAAP and non-GAAP results. We've also posted a summary of our outstanding debt and our leverage metrics on our website. I want to remind investors that during the June quarter of 2018, we adopted the new GAAP revenue recognition standard, which requires revenue to be recognized at the time products are sold to distributors versus our historical revenue recognition policy where revenue on such transactions was deferred until the product was sold by our distributor to an end customer. As discussed in previous earnings conference calls, we continue to track and measure our performance internally based on direct revenue plus distribution sell-through activity, and each quarter, we'll provide a metric for this called end market demand in our earnings release.
+Therefore, along with our GAAP and non-GAAP results based on distribution sell-in, we'll also provide investors with our end market demand based on distribution sell-out, but will not provide a P&L based on end market demand. End market demand in the September 2019 quarter was $1.346 billion. End market demand was about $8.6 million more than our GAAP revenue in the quarter. I will now go through some of the operating results, including net sales, gross margin and operating expenses.
+I will be referring to these results on a non-GAAP basis, which is based on expenses prior to the effects of our acquisition activities, share-based compensation and certain other adjustments as described in our press release. Net sales in the September quarter were $1.338 billion, which was up 1.15% sequentially and modestly below the midpoint of our guidance of $1.349 billion. We have posted a summary of our GAAP net sales and end market demand by product line and geography on our website for your reference. On a non-GAAP basis, gross margins were near all-time highs at 62.24%, operating expenses were at 25.56% and operating income was 36.7%.
+Non-GAAP net income was $365.7 million. Non-GAAP earnings per diluted share was $1.43, which was in line with the midpoint of our guidance. On a GAAP basis, gross margins were 61.9% and included the impact of $5.2 million of share-based compensation. Total operating expenses were $643.9 million and include acquisition intangible amortization of $248.2 million, special charges of $3.6 million, $10.1 million of acquisition-related and other costs and share-based compensation of $40.1 million.
+The GAAP net income was $108.9 million or $0.43 per diluted share. Our September quarter GAAP tax benefit included $12.7 million of net discrete income tax benefits related to tax reserve releases due to statute of limitations expiring, partially offset by a foreign tax assessment. The non-GAAP cash tax rate was 6.5% in the September quarter and was negatively impacted by a foreign tax assessment that Microchip will pay in fiscal year 2020, but defend its position and seek a refund of these taxes in the future. We expect our non-GAAP cash tax rate for fiscal '20 to be between 6% and 7%.
+Exclusive of the transition tax, any potential tax associated with restructuring the Microsemi operations into the Microchip global tax structure and any tax audit settlements related to taxes accrued in prior fiscal years. We have many tax attributes and net operating losses and tax credits as well as U.S. interest deductions that we believe will keep our cash tax payments low. The future cash tax payments associated with the transition tax is expected to be about $236 million and will be paid over the next six years.
+We have posted a schedule of our projected transition tax payments on the Investor Relations page of our website. Our inventory balance at September 30, 2019, was $734.2 million. We had 131 days of inventory at the end of the September quarter, down one day from the prior-quarter's level. Inventory at our distributors in the September quarter were at 30 days compared to 32 days at the end of June.
+We have only had one quarter in the past 15 years, which was Q3 of fiscal year 2013, where days of inventory and distribution have been lower than the current levels. The cash flow from operating activities was $396 million in the September quarter. As of September 30, the consolidated cash and total investment position was $405.1 million. We paid down $315.5 million of total debt in the September quarter, and the net debt on the balance sheet was reduced by $283.5 million.
+Over the last full five quarters since we closed the Microsemi acquisition and incurred over $8 billion in debt to do so, we have paid down $1.729 billion of the debt and continue to allocate substantially all of our excess cash beyond dividends to aggressively bring down this debt. We have accomplished this despite the adverse macro and market conditions during most of this period, which is a testimony to the cash generation capabilities of our business. We expect our debt levels to reduce significantly over the next several years. Our adjusted EBITDA on the September -- in the September quarter was $540.2 million and our trailing 12-month adjusted EBITDA was $2.178 billion.
+Our net debt to adjusted EBITDA, excluding our very long-dated convertible debt that matures in 2037 and is more equity-like in nature, was 4.59 at September 30, 2019. Our dividend payment in the September quarter was $87.3 million. Capital expenditures were $17.7 million in the September quarter. We expect between $20 million and $25 million in capital spending in the December quarter and overall capital expenditures for fiscal 2020 to be between $90 million and $100 million, a $25 million reduction from the forecast we provided last quarter.
+We continue to add capital to support the growth of our production capabilities of our new products and technologies and to bring in-house more of the assembly and test operations that are currently outsourced. We expect these capital investments will bring some gross margin improvement to our business, particularly for the outsourced Atmel and Microsemi manufacturing activities that we are bringing into our own factories. Depreciation expense in the September quarter was $39.5 million. I will now turn it over to Ganesh to give us comments on the performance of the business in the September quarter and provide an update on some of our ongoing Microsemi integration activities.
+Ganesh? 
+Ganesh Moorthy -- President and Chief Operating Officer
+Thank you, Eric, and good afternoon, everyone. Before I get started, I would like to remind you that the product line comparisons I will be sharing with you today are based on end market demand, which is how Microchip measures its performance internally. Also, as I go through the product line reports, they will reflect continued broad macro weakness in the markets we serve. This broad weakness was further accentuated in the month of September.
+Let's start by taking a closer look at microcontrollers. Our microcontroller business was sequentially down 1.3% as compared to the June quarter. We continued to introduce a steady stream of innovative new microcontrollers, including the industry's first commercially available serial memory solid-state drive controller, which won the best-of-show award in the 2019 Flash Memory Summit, as well as two different USB Type-C Power Delivery controllers, which enable fast device charging and simplifies implementation of this functionality. Microcontrollers represented 53.3% of our end market demand in the September quarter.
+Now moving to analog. Our analog business was sequentially up 0.2% as compared to the June quarter. During the quarter, we continued to introduce a steady stream of innovative analog products, including the introduction of the Trust Platform for CryptoAuthentication, the industry's first pre-provisioned solution providing secure key storage for small and large volumes. Analog represented 28.7% of our end market demand in the September quarter.
+Our FPGA business was sequentially down 8.9% as compared to the June quarter. As we have mentioned in prior conference calls, the FPGA business does have some lumpiness because of our significant exposure to space, aviation and defense markets where procurement timing can be a function of programs and their shifting priorities, schedules and budgets. During the quarter, we announced our Smart Embedded Vision initiative, providing for designing intelligent machine vision systems with our low-power PolarFire FPGAs. Design wins for the PolarFire family continued to grow strongly, and we remain optimistic about the prospects for this product family.
+FPGA represented 6.8% of our end market demand in the September quarter. Our licensing, memory and other product line, which we refer to as LMO, was sequentially up 10.5% in the September quarter as compared to the June quarter. Strength in our licensing business as well as our timing systems business outpaced the broader macro weakness we experienced. LMO represented 11.2% of our end market demand in the September quarter.
+In September, we completed the acquisition of two small, early stage private companies. The first acquisition enables low power embedded computing solutions for machine learning inference and Smart Embedded Vision applications for our FPGA product families. This acquisition also adds domain knowledge depth in the areas of machine learning algorithms and vector processing. The second acquisition provides digital gate driver solutions for wide-bandgap MOSFET and IGBT technologies.
+The acquisition complements our silicon carbide discrete and modular power conversion offerings and enables us to provide more comprehensive total system solutions. These two acquisitions were very small and more akin to acquiring intellectual property along with domain experts to help us accelerate our business agenda in specific laser-focused areas. The combined cash outflow was less than $6 million, and hence, not material to the rate at which we're paying down our debt. Finally, a quick update about the ongoing Microsemi integration.
+We continue to plow forward with the business systems and operations integrations. On the business systems front, we went live with a few more systems on November 1. And as I have mentioned on prior conference calls, this is a tedious and time-consuming effort and we estimate that we're about 50% of the way to completion and have about another year of work ahead of us. We are pleased with the synergies we have achieved since we closed the transaction despite the weaker macro environment, and we expect continued synergy gains for many quarters to come.
+Let me now pass it to Steve for his comments about our business and our guidance going forward. Steve?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Thank you, Ganesh, and good afternoon, everyone. Today, I would like to first reflect on the results of the fiscal second quarter of 2020. I will then provide guidance for the fiscal third quarter of 2020. Our September quarter GAAP net sales based on sell-in revenue recognition was $1.338 billion, up 1.15% sequentially versus a guidance of flat to up 4%.
+So we missed the GAAP sales guidance slightly at the midpoint. Our end market demand based on sell-through was $8.6 million higher than GAAP sales, which we believe shows that the channel is continuing to manage their working capital conservatively by reducing inventory due to uncertainty. Recall that we called the bottom of this cycle back in February of 2019, contingent on resolution of the U.S.-China trade dispute. This trade settlement did not happen and remains unresolved.
+Since then, our end market demand has been flat at $1.34 billion, $1.35 billion and $1.346 billion for March, June and September quarters, respectively, due to multitude of headwinds from trade tensions and resulting impact on automotive, industrial and consumer appliance end markets. Our consolidated non-GAAP gross margin of 62.24% was just above the high end of our guidance and was near a record high. Our consolidated non-GAAP operating margin of 36.7% was also higher than the midpoint of our guidance of 36.2%. The integration of Microsemi continues to proceed very nicely.
+Since the closing of the acquisition, we are continuing to see strong synergies and improvements in gross and operating margins for Microsemi products. Our consolidated non-GAAP earnings per share was $1.43, right at the midpoint of our guidance. On non-GAAP basis, this was also our 116th consecutive profitable quarter. In the September quarter, we paid down $315.5 million of our debt.
+Our total debt payment since the end of June 2018 has been $1.73 billion. The pace of debt payments has been strong despite the weak and uncertain business conditions as we continue to squeeze working capital. Now before I provide you guidance for the December quarter, let me comment on geographical and end market sales. While the uncertainty begin with U.S.-China trade friction, the uncertainty has become global.
+The weak business conditions can be seen in all geographies. Our Americas business in September quarter based on end market demand was down 6.1% over the year-ago quarter, Europe was down 12.9% and Asia was down 12.6%. We did experience our business being weaker in September than we had expected in the month of September. This weakness was also reflected in the lower starting backlog for the December quarter as well as the unusually low distribution inventory exiting the September quarter.
+From an end market standpoint, industrial, automotive and consumer appliances end markets are down significantly; aerospace and defense and communication markets have been flattish; and data center market has been strong. The uncertainty in all geographies is continuing. In this environment, direct customers, and especially the distributors, are continuing to manage their working capital by reducing inventory. However, there are some signs of inflection point too.
+In the September quarter, distributor inventory was down to 29.6 days. We have had only one quarter in the past 15 years, which was the third quarter of fiscal year '13, where our days of inventory at distribution have been lower than the current levels. Secondly, bookings for the month of October were the highest bookings achieved since June of 2018. While the backlog for December quarter is much lower than the backlog for September quarter at the same point in the quarter, the slope of the backlog fill for the current quarter is much steeper.
+With steeper backlog fill where the backlog and shipments end up is a guessing game, especially with the holidays coming, our judgment is that the net sales based on sell-in revenue recognition will take another leg down this quarter. But with several indicators showing inflection point, we may see the forming of a bottom here even though we saw a false bottom back in the March of this year when trade dispute was not resolved. We expect GAAP net sales based on sell-in revenue recognition for our products to be between minus 2% to minus 10% sequentially in the December quarter. Due to the sharp reduction in GAAP sales at the midpoint of the guidance, we are taking steps to reduce our manufacturing capacity, capital expenditures as well as expenses.
+We are planning to reduce the clean room footprint in our Colorado six-inch fab that we acquired with Atmel acquisition. At six-inch wafer size, the fab is no longer competitive with our other high-volume eight-inch fabs. Therefore, we will be turning the six-inch fab into a discrete and specialty fab doing silicon carbide, field effect transistors, FETs, the transistors, MEMS and other discrete devices. We will be transferring high-volume Atmel products from the six-inch Colorado fab to our eight-inch fabs in Arizona and Oregon.
+This transfer will take about 12 months to complete largely because we brought up the highest volume process in eight-inch fabs for dual sourcing earlier. In addition, we will be transferring some of the discrete products from Microsemi four-inch fabs to the six-inch fab in Colorado. These actions will create about $65 million in cost of goods savings per year when completed. The first phase of this transfer will take about one year to complete and will achieve about two-third of the savings.
+The balance of the transfers have a long tail and will take another two years after the first phase. Regarding capital expenditures, we are reducing our capex for fiscal year 2020 to be between $90 million and $100 million for the year, a reduction of $25 million from our guidance on capex last quarter. Regarding the reduction of opex, we're doing three things, some of those are continuation of what we have been doing. First, we are approving new and replacement acquisitions very sparingly.
+Second, we will be managing discretionary spending very tightly. And third, our bonus program will yield a lower payout with the reduction in net sales. For December quarter, we expect our non-GAAP gross margin to be between 61% to 61% of sales -- gross margin to be between 61% and 61.4% of sales. We expect non-GAAP operating expenses to be between 26.2% and 28% of sales.
+We expect non-GAAP operating profit to be between 33% and 35.2% of sales. And we expect our non-GAAP earnings per share to be between $1.12 per share to $1.32 per share. Given all the complications of accounting for our acquisitions, including amortization of intangibles, restructuring charges and inventory write-up on acquisitions, Microchip will continue to provide guidance and track its results on non-GAAP basis except for net sales, which will be on a GAAP basis. We believe that non-GAAP results provide more meaningful comparison to prior quarters, and we request that the analysts continue to report their non-GAAP estimates to first call.
+With this, operator, will you please poll for questions?
+Operator
+[Operator instructions] We'll take our first question from Chris Caso from Raymond James. Please go ahead.
+Chris Caso -- Raymond James -- Analyst
+Yes, thank you. Good evening. I guess, the first question, Steve, is the expectations for sell-in versus sell-through in the December quarter. You've already said that the distribution channel inventory is at a record low.
+So is this guidance for December suggesting that that end demand is actually declining in December? Could you explain the difference there?
+Steve Sanghi -- Chairman and Chief Executive Officer
+The end demand is declining. There has been some destruction of end demand in various end markets. Automotive, clearly, where the number of units built in automotive are much lower in U.S., Europe and China, the industrial market end demand has been weaker because of all the impact of tariffs and increased costs. And similar thing we're seeing in the home appliances market.
+So yes, the end demand is weaker. And sell-in, we're guiding down. We do not know what the net to distribution inventory will be in terms of increasing or decreasing, whether end market demand will be higher than GAAP sales or lower slightly, but we think they could be roughly in the same range and could go either way.
+Chris Caso -- Raymond James -- Analyst
+Right. OK. As a follow-up then, maybe you can reconcile that with your comments of the potential of this inflection point. I guess, what I understand you're saying is the opening backlog coming into the quarter was lower, but you're seeing stronger fill as you go through the quarter.
+How are you reconciling that better order fill with the prospect of end demand perhaps a bit weaker?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So how we are reconciling it is the starting backlog in the quarter was significantly more weaker than the minus 6% guidance at the midpoint, significantly weaker. So some of that -- fair amount of that has closed in the last five weeks because the curve of backlog fill is much steeper. And we're expecting that that kind of curve will continue and will end up really close to the guidance we're providing, but where we end up would still be lower than the last quarter. It will require significantly more steeper curve to be even with the last quarter.
+So we are expecting improvement because of steeper curve, but it doesn't get us to a flat compared to last quarter.
+Eric Bjornholt -- Chief Financial Officer
+Yeah, and it probably is worth repeating what Steve has already said that our October 2019 bookings were the strongest month of bookings we've seen since June 2018.
+Chris Caso -- Raymond James -- Analyst
+Right. All right. Thank you.
+Steve Sanghi -- Chairman and Chief Executive Officer
+There are kind a lot of mixed messages, weaker backlog, but some inflection points and Chile's very hard to read in this environment. We said back in February there could be a bottom, but it was very much tied to the trade settlement. We didn't get it. So this time, we're just being cautious in giving you all the puts and takes.
+Chris Caso -- Raymond James -- Analyst
+Right. Got it. Thank you.
+Operator
+Thank you. Next we'll go with Gary Mobley from Wells Fargo Securities. Please go ahead.
+Gary Mobley -- Wells Fargo Securities -- Analyst
+Hey, guys. Thanks for taking my question. You've mentioned that sort of the retooling of your Colorado facility could bring on maybe a 50-basis-point positive impact to gross margin long-term, but the near-term, it looks like we're contemplating 100-basis-point sequential decrease. How much of that degradation in the gross margin near-term is due to underutilization? And how much is due to mix?
+Eric Bjornholt -- Chief Financial Officer
+So I can address that and Steve or Ganesh could add on to it. So this quarter we just completed, we had an underutilization charge of about $8.9 million. That charge will be higher in the December quarter, so that is having an impact on gross margins that we're seeing on a sequential basis. There's always things like product mix that factor into it also.
+And then with demand down, it's likely that we'll have some accounting charges related to obsolescence. It doesn't mean that the product isn't good anymore, but we'll have some obsolescence charges that will also impact the gross margins that we produced this quarter.
+Gary Mobley -- Wells Fargo Securities -- Analyst
+OK. And just -- I know it's very early to call, but could you give us some sense of seasonal trends in the March quarter based on past history and perhaps how you're feeling about the linearity of bookings as we sit here today?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, seasonality is the hardest one to talk about because of various acquisitions that we have completed. Prior to the Microsemi acquisition, for example, our end market mix was dominated by industrial, automotive and consumer appliances. With the addition of Microsemi now, we have added three other significant end markets: Aerospace and defense, data center and communication where we had very little exposure. And the last year or five quarters since we have had Microsemi, the environment hasn't been normal.
+First, a significant inventory correction in the last June and September of last year, and then subsequently, fighting through the U.S.-China trade sanctions and all the other issues. So we haven't really seen a combined company normal environment for a year or longer to be able to figure out what the seasonality with the current mix is. So I think that would be my answer that we -- at the minus 6% at the midpoint, clearly, that is below seasonal. We're not defending that it is seasonal.
+Prior to any of this acquisition, I think seasonality for December quarter used to be about minus 3%, if I remember. We don't know where it is today.
+Gary Mobley -- Wells Fargo Securities -- Analyst
+All right. Thank you, guys.
+Operator
+We'll next go with Vivek Arya from the Bank of America.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thanks for taking my question. Steve, I was hoping you could help us understand the chronology here because back in August, you gave some guidance. Then in September, you kind of confirmed the midpoint of that guidance. And at that time, the hope was that September would be a normal month.
+And since then, the results are about $11-ish million, somewhat below, so not bad, but somewhat below. And since that time, we have just heard such a wide range of views from here. One of your peer was very weak, but then most others have kind of been in line. And now you were saying that October bookings are very strong, but backlog is very weak.
+I think investors are just horribly confused as to what's really going on. What is driving such a weak backlog? And what is now driving this upside? What is causing all this?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, Vivek, in terms of confusion, join the party. I mean this has been a very, very confusing environment. On one hand, there have been fits and starts on the trade front and the three largest of our markets, which are industrial, automotive and consumer appliances, are heavily hit with large amount of tariffs, and therefore, there has been a lot of demand destruction. And any time you make any kind of guess with some resolution of the trade dispute, it really hasn't happened.
+And then you have had multitude of other issues with ZTE about a year ago then Huawei, you can ship it, not ship it, then Hikvision and many other customers added. So there has been a lot of confusion. And every company -- I think if you look at the number year over year, you will see that our performance year over year is pretty reasonable, but quarter over quarter, it just depends on when somebody went into inventory correction, how long the inventory correction lasted. We measured our September performance to the September performance of last year.
+However, September last year, we were still reporting numbers based on sell-through revenue recognition as a non-GAAP. If you compare the numbers GAAP to GAAP, September quarter to September quarter, we were actually up because last September quarter, there was a substantial reduction in distribution inventory. I don't know if it's exactly correct.
+Eric Bjornholt -- Chief Financial Officer
+Yeah. No, we were not up, but we had about an $80 million reduction last September in distribution inventory in that quarter.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Yeah. So if you compare to that, the numbers get very confusing. So in parallel with all these other confusions, last year, we also went through change of revenue recognition. So I would say simply lay out the numbers for various companies and you will find that our year-over-year performance is better than the other large competitor you talked about.
+Ganesh Moorthy -- President and Chief Operating Officer
+Vivek, in terms of the chronology, the other thing to keep in mind is, if you remember, I think it was in early August, there were additional tariffs that were announced and were going to be taking place at various points in time. I think that creates more uncertainty in the market. And I think what happened was September ended up being a lot weaker as people were trying to sort out -- customers are trying to sort out what are they going to do. And that was reflected in distribution inventory going down, the overall results being less than what we had expected at the midpoint, and then beginning to reverse as we went into October and then reflected in the guidance you are seeing today.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Got it. And for my follow-up, Steve, how much do you think distributors will be willing to take down inventory? Like you mentioned, this is the lowest that you have seen in the last, I think, 15 years or so that you mentioned, so definitely far below historical trends. What are you hearing from them? I understand the uncertainty, but at some point, do you think you'll see the benefits of perhaps, say, a TI retrenching from the distribution channel? Or is it too early to give a sense for -- or what does a normalized distribution level look for you?
+Steve Sanghi -- Chairman and Chief Executive Officer
+I think the macro trends and the demand destruction by the tariffs and all this confusion created are much larger impacts than the other secular trends of -- impact of -- in other competitors in distribution and distribution putting more focus on us. Those things happen over two, three years and the effect of a trade friction and all that is really much more immediate and much more severe. So we've been telling you now for a few quarters that the distribution inventory went down. The sell-through in several quarters now, I would say at least five quarters, have been better than sell-in.
+And one would think with distribution inventory now lowest since 15 years except one strange quarter in FY '13, it wouldn't go down further, but we don't -- we can't be sure of it. Distributors don't have confidence. They are seeing the same issues we are seeing. Weakness in industrial market and automotive market and consumer appliance market, aerospace and defense and communications are kind of flattish.
+If distributors can manage their business by even lower inventory, they probably would.
+Eric Bjornholt -- Chief Financial Officer
+Right. They're going to leverage our generally short lead times to their advantage.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Despite reporting GAAP numbers based on sell-in, you're very well aware of our stance. We manage our business to sell-through and we do not go and request any distributor to take any kind of inventory to stock the shelves. So we are focused on sell-through. And sell-through is weak, and therefore, the sell-in is weak.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+All right. Thanks for the color.
+Operator
+Thank you. We're taking our next question from Harsh Kumar from Piper Jaffray. Please go ahead.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Yeah. Hey, thanks. Thanks Steve, for all the color so far. I'm trying to square some of your comments.
+So you're taking some steps in opex and capex, but October is suggesting, from your commentary, some sort of an inflection point upward. So should we just read into it as, OK, maybe we're not going to go down from the current guidance that you gave for December, that's sort of a new base should we look at, and you're just adjusting your business to kind of, I guess, be more profitable and more cash flow and just optimizing a little bit? Or is there something else I can read into it?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, I think what I'm reading into it is that we started the December quarter with much lower backlog on October 1 than it was on July 1 and if that had continued in the last five weeks, the guidance would be double-digit negative. But we have made up significant gap by the fill being much stronger. And if that strength of that fill continues, then the results could be reasonably good. But there are also holidays coming, short month in November, short month of December, Europe shuts off in the middle of December.
+So by all those puts and takes, our guess is that the December quarter still ends up about 6% lower than September quarter and that minus 6% is a huge makeup from how low the backlog was on October 1. And then with the strength of the bookings, October was strong bookings, November, so far, looks like good, strong bookings. If the bookings continue, then hopefully, the January 1 backlog for the March quarter could be better than what we experienced as a backlog on October 1. And with continued strength of bookings, hopefully, we have some sort of recovery, but I'm not really giving any guidance for March yet.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Understood. Thanks for the color, Steve. And I think earlier you mentioned that the classic Microchip as you call your core business from some acquisitions, they go typically down about 3% in December. Do you think some of that and maybe the Chinese New Year stacked kind of closer to Christmas this time has some effect on some small portion of your consumer business? You think part of that is going on, perhaps impacting September and then coming back up in October?
+Steve Sanghi -- Chairman and Chief Executive Officer
+I think earlier a gentlemen asked that we gave guidance in early September that we reconfirmed our midpoint of our guidance, so kind of what happened. Ganesh mentioned and I mentioned also the month of September was quite weak, weaker than what we had expected, causing us to miss the sales by about $10 million, $11 million. The month of October was much stronger and November is continuing much stronger. So could it be because of some sort of light at the end of the tunnel on first phase of settlement with China? Could it be the inventory has gone low enough? There are all these puts and takes and we really have put them all on the table, the good points, the bad points, and then we give you a judgment and you could make your own judgment or agree or disagree with ours, but that's where it is.
+Numbers are very hard to call in this uncertain environment.
+Harsh Kumar -- Piper Jaffray -- Analyst
+Understood, Steve. Thank you for the color.
+Operator
+Thank you. We will be taking next Shawn Harrison from Longbow Research. Please go ahead.
+Shawn Harrison -- Longbow Research -- Analyst
+Hi, good afternoon. Thanks for taking my questions. I guess my first would be is there any way to quantify, I know you've talked about it a lot so far, just how much September disappointed in terms of either the backlog or actual sales? Would you have been tracking toward the higher end of guidance otherwise?
+Steve Sanghi -- Chairman and Chief Executive Officer
+No. I mean we -- when we reconfirmed our guidance, we were essentially tracking toward the midpoint. And September was weak, causing us to miss by $11 million, am I correct? Yeah?
+Shawn Harrison -- Longbow Research -- Analyst
+And that's the amount that we should consider what the shortfall was also in kind of general backlog as well?
+Steve Sanghi -- Chairman and Chief Executive Officer
+No, the backlog was much, much weaker.
+Ganesh Moorthy -- President and Chief Operating Officer
+Remember, backlog crosses over into the December quarter and to succeeding quarters as well.
+Steve Sanghi -- Chairman and Chief Executive Officer
+No. Earlier, I mentioned that the backlog started -- on October 1, the backlog was down in double-digits compared to July 1. And if we're giving minus 6% guidance now, even if 4% change, would be $52 million, right, on a revenue number. And the backlog on October 1 started much worse than minus 10%, significantly worse than minus 10%.
+So we have made up a huge amount of gap with significantly steeper slope.
+Shawn Harrison -- Longbow Research -- Analyst
+That's very helpful. And just as a follow-up...
+Steve Sanghi -- Chairman and Chief Executive Officer
+Put a ruler on the floor and get to a number and tell you that's the number. Unfortunately, we have seen that when the backlog starts so low, it can be a steeper slope, but then the slope can change and it could end early in the middle of December and not filled during the holidays. So you've got to account for all that. And that's why I've been keep -- I keep stressing that there are lots of puts and takes.
+And putting them all into consideration, we're giving you a guidance that we believe is where we are headed.
+Shawn Harrison -- Longbow Research -- Analyst
+That's very helpful, Stephen. If I may, a follow-up, just the incremental weakness you saw in the backlog, was it more on the analog side of the portfolio or the microcontroller side?
+Steve Sanghi -- Chairman and Chief Executive Officer
+It was largely pretty much across the board.
+Ganesh Moorthy -- President and Chief Operating Officer
+Yeah. There's no product-specific backlog that was weaker than the other.
+Shawn Harrison -- Longbow Research -- Analyst
+Understood. Thank you.
+Operator
+Thank you. We're next going to William Stein from SunTrust. Please go ahead.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Great. Thanks for takin my question. Steve, you've already told us that the weakness was very broad-based by markets and by geo. I wonder if the strength or the very recent strong recovery in bookings trends could be attributed to anything in particular, any geo, any end market, any event?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So I would say if you have to pick a geography that is -- that has shown strength, it would be China.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+And not -- but nothing by end market there? We've heard about China auto recovering significantly. Are you seeing that as well?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Yeah. I mean we manage our business by product line, as you know. So we have rough end market commentary where we believe that the only stronger end market has been data centers. Communication and aerospace and defense were flattish.
+And automotive, industrial and consumer appliances were the weakest markets. With a one-month booking in October, we can't really tell you a change in that tone. We just don't track it that way.
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Thanks. And one more, if I can, with regard to the Microsemi system, their ERP integrations that you're doing. Can you remind us of the timing to complete these? And I just forget whether there is a step function cost savings that happens at the end of it all? Or is it more linear as we go? And remind us of the size of that, please? Thank you.
+Ganesh Moorthy -- President and Chief Operating Officer
+So if you recall, we began this a year ago and have had a number of transitions we make every quarter. We just did the most recent of that on November 1 of this year. In my prepared remarks, I said we have at least another four quarters to get to substantially complete. We're about halfway through at this point in time.
+And the savings are more over time rather than a step function change. And as we get through enough of the systems, we take the savings and that becomes the synergies that we add to what we've done
+Operator
+All right. Thank you. We're next going with Harlan Sur from JP Morgan.
+Harlan Sur -- J.P. Morgan -- Analyst
+Good afternoon and thanks for takin my question. I know it's always tricky to reconcile the SIA data with your results. But if I look at the SIA data for calendar Q3, the overall general MCU market grew about 5% sequentially, but almost all of that growth came from 32-bit while 8-bit declined, 16-bit was relatively flattish sequentially. You've grown the size of your 32-bit pretty strongly, but I think it's still about a third of your overall MCU business, so mix adjusted because you still have more 8- and 16-bit exposure.
+Is this the potential reason why your MCU business slightly underperformed the general industry in the September quarter?
+Steve Sanghi -- Chairman and Chief Executive Officer
+We have not analyzed the numbers again for SIA. So I'd rather not guess and make any comments. I think our -- you mentioned our end market demand base for microcontroller business was down 1.3%?
+Eric Bjornholt -- Chief Financial Officer
+Yeah.
+Steve Sanghi -- Chairman and Chief Executive Officer
+I think many of the results we have heard from various companies wouldn't lead us to believe that the business in September quarter was up 5%. I don't know how SIA comes up with the numbers. If you add up the numbers from TI and others, I don't know whether I can construct that number.
+Ganesh Moorthy -- President and Chief Operating Officer
+Nor would I -- our 32-bit business is doing much stronger than the 8 and the 16. I think these are businesses that are not as much 8, 16, 32-bit-focused. They are broad market trends in automotive, in industrial, in consumer appliances, and they affect all segments of the 32 -- of the microcontroller market.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Our belief is, in history, that SIA, especially during turbulent times like this, they revise the numbers and there's significant changes reported, and it easily causes confusion like it's causing right now. If I look at -- add up the results of most companies that make microcontrollers, I don't really think I can get to the SIA numbers.
+Harlan Sur -- J.P. Morgan -- Analyst
+Yeah, a that's a fair point. OK. And then my follow-up, we've been through a couple of quarters of cloud data center spending digestion, but it looks like spending is picking up back here in the second half of this year. It looks like you guys are seeing that as well.
+I think via the Microsemi acquisition, you guys have a relatively strong position in NVMe enterprise SSD controllers. You've got a strong platform for PCIe switching products. And then you've got some of your core products, right, like secure MCUs and Ethernet products that go into the cloud as well. Roughly, how big is cloud data center as an end market for the team? I assume it's probably a bit easier to track given that these products are purpose-designed for data center applications?
+Ganesh Moorthy -- President and Chief Operating Officer
+So the product lines that address data center are more than just the Microsemi product line that came to data center. Clearly, that is a big position that we have, some of what you mentioned relative to the strength in storage, the strength in the SSDs and all that is good. But I don't know if I have a good way to break out exactly what our data center -- it's in the mid-teens is what my guess would be based on where we had seen the combined company, but that's from several quarters ago.
+Steve Sanghi -- Chairman and Chief Executive Officer
+We also sell products into data center from the classic Microchip business prior to the Microsemi. And some of those products go into power supplies, they go into other I/O control and various different areas. So we had some data center exposure before, but obviously the big one can with Microsemi.
+Harlan Sur -- J.P. Morgan -- Analyst
+Yeah. OK. Thank you.
+Operator
+[Operator instructions] We'll take our next question from Mark Delaney from Goldman Sachs.
+Mark Delaney -- Goldman Sachs -- Analyst
+Yes. Good afternoon and thanks for taking the question. I'll keep it to one. The October bookings strength that the company spoke to, are those primarily bookings that are for shipments in the December quarter? Or are some of those bookings for shipment in the March quarter and maybe giving you a good start on your backlog for the March quarter? Thanks.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Those bookings are aged every month from hereon and into the future, six, eight months out. So some are for December quarter, some are for March quarter, some of it even still beyond the March quarter.
+Operator
+Thank you. We'll next take our next question from John Pitzer from Credit Suisse. Please go ahead.
+John Pitzer -- Credit Suisse -- Analyst
+Yeah. Good afternoon, guys. Thanks for letting me ask a question. Steve, the entire December quarter, you've been pretty clear that your assumptions for turns are higher.
+I'm just kind of curious, given the strength you've seen quarter to date, from here on out, what's the expectations for turns relative to trend? Do you expect you need that steepness to continue to hit the midpoint? Or are you embedding kind of a more normal turns business in the second half of the quarter to hit the midpoint of guidance?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So I will speak qualitatively rather than quantitatively because we haven't disclosed what the backlog was, where it is now and all that. If the current slope of backlog fill continues, then the results would be very good. We're not expecting this slope to continue. So we, in our judgment, have moderated that slope, current slope, some just because the backlog started very low and then people place the order, slope is high.
+As backlog starts to fill up, the slope will moderate. And the other is effect of holidays because you don't do a lot of bookings over the Thanksgiving week. And then December, Europe is the weakest. Usually, U.S.
+is the second; and then Asia usually continues to work over the holidays. So we have, based on our experience from our history, we have modeled that in, but I will admit that we have moderated that slope because we think the slope is not sustainable.
+Eric Bjornholt -- Chief Financial Officer
+And I think I'll also point out to you that we give a broad range of guidance.
+Steve Sanghi -- Chairman and Chief Executive Officer
+And we have given a pretty broad range of guidance to account for all those puts and takes.
+Operator
+Thank you. We're taking our next question from Chris Danely from Citigroup.
+Chris Danely -- Citi -- Analyst
+Hey, thanks guys. I'll try and behave here and just stick to one question. Steve, as this, I guess, sluggish type of environment continues into the March quarter, theoretically, what would you be looking to do as far as opex goes in your own inventory?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, if the sluggish environment were to continue, the opex would be basically in the range. We will keep on controlling any headcount additions, sparingly approve any replacement acquisitions. Bonus will continue to be lower than the target type of bonuses. capex will continue to tighten because if there's no growth, we will need capacity.
+And a lot of the capital we are investing is just incremental here and there. There's no big capital needed for growth in this environment. So those are the things we would do if the environment continues to be sluggish. If the environment were to accelerate, I would think we still have sufficient capacity and sufficient inventory to ship the upside.
+So you wouldn't see a growth in capex immediately and you wouldn't see growth in expenses either. So if the upside in revenue were to come through, I think that will be a pretty good leverage for the earnings to go to the bottom.
+Chris Danely -- Citi -- Analyst
+Great. Thanks guys.
+Operator
+Thank you. We'll next go with Vijay Rakesh from the Mizuho Group. Please go ahead.
+Vijay Rakesh -- Mizuho Group -- Analyst
+Thanks. And just Steve and Eric, just briefly, you talked about just the inventory has come down quite a bit. I was just wondering if your visibility extended to the end customer also. Have you seen the end customers stock up ahead of the tariffs? Or do you think inventories going out to the end customers have come down as well?
+Ganesh Moorthy -- President and Chief Operating Officer
+We really have no meaningful visibility into end customers and what they're doing with their inventory. They don't report to us. We don't see the change from week to week as we do in the case of distribution. So they are, we presume, doing what they think is the right thing for their business, but we have no color one way or the other.
+Vijay Rakesh -- Mizuho Group -- Analyst
+Got it. And I know you mentioned October, you saw a nice snapback or pickup in backlog, mostly from China. Given that Steve mentioned auto and industrial were the weakest, would you expect those to snap back faster than others if we see some rebound or -- that's it. Thanks.
+Steve Sanghi -- Chairman and Chief Executive Officer
+No, it's really hard to call future by end markets. It's easier to talk about the past. Yes, if there's some sort of trade settlement, there was to be clear rules where overnight through another tweak, the duties will not go higher or something, then you will see some stability and return to normal on the industrial market and appliance market. Automotive, there is a settlement with GM -- in GM now and so you should see some impact there.
+So I think those are the things that would show strength, yes.
+Vijay Rakesh -- Mizuho Group -- Analyst
+Got it. Thanks.
+Operator
+We'll next go with Christopher Rolland from the Susquehanna International Group.
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Thanks for the question. Steve, thanks for all those big picture stuff. In your experience, maybe you can talk about how this cycle has been different from prior ones, kind of what most surprised you this time around? And then how do you feel about this being more of a semiconductor-specific-driven cycle versus an economic cycle? And do you have any thoughts on an economic cycle, given how long this economic cycle has lasted?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, that's a tough ball that you have served. That's -- I'm not an economist and that's not my field. So I'll give you some feel for really how I'm thinking. Many of the cycles our industry have seen are the cycles created by our own industry through long lead times, excessive inventory build and then the bubble bursting and going the other way and companies shipping below demand for a while, and then the cycle correcting.
+So those are semiconductor industry and its customer-caused cycles by successively under-shipping demand and over-shipping demand. This cycle hasn't been caused by the industry. This cycle has been caused by the much larger economic forces. And if I were to name a single one, it will be the U.S.-China trade.
+It's really been caused by that. I tried to explain it before and let me take another shot at it. The world economy runs on manufacturers building the product and pulling in the inventory with a forecast that the customers will come and buy that product. And I'd give an example of a grocery store or an electronics store.
+You can go into these stores, there's lots of inventory and you can come out with bags full of your grocery. You do not order your grocery a week ahead of time and then go pick up the delivery. In fact, if you were to go into the grocery store and what you wanted isn't there, you'll go to another store and buy it. So world economy largely runs on inventory.
+Now enter the tariff uncertainty. Imagine a customer building the product in China, and let's say, there were no tariffs on it and bringing it to U.S. -- I'm sorry, there were tariffs on it, let's say, there is 25% tariff on it. So they bring the product to U.S.
+with 25% tariff on it and having them the uncertainty to be able to pass on that tariff to their end customer, they don't know whether they can or they can't. And the second risk is they bring the inventory to U.S. and then there is settlement announced. Once a settlement is announced, no end customer will pay that 25% tariff because the manufacturer brought it here with tariff at their own risk.
+So what it does is it makes everybody stop in their tracks. They cut down the inventory on the loading dock, to the manufacturing lines, to the raw materials, to the finished goods, to the transportation hubs, everywhere. People draw down the inventory because they do not know what the landed cost is and what they can pass to their customers. That is the impact we have seen in many, many of the markets.
+And when there is a clarity on the tariff front, then you will see rebuilding of that supply chain inventory, which will have a very positive effect on us.
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Got it. Thank you for that extra insight. Very helpful.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Hopefully, that helps.
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Yeah. That's great. Thank you, Steve.
+Operator
+Thank you. We're going next with Gil Alexandre from the Darphil Associates. Please go ahead.
+Gil Alexandre -- Darphil Associates -- Analyst
+I assume, as you look at your long-term model, that you still have gross margins at 63% and operating margins at 40 and a half once we get over these problems?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Yes, Gil. We have not changed our longer-term model. In fact, the changes we announced today on the restructuring of our Colorado fab and bringing some of those six-inch products to our two high-volume eight-inch fabs and really creating $65 million in savings in the process, what we have done is we have lowered the revenue at which we achieve our target model. So prior to that, it required a certain amount of revenue to fill up our factories and remove the underutilization to achieve our 63% target margin.
+By making those changes, we have not dollarized for you how much, but we have lowered the revenue we need to achieve to achieve the target margin because we've taken so much cost out of the system.
+Gil Alexandre -- Darphil Associates -- Analyst
+Thank you. May I just ask one question on China? And you can skip it.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Go ahead.
+Gil Alexandre -- Darphil Associates -- Analyst
+You talked of this 25% tariff. Have you seen any talk that they may -- that people will want to reduce that tariff? Or is that all open-ended?
+Steve Sanghi -- Chairman and Chief Executive Officer
+You have some information you were sharing?
+Ganesh Moorthy -- President and Chief Operating Officer
+Are you talking about the trade discussion between the U.S. and China? Because I think that is the entire point. The 25% tariff is creating uncertainty on both sides of the ocean. It's creating uncertainty in other regions of the world as well.
+Steve Sanghi -- Chairman and Chief Executive Officer
+In Phase 1 settlement that has been touted by the administration, the 25% tariff doesn't go away. They only agreed to not increase the tariff from 25% to 30%. But there is some talk, whether it's in Phase 2 or gets done in Phase 1, where certain -- on $100 million, $1 billion worth of goods, that tariff will go down, but those are just talks so far.
+Ganesh Moorthy -- President and Chief Operating Officer
+Yeah, I think we see different news reports that come out. We don't have any direct insight into the discussions and decisions. I think there is a in good faith effort to try to deescalate from where we are, and it may take more than one phase, but the rate at which it comes down and the time when it impacts the products that we are designed into and our customers are impacted by is unclear to us.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Even if there is a settlement which creates a finality that tariffs are not zeroed, tariffs -- some number, 10%, 15%, but their current stand, and there's not going to be another tweet which is going to increase those tariffs, once the customers, distributors, contract manufacturers, everybody has that finality and they can run the business in a normal way and the inventories will get replenished. It is the uncertainty which causes it because they don't know what the landed cost will be.
+Gil Alexandre -- Darphil Associates -- Analyst
+I want thank you. Good luck.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Thank you, Gil. Anything else, operator?
+Operator
+We'll take our next question from Craig Ellis from B. Riley FBR.
+Carlin Lynch -- B. Riley FBR -- Analyst
+Hey, guys. This is Carlin Lynch on for Craig. Just wanted to ask a question on the cross-selling opportunities with Microsemi. I think last quarter, you had said that the muted environment had kind of slowed down some of that progress.
+If we were to get to a normalized environment next year, could we see those cross-selling opportunities kind of springboard? Is the design activity going on and we're just seeing muted demand everywhere? Or any kind of qualitative color you could give on the cross-selling opportunities would be great.
+Ganesh Moorthy -- President and Chief Operating Officer
+So as you note, the cross-selling opportunities are all at the design-in stage. So these are platforms that get designed and then go to production over 18, 24 months of time. The design-in activity is going extremely well. And across the board, the combined sales teams, combined business unit teams of Microchip, are all highly focused on enabling that on new designs.
+The environment today is really for products that were designed back in time, and that muted environment doesn't change, but the seeds that are being planted, new designs and the increased total system solutions we're able to address clearly will pay off in time at the current -- as the new designs go to production in 12, 18, 24 months of time.
+Carlin Lynch -- B. Riley FBR -- Analyst
+So just if I could clarify there, so we would expect some of that cross-selling opportunity to start to manifest next year even if the demand environment kind of just skips along the bottom here?
+Ganesh Moorthy -- President and Chief Operating Officer
+Yeah, and you got to take it over time. This is not a single application, single customer that drives it one way or another. There's hundreds of applications, customers over which this would happen. But clearly, that is a multiplier that comes from cross-selling, from selling a more complete solution to the customer.
+And as that ramps in, I don't know if it is exactly first half of next year, second half, but in time, as the environment improves, as new designs go to production, we will see the benefits that come from it.
+Carlin Lynch -- B. Riley FBR -- Analyst
+All right. Thanks guys.
+Operator
+Thank you. We're going next to Craig Hettenbach from Morgan Stanley.
+Craig Hettenbach -- Morgan Stanley -- Analyst
+A question for Steve. One of the secondary impacts of the trade war is just the acceleration of China to try to move to more of a localization effort. Can you talk about just maybe parts of your portfolio where you see maybe some overlap of -- to that versus other parts that you think a lot more immune to what China might be trying to do from a development perspective?
+Steve Sanghi -- Chairman and Chief Executive Officer
+So we hear a lot of talk and we don't see a lot of action on that front. There may be action on certain product lines. I think they're really maybe trying to build processors and graphic processors and others. We do not really see that kind of impact today on our data center products, on our FPGA products, on our discrete and other products or microcontroller and analog.
+We hear a lot of talk about it. And longer term, there could be an issue where they want to either design their own product or not prefer to design with Americans. I think, in a short period of time, less than a year of this trade war, you can't really design a massive portfolio that Microchip has to make a meaningful impact on that. So we're really not seeing that on revenue today, but we're seeing it in sentiment.
+Ganesh Moorthy -- President and Chief Operating Officer
+And I would add to it. The threat from local suppliers in China is nothing new. It's been there for many years. It's a question that do they have the types of products, the quality of the product, the capability to support the designs, the wide range of applications and customers that you need to be able to serve with it.
+That is a very large task. And they may be more in an environment today that says you should consider more of a local supplier, but the task is very, very large for anybody who wants to do it. And if they could, they would have been doing it for several years before.
+Craig Hettenbach -- Morgan Stanley -- Analyst
+Got it. Thanks.
+Operator
+Thank you. We're going to Vivek Arya from Bank of America.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thanks for the very quick follow up. Actually, on those same lines in terms of competition and substitution, Steve, have you seen any design shifts to your -- perhaps your European or Japanese competitors who have been in the market for a longer period of time? Does that become a factor going forward?
+Steve Sanghi -- Chairman and Chief Executive Officer
+Like I said, first, we have very, very broad customer base. We serve over 120,000-plus customers, so it's very, very hard to track. We're not seeing any preponderance of evidence to see there is any design shift. We're hitting in sentiment the so-called non-A sentiment.
+You may have heard that kind of language where government is saying design with Chinese customers first, design with Taiwanese or Asians second, design with the Europeans third and Americans the last, but 95%, 97% of products we build are all proprietary in nature with no pin compatible part available. So in a short period of time, we really haven't seen any of that shift. The shift will first become visible at the design-in phase, if it does, and I don't think we have strong evidence today that that's happening. We're not losing designs like crazy.
+Our funnel size is still very, very large and we're able to leverage a lot of our more commodity-like products with more advanced products with the total system solution if they're on the same board.
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Thank you.
+Steve Sanghi -- Chairman and Chief Executive Officer
+It's cause for concern. We are watching and we are making the products better, finding other sales mechanisms to bundle it and all that. So negative sentiment in China is definitely there, but it's not really being seen in bookings and revenue dollars today.
+Operator
+Thank you. It appears that there are no further questions at this time. Mr. Sanghi, I'd like to turn the conference back to you for any additional or closing remarks.
+Steve Sanghi -- Chairman and Chief Executive Officer
+Well, I want to thank everyone. This has been a difficult year with all the uncertainty. Please continue to bear with us. And we'll see some of you on the road as we go to various conferences.
+Thank you very much.
+Operator
+[Operator signoff]
+Duration: 71 minutes
+Eric Bjornholt -- Chief Financial Officer
+Ganesh Moorthy -- President and Chief Operating Officer
+Steve Sanghi -- Chairman and Chief Executive Officer
+Chris Caso -- Raymond James -- Analyst
+Gary Mobley -- Wells Fargo Securities -- Analyst
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+Harsh Kumar -- Piper Jaffray -- Analyst
+Shawn Harrison -- Longbow Research -- Analyst
+William Stein -- SunTrust Robinson Humphrey -- Analyst
+Harlan Sur -- J.P. Morgan -- Analyst
+Mark Delaney -- Goldman Sachs -- Analyst
+John Pitzer -- Credit Suisse -- Analyst
+Chris Danely -- Citi -- Analyst
+Vijay Rakesh -- Mizuho Group -- Analyst
+Christopher Rolland -- Susquehanna International Group -- Analyst
+Gil Alexandre -- Darphil Associates -- Analyst
+Carlin Lynch -- B. Riley FBR -- Analyst
+Craig Hettenbach -- Morgan Stanley -- Analyst
+More MCHP analysis
+All earnings call transcripts

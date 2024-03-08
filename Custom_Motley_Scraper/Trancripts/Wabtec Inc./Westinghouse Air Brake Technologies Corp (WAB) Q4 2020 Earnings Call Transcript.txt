@@ -1,0 +1,280 @@
+Image source: The Motley Fool.
+Westinghouse Air Brake Technologies Corp (WAB 0.34%)Q4 2020 Earnings CallFeb 18, 2021, 8:30 a.m. ET
+Operator
+Good morning everyone and welcome to the Wabtec's Fourth Quarter 2020 Year-End Results Conference Call. [Operator Instructions]
+At this time, I'd like to turn the conference call over to Kristine Kubacki, Vice President of Investor Relations. Ma'am, please go ahead.
+
+Kristine Kubacki -- Vice President of Investor Relations
+Thank you, operator. Good morning everyone and welcome to Wabtec's Fourth Quarter and Full Year 2020 Earnings Call. Joining me this morning are President and CEO, Rafael Santana; CFO, Pat Dugan; and Senior VP of Finance John Mastalerz.
+During our call today, we will be discussing earnings release that we issue earlier this morning. Our slides from today, news release and financial disclosures were posted on our website earlier today and can be accessed on the Investor Relations tab on wabteccorp.com. Please note that some of the statements we're making today are forward-looking and based on our best view of the world and our business today. For more detailed risks, uncertainties and assumptions relating to our forward-looking statements, please see those disclosures in our earnings release presentation and SEC filings. We will also be discussing non-GAAP financial metrics and encourage you to read our disclosures and reconciliation tables carefully as you consider these metrics.
+And now, I will turn the call over to Rafael.
+Rafael Santana -- President and Chief Executive Officer
+Thanks, Kristine, and good morning everyone and thanks for joining today's call. Before we dive into the presentation, I'd like to begin by thanking our global team for their resilience and strong performance in 2020. In a year challenged by the pandemic, they work tirelessly day-in and day-out to protect each other and to keep our operations delivering for our customers. They remain disciplined on cost management, executed in the face of many challenges and helped to strengthen our financial position and ultimately delivered results for our shareholders. I'm proud of our team and the performance we've delivered as you can see on slide 3.
+Total sales for the year were $7.6 billion. This was driven largely by international freight market services and a recovery in transit, but offset by global disruption due to the pandemic. Adjusted operating margin was 15.1% driven by cost actions and execution on our synergies. In 2020, we exceeded expectations by delivering a 200 basis point margin improvement in transit where our team continues to drive improved project execution, productivity and cost actions. Total cash conversion was strong with cash flow from operations of $784 million which included roughly $220 million in one-time impacts related to transaction restructuring and litigation expenses. Cash generation was driven in part by good working capital management. This allowed us to deliver on our financial priorities of investing in the business, paying down more than $300 million in debt, which includes the tax obligation to General Electric and returning roughly $300 million of capital to shareholders.
+Total mods on year backlog was over $21 billion and up sequentially over the prior quarter providing us better visibility into 2021 and beyond. We ended the year with adjusted EPS of $3.79. Our teams continue to take action to manage what's in our control, protect the long-term growth of the company and improve competitiveness while delivering shareholder value. In terms of synergies, we've delivered over $150 million in net synergies during 2020 and we're on track to deliver the full run rate of $250 million in synergies in 2021. To achieve these goals, we are taking further actions on structural costs. In 2020, we reduced headcount by 12%. We drove a 10% reduction across our operational footprint and we have started a lean reset across the company to remove waste, maximize competitiveness across our product lines and advance our culture of continuous improvement.
+[Technical Issues] GE Transportation merger total rooftops have been reduced by more than 30% and total head count by 16% and to date, we have exited more than 90% of the GE shared services ahead of schedule. Throughout the year, we also never lost sight of investing in growth. We extended our leadership position in autonomous operations helping more than 70 customers successfully meet the deadline for positive train control. We also closed a strategic digital order for Trip Optimizer zero to zero. This is an advanced technology that allows a customer to start a train from 0 miles per hour and stop the train automatically using various controls that are integrated with positive train control.
+In 2020, we also further strengthened our role as leaders in decarbonizing global rail transportation by developing new technologies that reduce emissions and drive fuel efficiency. We've built, shipped and tested the world's first heavy-haul battery electric locomotive. We are proud to share this locomotive is currently in revenue operating service with BNSF in California, and it will be a game changer in decarbonizing rail. In 2020, we extended battery technology to passengers as well by closing a significant deal with New York City transit to drive down their overall carbon footprint.
+We have also reduced the weight, lifecycle cost and braking distance of a transit train with solutions like Metroplex for which we secured a key order in Singapore. And finally, we are improving air quality inside transit cars with the launch of BlueFilter, an advanced air filtration system.
+And as we highlighted last quarter, our order pipeline continues to strengthen and we started to see that pipeline convert into fourth quarter. Book-to-bill at the end of the quarter was 0.99 versus 0.89 in the third quarter and we will continue to have positive momentum throughout 2021.
+Global freight volumes and equipment utilization have sequentially improved since the trough in the second quarter and we are continuing to see uneven yet continued sequential recovery. This aligns with what you've heard from our customers as well. In the fourth quarter of 2020, we secured a strategic international locomotive order and throughout the year built on our strong installed base closing several long-term service agreements. We have also expanded our global technology footprint in key regions like Americas, Russia, CIS and India.
+Demand for reliability and productivity will only accelerate as we continue to differentiate Wabtec in the market. Quarter-to-date, we closed a significant multi-year order for modernizations and long-term service agreements and we're well positioned for mods growth, overhauls and parts demand especially as railroads recover. Based on these factors and orders, Wabtec is in a strong position to drive profitable growth and continue to perform for our shareholders, for our customers and for our employees in the short and long-term.
+With that, I'll turn the call over to Pat who will review the quarter, segment performance and our overall financial position. Pat?
+Pat Dugan -- Chief Financial Officer
+Thanks, Rafael, and good morning everyone. Our execution through a very challenging year demonstrated our ability to move quickly to reduce costs, generate strong cash flow, strengthen our financial position, allocate capital and position Wabtec for long-term profitable growth.
+Now turning to slide 4. I will review the fourth quarter in more detail. Sales continue to recover sequentially in both freight and transit up 9% from the third quarter. Sales for the fourth quarter were $2 billion, which reflects a 15% decrease versus the prior year driven mainly from the disruption across our freight and transit segments caused by the pandemic. For the quarter, operating income was $161 million and adjusted operating income was $283 million, which was down 22% year-over-year. Adjusted operating income excluded pre-tax expenses of $122 million of which $71 million was for non-cash amortization and $51 million of cost related to one-time IT synergy-related expenses along with restructuring due to 2021 locomotive volumes and restructuring in our UK operations.
+Adjusted operating margin was lower than the fourth quarter last year mainly driven by under-absorption costs at our manufacturing facilities stemming from roughly 40% fewer locomotive deliveries as well as sales mix impacted from lower parts and higher level of transit sales. During the fourth quarter, we took additional and aggressive operational and structural cost actions that will continue to drive margin improvement sequentially through 2021.
+Looking forward, we expect a seasonal first quarter with some volume impacts as you have heard our customers described. That said, for the full year we expect sequential improvement to result in a higher adjusted operating margin and profitable growth across both our freight and transit segments. At December 31st, our multiyear backlog was $21.6 billion, up about $200 million quarter-over-quarter. Our rolling 12-month backlog, which is a subset of the multiyear backlog, was $5.5 billion and continues to provide good visibility into the year.
+Looking at some of the detailed line items for the fourth quarter, adjusted SG&A expense declined 22% year-over-year to $205 million. This was the result of swift cost actions during the downturn and excludes $30 million of restructuring and transaction expenses.
+SG&A expense benefited from headcount reductions and the realization of synergies. Engineering expenses decreased from last year. This was largely due to lower volume outlook as well as some changes in project timing. Amortization expenses were $71 million. For 2021, we expect non-cash amortization expense to be about $280 million and depreciation expense of about $180 million. Our adjusted effective tax rate for the quarter was 22.6%. We expect the full year 2021 effective tax rate of about 26%. In the fourth quarter, GAAP earnings per diluted share were $0.46 and adjusted earnings per diluted share were $0.98.
+Now let's take a look at the segment results on slide 5. Across the freight segment, total sales decreased 20% from last year to $1.3 billion but were up 8% sequentially from the third quarter as freight end markets continue to recover globally. In terms of product lines, equipment sales were up sequentially from the third quarter but down 32% year-over-year mainly due to timing of locomotive deliveries, which we have discussed can often vary quarter-to-quarter. In line with improving freight traffic, our services sales improved 7% sequentially, but were down slightly versus the same period last year. This was largely driven by lower parts sales due to continued high locomotive parkings as well as the timing of overhauls. We expect our services sales to continue to improve with the gradual recovery in freight volumes, unparking of locomotives and higher demand for mods.
+Digital electronics sales were down 22% year-over-year as orders shifted to the right in North America due to COVID disruption, yet we closed the fourth quarter with strong order momentum and continue to see significant pipeline of opportunities in our digital electronics product line as customers focus on safety and improved productivity. Component sales were down 22% year-over-year. This is compared to a 58% lower railcar build year-over-year demonstrating the diversification within our components business.
+[Technical Issues] third quarter, we have seen signs of improvement in demand for aftermarket components as more railcars come out of storage. Freight segment adjusted operating income was $218 million for an adjusted margin of 16.3%. The benefit of synergies and cost actions were offset by sales mix and services and digital electronics as well as under-absorption of costs. As always, we will continue to execute on our synergy plans and further improve costs as part of our lean efforts. Finally, segment backlog was $17.9 billion, up slightly from the prior quarter.
+Turning to slide 6. Across our transit segment, sales decreased 2% year-over-year to $684 million driven largely by disruptions stemming from COVID-19. OE sales were up 2% year-over-year demonstrating continued investments in green infrastructure. Aftermarket sales were down 6% from last year. However, we remain positive on the aftermarket and expect sales to continue to improve as transit ridership and services increased globally. Adjusted segment operating income was $77 million, which was up 40% year-over-year for an adjusted operating margin of 11.3%. Across the segment, we continue to drive down cost, improve project execution and risk management as noted by our strong operating performance. We are pleased with the momentum under way and we'll continue to execute on more actions to drive increased profitability for the segment. Finally, transit segment backlog was 3.7 billion, which was up about 5% versus last quarter.
+Now let's turn to our financial position on slide 7. Despite a year of significant challenges, we generated $784 million of operating cash flow demonstrating the resiliency of our business. Cash flow was driven by conversion of net income and good working capital management including improved inventory levels and higher customer deposits. Of note, we had about $220 million of one-time impacts on cash flow during the year mainly due to prior restructuring transaction and litigation charges. Restructuring costs in 2021 will result in further structural cost reductions, but we expect the overall level of one-time impacts to be less in 2021.
+For the full year, total capex was $136 million. In 2021, we expect capex to be about $180 million or about 2% of expected sales. Overall, our strong cash generation allowed us to execute on our strategic plans and capital allocation priorities. Throughout the year, we continue to strengthen our financial position and reduce debt by about another $190 million, bringing our total debt down by $723 million since the merger with GE Transportation. During the fourth quarter, we also made our first payment to GE of $115 million per our tax matters agreement. Our adjusted net leverage ratio at the end of the fourth quarter was 2.7 times and our liquidity is at a robust $1.9 billion.
+Over the course of the year, we returned $300 million in capital to shareholders through dividends and share buyback. And as we announced this morning, our Board approved the renewal on our share buyback authorization for up to $500 million. As you can see in these results, our balance sheet remains strong and we are confident we can continue to drive solid cash flow generation, giving us the liquidity and flexibility to allocate capital to grow shareholder value.
+With that, I will turn the call back over to Rafael.
+Rafael Santana -- President and Chief Executive Officer
+Thanks, Pat. And turning to slide 8, let's look at some of the segment dynamics citing to 2021. Starting with freight by product line. North America freight sales mostly gone through a reset. Our services business has recovered and we're working through the trough in our OE business. Due to locomotive deliveries are expected in North America in 2021, total locomotive deliveries will be down roughly 30% year-over-year driven mainly by North American locomotive deliveries down by more than 100 units versus 2020. This volume headwind will create margin pressure due to under-absorption at our manufacturing facilities.
+Our international pipeline remains strong and order momentum continues to build. In mining, we are optimistic as conditions are continuing to improve. When it comes to North America railcar build, railcars are coming back into use. Roughly 20% of the North American railcar fleet still remains in storage, which is similar to a pre-COVID level. Builders start taking continued steps to slow down production and forecast estimates that railcar build for this year to be around 25,000 cars. In the freight services, we are seeing year-over-year pressure on parts due to higher levels of parkings. Demand for reliability and productivity will improve as railroads continue to recover which I've shared earlier put us in a position of strength for modernizations, overhauls and parts demand.
+In digital electronics, we're focused on growing PTC internationally. In 2021, we have contracts to install over 3,000 horsepower per ton upgrades to our Trip Optimizer systems, a new record. While we anticipate North American capex budgets to remain constrained, the long-term outlook is strong.
+Now transitioning to transit, we expect growth on both OE and aftermarket as ridership recovers from historic lulls. Infrastructure spending will continue in line with green initiatives as governments continue to churn to rail as the cleanest, safest and the most efficient means of transport and I'll expand on that in just a minute.
+For 2021, we expect revenues in a range of $7.6 to $7.9 billion. Adjusted EPS is expected to be in the range of 390 to 430 and cash conversion is expected to be greater than 90% for the full year. Across our segments, recovery is under way and will continue as customers experienced volume growth and reinvest in their operations. We are seeing it already in some areas and we expect sequential improvement in both aftermarket services and international locomotives. In 2021, we expect orders to exceed anticipated sales but in Wabtec an even stronger position to drive profitable growth.
+With that let's turn to slide 9 to discuss the importance of sustainability and the strategic direction we're driving as a company. At Wabtec, we are determined to have a lasting impact on our industry and the world. Last year, we launched the company's first sustainability report and provided a detailed look at how we're building a more sustainable future by strengthening our corporate governance framework, which guides how we operate, how we innovate and how we drive growth. We also laid out our strategy on how we're taking on some of the world's toughest challenges including climate change and automation by creating cleaner, more fuel [Indecipherable] solutions like a FLXdrive locomotive.
+As noted earlier, this is the world's first battery electric locomotive and it's currently being tested in revenue service by BNSF in California. So far, we're seeing an opportunity to reduce fuel consumption by 10% to 30% with significant interest from customers in North America and internationally. We're also reducing our own carbon footprint driving down energy density and greenhouse gas emissions across our facilities. And when it comes to our employees, we're building a company culture grounded in meritocracy and integrity, one that embraces diversity and all forms and invest in its people and communities. To deliver on this vision, we outlined specific targets for how we plan to drive measurable impact. Our 30 by 30 strategy sets the fine metrics to reduce greenhouse gas emissions and more by at least 30% by 2030 making our commitment clearer to both our customers and our shareholders.
+We are making good advancement on these efforts, as you can see here and throughout our report. As we continue to build an even stronger Wabtec, we will be a driving force in transitioning to industry to a more sustainable future.
+And with that, let's turn to slide 10. As you've heard this morning, our strategic plan has empowered us to innovate and has given us a clear framework to execute on our commitments, to generate strong cash flow and to drive continued shareholder value. And it will continue to guide us as we expand our international installed base as we accelerate growth in digital electronics and services, while further transforming our transit business. We are two years into our integration. We have delivered on our synergies. We have delivered on increased shareholder value and we've positioned Wabtec and our customers for competitive advantage.
+Adding into 2021, we will drive margin expansion through prioritized cost actions and continue to invest in growth, creating new technologies that strengthen our leadership position on decarbonization and automation with the same determination and focus that has brought us here today.
+Before I turn the call over to questions, I want to once again personally thank every member of the Wabtec team for what they have delivered in 2020 and the work they will continue to deliver in 2021. Thank you, and with that, Kristine?
+Kristine Kubacki -- Vice President of Investor Relations
+Thank you, Rafael. We will now move on to questions. But before we do, out of consideration for others on the call, I ask that you limit yourself to one question and one follow-up question. If you have additional questions, please rejoin the queue.
+With that, operator, we are now ready to take our first question.
+Operator
+Ladies and gentlemen, our first question comes from Allison Poliniak from Wells Fargo. Please go ahead with your question.
+Allison Poliniak -- Wells Fargo
+Hi, good morning. Just want to go back to the comments around the new, I guess it's the new locomotive electric locomotive, obviously, understanding the North American market is pretty challenged right now. Could you maybe walk us through the process from pilot. I know you said there is interest. Is it something that would be revenue generating in '22? Just trying to think of how that progression would work.
+Rafael Santana -- President and Chief Executive Officer
+Allison, fuel is one of the biggest cost for our customers. I would say they are heavily focused on driving fuel efficiency across their operations. This, combined with the growing focus on ESG and the need for decarbonization, I think positions the FLXdrive as a unique product to really address the challenges. We are actively working with customers in North America and internationally to introduce this technology in their operations. Proposals are out, but we do not have sales of this product into '21 or '22 at this point.
+Allison Poliniak -- Wells Fargo
+Got it. And then just on transit, there's a lot of obviously news around government fund in the US. It's a little less clear what's going on internationally. Any color that you can provide just sort of where we are in terms of that type of funding internationally for you guys?
+Rafael Santana -- President and Chief Executive Officer
+Allison, we're seeing, I'd say continued commitments to transit overall in terms of transportation and we are seeing I call I continuation of projects. We have not seen cancellations at this point. In fact, we have a lot of discussions regarding new projects with our customers.
+Allison Poliniak -- Wells Fargo
+I guess just in line with that, is it -- would you say there is some accelerated discussions based on potential government funding or municipal funding outside in the international markets, kind of similar to what we're seeing here, is it a little different?
+Rafael Santana -- President and Chief Executive Officer
+I think the industry is growing in the light of well recovery in the markets and I think on the other side we see in our business to stay quite resilient through this time.
+Allison Poliniak -- Wells Fargo
+Great. Thank you.
+Operator
+Our next question comes from Justin Long from Stephens. Please go ahead with your question.
+Justin Long -- Stephens
+Thanks and good morning.
+Rafael Santana -- President and Chief Executive Officer
+Good morning.
+Pat Dugan -- Chief Financial Officer
+Good morning.
+Justin Long -- Stephens
+So wanted to start with a question on the freight segment. So freight margins declined sequentially in the fourth quarter. It looks like this was mainly a function of mix, but I was wondering if you could provide any color on anything else that drove that sequential weakness. And then looking ahead to 2021, I think, Pat, you said margins for both segments should improve, but I was wondering if you could provide any more color about the magnitude of improvement by segment that's baked into this guidance. Thanks.
+Rafael Santana -- President and Chief Executive Officer
+Let me start, Justin, and I'll pass it on to Pat here. But in the fourth quarter, number one, we had a very significant drop in locomotive production. As we go into '21, we have about a 35% reduction in locomotive volumes, which means no deliveries for North America and that's the first time it happens in decades. So we went through a significant restructuring in a couple of facilities in the US. That drove under-absorption, inefficiencies in the quarter with a lower margin rate. We have taken the necessary cost actions in the fourth quarter with significant headcount reductions and we will continue to drive profitable growth as we go into '21.
+Mix was also a headwind and that was a function just of some of the elements. If you look at by product line, you think about transit aftermarket was actually declined versus a year ago with [Indecipherable] growing and you have some other dynamics with both equipment coming down, we've put significant step down in locomotive shipments in the quarter and you also had a significant drop in the digital electronic revenues.
+Pat Dugan -- Chief Financial Officer
+Yeah. Justin, just let me add on to that. I mean, the impact in the fourth quarter is really a result of those low locomotive deliveries and and we see that continuing into next year. When you look at the full year for next year, you were asking about kind of guidance or view into the segment margins. We typically haven't given a lot of information about the segment margins in the guidance but I think if you look at the full year, the full Wabtec view, we expect to be in that -- with the guidance to be in the above 15% range, which is flattish and improving into -- from '20 into '21. We're committed to the margin improvement on the transit side like we've talked about in the strategic goals we put out there. We -- and we see the the freight margins to improve as we continue to get our synergies that we've talked about as we benefit from the cost actions we've taken both in the full year and the fourth quarter on the freight businesses and seeing the mix of business really heading in our favor.
+Justin Long -- Stephens
+Okay, great. That's helpful. And for my second question, I was wondering what you're assuming for rail volumes in 2021 and if you anticipate your aftermarket business to kind of trend in line with whatever you're modeling in. And then on buybacks also curious if that's something that's getting factored into this outlook?
+Rafael Santana -- President and Chief Executive Officer
+Let me start with the last parts. I mean, buybacks are not included in the guidance we're providing at this point, Justin. Even though it is, an element of capital allocation as we look forward. The second piece in terms of just the dynamics, I think we are continuing to see sequential improvement. In the fourth quarter, we saw a book to bill that increased to 0.99 and that's an improvement versus the average for the year, which was around 0.91.
+As we had said, I think our pipeline of deals continues to strengthen. We're off to a strong start for the year and as we look into the elements of what's taking place, I think there could be some tailwinds associated with the dynamics we're currently seeing and add that to some of the elements of weather and services deterioration.
+Justin Long -- Stephens
+Okay. I'll leave it at that. I appreciate the time.
+Operator
+Ladies and gentlemen, our next question comes from J. Revich from Goldman Sachs. Please go ahead with your question.
+Jerry Revich -- Goldman Sachs
+Yes. Hi, good morning, everyone.
+Rafael Santana -- President and Chief Executive Officer
+Good morning.
+Pat Dugan -- Chief Financial Officer
+Good morning.
+Jerry Revich -- Goldman Sachs
+I'm wondering if you could talk about, Rafael, your views on alternative fuel locomotives longer term, how attractive do you expect hydrogen powered batteries, fuel cell locomotive to be for the industry and can you talk about your investments in that area versus battery electric and in any other areas that you folks are spending R&D dollars on?
+Rafael Santana -- President and Chief Executive Officer
+So we're stepping up our investments in that area. We call it the decarbonization product portfolio and in our minds, it starts with really the ability to improve fuel efficiency for customer on existing platforms. So that was our upgrades. There is a second element that ties it off with the adoptions of more biofuel and renewable fuels that built on that stairway. I think there's another element here, which is tied to just continue to modernize the fleets and you've got still a lot of opportunities to replace three units with two. There is the element here of battery technologies, which are will and can be a game changer. And you need that in order to actually drive to the next level, which is the use of fuel cells. So that's how we see the stairway. I think we're well positioned to lead in all the elements of that stairway. That's been a continued work from us and you'll see us continue to step up investment on that area.
+Jerry Revich -- Goldman Sachs
+Okay, thank you. And then on the integration. Nice to see the $250 million number for 2021 under tough circumstances. Can you just talk about are there any cost to achieve the numbers that are running through the P&L in your adjusted earnings number things like double-hold [Phonetic] accounting essentially for support cost between a shared services for GE and you folks or anything that's happening like that in '21 that we should be thinking about as we think about the margin structure in '22?
+Pat Dugan -- Chief Financial Officer
+Yeah, Jerry. So it's the-in '20 there was obviously cost to separate and we would capture those in our restructuring and transaction costs when we report our numbers. We had -- there were expenditures in order to stand up our own systems and achieve synergies related to the separation from GE, to get out from the transition service agreements. We had some of those costs come through in the fourth quarter too, but we expect this -- and we expect to see some of those going into '21 but to start to really slow down and get the full benefit.
+We're also -- and we have not included that in our guidance. We will treat them the same as we have in 2020. And then when you look into 2021, those efforts are really starting to be behind us. We're starting to get the full -- the full benefit. We have additional synergy projects that will get us to that $250 million run rate by the end of the year and -- but the cost to achieve those synergies were really slow.
+Jerry Revich -- Goldman Sachs
+And sorry, just to make sure I'm on the same page with you and the cost to achieve you're treating as non-recurring items anyways. So...
+Pat Dugan -- Chief Financial Officer
+That's right.
+Jerry Revich -- Goldman Sachs
+There is no impact on adjusted earnings [Multiple Speakers]. Okay. Perfect.
+Pat Dugan -- Chief Financial Officer
+The same manner that we've been treating them since the culmination in 2019.
+Jerry Revich -- Goldman Sachs
+Okay. Thanks.
+Pat Dugan -- Chief Financial Officer
+Sure.
+Operator
+Our next question comes from Rob Wertheimer from Melius Research. Please go ahead with your question.
+Rob Wertheimer -- Melius Research
+Thank you. Good morning, everybody.
+Rafael Santana -- President and Chief Executive Officer
+Good morning.
+Rob Wertheimer -- Melius Research
+Just a little bit of a question on the freight international demand. I wonder if you could characterize if that's a little bit broad based or just a customer too and then within that, you touched on mining. I don't know where mining demand stands now, whether that's on the come active dialog or further ahead. Thank you.
+Rafael Santana -- President and Chief Executive Officer
+Well, as we had mentioned before, I think the recovery especially on the equipment side is clearly taking place. First, internationally. We have gotten a significant order as a result of that in the fourth quarter. We are continuing discussions and we're seeing some bright spots there whether if you think about you just mentioned mining. What if you think about agriculture exports. We certainly see that in both South America. We see that in Australia. But overall, Southeast Asia, we're quite active there. Russia, CIS region and we're continuing to expand on delivering our fleet in India as well. But just on mining, more specifically, it's certainly I think a bright spot for us as we look into the year.
+Jerry Revich -- Goldman Sachs
+Okay. Thank you.
+Operator
+Our next question comes from Scott Group from Wolfe Research. Please go ahead with your question.
+Scott Group -- Wolfe Research.
+Thanks. Moving down. Pat, you made a comment about first quarter seasonality would just give a bit more color there. And then can you just talk about at a high level, if we get a big infrastructure package, what -- how do you stand to benefit from that? What are the key things where you would be beneficiary [Indecipherable] to participate in that high level [Indecipherable]? Thank you.
+Rafael Santana -- President and Chief Executive Officer
+Scott, let me start on last part of your question. I think we are a unique inflection point here to help shape what I call it clean energy economy focused around rail. Rail is the most sustainable way of moving both freight in land and large amount of people. So I think policies that incentivize movement by rail will be go -- both good for the economy, good for the environment but can stimulate job creation in North America. We are actively working with this administration in that regard. And with regards to I think just how we see things progressing throughout the year, I think similar to what you've heard from customers. I think you'll see a sequential improvement. We do have elements of seasonality here into the first quarter, certainly weather has impacted our operations in Fort Worth and that's something that we're actively working very close with our teams there to assess that impact.
+Pat Dugan -- Chief Financial Officer
+Yeah. And I would just add, Scott. We do have some seasonality that comes from our aftermarket business, in our mining business, it's just the timing of how orders and projects get landed and in the -- in the kind of the operating rhythm of our customers related to aftermarket and part sales.
+So first quarter tends to be impacted a lot by all these kind of elements that along with the things that Rafael just talked about.
+Scott Group -- Wolfe Research.
+Just going back to the infrastructure side. Can you maybe just talk maybe more specifically when how we [Indecipherable] some big speed roll up or down or something -- or is that what you're hearing exactly the content infrastructure in new markets that you touch you might benefit?
+Rafael Santana -- President and Chief Executive Officer
+Scott, can you repeat that? It's very difficult to hear you.
+Scott Group -- Wolfe Research.
+Sorry, I'm having a problem here. I guess I'm trying to understand on the infrastructure side. What -- where specifically you would stand to benefit to you participating in the big high speed [Indecipherable]. Where would you benefit kind of big infrastructure?
+Rafael Santana -- President and Chief Executive Officer
+Scott, we're working. I think some of the initiatives go right aligned with the opportunity to improve efficiency for our customers on the fuel side, opportunity to look out potentially accelerating some of the introductions of new technologies that help both on driving fuel efficiency, driving more automation, ultimately reducing carbon emissions. So that's -- that's the best way to frame it. So less associated with the high-speed rail per se.
+Scott Group -- Wolfe Research.
+Okay. Thank you, guys.
+Rafael Santana -- President and Chief Executive Officer
+Yes, thank you
+Operator
+Our next question comes from Chris Wetherbee from Citigroup. Please go ahead with your question.
+Unidentified Participant
+Hey, guys. James on for Chris. Good morning. Just wanted to touch on digital. You mentioned the orders are sort of gotten pushed out to the right, but the growth outlook just frankly isn't all that strong. So just wondering if there is any sort of product lifecycle issues there that are creating a headwind and there's more underlying growth. Just kind of wanted to understand sort of the puts and takes to growth within that line in 2021 and what sort of how to think about it moving forward?
+Pat Dugan -- Chief Financial Officer
+Revenues for the business came down about 2% in '20 versus the year before. I'd say customers continue to be very committed, Chris, on investing in productivity and we have a record number of installs in new products as we highlighted. So the fundamentals are good there and customers continue to be a really committed to drive productivity in investing on that. What we saw also was a good book-to-bill in the fourth quarter. I think we're continuing to see that as we move into the first quarter, but a key challenge for our team is to drive what I call convertibility in the year. So think about getting orders that turn into sales within '21. But back again, the fundamentals are -- of the business are strong.
+Scott Group -- Wolfe Research.
+Got it. So it's more along the lines of essentially a pipeline issue. Is that sort of the right way to think about it? Essentially there wasn't as much sales activity in '20 as sort of -- is bleeding into the realized revenue in '21. Is that sort of the dynamic there then?
+Pat Dugan -- Chief Financial Officer
+Yeah. It was a quick way to also eliminate costs within the year pushing some of those decisions to the right.
+Scott Group -- Wolfe Research.
+Got it. All right. And then just on the freight revenues outlook probably just wanted to -- it seems like the guidance at least includes the possibility of freight revenues being down. Just wanted to understand now that at least North American carloads have turned positive. How to think about freight revenue as for the earn -- that segment's revenue inflicting sustainably positive across the year, is that like a second half thing or should we think about that being something like more in 2022?
+Rafael Santana -- President and Chief Executive Officer
+I'd start with we're seeing sequential improvement, right? That has churned the book-to-bill into I'll call a significant improvement in the fourth quarter. I think we're continuing to see that improvements especially quarter-to-date. I think we've had a strong start for the year with an order for both mods and an order for service agreements, which it's a real positive.
+So at this points, I think we'll see sequential improvement on volume as a result of continued unparking of locomotives and freight cars. I think it's important to mention here, I think we -- as we look at quarter-to-date, the backlog coverage for the year is better than we had a year ago, but we're still sitting on what I'll call a significant higher number of locomotives park versus pre-COVID level. I think to answer auto element I would offer you there is the PSR headwinds that we signed that's a couple of years impacting demand. I think they're largely reflecting the network and that would not be a surprise to see potential incremental I'll call volume created by the combination of this winter weather, deterioration of service levels and this should be really the first year that we see traffic growth after some time.
+Scott Group -- Wolfe Research.
+Got it. Actually, a real quick one, can you just comment on mods year-over-year in the fourth quarter and sort of what you're thinking about that in 2021 within -- in 2021 and that's it from me.
+Rafael Santana -- President and Chief Executive Officer
+Significant order quarter-to-date and we expect double-digit growth from the mods number for the year. Our next question comes from Ken Hoexter from Bank of America. Please go with your question.
+Ken Hoexter -- Bank of America
+Hey. Rafael, Pat, Kristine, thank you. Good morning. Just maybe can you talk -- Pat, can you talk a bit about the outlook. What are the highs and lows in terms of the parts of the outlook. Can you maybe provide any specifics. I know you said you're not giving details on freight or transit specifically, but maybe just talk about the highs and lows on the outlook.
+Pat Dugan -- Chief Financial Officer
+So, the range. What would -- how would we get to the higher end of the range of the impact to the low end. It's really going to be driven by the areas we see positivity of services. It's a mod, it's part sales. And my driver for that is really the the rail volumes. When I look at the transit, same thing, it's the regions and the economies reopen and passenger ridership starts to continue to trend positively. We will see those part sales. We have good visibility into our OE side on transit and ROE side on freight. But where the -- where the --- reaching the high end of the range is going to be driven by those items. It's freight volumes, carloadings and ridership.
+Rafael Santana -- President and Chief Executive Officer
+I'll just add. We could [Indecipherable] to see strong international opportunities, the pipeline continues to strengthen. This is certainly a trough year for us when you think about the equipment business and we're building from there. I mean, I can't remember a year where we had zero deliveries on locomotive. So moving in the right direction.
+Ken Hoexter -- Bank of America
+That's helpful. And it seems like international is really a big part of this. Is there a baseline kind of, Pat on -- or Rafael, on the local builds or I guess a carload growth that you've said is kind of the midpoint that we should look as a starting point just to help us base [Indecipherable].
+Rafael Santana -- President and Chief Executive Officer
+Something for the year. I mean, we've got a backlog in-house for what I'll call new locomotives. So this is really about building forward into '22 and that's where the dynamics are positive. You've talked about the freight cars. Your kind of all back to the parking levels we had pre-COVID to certainly a significant drop last year with 58% drop in the freight car belt. We expect that to be more on the 25,000 for the year. So we have started the year with a positive beat up to this point.
+Ken Hoexter -- Bank of America
+Okay. And then I guess for my follow-up. That was great detail on the electric locomotive test in California but, Rafael, can you take the step further the integration of positive train control, your ability to go fully autonomous, what are the next steps for the rails given the trucks are obviously making strides on pushing autonomy. What is left from your thoughts on the development side for the rails to go fully autonomous?
+Rafael Santana -- President and Chief Executive Officer
+We took a key step with order on zero to zero, which is really the ability to start at zero and stop the train at zero. So you talk about moving it and the integration with BTC that really sets the tone of how you can be a lot more autonomous through that process. Some of these steps might vary a little bit on the various Class-1s, but we have the suite of products in order to support that. So you tie that off with a lot of the elements that I described in terms of our portfolio for decarbonization. We have a real strong portfolio to drive growth in this business for the long term, and despite of I'll call variation here on carloads.
+Ken Hoexter -- Bank of America
+But I guess is there anything technological that you still think is needed or is it just -- is the technology there and it's just developing? [Indecipherable]
+Rafael Santana -- President and Chief Executive Officer
+I don't think the technology is the bottleneck. So we've got the elements of technology to drive that.
+Ken Hoexter -- Bank of America
+Thanks for the [Indecipherable]. Appreciate the time.
+Operator
+Our next question comes from Brittany Yakavonis [Phonetic] from Morgan Stanley. Please go ahead with your question.
+Unidentified Participant
+Hi, guys. Just wanted to dig a little bit more into the comments on margin improvement in transit, as well as freight for next year. Obviously, you've laid out the synergies and the pricing in the backlog and transit. But can you just talk about any headwinds that you're incorporating into your guidance at this point added for material cost or supply chain headwinds that you're accounting for?
+Rafael Santana -- President and Chief Executive Officer
+Let me start. So I think as far as the transit business, I think we had good progress in the business. The focus continues to be on execution, improving the quality of the order intake but also improving I'd say the metrics to our customers. Margins have improved about 200 basis points and the team has a good plan to move up and not 100 basis points this year. I think some of the dynamics on the business might vary depending on while lockdowns, auto restrictions that have had a significant impact on ridership. But what has not changed stuff for us is we continue to see a very resilient services business. If you think about ridership down 30%, 50%,
+80% levels as we saw last year we had a business that the aftermarket came down by single digits in 2020.
+On the OE side, we have not seen, as I said Project Constellation, so long-term fundamentals are strong there. We, certainly, are looking to some of the headwinds you described inflation being one of them. We've got our team really actively working with suppliers to make sure that we are well prepared for any of these elements. What I'll anticipate to you, we also have agreements that provide what I'll call escalation in the case of faced with that but there's a good amount of work being done by our teams as we speak around that.
+Unidentified Participant
+Okay. So would you quantify anything that that's baked into the guidance at this point or...
+Rafael Santana -- President and Chief Executive Officer
+I'd say it's why we have visibility to. I think we feel confident about framework we have provided to you.
+Unidentified Participant
+Okay, great. And then just on the transit recovery again, I know you've talked about the improving ridership. Any comment on what you're seeing in Europe versus US versus Asia in terms of how you expect to see that business recover next year?
+Rafael Santana -- President and Chief Executive Officer
+I think Asia is certainly -- the ridership is in the higher levels, right? There is of course some specifics in terms of some of the lock down, some governments have act on it. I think Europe come next. As we saw some of these new lockdown measures, you saw what used to be a ridership on the 80% plus level go down to more like 50% and 60%, but we expect those to resume back up.
+North America has certainly been on the low end of that spectrum of recovery but as vaccination takes place, we'll see those improve across the board.
+Unidentified Participant
+Thanks.
+Operator
+Our next question comes from Saree Boroditsky from Jefferies. Please go ahead with your question.
+Saree Boroditsky -- Jefferies
+Hi. Thanks for fitting me in. So historically. Wabtec has seen more maintenance demand related to break down and severe winter weather. I know you talked about a weaker start to the year, but is this something that could provide upside to guidance?
+Rafael Santana -- President and Chief Executive Officer
+We're certainly watching that very closely. We do think that as well. The combination of severe winter weather conditions, higher volumes, the fact that you have a deterioration of service levels and back to the fact that '21 should be the first year that we see traffic growth. Yes, that could provide tailwind.
+Saree Boroditsky -- Jefferies
+Great. And then you talked about international opportunities in PTC. Would that largely be in Brazil or South America? Can you talk about what other regions would be an opportunity for that?
+Rafael Santana -- President and Chief Executive Officer
+I'll tell you, we just got our first international [Indecipherable] and it was not in South America, but we do have opportunities to continue to expand out and that's one of the areas of focus of our games.
+Saree Boroditsky -- Jefferies
+Great. Thanks for taking my questions.
+Operator
+And our next question comes from Steve Barger from KeyBanc Capital Markets. Please go ahead with your question.
+Steve Barger -- KeyBanc Capital Markets
+Thanks, good morning. I just want to clarify on the freight revenue question. You talked about headwinds from seasonality and equipment activity levels in the first half. And then on the positive side, you talked about mods orders and backlog coverage. So if I net that out, is it reasonable to think we see positive year-over-year growth in the second half or is it too early to tell for the freight segment?
+Rafael Santana -- President and Chief Executive Officer
+We expect to drive what I call profitable growth for overall Wabtec and you should see those dynamics into that segments.
+Steve Barger -- KeyBanc Capital Markets
+Possible growth in the back half for freight?
+Pat Dugan -- Chief Financial Officer
+Yeah. We we're -- yeah, again we said specifically sequential growth. So looking at the quarters, I mean, that would sort of imply that the second half is going to be stronger to answer your question specifically, yeah.
+Rafael Santana -- President and Chief Executive Officer
+Yeah. And additional to the seasonality you see in the first quarter we're certainly watching for weather impacts that we've had on our operation in Fort Worth.
+Steve Barger -- KeyBanc Capital Markets
+Yeah. I mean, just given the seasonality that you're talking about, it sounds like you're expecting bigger year-over-year declines in the -- in the first half than you see year-over-year growth in the second half, is that right?
+Pat Dugan -- Chief Financial Officer
+Yeah. That's right. That's what we're looking at.
+Steve Barger -- KeyBanc Capital Markets
+All right. And you said the impact from one-time costs on operating cash flow will be lower in '21 than it was last year. Can you put a number on that relative to the 2020 that hit last year?
+Pat Dugan -- Chief Financial Officer
+Well, the 2020 is the cash flow impact, right? And you have, I would say roughly half of it is -- of the cash flow impact is from cost that had been recorded in '19 paid in '20. The other half were kind of were costs and impact within the year and then going forward, we were still working through those costs to achieve synergies and restructuring. We haven't given any specific guidance on those items because of the sensitivity to our operations, but we expect those to come down.
+Steve Barger -- KeyBanc Capital Markets
+So while the $110 from '19 paid in '20 rolls off, of course, so the other $110 you would expect to step down from that.
+Pat Dugan -- Chief Financial Officer
+That's exactly right.
+Steve Barger -- KeyBanc Capital Markets
+Okay. So I'll just squeeze one quickly in. So with conditions just sequentially improving, balance sheet in good shape, cash costs and restructuring coming down, reasonable to think you'll make significant inroads on the buyback this year?
+Rafael Santana -- President and Chief Executive Officer
+So number one, I think we continue to see opportunities to return value to shareholders through share buyback and that's why our Board has renewed authorization of $500 million in buybacks. I think our focus starts with driving organic growth. I mentioned the portfolio of solutions we have around decarbonization and automation. They do provide a significant growth opportunity for our business and very much aligned to both productivity and carbon reduction for our customers. So we are committed to continue to lead there and we have increased the spend into '21. And on inorganic, we're continuing to explore bolt-on acquisitions. We will be opportunistic here. This will be really highly strategic with strong returns that drive higher ROIC and faster profitable growth increasing shareholder value. So that's fundamentally how we think about capital allocation here going into '21.
+Steve Barger -- KeyBanc Capital Markets
+Thanks very much.
+Rafael Santana -- President and Chief Executive Officer
+Thanks.
+Operator
+Ladies and gentlemen, with that, we will end today's question-and-answer session. I'd like to turn the floor back over to management for any closing remarks.
+Kristine Kubacki -- Vice President of Investor Relations
+Thank you, operator. And thank you everyone for participating today. We look forward to speaking with you throughout the quarter. Have a good day. Thank you.
+Operator
+[Operator Closing Remarks]
+Duration: 59 minutes
+Kristine Kubacki -- Vice President of Investor Relations
+Rafael Santana -- President and Chief Executive Officer
+Pat Dugan -- Chief Financial Officer
+Allison Poliniak -- Wells Fargo
+Justin Long -- Stephens
+Jerry Revich -- Goldman Sachs
+Rob Wertheimer -- Melius Research
+Scott Group -- Wolfe Research.
+Unidentified Participant
+Ken Hoexter -- Bank of America
+Saree Boroditsky -- Jefferies
+Steve Barger -- KeyBanc Capital Markets
+
+More WAB analysis
+All earnings call transcripts
+
+
+
+
+

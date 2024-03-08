@@ -1,0 +1,361 @@
+Image source: The Motley Fool.
+WEC Energy Group Inc (WEC 0.78%)Q1 2020 Earnings CallMay 4, 2020, 2:00 p.m. ET
+Operator
+Good afternoon, and welcome to WEC Energy Group's Conference Call for First Quarter 2020 Results. [Operator Instructions] Before the conference call begins, I remind you that all statements in the presentation, other than historical facts, are forward-looking statements that involve risks and uncertainties that are subject to change at any time. Such statements are based on management's expectations at the time they are made. In addition to the assumptions and other factors referred to in connection with the statements, factors described in WEC Energy Group's latest Form 10-K and subsequent reports filed with the Securities and Exchange Commission could cause actual results to differ materially from those contemplated.
+During the discussions, referenced earnings per share will be based on diluted earnings per share unless otherwise noted. After the presentation, the conference will be open to analysts for questions and answers. In conjunction with this call, a package of detailed financial information is posted at wecenergygroup.com. A replay will be available approximately two hours after the conclusion of this call.
+And now it is my pleasure to introduce Gale Klappa, Executive Chairman of WEC Energy Group.
+Gale E. Klappa -- Executive Chairman
+Good afternoon, everyone. Thank you for joining us today as we review our results for the opening quarter of 2020. I certainly hope that you and your families are all doing well and staying healthy. First, I'd like to introduce the members of our management team who are on the call with me today. We have Kevin Fletcher, President and CEO; and Scott Lauber, our Chief Financial Officer.
+Now as you saw from our news release this morning, we reported first quarter 2020 earnings of $1.43 a share, a strong performance despite lower natural gas demand during a mild first quarter. The result underscores our focus on operating efficiently and executing our capital investment plan. Scott will discuss our metrics in more detail a bit later in the call.
+Of course, as we planned for the long-term success of our Company, we're also focused on providing essential service throughout the COVID-19 pandemic. As you would expect, the health of our employees and communities remains our top priority. We've adopted numerous measures to minimize health risks and instill in our employees the importance of following the CDC guidelines.
+Stay-at-home orders, as many of you know, were issued across our four states in late March. Keep in mind that the full effect of the virus hit Wisconsin and Illinois relatively late, and the hardest hit parts of Michigan are outside of our service area. Given that timing, we saw only a minimal impact from the pandemic on our first quarter results.
+I would also like to point out that we took action to further control costs even before the virus struck. The first quarter happen to be one of the warmest on record in the past century. When we saw a mild weather at the beginning of January, we set the wheels in motion to reduce expenses in the areas of our business that would not affect safety, reliability or customer satisfaction.
+Now stepping back as we look more broadly at our business mix, approximately 38% of our pre-tax margin for the full year comes from our natural gas delivery business across our four-state area. Also, a third of our earnings for the full year typically come in the first quarter. So with a strong start to the year, we're about as well positioned as we can be to deal with the uncertainties ahead.
+Many of you have also asked about the status of the major economic development projects that have been announced in our region. The short answer is rock on. A good example is the high-tech campus that Foxconn is building south of Milwaukee. The Gen 6 fabrication plant for LCD panels is fully enclosed now and internal build out is under way. Smart manufacturing facility is also taking shape, with production of components for enterprise servers and racks expected to begin in the fourth quarter of this year. In addition, the external structure for Foxconn's network operation center is being erected as we speak. And to help fight the pandemic, Foxconn and Medtronic have announced that Foxconn will produce a line of Medtronic ventilators in our state starting this summer.
+Obviously, we're keeping a close eye on local economic trends and customer demand for energy. Based on what we're seeing today. I do not expect any diminution in our long-term earnings growth rate of 5% to 7% a year. With minor adjustments, our $15 billion capital plan remains on track. I'd like to highlight one area of that capital plan that is progressing well ahead of schedule, that's our energy infrastructure segment. You may have seen the announcement that we're increasing our ownership interest from 80% to 90% in the Blooming Grove, Thunderhead and Upstream Wind Farm. Pending our regulatory approvals, we plan to invest another $118 million for an additional 75 megawatts of capacity.
+I'll focus for our infrastructure segment. We've now committed over 40% of the total in our five-year plan, and that plan just began in January. In short, our overall capital plan is low risk and highly executable. We have ample liquidity, no need to issue new equity. In fact, our available liquidity at the end of April has risen to $2.6 billion.
+And finally, I'd like to cover one other positive development from the first quarter. Just a few weeks ago, we announced the next important steps in our succession planning process. We're very pleased that Scott Lauber will become our Chief Operating Officer, effective June 1. In his new role, Scott will have senior oversight responsibility for power generation, like infrastructure and fuels, information technology, supply chain, supplier diversity and major projects. He also will be named President of Michigan Gas Utilities and Minnesota Energy Resources, and he will continue to serve as he has as a Member of the Office of the Chair.
+We're also welcoming, as you have heard, a new addition to the team. Xia Liu will be joining the Company as our new Chief Financial Officer, effective June 1. So I'm sure you know, Xia most recently served in the same capacity at CenterPoint Energy. Xia brings a tremendous amount of depth and experience to the new role. She began her industry career at Southern Company as a financial analyst back in 1998. During her career, she also served as the Chief Financial Officer of two Southern Company subsidiaries, Gulf Power and Georgia Power, and as the Senior Vice President of Finance and Treasurer for Southern Company. Xia will also be a Member of our Office of the Chair.
+These new appointments will bring additional depth and experience to an already strong leadership team, a team that, as you know, has delivered exceptional results over many, many years.
+And now, I'll turn the call over to Kevin for details on our first quarter operations. Kevin, all yours.
+Kevin Fletcher -- President and Chief Executive Officer
+Thank you, Gale. I'd like to start by highlighting the work of our dedicated employees, who are providing safe and reliable service throughout this health crisis. We have sharply curtailed work inside customers' homes, and 80% of our employees are now working remotely or in the field. Our employees are adapting to these changes using technology, following health precautions and continuing to work efficiently. The remote work that's making our Company safer would not have been possible without our recent technology investments.
+Although we still have a long road ahead of us, I'm encouraged by the processes and procedures we have put in place across our companies. Our incident management team and occupational health and support services employees have been instrumental in executing our business continuity plans and developing new processes to address changing conditions.
+We are working hard to support our customers through this crisis, and I'm grateful that we've also been able to contribute through our foundations to organizations on the frontlines, including local United Ways, hospitals, domestic violence shelters, food pantries and youth programs. Through these donations and matching gifts, we're providing more than $2 million to COVID-19 relief efforts. It's our way of thanking the people and organizations that sustain our communities.
+Despite these challenges, we continue to make progress on key initiatives. Importantly, we have no active rate cases at this time, which is a real positive in our current environment. As you may know, the pandemic has made it necessary to stop disconnections and place a moratorium on new late payment charges for customers, our regulators have been supportive and we're working through the specific mechanisms for future recovery.
+In Wisconsin, the Public Service Commission has made it clear that we are authorized to defer a foregoing late payment charges, uncollectible expense and incremental pandemic-related costs. To be clear, this covers all related expenses in our residential as well as our commercial and industrial sectors.
+Turning now to our projects. We're on track to add utility-scale solar generation to our portfolio. You may recall that we have already broken ground on two solar projects for Wisconsin Public Service, which will provide us with 200 megawatts of capacity. Our Two Creeks Solar Project remains on time to begin producing energy by the end of this year. Our Badger Hollow I solar project is experiencing a modest delay, but we'll continue to earn allowance for funds used during construction, and we expect it to be operational by the end of April 2021 in time for the MISO capacity auction.
+In February, the Public Service Commission of Wisconsin approved our investment in Badger Hollow II. Once complete, the solar park will provide We Energies with 100 megawatts of renewable capacity. We expect to invest $130 million in this project. And I'm sure that many of you have heard that the Democratic National Convention has moved from July to August. We completed a thorough review of our network in preparation for the potential influx of delegates, and overall we're in very good shape.
+And with that, I'll turn it back to Gale.
+Gale E. Klappa -- Executive Chairman
+Kevin, thank you very much. As we look to the remainder of the year, our earnings guidance for 2020 stands at $3.71 a share to $3.75 a share. As I mentioned earlier, our actions to date have put us in a very good position to achieve those results. So today, we are reaffirming our guidance for 2020. Again, our guidance stands at $3.71 a share to $3.75 a share.
+Also a quick reminder about our dividend. In January, our Board of Directors declared a quarterly cash dividend of $0.6325 a share. That's an increase of 7.2% over the previous quarterly rate. We continue to target a payout ratio, as we've mentioned often, of 65% to 70% of earnings. We're in the middle of that range right now. So, I expect our dividend growth will continue to be in line with the growth in our earnings per share.
+And now, with details on our first quarter results and more information on our outlook for the remainder of 2020 is our CFO and about to be COO, Scott Lauber. Scott?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Thank you, Gale. Our 2020 first quarter earnings of $1.43 per share increased $0.10 per share compared to the first quarter of 2019. This result was driven by our continued emphasis on cost control, a modest rate increase at our Wisconsin utilities and additional capital investment. We estimate that the mild winter weather conditions accounted for a $0.10 drag on the first quarter earnings compared to last year.
+The earnings packet placed on our website this morning includes a comparison of the first quarter 2020 and 2019 results. I'll first focus on operating income by segment, and then other income, interest expense and income taxes. Referring to Page 8 of the earnings packet, our consolidated operating income for the first quarter of 2020 was $627 million compared to operating income of $543 million in the first quarter of 2019, an increase of $84 million. After adjusting for the impact of the 2019 tax repairs, operating income increased by $43 million.
+My segment update will focus on the remaining $43 million increase in operating income, which excludes the 2019 tax repair benefit. At our Wisconsin segment, adjusted operating income increased $25 million. This is driven by several factors. First, operating maintenance expense decreased $41 million, largely due to savings from the retirement of the Presque Isle power plant a year ago, additional cost control measures and lower benefit costs. Second, our Wisconsin segment margins were $5.8 million lower. This factored in our recent rate order as well as positive fuel recovery. These positive drivers were more than offset by a $41.2 million negative weather variance. And finally, depreciation expense increased $8.1 million, as we continue to execute on our capital plan.
+In Illinois, operating income increased $23.7 million, driven by a $19.7 million decrease in operating and maintenance expense, net of riders. This is driven by lower repair and maintenance work due to milder winter temperatures, lower benefit cost and cost control. Operating income at our other state segment decreased $4.1 million, due to the mild first quarter.
+Turning now to our energy infrastructure segment. Operating income at this segment was down $1.2 million. As expected, Bishop Hill Upstream and Coyote Ridge did not provide a material impact on operating income. Recall that a significant portion of earnings from these wind farms come in the form of production tax credits, which are recognized as an offset to income tax expense.
+With Coyote Ridge coming online late last year, these production tax credits contributed approximately $0.03 per share to our earnings in the first quarter of 2020 compared to $0.02 in the first quarter of 2019. Combining these changes and excluding the impact of 2019 tax repairs, operating income increased $43 million.
+Earnings from our investment in American Transmission Company totaled $39.8 million, an increase of $3.7 million. Higher earnings were driven by continued capital investment. Recall that our investment is now earning a return on equity of 10.38%. This is per the November 2019 FERC ruling.
+Other income net decreased by $25.3 million, mainly driven by investment losses related to our deferred benefit plans. These investment losses were partially offset the lower benefit expense noted in our operating segments.
+Interest expense increased $5 million, primarily driven by incremental long-term debt issuances at the subsidiary level to fund our capital investment program. Our consolidated income tax expense, net of the 2019 tax repairs, decreased $15.7 million. Lower tax expense was driven by the positive tax effect of refunding unprotected tax benefits following our recent Wisconsin rate decision. This year, we expect our effective income tax rate to be between 16% and 17%. Excluding, the flowback of the unprotected benefits, we expect our 2020 effective tax rate to be between 20% and 21%. Currently, we expect to be a modest taxpayer in 2020. Our projections show that we'll be able to efficiently utilize our tax position with our current capital plan.
+At this time, I'd like to address our sales and earnings forecast for the balance of 2020. Based upon what we have seen in April, we are adjusting our 2020 sales forecast. Specifically, on the electric side, our forecast now assumes a 4% increase in residential sales volumes in the second quarter, trending to an increase of 0.5% by the fourth quarter. For small commercial and industrial customers, we are assuming an 8% reduction in the second quarter, trending to a reduction of 3% by the fourth quarter. And finally, for our large commercial and industrial customers, we are assuming an 18% reduction in the second quarter, trending to a reduction of 7% by the fourth quarter.
+Overall, based on these assumptions, we are forecasting the total retail electric volumes, excluding the iron ore mine, to decrease by approximately 5% for the remaining nine months compared to our original forecast. These revised volumes translate to a reduction of approximately $70 million to $80 million in pre-tax margin for the year. We believe that we have the ability to absorb this margin compression to temporary initiatives as well as multiple cost savings and efficiency measures across the enterprise.
+As Gale stated earlier, these initiatives will not compromise our commitment to safety, reliability and customer satisfaction. So, we are confident in reaffirming our annual guidance of $3.71 per share to $3.75 per share. Given that the stay-at-home orders are still in place in our region, we are providing second quarter 2020 guidance of $0.58 per share to $0.62 per share. This assumes normal weather for the rest of the quarter. In last year's second quarter, we earned $0.74 per share. We've obviously projected declining sales volumes and there are timing differences related to fuel cost recovery.
+With that, I'll turn things back to Gale.
+Gale E. Klappa -- Executive Chairman
+Scott, thank you very much. Overall, we're on track and focused on delivering value for our customers and our stockholders. Operator, we're ready now to open it up for the question-and-answer portion of the call.
+Operator
+Thank you. Now, we will take your questions. [Operator Instructions] Your first question comes from Shar Pourreza with Guggenheim Partners. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Rock and roll Shar, how are you today?
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Not too bad. How are you doing?
+Gale E. Klappa -- Executive Chairman
+Yes We're hunker down [Phonetic]. Doing well.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+That's great to hear. That's great to hear. So a couple of questions. You touched on this a bit in your prepared remarks, Gale, but can you give us a little bit more color and a high level, how you're sort of thinking about the duration of the downturn? Are you -- how long are you thinking recovery is going to take? And maybe just talk about a little bit about the sustainability of your levers. This downturn is more protracted, right? So any risk sort of 5% [Phonetic] growth, any capex opportunities that become maybe secondary in nature? Is this downturn is more projected than your own internal planning assumptions?
+Gale E. Klappa -- Executive Chairman
+Well, great questions, Shar. Let me first say that I think we have been appropriately conservative in terms of our view of how quick a recovery might take place and what the extent of the recovery would be in the near term. Now Scott covered with you our base assumptions in terms of sales declines. My sense is that if in the region we can get the economy restarted by June, that things will evolve in fits and starts.
+As -- I mean, clearly, as you know, two-thirds of the economy is driven by consumer demand. And I think the real question for everybody is, how confident will the consumer be in going back to their semi-normal buying patterns. Having said all of that, I mean, I think we're appropriately conservative in terms of what we expect to happen to our electric and gas sales volumes. We're confident in our levers and in the dozens and dozens of initiatives that we have across the enterprise to become even more efficient. We're learning things here as 80% of our workforce is operating remotely if you will. So, we feel very good about our ability to drive additional efficiency and cost reductions throughout the business, and we're prepared obviously to pivot either way. If the recovery is quicker, then that's all to the benefit. But I think we've been appropriately conservative.
+In terms of the capital plan, when you think about the elements of our capital plan, they're really all about reliability. So, I don't see any really -- need or for that matter, I still see the need to continue with that capital plan focused on reliability and improved customer service. The Infrastructure segment will be unaffected as best I can tell. And so, long story short, we really don't see any threat right now to our long-term earnings growth rate projection of 5% to 7% a year. I hope, Shar. that responds.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+No, it does. And I just wanted to confirm that and your deep conservative vendors always comes to light. So, thank you for that. Let me just -- since you touched on the Infrastructure segment, are you seeing this economic dislocation sort of -- is it driving any new opportunities in that segment? I mean, you're well ahead of filling that capital budget. Are any developers facing any cash crunchers, people looking to get out of projects, especially given you have an -- obviously an advantage with your tax appetite? So can you have a contra effect where the -- what you're seeing in the economy, actually play into the hands of your -- of that segment?
+Gale E. Klappa -- Executive Chairman
+I would say it's a little too early to give you a definitive answer, but the early indications are yes. There will be some additional high-quality projects. I remember we are very particular about the kind of projects we're willing to take on in the Infrastructure segment. But I would say that given the sharp contraction in the economy, given the fact that some folks obviously need cash, I think we're going to see more opportunity. We will be very selective, though, as we work through that opportunity, but I do think there will be -- I do think there will be additional projects that we will take a hard look at.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Got it. And then just lastly, can you just remind us if ATC receives a Transco add? And if so, do you have any thoughts yet on the recent FERC's MOPR proposal to remove it? As we kind of understand it, it would be kind of a wash if they increase the RTO membership added by 50 bps. So, how do we know, are we sort of thinking about this correctly?
+Gale E. Klappa -- Executive Chairman
+I think so, although I believe that one of the proposals, and Scott and Kevin can echo me on this, I think one of the proposals is for there to be a 100 basis point adder for RTO participation. Right now, essentially, ATC is getting a 50 basis point adder. So there is a possibility there. Scott, I think of another 50 basis points in the mix.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah, that's exactly correct, Gale, from what I'm reading right now. So there's potential there.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Got it. Well, thanks so much guys and congrats Scott and Xia on the new roles. And I'm sure Xia will get a little bit more rest at night works. So, congrats guys.
+Gale E. Klappa -- Executive Chairman
+Thank you. Hey, Shar. I'm a night owl, so don't count on that.
+Shar Pourreza -- Guggenheim Partners -- Analyst
+I know that. See you guys, congrats.
+Gale E. Klappa -- Executive Chairman
+Thank you.
+Operator
+Your next question comes from Durgesh Chopra with Evercore ISI. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Greetings Durgesh. How are you doing?
+Durgesh Chopra -- Evercore ISI -- Analyst
+Hey, good morning, Gale. Doing great. Good afternoon, rather. Thanks for taking my question. I actually have a two into the weeds question, so I'll apologize upfront. The first one on the -- is I understand, I see the $13.5 million in Wisconsin segment on Slide 8 that is the $13.5 million decline in O&M -- I'm sorry fuel savings. As I understand it, you would love to retain roughly $15 million versus your authorized amount in any fuel savings that you might have. Can you just comment on what of that $15 million if any have you utilized in the first quarter?
+Gale E. Klappa -- Executive Chairman
+I think virtually all of it because of the timing of fuel recovery. Scott, correct?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Correct. This is $13.5 million better in the first quarter. And once again it's -- a lot of it due to the timing of the fuel recoveries. If you recall, historically there is a pattern of the fuel recoveries at Wisconsin Electric that you usually over collect into first and second quarters, under collect in the third and then swings back in the fourth quarter. And we just really had some positive fuel recoveries with the price of natural gas and operating -- our operating fuel cost in the first quarter. So we are ahead of the plan in this first quarter, specifically compared to last year and compared to our original guidance that we set.
+Gale E. Klappa -- Executive Chairman
+So, Durgesh, what that really means is, you won't see as big a pickup in Q2 because we've really eaten the full amount into Q1 because of, again, of the timing and the collapse of oil and gas prices.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Exactly.
+Durgesh Chopra -- Evercore ISI -- Analyst
+Got it. Got it. That's what I thought. And then just maybe Scott, the -- any additional color on the other O&M category, the $22.3 million. What is that made up of? And how is that tracking perhaps versus your original guidance?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah. So the other O&M and what we did is we broke it out because we've talked about this before, the offset of some of that deferred compensation is in the rabbi trusts. So this O&M is really the day-to-day savings that we're seeing from the multitude of operating savings across the footprint. And this is specifically what's related to -- a majority of its what related to Wisconsin segment and there is more in Illinois, and in the smaller utilities also. So that's the day-to-day stuff.
+Durgesh Chopra -- Evercore ISI -- Analyst
+Okay, perfect. Thank you, Scott and congratulations.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Thank you.
+Gale E. Klappa -- Executive Chairman
+Thank you, Durgesh.
+Operator
+Your next question comes from Julien Dumoulin-Smith with Bank of America. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Greetings Julien.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Hey, good afternoon. Appreciate you guys taking the time. Perhaps, let me take this as a couple of clarifications, just commentary and perhaps we will step forward. When you're thinking about the cost reductions to offset, I think, the -- you talked about $70 million to $80 million of pre-tax here. How do you think about the sustainability of that into '21? And then subsequently, how do you think about this meshing into the regulatory process at large in Wisconsin? I'll leave it open-ended [Indecipherable] interpret that.
+Gale E. Klappa -- Executive Chairman
+Okay. Well, in terms of sustainability, let me just go back and talk for a second about our track record. As you may recall, our day-to-day -- what we call our day-to-day operation and maintenance costs, we reduced those by 7.3% in 2019 over 2018. Our forecast and plan for this year was an additional 2% to 3% reduction over and above what we achieved in 2019. And now we have put in, as we mentioned, I mean, literally hundreds of measures across the enterprise.
+We're learning some things here in terms of additional possibilities for a long-term sustainable cost reduction through what we've been forced to operate through the pandemic here. So, costs, I believe, are going to come down. I would just point to our track record of sustainable cost reductions to give you some confidence that a big chunk of what we're seeing here, I think will be sustainable. And of course that not only benefits the efficiency in the operation of the business, but also over the long-term benefits customers because it takes pressure off retail rates and allows us to continue without pressure on retail rates, the kinds of important reliability investments that we're making in our $15 billion capital plan. Kevin, Scott, anything else you'd like to add?
+Kevin Fletcher -- President and Chief Executive Officer
+No, that -- Gale, this is Kevin. Let me first say, I'm extremely proud of what our employees are doing and how they have rallied during this COVID virus epidemic. But -- and Gale you just mentioned that we're looking at day in and day out what we can do to be more effective and more efficient, and we're finding a lot of those opportunities. And as you said, I believe they will be sustainable as we move forward.
+Gale E. Klappa -- Executive Chairman
+Thank you, Kevin.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Got it. Excellent. And then if I can follow-up just quickly. Strategically, I know you talked about infrastructure opportunities a moment ago. But how do you think about the landscape today as it stands? We've heard folks kind of back it away broadly from strategic opportunities, given the backdrop of late, but obviously there's been a lot of gyrations in relative valuations, etc. How do you think about the opportunity today more holistically and beyond that infrastructure?
+Gale E. Klappa -- Executive Chairman
+So, you're specifically asking about, Julien, opportunities in the Infrastructure segment?
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+I was thinking beyond that really. I know you just made comments about robust set of opportunities on the infrastructure side, but I'm thinking strategically beyond that, more corporate level.
+Gale E. Klappa -- Executive Chairman
+Well, good question. And I think the answer will be boringly repetitive because we have a set of criteria. As you know, that we used to look at any potential strategic or acquisition opportunity. And I'll just repeat them quickly, so we put everybody to sleep. But these are important, at least in my judgment. Following these criteria in our sector, in our industry, I think if you can follow these criteria and actually execute on them, I think you create shareholder value. If you don't, then I think the story gets a little bit more money.
+So, our really set in stone criteria are we would have to believe that anything we would acquire would be accretive in the first full year after closing. We're not going to trash the balance sheet to do it. We worked very hard to have one of the strongest balance sheets in the industry, and we're not going to make something accretive by trashing the balance sheet. And then thirdly, and I think Julien, this would be the gating up -- the gating question right now as we look at the landscape. We'd have to believe that the growth rate of anything that we would acquire would have to be as strong as our own organic growth rate or stronger, read that 5% to 7% earnings-per-share growth a year. That right now would be I think the biggest gating question for us, as we look at anything around the landscape. Hope that responds to your question.
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Yeah. Absolutely. Thank you for the time guys, and do well.
+Gale E. Klappa -- Executive Chairman
+Thank you.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+Your next question comes from Steve Fleishman with Wolfe Research. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Hey, Steve.
+Steve Fleishman -- Wolfe Research -- Analyst
+Hey, Gale. Good afternoon. Just maybe a little bit more color on sales, particularly if you have data for the month of April. What did overall sales do and by class, so we have an idea?
+Gale E. Klappa -- Executive Chairman
+Let me [Speech Overlap] yes, we do have April data. Happy to share it with you. Last time, we chat I met -- last time, we chatted, I mentioned to you that we are also looking day-to-day at the MISO, Midwest operator data for the 14 states in the broad middle swath of the country. So if you look at from March 24th, which was the date of the announcement of the stay-at-home order in Wisconsin, through May 2, basically kilowatt hours send out in the MISO footprint was down just over 8%. We've consistently day to day done a little bit better than that. And I think through the same dates, March 24 through May 2, we're down right around 7%. So, we've consistently done day in day out a bit better than what we're seeing across the MISO footprint, and we are seeing an uptick pretty significantly in residential usage.
+Scott, would you like to talk about that?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yes. So, we are looking at our residential usage. And like we've done before, we track our entire system and our large customers in residential using our automatic meter reading and really looking at the data. We are seeing anywhere to at least 5% plus on some weeks on the residential usage. So when we put our forecast together, looking at 4% is more of a realistic estimate to be a little conservative. And as you go through the customer classes, the large commercial and customers that we look at and we track as you know, the 17 major segments that we're looking at in our area, and we get reports weekly on it and we're seeing between 16% and 18% down there. And that's what we factored into our guidance here in the second quarter. And then the third segment is really that small commercial area that we're seeing down probably about 6% to 8%. So, that's how we factored it in.
+Steve Fleishman -- Wolfe Research -- Analyst
+Okay. Great. That was it from me. Appreciate it.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Thank you.
+Gale E. Klappa -- Executive Chairman
+You're welcome, Steve. Thank you.
+Operator
+Your next question comes from Michael Weinstein with Credit Suisse. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Greetings, Michael. How are you today?
+Michael Weinstein -- Credit Suisse -- Analyst
+I am doing OK, Gale. Thank you very much. Congratulations, Scott and Xia.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Thank you.
+Michael Weinstein -- Credit Suisse -- Analyst
+On the $7 million to $8 million [Phonetic] reduction in sales. It's based on the second quarter being the worst of it and things getting better throughout the year. Can you kind of ballpark where things might be if let's say the second quarter turns out to be -- like a whole year turns out to be the second quarter, the third and fourth quarter as well, any kind of reductions?
+Gale E. Klappa -- Executive Chairman
+We're doing a little meatball math here as we think about responding appropriately to your question.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah. So if you would take that second quarter trended out and carry the whole year, that may be another $10 million to $15 million. And that's the ballpark number we've been thinking about here, if that would be the case scenario. I mean, once again, we're seeing things start-up and then kind of go back down and we anticipate as the stay-at-home orders start to open up, we will see some movement here. But we were -- we do have those kind of book-ins here and we're watching it every day.
+Gale E. Klappa -- Executive Chairman
+I think Scott is exactly right. As we've done our sensitivities, even if the second quarter became the third quarter and the four quarter, I think we're still under $100 million in terms of pre-tax margin loss.
+Michael Weinstein -- Credit Suisse -- Analyst
+The summer time has already been factored in.
+Gale E. Klappa -- Executive Chairman
+Yes, absolutely.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yes.
+Michael Weinstein -- Credit Suisse -- Analyst
+Right. And also, is it applied to both electric and gas customers, maybe not the gas would be much of a factor, curious if that's only electric?
+Gale E. Klappa -- Executive Chairman
+Yeah. No, we factored in both gas and electric. I would remind you, though, that the second and third quarters for gas deliveries are very minimal. Our big quarters obviously are the heating seasons. So, Q1 and Q4 for natural gas, but we have factored in. Again, I mean, our natural gas deliveries were largely unaffected by the pandemic in Q1, but we have factored in some reduction in Q4 assuming the world is not back to total normal for gas deliveries.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Gale, I would add too in my prepared remarks that we still are expecting the Democratic National Convention to come here. And if it does and the markets open up, then there will be a lot of kilowatt hour usage during that summer period as well, which will help.
+Michael Weinstein -- Credit Suisse -- Analyst
+Hey, I think I missed this before, heard something about regulatory treatment for COVID-19 expenses. Like right now you have residential as per accounting in Wisconsin and a rider in Illinois, at least for bad debt. Is there any -- are there any other mechanisms being discussed or contemplated?
+Gale E. Klappa -- Executive Chairman
+Yes. First of all, the Wisconsin Commission was the first in the country to basically set up a regulatory mechanism. We are being asked all the Wisconsin utilities or being asked to track and defer direct additional expenses related to response to the COVID pandemic, number one and number two, since we've all agreed not to disconnect any customers during the pandemic. We're going to be allowed to defer and track for future potential recovery, any late fees that we cannot levy and resulting bad debt.
+But as you say for Wisconsin, we already have escrow accounting for residential bad debt. And you pop to Illinois, there is a docket under way right now. In fact, there kind of -- there are dockets really under way in each of the four states. The next for this along would probably be Illinois where again no disconnects, no new late fee payments and the commission there is going to ramp up that docket sometime in the next few weeks. So -- but I would remind you that we're decoupled in its natural gas delivery only in Illinois, and we had decoupled in Illinois. So, that's obviously helpful as well. Scott, anything that...
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+In Illinois, also there was already in place collection of bad debt expense for both residential and commercial industrial in Illinois. So, that's already in place.
+Gale E. Klappa -- Executive Chairman
+There is a bill rider that's historically been in place there.
+Michael Weinstein -- Credit Suisse -- Analyst
+Just on a curiosity, Amazon [Indecipherable] warehouse, it's just got started up recently just in time. Is that seeing any kind of ramped up activity beyond what you were expecting or any plans for doing something more there?
+Gale E. Klappa -- Executive Chairman
+Matter of fact, yes. There is another site that Amazon is looking at right now in one of the suburbs. That would be their site for same-day delivery that's going through siting and approval process right now, but it's an existing warehouse. So -- my understanding is it's about 400,000 square feet. So yes, Amazon is actively looking at potential expansion here as well.
+Michael Weinstein -- Credit Suisse -- Analyst
+Great. Thank you very much, guys.
+Gale E. Klappa -- Executive Chairman
+You're welcome. Thank you.
+Operator
+Your next question comes from Andrew Weisel with Scotiabank. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Greetings, Andrew. How are you today?
+Andrew Weisel -- Scotiabank -- Analyst
+Hey, everyone. I'm good. How are you guys.
+Gale E. Klappa -- Executive Chairman
+We are good.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Good.
+Andrew Weisel -- Scotiabank -- Analyst
+First, a question for Gale. What would you say the odds are of the NBA resuming the season?
+Gale E. Klappa -- Executive Chairman
+Great question. Here's what I can tell you. The league very much wants to resume. They've talked about even potentially restarting a part of the season as late as August, but I think there is a very strong desire on behalf of the league to, in some way, shape or form, get to a meaningful play off. Now having said that, my own personal guess is if that does happen, it would be a broadcast-only event without fans in the stands. But if I were a betting man, I would say odds are better than 50-50, but there will be some resumption of the current NBA season, even if it means a delay in starting the next season.
+Andrew Weisel -- Scotiabank -- Analyst
+I had to hope so. As much as I love reading about utilities, I do miss sports.
+Gale E. Klappa -- Executive Chairman
+Yeah. And you know...
+Andrew Weisel -- Scotiabank -- Analyst
+Next question...
+Gale E. Klappa -- Executive Chairman
+If you're a partial owner of the Bucks and they win the championship, you might get a ring. This would be pretty cool.
+Andrew Weisel -- Scotiabank -- Analyst
+All right. So, next question. On the first quarter weather, I see the earnings package shows a roughly $45 million hit year-over-year. What would that be versus normal?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+It was about $0.07 compared to normal. So about $28 million, $29 million.
+Gale E. Klappa -- Executive Chairman
+Yeah. $28 million to $30 million.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah.
+Andrew Weisel -- Scotiabank -- Analyst
+Okay. So in terms of the cost savings, you mentioned you're going to start to look for some stuff or you started to look in January. You are saying, roughly $70 million to $80 million from the coronavirus and roughly $30 million from weather versus normal. Is that right and that compares to your guidance of 2% to 3%, which would be roughly $25 million to $35 million? Did I get those numbers about right?
+Gale E. Klappa -- Executive Chairman
+Yeah. You're in the ballpark. Absolutely.
+Andrew Weisel -- Scotiabank -- Analyst
+Okay, great. Then can you -- going back, you guys have generally been there for quite some time. Can you go back to 2008, 2009, and remind us of how much you were able to identify as far as incremental cost savings during that downturn?
+Gale E. Klappa -- Executive Chairman
+Good lord. Are you trying to say, Andrew, we're old? Is that the question?
+Andrew Weisel -- Scotiabank -- Analyst
+I'm saying you're consistent.
+Gale E. Klappa -- Executive Chairman
+Well, I don't remember the specific number on O&M savings, but I can tell you this. Industrial energy usage during 2009 dropped by 10% compared to 2008. So, we had -- and small commercial and industrial got devastated as well. There was no real uptick like we're seeing now in residential. So I would say actually based on our '09 experience in my memory what we have to accomplish in terms of cost reductions and additional efficiency in '09 was probably as greater, greater than what we're looking at potentially today. Scott?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah. Gale, you're exactly right. And '08-'09 was a little different period there. But once again, we executed and we achieved our earnings guidance, and we earned our returns on our utilities.
+Gale E. Klappa -- Executive Chairman
+I think a part of this is our general operating philosophy. I mean, when you focus as a mantra and as a management focus day in day out on the fundamentals and executing the fundamentals as efficiently as you can, it really gives you good insight into where you can drive additional reductions, additional cost control, additional efficiency both short term and long term. I think one of the factors that I would cite is our -- for our success is really every day we try to get better at the fundamentals of our business, and that's really the focus of what our operating teams do every day. So I think that's a big factor understanding exactly what's driving your costs and understanding exactly, not just top-down but bottom-up as well, on how we can get better every day.
+Andrew Weisel -- Scotiabank -- Analyst
+Okay. Great. And then one last one if I may. On liquidity, I believe you said $2.6 billion as of a few days ago. That's up quite a bit from the end of March from year-end. Can you remind us what you've done to bolster that? And the way you see the world today, do you think you're done in terms of capital raises for the year?
+Gale E. Klappa -- Executive Chairman
+Scott, will let you handle that one.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah. So actually the cash flow has been -- it's been positive so far. And we did issue a small debt at our small utilities, about $110 million that help with the liquidity overall. MERC and MGU in total was $110 million. So we will still have some issuances the remaining of the year. As we look at financing now that we have multiple items of the Infrastructure segment, we'll be looking at that and also potentially some holding company debt. So we're evaluating it right now and looking at the timing, but the rates are coming down a little. So that looks good. But right now, the additional liquidity was good cash flow and additional debt at the smaller utilities.
+Andrew Weisel -- Scotiabank -- Analyst
+Great. Thank you very much.
+Gale E. Klappa -- Executive Chairman
+You're welcome.
+Operator
+Your next question comes from Jeremy Tonet with JPMorgan. Your line is open.
+Gale E. Klappa -- Executive Chairman
+Jeremy, how are you?
+Jeremy Tonet -- JPMorgan -- Analyst
+Good. Thanks for having me. I think...
+Gale E. Klappa -- Executive Chairman
+Well, nice being...
+Jeremy Tonet -- JPMorgan -- Analyst
+I think you touched on industrial and specifically Foxconn activity at the start of the call here. But just wondering if you could share any more color on current and expected industrial activity going forward here and I guess, if you see the potential for any lingering impacts from the whole COVID-19 situation on post-2020 industrial level?
+Gale E. Klappa -- Executive Chairman
+Well, the honest answer is, we don't know. We had been -- until we see how the consumer comes out of this shutdown of the economy, it's really almost impossible to tell overall. But having said that, every one of the major economic development expansion projects that we've announced in the last two years are -- as I mentioned, Foxconn is a good example, are rocking and rolling and going forward with the same commitment.
+In fact, one of the -- and I won't mentioned their name, because it's not public yet, but one of the major announcements we've made on the economic development front about a 1.5 years ago, we've just learned that the footprint is going to be even larger. So that's one of the reasons why I don't see a diminution in our long-term growth rate. We've got major capital projects on the way and I will tell you, in terms of customer growth customer expansion.
+The other thing I will tell you on the more optimistic or even more optimistic side, I really believe that we're going to see a reshaping of the supply chains with much more productivity and much more production coming into the U.S. I think one of the lessons that everybody has learned is, and nothing against China, but we can't be dependent on Chinese production for all of the antibiotics that are prescribed in the U.S. or the great majority of them. I think you're going to see a reshaping of the supply chain, again with more production coming in the U.S. over the next few years and Wisconsin will be particularly well-suited to take advantage of that in my view.
+Jeremy Tonet -- JPMorgan -- Analyst
+That's very helpful. Thanks. And just one more if I could. Just wondering if you see COVID impacting the timing of pipe replacement in Illinois, kind of both from a rate increase perspective and an economic development perspective.
+Gale E. Klappa -- Executive Chairman
+Well, I will say this. Given the stay-at-home orders, we have shifted a little bit in Illinois some of the pipe replacement work and actually to -- very much to our benefit and customers' benefit. So, the plan was to really upgrade the piping systems in a number of neighborhoods starting in the first quarter. Now though, both Chicago Loop is deserted and we're able to -- we were able to get some permits to do work, we would have done at a later time, but it was on the schedule in the Chicago Loop. We are far more productive with that work than you can possibly imagine because there is simply no traffic and nothing to disrupt the timing of the work.
+So from the standpoint of actually being even more efficient and getting some work done that eventually absolutely had to be done in the Chicago Loop, the pandemic is actually been helpful to us in terms of shifting that work. It is slowing down, obviously, some of the work in the neighborhoods, but we're really pleased that we've been able to get a real leg up on to work in the loop. Kevin, Scott anything to add to that?
+Kevin Fletcher -- President and Chief Executive Officer
+Yeah, Gale, I would add. It makes sense. Excuse me, Scott, for doing so because, as you just mentioned, from moving away from the neighborhood, some allowed us to not have as much interaction with going inside the homes because in addition to the pipe replacement, we're also moving meters from inside to outside. So with the COVID-19, we made a decision to minimize that and focus attention of where we could be more productive as you just mentioned.
+Jeremy Tonet -- JPMorgan -- Analyst
+That's a very helpful color. Thank you.
+Gale E. Klappa -- Executive Chairman
+You're welcome.
+Operator
+Your next question comes from Michael Lapides with Goldman Sachs. Your line is open.
+Michael Lapides -- Goldman Sachs -- Analyst
+Hey, guys. Thank you for...
+Gale E. Klappa -- Executive Chairman
+Hey, Michael.
+Michael Lapides -- Goldman Sachs -- Analyst
+Hey, Gale. Glad to hear you and your family are all well. Thank you for taking my question, and congrats to Scott again on his new role within the Company's leadership team.
+Gale E. Klappa -- Executive Chairman
+Hey, Michael, do you think we got to give him a raise?
+Michael Lapides -- Goldman Sachs -- Analyst
+No, absolutely not. Not in this environment, may be five or seven years from now. We'll talk about that.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Very good. Appreciate that, Michael. Thank you very much. Just what I wanted to hear.
+Michael Lapides -- Goldman Sachs -- Analyst
+Hey. All right. You talk [Phonetic] about demand and the revenue impact being around $75 million or so. And I just want to make sure I'm thinking about the puts and the takes. So in Wisconsin, you had $22 million of O&M benefit. In Illinois, you had almost $20 million. So, call it $42 million in total. So, you're kind of half -- more than halfway to the O&M cost reductions that would offset that demand weakness. Are you saying that that's all the O&M you would take out or are you saying that you would take out even more than that because that's what the original plan already had?
+Gale E. Klappa -- Executive Chairman
+Great question, and let's back up for a minute. Remember, our initial plan embedded in our earnings guidance and our forecast for the year was a reduction in O&M of 2% to 3%. So, some of what you're quoting for Q1 results really was part of the plan. So when you look at what we're talking about here with the $70 to $80 million projection for our base case in terms of pre-tax margin reduction and offsets that we expect to achieve through O&M savings, that's over and above the 2% to 3%. Scott?
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Yeah, that's exactly right. So, we had a great first quarter on our O&M control and that was really needed to offset some of the weather that we had. But the O&M for the rest of the year, we're going to continue to take cost out as we talked about to achieve that.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. So I guess my question is, is the total O&M reduction kind of another 3% to 5% in addition to the original 2% to 3% that you had targeted, that kind of the right way or maybe it's easier if we just put this in dollar millions and kind of go from there?
+Gale E. Klappa -- Executive Chairman
+Yeah. I think percentage wise, you're pretty much on it. Yeah. We would assume 2% to 3%. And then if you add the $70 million to $80 million on top of that, yeah, you're in the ballpark.
+Michael Lapides -- Goldman Sachs -- Analyst
+Yeah. Got it. Okay. And you think some of that is sustainable into 2021 and beyond, kind of a permanent reduction in O&M, which would obviously a pullback [Phonetic] to the customer over time?
+Gale E. Klappa -- Executive Chairman
+I'm sorry, you were very muffled there, Michael. I did not catch your question.
+Michael Lapides -- Goldman Sachs -- Analyst
+Okay. And you assume some of that is permanent, that incremental O&M reduction, meaning that it would last into 2021 and beyond.
+Gale E. Klappa -- Executive Chairman
+Yes, that's exactly correct.
+Michael Lapides -- Goldman Sachs -- Analyst
+Got it. Okay, guys. Thank you, Gale. Much appreciated. I hope your Bucks are playing tune[Phonetic].
+Gale E. Klappa -- Executive Chairman
+Yeah. Thank you, Michael.
+Operator
+Your last question comes from the line of Paul Patterson with Glenrock. Your line is open.
+Paul Patterson -- Glenrock -- Analyst
+Hey. Good afternoon. How are you doing?
+Gale E. Klappa -- Executive Chairman
+What you're -- what you're you up to today? Everything good, Paul?
+Paul Patterson -- Glenrock -- Analyst
+So far good. I'm managing, but I just to sort of follow up on a few questions here. You said that the O&M savings, a big chunk of them are sustainable. Could you give a little bit more of a qualification on that, or if you can, can you sort of qualify, give us a sense as to where you're seeing this savings longer term to longer-term stuff?
+Gale E. Klappa -- Executive Chairman
+Well, it's a little bit early to give you a precise answer on the $70 million to $80 million of cost savings that we expect to achieve this year and exactly what amount of that is sustainable. But I will tell you that -- and I think this is the case for many of our brother and across the industry. Now that we're having to operate as remotely as we are and we're doing very well, I mean, as Kevin mentioned earlier, actually our customer satisfaction levels are the highest I've ever seen. And we generally have very high customer satisfaction. And I think we are -- our folks have managed to operate very effectively in this environment.
+For example, and we will be shaking this all out as we continue to watch and observe over the course of the rest of the year, but I'll give you one specific example. We are not going to need as many physical facilities as we once thought we would need. And there were some expansion plans on the drawing board. I don't think we're going to need that. I don't believe we're going to need all of them, maybe, none of them, but as an example. So we'll see how this goes, but I would just point you back to our track record. I mentioned earlier, more than the 7% decline in sustainable O&M reduction '19 over '18, 2% to 3% that we believe was going to be permanent this year, and I think it will be more than that.
+Paul Patterson -- Glenrock -- Analyst
+Okay. And then, sort of following up on the question about Illinois and the pipe replacement program, as you know, there was a resolution that passed the City Council. And do you think that the changes that you're talking about will ameliorate their -- I guess their concerns as articulated I guess in this resolution. If I would I'm saying, I mean -- how should we think about that resolution, I guess?
+Gale E. Klappa -- Executive Chairman
+Well, this was the same resolution that was passed a year ago. So, now we are in the second year of the same resolution. For those of you who are not familiar with us, the resolution basically ask the governor to look into the cost and effectiveness of the pipe replacement program. The major concern, as we understand it from a few of the council members, is affordability. And there is a very, very good answer to that and that is that if you look at customer bills, customer gas bills in Illinois, starting in the year that this legislation was passed that incentivize utilities in Illinois to accelerate the pipe replacement program. Customer bills are actually down. So, we have not created an affordability crisis in any way, shape or form.
+Once completed, and it's going to take a while, the system will be more efficient. That should be helpful in terms of customer bills. And in addition to that, we have just provided to the Illinois Commerce Commission an independent study from a worldwide nationally -- internationally known engineering firm that the commission asked us to basically take a hard look at the execution of our pipe replacement program. So, we've just presented -- it's called the Kiefner study. You may want to take a look at that, it should be on the Illinois Commerce Commission website or a summary of it certainly should be, but the bottom line is the Kiefner study indicated that the aging pipes underneath Chicago are -- have a useful life even shorter than what we had anticipated.
+I think the average useful life remaining, according to the Kiefner study, is 15 years. So Kiefner actually recommended in its study to the Illinois Commerce Commission that we accelerate the work to an even greater degree than we're trying to do now. I don't know practically, other than a pandemic where you can do a lot more work in the loop. I don't know practical a significant additional acceleration is. But long story short, there is even more evidence now of the need for the program, Number 1 verified by an outside international engineering firm. Number 2, there is no heating cost crisis compared to when this program started.
+Paul Patterson -- Glenrock -- Analyst
+Excellent. Thanks so much for clarifying that. And then -- and then just on -- I know you got the deferral back to Wisconsin. I know you got the deferral on the electric and gas sites, but -- due to COVID and everything. But could you just give us a flavor as to what your actual experiences in terms of people paying their bills on time over the last month or so? Do you have any trends or any data you could share with us in terms of what you're seeing in terms of the -- in terms of bill paying?
+Gale E. Klappa -- Executive Chairman
+Paul, really nothing yet in that. Remember, we are under a residential disconnect moratorium in all of our -- in all of our cold weather states that usually runs through April 15. So, we wouldn't have seen any major difference in terms of collectability or disconnections through tax day -- normal tax day anyway. So, we're really only looking at about a two-week period since then. And I don't think the data, Scott, is meaningful on that two-week period.
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+It's pretty early yet. Normally, we see a little reduction in those remaining two weeks. We saw a small increase, but it's really early yet. So, we're watching it very closely like everything else.
+Paul Patterson -- Glenrock -- Analyst
+Awesome. Great. Thanks so much, guys. Hang in there.
+Gale E. Klappa -- Executive Chairman
+You're welcome. You took Paul. Thank you very much. Well, folks, we really appreciate your questions. That concludes our conference call for today. If you have any additional questions, be feel -- I cannot talk anymore, you wore me out here. Feel free to contact Beth Straka, Head of our Investor Relations Group, and she can be reached at 414-221-4639. Thanks everybody. Stay safe and take care.
+Operator
+[Operator Closing Remarks]
+Duration: 61 minutes
+Gale E. Klappa -- Executive Chairman
+Kevin Fletcher -- President and Chief Executive Officer
+Scott J. Lauber -- Senior Executive Vice President and Chief Financial Officer
+Shar Pourreza -- Guggenheim Partners -- Analyst
+Durgesh Chopra -- Evercore ISI -- Analyst
+Julien Dumoulin-Smith -- Bank of America -- Analyst
+Steve Fleishman -- Wolfe Research -- Analyst
+Michael Weinstein -- Credit Suisse -- Analyst
+Andrew Weisel -- Scotiabank -- Analyst
+Jeremy Tonet -- JPMorgan -- Analyst
+Michael Lapides -- Goldman Sachs -- Analyst
+Paul Patterson -- Glenrock -- Analyst
+More WEC analysis
+All earnings call transcripts
+
+
+
+
+

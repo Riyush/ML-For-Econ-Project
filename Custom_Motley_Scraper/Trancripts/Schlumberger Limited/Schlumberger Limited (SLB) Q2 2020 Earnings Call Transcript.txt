@@ -1,0 +1,306 @@
+Image source: The Motley Fool.
+Schlumberger Limited (SLB -0.90%)Q2 2020 Earnings CallJul 24, 2020, 8:30 a.m. ET
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Schlumberger Earnings Conference Call. [Operator Instructions] As a reminder, today's conference call is being recorded.
+I would now like to turn the conference over to the Vice President of Investor Relations, Simon Farrant. Please go ahead.
+Simon Farrant -- Vice President, Investor Relations
+Good morning, good afternoon and good evening, and welcome to the Schlumberger Limited second quarter 2020 earnings call. Today's call is being hosted from Houston, following the Schlumberger Limited's Board meeting held earlier this week.
+Joining us on the call are Olivier Le Peuch, Chief Executive Officer and Stephane Biguet, Chief Financial Officer. For today's agenda, Olivier will start the call with his perspective on the quarter, and our updated view of the industry macro; after which Stephane will give more detail on our financial results; then we'll open for your questions.
+As always, before we begin, I'd like to remind the participants that some of the statements we will be making today are forward-looking. These matters involve risks and uncertainties that could cause our results to differ materially from those projected in these statements. I therefore refer you to our latest 10-K filing and our other SEC filings.
+Our comments today may also include non-GAAP financial measures. Additional details and reconciliation to the most directly comparable GAAP financial measures can be found in our second quarter press release, which is on our website.
+Now I'll turn the call over to Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+Thank you, Simon, and good morning, ladies and gentlemen. Thank you all for joining us on the call. Today, in my prepared remarks, I would like to first review the Company's performance during the second quarter; then offer commentary on the short-term outlook; and finally, reflect on where we stand in our performance strategy vision.
+As we close one of the most difficult quarters for our industry, I want first to thank the women and men of Schlumberger for their resilience, performance and dedication during these unique circumstances and express my pride not only in what we have achieved, but also in what we contributed for the health of the communities where we work and live.
+Reflecting on the quarter's performance, I would like to comment on four key attributes that clearly made this quarter unique in its achievements; operational performance, margins, cash and liquidity, and digital. First, our operational performance supported our best ever safety and service quality performance on record.
+Indeed, our frequency of safety incidents reduced nearly 50% from a year ago while our service quality improved nearly 40% year-on-year, to reach a new benchmark in integrity performance for our customers. This is an attribute of our performance vision that is becoming a clear differentiator in execution and very well acknowledged by our customers.
+Second is the strength of our operating margins with 18% decremental margins despite the most severe and abrupt activity drop. These margins resulted primarily from the combination of swift actions on variable costs and the decision to accelerate the restructure of the Company.
+This new organizational structure of four divisions aligned with our customers' key workflows and five key basins of activity is significantly leaner and more responsive, adapted to the new industry normal and strategically aligned with our performance vision.
+Internationally, the impact of these decisive actions also combined with progress on our capital stewardship program and continued industry adoption of new technology particularly reservoir evaluation and digital solutions. As a consequence, the margins of our international franchise remained remarkably resilient, flat sequentially, despite the material revenue contraction and the adverse margin impact from the major disruption in Ecuador.
+As outlined in the earnings release, the majority of our GeoMarkets and three out of four business segments either expanded or maintained margins internationally, clearly demonstrating the strength of our franchise and the resilience of our earnings power. In North America, we accelerated the restructuring initiated last year with emphasis on scale to fit and the asset light business model with significant permanent reductions to fixed and infrastructure costs.
+At this point, we have shut down about 150 of our facilities and continued to make progress on the technology access franchise. In short, we readied the business for a market of smaller scale and lower growth outlook, but with higher returns.
+Third, the cash flow performance was extremely solid during the quarter, building on very strong cash flow from operations and leveraging the aggressive reduction of our capital spending. In fact, cash flow was still strong even when excluding working capital and accounting for the significant negative impact of severance payments during the quarter. Similarly, the liquidity position of the Company significantly improved during Q2, while debt was visibly lower year-over-year. The attention to liquidity and cash preservation has been a very clear focus for the entire management team and finance function during the last several months. And I'm quite satisfied to have navigated this very difficult quarter with such a positive outcome.
+Finally, the adoption of digital, both internally and externally, is becoming a major of performance -- factor of performance and was very impactful during the second quarter operationally and financially. Internally, we made significant improvements in the deployment of digital operations, particularly remote operations and digital inspections as the COVID-19 pandemic restrictions created a catalyst for further adoption.
+Our drilling remote operations expanded over 25% during the quarter to exceed two-thirds of our drilling activity. We have drilled 1,250 wells in Q2, using our remote operations capabilities, supported by more than 250 remote operation engineers.
+In addition, we are now performing over 1,000 digital inspections per week, applied to maintenance manufacturing or integration applications across more than 40 countries, leveraging our digital backbone infrastructure. Therefore, during the quarter, digital operations had a magnifying impact, lowering the cost of service delivery, the size of operating crews and increasing efficiency across operations life cycle, hence contributing to our operating margins.
+Externally, we saw greater adoption of our open digital platform for both subsurface and operations solutions. The diversity and depth of the digital solutions deployed with our customers, as described in several examples in our earnings release reflects the growing maturity of the digital transformation in our industry, and the success of our DELFI platform. We are extremely proud to be associated with ExxonMobil for the deployment of DrillPlan and DrillOps digital solutions to transform drilling planning and operations, including automation.
+We share the same vision for the future of our industry, with ambition to deliver faster and lower cost wells through digital technology. As digitalization is accelerating, we are also seeing continued progress in technology adoption, despite the challenging context, as fit-for-basin and performance-focused technology generate significant efficiency gains for our customers. All in all, this quarter promised to be messy, from an activity outlook and it certainly was. However, the performance and resilience of our team, our decisive actions to preserve cash and margins, and the continued execution of our strategy, including digital, have delivered a very strong outcome resetting the Company's competitiveness and enabling us to operate with resilient margins in a structurally smaller market.
+Now let me turn to the short-term outlook. Given the uncertainties regarding the pace of economic and oil demand recovery, the range of activity outcomes for the second half of the year is still wide. However, with what we know and see today, we expect the global activity decline to recede into a soft landing in the coming months, absent further negative impact from COVID-19 on economic recovery or escalating rig activity disruptions.
+In the North America market, there is an uptick of DUC completions activity in the U.S. contrasted by the slow but continued decline of both land and offshore rig activity. The frac rebound is expected to last until the seasonal decline at year-end, provided commodity pricing remains stable.
+International activity outlook appears mixed due to seasonal effect across the different basins, however, is still indicative of slight sequential contraction from -- for drilling activity during Q3 particularly for deep water and exploration. While this -- with this combined North America and international activity outlook and based on our position in the respective markets, we anticipate revenue to remain essentially flat sequentially on a global basis, with a slight positive uptick internationally offset by flat to low single-digit decline in North America.
+In this context, and absent of any new setback due to COVID-19, we expect EBITDA and operating income to grow and the respective margins to expand during Q3 above and beyond the positive impact of impairment charges. These margins will benefit from the combination of incremental restructuring cost savings during the second half of the year, tailwind from the recovery of activity in Ecuador, and continued execution of our capital stewardship strategy.
+While we continue to navigate the trough of this cycle, we are actually setting an inflection point in our margin performance ahead of the recovery and despite the backdrop of a significantly smaller market size. Cash flow performance in the coming quarter will continue to benefit from the tailwind of our aggressive capital spend adjustment, focus on working capital efficiency and incremental cash savings from our restructuring program.
+Our ambition in the second half remains positive free cash flow, despite anticipated severance payments. Put another way, in a flattening activity outlook for the next two or three quarters, our ambition is to execute on a path of visible margins recovery and robust free cash flow generation as we transition into 2021.
+We embarked on a new strategy less than one year ago, but market conditions created the catalyst to accelerate the restructuring of the Company to align with our performance vision. The early results of this strategy execution are already visible in our operational performance, our financial results, and in the alignment with the new industry landscape.
+Our mid-to-long term financial targets remain intact, and clearly focused on returns. I believe that the steps accomplished during the quarter not only solidify our vision, but also have created a clear path to restore margins and returns performance despite a structurally smaller market.
+And now, I will hand the call to Stephane, who'll discuss Q2 financials and the impact of our cost-out program in a bit more detail.
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Thank you, Olivier. Good morning, ladies and gentlemen, and thank you for participating in this conference call. Second quarter earnings per share, excluding charges and credits, was $0.05. This represents a decrease of $0.20 sequentially and $0.30 when compared to the same quarter of last year.
+During the quarter, we recorded $3.7 billion of pre-tax charges. These charges primarily relate to workforce reductions, the impairment of an APS investment and excess assets. You can find details of the components in the FAQs at the end of our earnings press release.
+Other than the $1 billion of severance, the rest of the charges are largely non-cash. The charge relating to severance covers both the permanent fixed cost reductions we are implementing as part of the company restructuring as well as the variable headcount reductions we are executing to adjust to the reduced level of activity.
+It is important to note that these impairments were all recorded as of the end of June. Therefore, our second quarter results, did not include any benefit from reduced expenses as a result of these charges. However, going forward, the impact of the Q2 charges will result in reduced depreciation and amortization expense of approximately $80 million on a quarterly basis, while lease expense will be reduced by $25 million.
+Approximately, $70 million of this quarterly pre-tax reduction will be reflected in the Production segment. The remaining $35 million will be reflected among the Characterization, Drilling and Cameron segments. The quarterly after-tax impact of these reductions is approximately $0.07 in EPS terms.
+I will now summarize the main drivers of our second quarter results. Overall, our second quarter revenue of $5.4 billion decreased 28% sequentially. Pre-tax segment operating margins decreased 303 basis points to 7.4%. The swift actions we have taken to reduce variable costs combined with the early results of our restructuring and structural cost reduction efforts resulted in decremental margins of less than 20%, both sequentially and year-over-year.
+As a reminder, our restructuring program will permanently remove $1.5 billion of fixed costs, with more than half relating to our international businesses. For the sake of clarity, let me highlight that these are true cash savings. They do not take into account the reduction in depreciation and amortization expense as a result of impairment charges.
+We have achieved approximately 40% of this $1.5 billion target in the second quarter and we aim to complete the large majority of the remainder before the end of the year. This will provide a strong tailwind to our margins in the second half of the year and into 2021.
+Now looking at our results by business segment. Second quarter Reservoir Characterization revenue of $1.1 billion decreased 20% sequentially, while margins increased 357 basis points to 7.6% (sic) [17.6%]. The revenue decrease was due to customers curtailing discretionary exploration related expenditures. However, margins expanded as a result of the implementation of prompt cost reduction measures and the resilience of our digital businesses. The adoption of new Wireline technology also contributed to the margin increase.
+Drilling revenue of $1.7 billion, decreased 24% while margins fell by 289 basis points to 9.6%. These decreases were primarily driven by a sharp decline in the North America land rig count and COVID related restrictions in Latin America, Africa and Europe. Production revenue of $1.6 billion, decreased 40% sequentially and margins fell 630 basis points to 1.5%. These declines were largely a result of a sharp drop in pressure pumping activity in North America land.
+Additionally, a production interruption in Ecuador that was caused by a major landslide resulted in a revenue reduction this quarter of approximately $100 million in our Asset Performance Solutions or APS business. This had a significant albeit temporary impact on our decremental margins. Largely as a result of this production interruption, partially offset by the effects of the Q2 impairment, we anticipate APS amortization expense will increase by approximately $40 million next quarter.
+Finally, Cameron revenue of $1 billion, decreased 19% while margins decreased by 180 basis points to 7.9% as international margin expansion partially offset the impact of the severe activity decline in North America land.
+Let me now turn to our liquidity. I was very pleased with our cash flow generation during the second quarter, given the environment we were operating in. We generated $803 million of cash flow from operations and $465 million of free cash flow. Both of these amounts are higher than last quarter, despite making $370 million of severance payments during the second quarter.
+As a result, we ended the quarter with total cash and investments of $3.6 billion. Our net debt at the end of the quarter was $13.8 billion, an increase of $479 million compared to last quarter, but down almost $1 billion when compared to the same time last year.
+During the quarter, we spent $251 million on capex and invested $61 million in APS projects. Our total capital spend for 2020, including APS and multiclient will now be approximately $1.5 billion. This represents a 45% decrease as compared to 2019, mostly coming from lower capex in North America and reduced investments in APS projects.
+Our total APS investments for 2020 was revised down to about $300 million. Despite the second quarter being the most challenging quarter in our modern history, we were still able to take steps to further strengthen the balance sheet. We issued EUR1 billion of 1.375% notes due 2026, $900 million of 2.65% notes due 2030 and EUR1 billion of 2% notes due 2032.
+By issuing these notes at attractive rates, we were able to retire approximately $1.5 billion of bonds that were coming due in the next four quarters. It also allowed us to pay down existing commercial paper, providing us with additional flexibility.
+We ended the quarter with $1.8 billion of commercial paper borrowings outstanding. Therefore after considering the $3.6 billion of cash on hand as well as $6.2 billion of undrawn credit facilities, we had approximately $9.8 billion of liquidity available to us at the end of the quarter. This represents an increase of $3 billion from where we ended last quarter.
+In light of this available liquidity and the various actions we have taken during the quarter, our debt maturity profile over the next 24 months is quite manageable. We only have $500 million of bonds coming due in the fourth quarter of this year and another $665 million coming due in the third quarter of 2021. The next maturity after that will only come in August 2022.
+Before I conclude, let me say quick word about our financial reporting going forward. The corporate reorganization we are undertaking is a significant exercise, that will take some time to fully implement. Therefore, we will continue to report our results for the third quarter, consistent with our historical practices.
+Starting with the fourth quarter, we will report our results on the basis of the four new divisions. We will continue to disclose revenue on a geographic basis quarterly, in line with our historical formats; in other words, split between North America, Latin America, ECA and the Middle East.
+Going forward, once a year, in connection with our fourth quarter and full year earnings release, we will disclose pre-tax operating income split between North America and the rest of the world. These margins will include the results of the Cameron businesses.
+Shortly after we issue our third quarter earnings release, we will provide historical pro forma financial information based upon the new division structure as well as the annual geographic margins to assist you with your modeling.
+I will now turn the conference call back to Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+Yes, thank you. Thank you, Stephane. So I think we're ready to take your questions.
+Operator
+Thank you. [Operator Instructions] And our first question is from the line of James West with Evercore ISI. Please go ahead.
+James C. West -- Evercore ISI -- Analyst
+Hey, good morning Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, James.
+James C. West -- Evercore ISI -- Analyst
+So clearly digital technologies are gaining a lot of traction as the industry accelerates and simplifies its digital journey and you guys are, of course, leading this charge here. Could you perhaps break out how much of your revenue and earnings comes from digital today and what the -- what's your plans are for that percentage in the future?
+Olivier Le Peuch -- Chief Executive Officer
+Thank you, James. So I think as we commented before, I think, we're not ready to disclose the detail of our revenue and margin contribution, net contribution from the digital business. Suffice to say that I think it has been accretive from the -- from the growth. It has been the segment of our business that has been declining the least in the last quarter. It has been the one that has seen the most expansion of margin as well during the quarter. So I think it is material to our business.
+Our ambition remains the same. We want to double this business in the mid-term, double its size and I think we'll use for that two avenues -- three avenues; the avenues of our sub-surface digital platform, where we are doing this transition to cloud-based DELFI solution with our customers. And I think we are already seeing a lot of traction into that space. And I think this will give us new revenue stream of IT infrastructure cloud operation in addition to transformation services for every customer that we transition.
+Secondly, we want to open a new business around data and be it on the analytics or be it on the subsurface operational data that we start to offer our platform for data exchange or for trading those data. So, we have introduced GAIA as a platform, and I think we are seeing success through national data rooms, as you have seen in Egypt and other place in the world. So I think that's a second new revenue stream that we are developing.
+And finally digital operation, I think we have seen recent announcement of the partnership we have with -- we have developed with Exxon, and you are about to hear more in the future, really continue to lead in this drilling operation as well as production operation with Sensia, our partner -- our JV. And I think these are the three revenue stream that we are developing compared to one we had before. So this will give us the opportunity to expand in multiple facets and not only into the license for subsurface application.
+James C. West -- Evercore ISI -- Analyst
+Okay, great, that's very helpful. Maybe just a quick follow-up, as we transition to digital, understanding that your costs are lower, but also the customer sees a lower cost. Is the ultimate EBITDA dollars, the absolute dollars, are they higher or lower?
+Olivier Le Peuch -- Chief Executive Officer
+I think no doubt, I think with this growth and accretive margin, it will be higher. I think reducing the benefits -- the benefits from digital will also benefit our customer. That's the reason why we are seeing this adoption because they realize that they extract efficiency, they transform their own operational workflow, and as such reduce the total cost of the -- in the life cycle of the operation, so we will benefit, they were benefit. We believe we'll have the edge. We are ahead of our competitors and we own the platform that the industry is adopting. So that will give us sustainable differentiation.
+James C. West -- Evercore ISI -- Analyst
+Great, thanks, Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+Thank you, James.
+Operator
+And our next question is from Sean Meakim with J.P. Morgan. Please go ahead.
+Sean Meakim -- J.P. Morgan -- Analyst
+Thank you. Good morning.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning Sean.
+Sean Meakim -- J.P. Morgan -- Analyst
+So, Olivier, the cost reduction plan is robust no one doubts, Schlumberger's ability to execute, we saw in the second quarter. As we've discussed in the past, in the medium term, you can't really cut your way to prosperity, so it'll be great if we can maybe learn more about how you have planned to approach the next cycle.
+Last cycle of the service sector was led with discounts to customers and that was not leased to large cap diversifieds. I'm sure you've received the same request this time around. As you're going to execute well on the cost-out program, looking beyond that, how do we defend the line trajectory of the coming cycle?
+Olivier Le Peuch -- Chief Executive Officer
+Yeah, sure. And I think you have to realize that the -- compared to the last cycle, I think things have changed, and first and foremost, I think the margins have been reset for the oil industry, the pricing concession have been steep and we have not recovered from those -- from this pricing from the last cycle.
+So I think first, there is not much that we can give and share and I think the approach that we are taking with our customer is actually engage collaboratively across the full lifecycle of their operation and eliminate waste and focus on engaging to reduce cost of service delivery jointly, and I think we are seeing success in this approach. We are being awarded an expanded scope when we succeed into eliminating cost and eliminating waste across the value chain.
+So you will see more of this approach and less of a pricing because the industry doesn't have much to give and I think our customer realize this, and I think we're working more collaboratively than we had in the last five years on this, and I believe that the margins expansion that we are realizing or the resiliency in margin we are realizing today will be something that we we'll be able to keep and build upon as the recovery will start to happen.
+Sean Meakim -- J.P. Morgan -- Analyst
+Thank you for that. I think that makes sense. Then I guess, as we look out what may be couple of years away, but at some point, there will be another large tender that will hit the market and I think that's probably where the rubber meets the road to some degree. How do you think -- how do you think about the competitive dynamics for those large multi-year tenders that have always been kind of the thorn in the side of the sector.
+Olivier Le Peuch -- Chief Executive Officer
+I think -- the lesson learned from this I think is, the industry has learned to be capital disciplined and I think we have learned, all of us and I think we have suffered from some of the steps we took as an industry. And I think the capital discipline that I've seen and that we are using today, I think is very prominent in many place and I think we have been, I think a very strict capital stewardship program where we make a clear choice on the, I would say, allocating capital where we see returns, and as such we are grading the opportunity that comes our way.
+And I believe some of our competitor are applying the same approach as the returns are not acceptable to where they were and where they have been at the trough. So I think the capital discipline is something that has changed. And I think -- I expect that the capital discipline will be an amount of success in the future.
+Now this being said, very large tender, very large scope that have a runway for multi-years will be competitive, but I think we will demonstrate we have the most competitive cost platform to operate those large contracts and we'll be able to retain margins in those conditions.
+Sean Meakim -- J.P. Morgan -- Analyst
+Understood. Thanks a lot, Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+Thank you, Sean.
+Operator
+And next we have a question from Angie Sedita with Goldman Sachs. Please go ahead.
+Angie Sedita -- Goldman Sachs -- Analyst
+Thanks. Good morning, guys.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Angie.
+Angie Sedita -- Goldman Sachs -- Analyst
+Good morning. So around your Q3 guidance for EBITDA and operating income to be up, can you share any additional thoughts around magnitude as far as margins and the bottom line and then the levers within those numbers? How does Ecuador factor into these numbers as it comes back as well as the furloughed employees coming back and any additional thoughts around the APS tariffs in Ecuador, given the oil price?
+Olivier Le Peuch -- Chief Executive Officer
+Let me -- Angie, let me offer some very qualitative comments and I will let Stephane add, if he believes that we need to add. So first, I don't think we are in a position where we would like to give quantitative guidance on these. I think considering the level of uncertainty in the mix that could, as we have seen in the second quarter change dramatically, particularly internationally. I don't think I will go forward on the quantitative guidance going forward.
+But I think we are seeing positive and negative. Obviously, on the positive side, we are seeing the fall through, the incremental impact of our restructuring costs that will continue to fall into a tailwind for our margins. We'd also see, obviously the return of our Ecuador activity. As you have heard, $100 million impact on the top line, that will come back, both EBITDA and margins in the -- and operating margins in the third quarter.
+And at the same time, I think the execution that we have seen happening on capital stewardship on success of technology, including digital, will also be an uplift. Now, this will be partially offset and one of them will be the top line measure that we took, exceptional measure we took during the second quarter will not be there again, but I think as a mix, you understand that this will lift our margin despite the top line flat.
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Just to add, Olivier. Maybe one additional factor on top of the incremental fixed cost savings is also that the full quarter effect of the large headcount reductions we executed in Q2, the exit rates of those headcount reduction was much larger than the average. So we'll have that tailwind as well.
+Angie Sedita -- Goldman Sachs -- Analyst
+Okay. Okay, fair enough. And then, I mean you really had impressive results in Reservoir Characterization, as far as margins. Can you talk a little bit around how much of that was driven by cost cutting versus the impact of digital and maybe even wireline and when could we start to see the similar transformation across your other businesses?
+Olivier Le Peuch -- Chief Executive Officer
+No. Very good question. I think the first, I think Reservoir Characterization is certainly the one having the least exposure to North America and has a benefit -- had a benefit on international. As I did mentioned three out of the four business group had a flat or expanding margin internationally and that was the case of Reservoir Characterization.
+Now to the specific, I would say that, a bit more than half, I would say, came from these aggressive action we took on restructure and on cost reduction. But I think the other half came from technology adoption and technology adoption, the reservoir evaluation from wireline with Ora as the platform of choice continue to be very, very successful in the campaign of the -- even if we have less exploration activity, we are able to deploy this new technology with much success. And it was the highest quarter in term of revenue for that new technology, Ora.
+And digital, so we said that it's a technology success as much -- and technology adoption success as much as cost structure. So in the other segments have technology [Indecipherable] and will continue to succeed as well. So I'm not worried about ability to grow margin in every business group, but obviously we benefited more from the differentiation of our technology in Reservoir Characterization.
+Angie Sedita -- Goldman Sachs -- Analyst
+Thanks. Fair enough. I'll turn it over.
+Operator
+Very good. And our next question is from the line of Scott Gruber with Citigroup. Please go ahead.
+Scott Gruber -- Citi Research -- Analyst
+Yes, good morning.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Scott.
+Scott Gruber -- Citi Research -- Analyst
+Stephane, can you walk through a few of the major cash items over the next few quarters, specifically with regard to working cap. What are your expectations for the size of the traditional second half release and then what are your expectations for cash severance in the second half, and how does that split between 3Q and 4Q?
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Sure, sure. Good morning. Look, for the second half, we actually expect our cash flow from operations to remain very strong even if indeed, you're right, the working capital release will not be as large as it was in Q2 because activity -- if we assume activity stabilizing, as we said in the second half.
+However, again with our additional fixed cost cash savings materializing in the -- in the rest of the year and the reduced intensity of our capital spend, we think we can still generate positive free cash flow in the second half despite the additional severance payments that we will incur. And to your question, we think we will incur most of the remaining severance payments in the second half of the year.
+Scott Gruber -- Citi Research -- Analyst
+And we should think about -- it's the $1 billion less the $370 million paid in the second quarter in terms of what's remaining for cash severance, is that the way to think about it.
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Yeah. You can put a little bit more, because we had -- we had $200 million of provisions at the end of March, as well.
+Scott Gruber -- Citi Research -- Analyst
+Okay. And then just on the cost-out program, you mentioned realizing about 40% of the $1.5 billion during the second quarter, is that a full quarter impact or is that realized by quarter end. And then just some color on realizing majority of the remainder in the second half. Is that fairly linear or is it more weighted toward 3Q or 4Q?
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+So, it is the full quarter impact, meaning that the Q2 results include the 40% and we exited the quarter at -- actually at much higher rates. So this is why we have a nice tailwind starting into Q3 and going into Q4, with the remaining 60%. Most of it is -- a lot of it was already realized at the end of -- or triggered at the end of the quarter.
+Scott Gruber -- Citi Research -- Analyst
+Great. Appreciate the color. Thank you.
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+Next, we go to the line of Bill Herbert with Simmons Energy. Please go ahead.
+Bill Herbert -- Simmons Energy -- Analyst
+Thanks, good morning.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Bill.
+Bill Herbert -- Simmons Energy -- Analyst
+Olivier. Yeah -- thank you. So in a world of record OPEC spare capacity and inventory which can largely meet the rising call on OPEC output over the next two years. How should we think about the uptake for RCG services given the low hanging fruit with regard to monetizing production?
+Olivier Le Peuch -- Chief Executive Officer
+Yeah you're -- I think the RCG, the Reservoir Characterization Group. I think has multiple aspects to it. I think one is the digital, and I think this one, independently of the trajectory of the recovery of the supply demand balance will continue to benefit from the digital transformation that is happening in our industry. When it comes to the wireline, the testing, the reservoir evaluation aspect, I think you have to look at two aspects.
+One is, first exploration still is happening and will continue to happen. There were more than a 100 wells explored during the -- offshore during the second quarter and there will be more than 100 wells, exploration wells in the first quarter and hence the ability we have to differentiate on technology with platforms such as Ora will continue to be providing us support and sustained margin in this environment.
+Secondly, Reservoir Characterization, also those characterization for producing reservoir, so that when there is a short cycle upside of trying to extract more from existing reservoir without exploring, we are applying technology for intervention, we are applying technology for testing of those reservoir so that we can optimize and I think we have seen actually more resilience of that wireline intervention production services during the quarter than on the evaluation services during the last quarter.
+So I'm am reading this. I'm optimistic and quite reassured that the portfolio have is well balanced and include for Reservoir Characterization, production related technology that will make a difference as our customer will go back into extracting more from the reservoir on a producing field they have.
+Bill Herbert -- Simmons Energy -- Analyst
+Okay, thank you. And then, Stephane, with regard to, I guess, depreciation, did you say that Q3 that total depreciation will be down $80 million quarter-on-quarter?
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Yes, it will be from the impairment effect. However you will also see, excuse me -- you will also see a reversal coming from the Ecuador landslide incident that that will partially offset this effect. [Speech Overlap] Go ahead, go ahead.
+Bill Herbert -- Simmons Energy -- Analyst
+Got it. So the net impact. We had $604 million in Q2, approximately what do you think the number in the guidance is for Q3?
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+It's not going to be so far from Q2 if you assume the same revenue levels we have.
+Bill Herbert -- Simmons Energy -- Analyst
+Got it. Thank you very much.
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+Thank you.
+Operator
+And our next question is from Kurt Hallead with RBC. Please go ahead.
+Kurt Hallead -- RBC Capital Markets -- Analyst
+Good morning. Good afternoon. How are you?
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Kurt. Very well and thank you.
+Kurt Hallead -- RBC Capital Markets -- Analyst
+Excellent, thanks. Thanks for -- Thanks for the opportunity to ask question here. So, Olivier, I was wondering if you can, potentially give us a little bit more color around what may be -- what you may see happening in terms of business dynamics in the Middle East, there has been a couple other earnings reports from some of your competitors this week.
+Seems like there is some mixed messages in terms of overall level of activity and I guess still some discussion around some pricing concession dynamics. So you gave us some good color on Latin America and kind of what to expect in Ecuador. So just hoping you could give us some of that same kind of color and context on the Middle East.
+Olivier Le Peuch -- Chief Executive Officer
+Yeah, thank you. So I think the Middle East activities is seeing indeed a unique mix. The reason for this is that as part of the OPEC+ commitment and the compliance, there were decision made during the second quarter of several of the national company operating in Middle East to contain their activity and to reduce activity, including rig activity or rigless activity during the -- during the third quarter.
+So, this is impacting several country and in particular, Saudi. So the number of rigs that the Saudi was operating at beginning of the year compared to where it is operating now, they will be more than 40 rigs down from January to June; and over nine or 12 rig possibly, will go down in the third quarter.
+So no doubt that there is a decline by the effect of the transition exit rate from Q2 as well as some further contraction of activity in the third quarter, that's true for that country. So depending on the exposure you have in Middle East, it can be -- it can be significant or it can be offset. In our case, we are offsetting this by gain of activity or share in specifically Qatar and Kuwait, and as such, the overall outlook for us on Middle East is relatively flat on a sequential basis where indeed the underlying rig activity sequentially will go down 6% to 7% across the region.
+But depending on the, on the -- so yes, the activity is going down sequentially, no doubt and it will not -- it will not be corrected because of the decision of last week OPEC+ agreement to reinstall -- restore the 1.9 million barrel cut. This was already factored when those activity cuts were decide. And hence I'm not expecting any impact on this. So yes, mix down; however, depending on the market exposure we -- in our case are able to hold our top line relatively flat in that context.
+Kurt Hallead -- RBC Capital Markets -- Analyst
+That's great. And then my follow-up is, you made a reference that given the cost -- cost out dynamics execution and so on that you would expect your operating income, margins and EBITDA to improve, obviously, in the third quarter, but it seems like there is going to be some built in momentum in the system that could carry over into the fourth quarter even if there is some seasonal decline in revenue.
+So just wanted to kind of test my theory on that to see if that's -- if that's true. And then as part of that, I was also curious as to what business segment do you think has the best -- will show the best improvement in EBITDA and margins as you get through the second half of the year?
+Olivier Le Peuch -- Chief Executive Officer
+Good question. I think the first, we do confirm that our ambition is to indeed, on a flat outlook, absent of a significant setback that would come from a reversal of the pandemic situation but -- and considering the forward looking, there will be some seasonal effects. So it's very early to give -- to give a perspective on the top line evolution from third to fourth quarter, but assuming that the current directional soft lending activity continues well into the fourth quarter, I would expect indeed this benefit to carry through and this margin expansion to be consistent and to still hold, both from EBITDA and from the operating margin in the fourth quarter.
+So that's correct and I think we are supporting this. I don't think we are in a position where we can project and we want to detail and give guidance on the business segment outlook beyond next quarter. We expect them to indeed solidify and expand margin next quarter. But I think to go beyond that, there will be some end of year effect that could twist some of fall through. But overall, on a global basis, at a company level, this is what we're expecting.
+Kurt Hallead -- RBC Capital Markets -- Analyst
+That's fair. I really appreciate the color. Thank you.
+Operator
+And next we have a question from the line of David Anderson with Barclays. Please go ahead.
+J. David Anderson -- Barclays Capital -- Analyst
+Good morning Olivier. I have a bigger picture question for you.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, David.
+J. David Anderson -- Barclays Capital -- Analyst
+Hey, good morning. I have a bigger picture question for you, but I want to ask a quick question first on the near-term, particularly on the Middle East. You talked about mix being an issue there, but in terms of the rigs going down, is it mostly oil? I'm just curious if you can just talk about the mix between oil and gas. Is gas still kind of largely maintained there? And secondarily, is there much impact on this on your LSTK contracts at all, you didn't really get into that at all. I'm just wondering if that has any impact there.
+Olivier Le Peuch -- Chief Executive Officer
+Okay. So the first measure during the third quarter -- the second quarter have been obviously on oil. However, there have been some side effect on gas because of budget reduction. So budget constraints have led to reduction of activity in gas as well. And so let's give you specific on Saudi, the gas LSTK contract indeed have reduced significantly.
+I'm not talking about the unconventional, I'm talking about the conventional gas operation factor [Phonetic], considering rigless operation and this has reduced to a new floor and then this will possibly rebound. But yes, gas was affected. For us, the drilling LSTK by contrast was unaffected, probably because the performance of those LSTK contract is differentiated and there is a mix of oil or gas LSTK drilling contract, and both were actually sustained and have not been impacted at this point. We don't expect it to be the case. So that's should just to give you a bit of the macro.
+J. David Anderson -- Barclays Capital -- Analyst
+That's great, thank you very much. So my bigger picture question is sort of going -- looking back in history here a bit. When we talk about the cycles, it seems to me 1986 was kind of the clear parallel to kind of what we're going through now not, only in terms of magnitude but kind of how we got here in a lot of respects.
+Now you started Schlumberger in 1987 and just like now, Schlumberger was going through a pretty major management change at the time. But as that cycle slowly regained its footing, Schlumberger really accelerated out of the downturn, set the company up for another of decade of success.
+So my question is, as you look back at those days in the late '80s and early '90s and I'm sure you studied your predecessors during those times. I'm just wondering kind of what are some of the big lessons that you've learned about how to position the company, what to focus on, and really, I guess what are the -- what were kind of the keys to success back then that will have -- that you're thinking about now as the cycle resets?
+Olivier Le Peuch -- Chief Executive Officer
+So, first, I'm not old enough to comment on '86 apparently. So, no, there is, I think -- if we step back. I think the industry has a proportion to go into crisis and rebound. So no doubt that this industry will engineer or innovate its way out of the current crisis, no doubt. I think the characteristic on the other side of this cycle will be different from what we have known in the last 10 to 15 years. And I think capital efficiency, capital discipline, efficiency, cost of service delivery, would be the prime elements of differentiation.
+So when I'm talking about technology, we'll talk about technology that impact the performance across the lifecycle that impact efficiency, hence the fast adoption of digital will be differentiation. So when you look by contrast, OK, the success we have historically was clearly on expanding our international franchise and being the service company that could create value and find hydrocarbon reserve and help develop those reserve everywhere in the world, in any condition.
+I think the game has changed. It is not about finding new supply, it's produce these supplies at lower cost and I think on occasion, it would be short cycle extraction of the next fault. On occasion, it will be finding the next advantage offshore deepwater large basin and technology will always make a difference, but it would be focused on performance impact efficiency and this will change game.
+The second -- the second aspect I think and digital obviously is part of this, changing the cost of service delivery, changing our efficiency factor. The second aspect is I believe, I truly believe, that industry is recognizing and we are having better engagement today than maybe we had in the past across the necessity to integrate and partner across the supply chain. And supply chain across, on the service side and from supply to operator to align in partnership that will transcend and create the game changer we need, because we need to transform as an industry.
+We need to find a way to extract this capital efficiency by standardization, by changing the way we operate, by transforming the way we digitally align with operators and across the service industry. So partnership across the supply chain to restep change capital efficiency across the life cycle and the technology that are differentiated per basin, focused on performance and focused on lowering the cost of service delivery. This is what I think will be the winning factor in the future.
+J. David Anderson -- Barclays Capital -- Analyst
+I would also imagine that R&D spend is critical as well, right. I mean that's one of the things I've noticed over the decades that R&D side is critical.
+Olivier Le Peuch -- Chief Executive Officer
+Obviously As I said, I think the industry will innovate its way and innovation will come from the way we invent ourselves including this partnership, this transformation, operational transformation. But obviously there will be a very key element of technology.
+We will have to invent the next and continue to lead on our digital and invent the technology that will transform operationally the performance of the asset of our customer, step change the efficiency of finding oil, and automate the drilling operations. So that will come through technology investment and no doubt that we continue and we'll reinvest into this to make it happen.
+J. David Anderson -- Barclays Capital -- Analyst
+Much appreciated. Thank you.
+Olivier Le Peuch -- Chief Executive Officer
+Welcome, David.
+Operator
+And our next question is from Connor Lynagh with Morgan Stanley. Please go ahead.
+Connor Lynagh -- Morgan Stanley -- Analyst
+Thanks, good morning.
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Connor.
+Connor Lynagh -- Morgan Stanley -- Analyst
+I was wondering if you could sort of frame something from here. I think the pace of cost reductions and, in many cases, structural cost reductions has surprised a lot of observers of the industry and I guess what everyone is trying to figure out is how sustainable or how scalable these cost savings are.
+So if you could characterize the $1.5 billion of cost savings, are you thinking of your business as able to reach the same revenue levels as previously? Are you not interested in reaching the same revenue levels that you had in say 2018 or 2019 because some of it was returns dilutive? How do you think about the ability of the organization to respond to higher activity levels if and when we get there?
+Olivier Le Peuch -- Chief Executive Officer
+So first, Connor, I think we have to realize, and I think this realization has been across the oil industry that I think we are transitioning into the new -- and new normal. And a new normal means that the market for the foreseeable short-term will be structurally smaller in size. So I think we have to make that realization, whether we call it 25%, 30%, 35% smaller in size, it depends on the region and the business, but I think that's a reality that is hitting us.
+So I think that was the first and foremost realization. The second one we have realized and hence the decision that we have made to restructure the company to adjust and align with this new reality and to right size our structure, including our support fixed structure to account for this.
+This doesn't say that we're not ready for growth. We're absolutely ready for growth. But I think that we believe that the transformation we have gone through, the capital efficiency, resource efficiency that we have enabled in the last three to four years and the digital transformation we're going through in our operation today, we create the leverage that we need to add future growth at much limited -- much more limited resource and/or capital needs in the future.
+So I believe that the asset velocity, the capital efficiency will play a role. Now this being said, we will be very strict on our capital stewardship program, and as such, indeed made the right choice to not deploy capital and resource when we believe that the return are not in place and I think we have started to do this and we are successful in doing this and we continue to do so.
+But at the end, we will grow. The recovery is on the horizon. When and as it recovers, we'll be ready with a different shape, a different structure, a new company built in the North America market where we'll be changing to an asset-light technology access model and scale-to-fit approach or internationally where we are more focus on performance and we are getting success out of this and will accelerate our digital transformation.
+So yes, we will and we believe that this structure will be giving us more flexibility as well as we'll have the core digital and transformation capability to flex with an upturn at better incrementals.
+Connor Lynagh -- Morgan Stanley -- Analyst
+Got it. That's helpful. I guess I would extend basically the same question to a point you were making, which is a lot of the things you're doing will make the business more capital-light. Is there a way that you can frame for people how the capital intensity or the capex needs as a percentage of sales, however you think of it, could look on a go forward basis relative to what we saw in the previous cycle here.
+Olivier Le Peuch -- Chief Executive Officer
+I think we have been in 5% to 7% as a guidance that we have been consistent with and I think that we'll be able -- as the market return to -- after completing some of the transformation for asset light and technology access to continue on this 5% to 7%. We are comfortable on this and that's the guidance we keep.
+Connor Lynagh -- Morgan Stanley -- Analyst
+All right, thanks very much.
+Operator
+And ladies and gentlemen, we have one final question from the line of Marc Bianchi with Cowen. Please go ahead.
+Marc Bianchi -- Cowen and Company -- Analyst
+Thank you. Olivier, you mentioned...
+Olivier Le Peuch -- Chief Executive Officer
+Good morning, Marc.
+Marc Bianchi -- Cowen and Company -- Analyst
+Good morning. You mentioned a soft landing for international in third quarter. I think there is a lot of questions from investors about budget resets and what we've seen so far internationally, this year and if there is incremental risk to 2021. Are you comfortable saying that absent seasonality that we usually see in the first quarter that international has bottomed in the second quarter of 2020?
+Olivier Le Peuch -- Chief Executive Officer
+It's too early to say, Marc. I think what I'm saying is that the -- for this year, the effect of the budget adjustments and the COVID disruption that were -- did created this significant decline, 22% rig decline in the second quarter. This two condition are receding and subdued as we go forward. We don't want to spend significant further budget cuts at the current pace.
+This -- however, it is too early to say what are the consequence on the budget setting in 2021 if the market was -- if the market was indicative of a slow but steady recovery scenario that will, according to many of the analysts, IEA and others who indicate an exit rate at $50 or $60 in 20 -- for the Brent in 2021 obviously this will certainly support a steady 2021 compared to H2 on the light of activity internationally.
+But this is too early to say. And I think we will have to wait the budget cycle and also obviously three to four months of more economic recovery or pandemic containment to judge what 2021 demand/supply balance could be and what the condition for the budget will be in 2021.
+Marc Bianchi -- Cowen and Company -- Analyst
+Okay. Well maybe following up on that-- on that thought about '21, if I sort of take the run rate level of EBITDA that you have here, it's about $3.3 billion and we've got another $900 million of cost savings that should be realized you are kind of on a $4.2 billion annualized rate. As you look to '21 understanding there is a lot of uncertainty, what would you say are the biggest factors that could be driving that higher or lower?
+Olivier Le Peuch -- Chief Executive Officer
+I think, obviously the pace of our economic recovery, the anticipated demand/supply balance and repercussion it will have on the confidence of the operator to invest or reinvest I think is the major factor that will shape the turn of 2021. So again, if it is a run rate of H2 times 2, we expect to sustain whatever will be produced in the second half and to multiply by two that -- that is the correct assumption.
+But again the risk, I think comes down to demand/supply more than anything else. North America is little bit of a wildcard. And we don't expect this to be a significant year but it will be up most likely as a slow but steady recovery, but it will not come back to the hey days. So I think overall -- I think you have the guidance, but a factor is predominantly the pandemic outlook and the demand/supply -- the impact on the demand/supply prediction and we cannot comment more on this and at this point.
+Marc Bianchi -- Cowen and Company -- Analyst
+Fair enough. Thanks very much, I'll turn it back.
+Olivier Le Peuch -- Chief Executive Officer
+Thank you, Marc. So I believe we are the -- it's time to close. So to close, let me let me leave you with three points. Firstly, our Q2 performance reflects the decisiveness and depth of our cost adjustment and cash preservation actions. I am very pleased with the operational performance, international margins resilience, cash flow results, and uptake in digital during the quarter.
+Secondly, we are resetting the company structure to support our performance vision and to align with the new market reality, and as such, we have initiated a clear path to restore margins and returns performance with the backdrop of a structurally smaller market. We expect this to show visibly during the second half, absent of a setback in economic recovery.
+Finally, our performance strategy; with digital and sustainability as imperatives and capital stewardship and fit-for-basin technology as performance factors, will create differentiation in this new industry landscape and will support our returns ambition, particularly as the future recovery pivots toward international markets.
+So with this -- and now, before I close the call, I wish everyone -- and wish everyone a safe and happy summer, I would like to thank Simon Farrant for nearly 33 years of service, as he has elected to take an early retirement from Schlumberger. Simon has been a familiar voice and face throughout the last 6 years, 26 quarters, in his role as Vice President of Investor Relations, and I trust that his unique contributions to both Schlumberger and the investor community will be greatly missed.
+Simon, we wish you and your family all the best. Enjoy the new chapter.
+Simon Farrant -- Vice President, Investor Relations
+Thank you, Olivier.
+Olivier Le Peuch -- Chief Executive Officer
+ND Maduemezia, who most recently was the Sub-Sahara Africa GeoMarket manager, will take over from Simon effective at the end of this month. I ask that you all welcome ND and extend to him the same, high level of support and professional engagement as shared with Simon. Welcome, ND.
+ND Maduemezia -- Vice President & General Manager, Sub Saharan Africa
+Thank you Olivier. I'm excited. I'm truly honored to take on this role and I look forward to working very closely with all of you. I turn the call over to Simon.
+Olivier Le Peuch -- Chief Executive Officer
+Simon?
+Simon Farrant -- Vice President, Investor Relations
+Well, thank you very much, Olivier. It's been an honor to serve as the Head of Investor Relations, as you say, for the last 26 quarters, and I wish my good friend ND, all the best in taking over this role. Thank you operator. You may now close the call.
+Operator
+[Operator Closing Remarks]
+Duration: 64 minutes
+Simon Farrant -- Vice President, Investor Relations
+Olivier Le Peuch -- Chief Executive Officer
+Stephane Biguet -- Executive Vice President and Chief Financial Officer
+ND Maduemezia -- Vice President & General Manager, Sub Saharan Africa
+James C. West -- Evercore ISI -- Analyst
+Sean Meakim -- J.P. Morgan -- Analyst
+Angie Sedita -- Goldman Sachs -- Analyst
+Scott Gruber -- Citi Research -- Analyst
+Bill Herbert -- Simmons Energy -- Analyst
+Kurt Hallead -- RBC Capital Markets -- Analyst
+J. David Anderson -- Barclays Capital -- Analyst
+Connor Lynagh -- Morgan Stanley -- Analyst
+Marc Bianchi -- Cowen and Company -- Analyst
+More SLB analysis
+All earnings call transcripts
+  
+
